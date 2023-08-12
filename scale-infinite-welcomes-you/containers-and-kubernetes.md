@@ -6,19 +6,17 @@ A container is a standard unit of software that packages up code and all its dep
 
 **Virtual machines vs Containers :**
 
-<div>
 
-<figure><img src="../.gitbook/assets/container (2).png" alt=""><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../.gitbook/assets/kubernetes (2).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/container.png" alt=""><figcaption></figcaption></figure>
 
 **Kubernetes :**
 
 Kubernetes is an open-source container-orchestration system for automating deployment, scaling, and management of containerized applications. It has a large, rapidly growing ecosystem and the services, support, and tools are widely available. Kubernetes provides you with a framework to run distributed systems resiliently.
+
+
+
+<figure><img src="../.gitbook/assets/kubernetes.png" alt=""><figcaption></figcaption></figure>
 
 A Kubernetes cluster consists of a set of worker machines, called nodes, that run containerized applications. Every cluster has at least one worker node.
 

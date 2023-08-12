@@ -30,9 +30,17 @@ Nginx is a web server that can also be used as a reverse proxy, load balancer, m
 
 ➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 152028 (1).png" alt=""><figcaption></figcaption></figure>
+
 ➡️ Copy the nginx application Hostname without NodePort and search the Url.
 
 ➡️ Now you can able to access the nginx webpage.
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 152047.png" alt=""><figcaption></figcaption></figure>
 
 ### FAQ
 
@@ -40,7 +48,7 @@ Nginx is a web server that can also be used as a reverse proxy, load balancer, m
 
 This is the official nginx image.
 
-**Can i deploy my own nginx image with modified configuration ?**
+**Can I deploy my own nginx image with modified configuration ?**
 
 Yes, you can simply deploy any version or modified image to our platform by linking your docker hub account to our platform.
 

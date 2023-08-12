@@ -44,15 +44,35 @@ Exposing 3306 and 80 ports on the container.
 
 ➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153148.png" alt=""><figcaption></figcaption></figure>
+
 ➡️ Copy the wpmysql application Hostname without NodePort and search the Url.
 
 ➡️ Now you can see the wordpress language selection page.
 
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153222.png" alt=""><figcaption></figcaption></figure>
+
 ➡️ After selecting language you will be directly redirected to site creation page and fill all the fields like site name and username and so on.
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153246.png" alt=""><figcaption></figcaption></figure>
 
 ➡️ Then Login with that detials.
 
-➡️ Then you will be redirected to the wordpress Admin dashboard.
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153317.png" alt=""><figcaption></figcaption></figure>
+
+➡️ Then you will be redirected to the WordPress Admin dashboard.
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153350.png" alt=""><figcaption></figcaption></figure>
 
 ### FAQ
 

@@ -30,6 +30,10 @@ MYSQL is a widely used, open-source relational database management system (RDBMS
 
 ➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
+
+
+<figure><img src="../../.gitbook/assets/my.png" alt=""><figcaption></figcaption></figure>
+
 ➡️ Copy the mysql application Hostname without NodePort and search the Url.
 
 ### FAQ

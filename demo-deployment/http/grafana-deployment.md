@@ -30,17 +30,33 @@ Grafana is a multi-platform open source analytics and interactive visualization 
 
 ➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 155305.png" alt=""><figcaption></figcaption></figure>
+
 ➡️ Copy the grafana application Hostname without NodePort and search the Url.
 
 ➡️ Now you will access the application. And you need to login to grafana.
+
+
+
+<figure><img src="../../.gitbook/assets/grafana-login.png" alt=""><figcaption></figcaption></figure>
 
 ➡️ Default Username and Password for grafana is admin.
 
 ➡️ After you will be required to add datasources and create dashboards to visualize your data.
 
+
+
+<figure><img src="../../.gitbook/assets/datasources.png" alt=""><figcaption></figcaption></figure>
+
 `ADD DATASOURCE`
 
 ➡️ Now you can create the dashboard and select the data source to visualize the data you need.
+
+
+
+<figure><img src="../../.gitbook/assets/grafana-dashboard.png" alt=""><figcaption></figcaption></figure>
 
 ### FAQ
 

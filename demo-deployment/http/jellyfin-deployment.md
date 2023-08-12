@@ -30,6 +30,10 @@ Jellyfin is a free and open-source media server software that allows users to or
 
 ➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
+
+
+<figure><img src="../../.gitbook/assets/my-apps.png" alt=""><figcaption></figcaption></figure>
+
 ➡️ Copy the Jellyfin application Hostname without NodePort and search the Url.
 
 ➡️ Now you will access the application. And start setting up the application.
@@ -42,11 +46,19 @@ Jellyfin is a free and open-source media server software that allows users to or
 
 ➡️ You will get credentials to login to your sftp storage. SFTP storage can be accessed using various tools, example:- Filezilla
 
+
+
+<figure><img src="../../.gitbook/assets/select-hdd-to-server.png" alt=""><figcaption></figcaption></figure>
+
 ➡️ Select HDD to Server
 
 ➡️ Make sure you have provided right From and To file paths
 
-➡️ Add the uploaded mediafiles into the jellyfin using its web interface
+
+
+<figure><img src="../../.gitbook/assets/sftp-upload.png" alt=""><figcaption></figcaption></figure>
+
+➡️ Add the uploaded media files into the jellyfin using its web interface
 
 ### FAQ
 

@@ -1,6 +1,6 @@
-# Docker Account
+# Adding a Docker Account
 
-This Section Demonstrates how to add dockerhub account to scaleinfinite
+This Section Demonstrates how to add docker hub account to scale infinite
 
 ➡️ Docker account is needed to use **My Account** page. you can create a new account by going to [dockerhub website](https://hub.docker.com/).
 

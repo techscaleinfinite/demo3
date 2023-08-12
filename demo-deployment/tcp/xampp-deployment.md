@@ -44,13 +44,29 @@ And exposing 3306, 22 and 80 ports.
 
 ➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
+
+
+<figure><img src="../../.gitbook/assets/myapps.png" alt=""><figcaption></figcaption></figure>
+
 ➡️ Copy the xampp application Hostname without NodePort and search the Url.
 
 ➡️ You will see the Xampp interface.
 
+
+
+<figure><img src="../../.gitbook/assets/xampp.png" alt=""><figcaption></figcaption></figure>
+
 ➡️ Click on PHPMyAdmin button to access the PHPMyAdmin.
 
+
+
+<figure><img src="../../.gitbook/assets/phpmyadmin.png" alt=""><figcaption></figcaption></figure>
+
 ➡️ Add the /www to the link to access the html application.
+
+
+
+<figure><img src="../../.gitbook/assets/index.png" alt=""><figcaption></figcaption></figure>
 
 ➡️ Now you can able to easily access and create application and edit databases in Mysql using Xampp.
 

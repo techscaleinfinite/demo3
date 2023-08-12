@@ -30,11 +30,23 @@ Drupal is a free and open-source web content management system written in PHP.
 
 ➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153921.png" alt=""><figcaption></figcaption></figure>
+
 ➡️ Copy the Drupal application Hostname without NodePort and search the Url.
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 154027.png" alt=""><figcaption></figcaption></figure>
 
 ➡️ Now you can access the Drupal login page.
 
 ➡️ Then you will be redirected to the Drupal dashboard page.
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 154105.png" alt=""><figcaption></figcaption></figure>
 
 ### FAQ
 

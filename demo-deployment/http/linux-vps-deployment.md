@@ -45,21 +45,33 @@ Exposing the port '80' to access the vps.
 
 ➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 152656.png" alt=""><figcaption></figcaption></figure>
+
 ➡️ Copy the Linuxvps application Hostname without NodePort and search the Url.
 
 ➡️ Now you can see a similar window like this.
 
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 152717.png" alt=""><figcaption></figcaption></figure>
+
 ➡️ From pressing the LADE symbol button you can access to terminal and file-system etc..,
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 152739.png" alt=""><figcaption></figcaption></figure>
 
 ### FAQ
 
 **About Linux VPS image we used.**
 
-This image is maintained by the scaleinfinite.
+This image is maintained by the scale infinite.
 
 **Do the image secure to use?**
 
-The image is created and verified by the scaleinfinite. it is a 100% secure image.
+The image is created and verified by the scale infinite. it is a 100% secure image.
 
 **Are my data persistent ?**
 
