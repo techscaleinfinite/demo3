@@ -16,3 +16,5 @@ We have limited the users to access only first 10 public docker repositories For
 **My Docker account is not getting added ?**
 
 Make sure you have provided valid dockerhub username and access token as password. if problem still persist contact our support team you can find it in **Support** section.
+
+#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;

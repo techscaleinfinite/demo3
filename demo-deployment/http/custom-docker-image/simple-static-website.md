@@ -45,3 +45,5 @@
 **Can i install my own Static Application?**
 
 Absolutely, you can install your own Static applcation, Make Sure you have proper Docker image created on your dockerhub.
+
+#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;

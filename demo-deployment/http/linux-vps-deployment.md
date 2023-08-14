@@ -2,7 +2,7 @@
 
 The linux vps is a virtual private server in contain that you can spinup in secconds ,connect and use. This is same as you personal computer.
 
-* &#x20;**Docker image of this application consists of following layers :**
+* &#x20;<mark style="background-color:orange;">**Docker image of this application consists of following layers**</mark>** :**
 
 ```
 'FROM ubuntu:20.04' Taking ubuntu:20.04 as the base image.
@@ -17,7 +17,7 @@ Exposing the port '80' to access the vps.
 
 ```
 
-#### Deploy LinuxVPS on Scaleinfinite
+#### <mark style="color:orange;background-color:orange;">Deploy LinuxVPS on Scaleinfinite</mark>
 
 * &#x20;Go to create apps page and Search scaleinfinite/linuxvps on the search bar.
 * Click on install button.
@@ -72,3 +72,5 @@ The image is created and verified by the scale infinite. it is a 100% secure ima
 **Are my data persistent ?**
 
 For the free user there is no persistence, and for the premium user you can different type of persistence.
+
+#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;

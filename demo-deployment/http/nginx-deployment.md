@@ -2,7 +2,7 @@
 
 Nginx is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache. Nginx is free and open-source software.
 
-* &#x20;**This deployment uses the official Nginx Docker image.**
+* &#x20;<mark style="background-color:purple;">**This deployment uses the official Nginx Docker image.**</mark>
 * &#x20;Go to create apps page and Search nginx on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the reqired feilds.
@@ -50,3 +50,5 @@ Yes, you can simply deploy any version or modified image to our platform by link
 **Are my data persistent ?**
 
 For the free user there is no persistence, and for the premium user you can different type of persistence.
+
+#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;

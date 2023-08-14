@@ -45,3 +45,5 @@ you can add any data source that mysql supports.
 **Are my data persistent ?**
 
 For the free user there is no persistence, and for the premium user you can different type of persistence.
+
+#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;

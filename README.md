@@ -7,4 +7,6 @@ coverY: 0
 
 ## Self-Driving Cloud Applications
 
-### Put your applications on autopilot mode in our AI managed environment
+### <mark style="background-color:green;">Put your applications on autopilot mode in our AI managed environment</mark>
+
+#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;

@@ -17,3 +17,7 @@ This Section Demonstrates how to use build image page and build a Docker Image
 **Is it possible to build from any github repository?**
 
 Yes, as long as the repositiory is public
+
+
+
+#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;

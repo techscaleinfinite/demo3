@@ -31,3 +31,5 @@ It will only take some few clicks and choose the deployment name/port/variable. 
 **Are my data secured ?**
 
 Yes they are safe & secured. we provide different security option, you can choose the security option that suits for your needs.
+
+#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;

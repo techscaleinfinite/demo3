@@ -71,3 +71,5 @@
 <figure><img src="../.gitbook/assets/docker.png" alt=""><figcaption></figcaption></figure>
 
 * &#x20;If you has a docker file you can also add it here to built the application.
+
+#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;
