@@ -2,13 +2,10 @@
 
 Drupal is a free and open-source web content management system written in PHP.
 
-**➡️ This deployment uses the official Drupal Docker image.**
-
-➡️ Go to create apps page and Search Drupal on the search bar.
-
-➡️ Click on install button.
-
-➡️ Fill all the reqired feilds.
+* &#x20;**This deployment uses the official Drupal Docker image.**
+* &#x20;Go to create apps page and Search Drupal on the search bar.
+* Click on install button.
+* &#x20;Fill all the reqired feilds.
 
 | PRODUCT NAME |
 | ------------ |
@@ -20,29 +17,27 @@ Drupal is a free and open-source web content management system written in PHP.
 | ---- | ------- |
 | `80` |         |
 
-➡️ click on Advanced.
+* &#x20;click on Advanced.
 
 | ENV VARIABLE                                                                                                                 | WHITELIST                                       | WORKING DIR                   |
 | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------- |
 | `You can set multiple ENV for database connection` `MYSQL_DATABASE, MYSQL_USER`, `MYSQL_PASSWORD`, and `MYSQL_ROOT_PASSWORD` | `If you want to white list any ports list here` | `WORKDIR for the application` |
 
-➡️ Click on the Install button.
-
-➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
+* &#x20;Click on the Install button.
+* &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153921.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Copy the Drupal application Hostname without NodePort and search the Url.
+* &#x20;Copy the Drupal application Hostname without NodePort and search the Url.
 
 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 154027.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Now you can access the Drupal login page.
-
-➡️ Then you will be redirected to the Drupal dashboard page.
+* &#x20;Now you can access the Drupal login page.
+* &#x20;Then you will be redirected to the Drupal dashboard page.
 
 
 

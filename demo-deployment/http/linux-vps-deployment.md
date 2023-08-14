@@ -2,7 +2,7 @@
 
 The linux vps is a virtual private server in contain that you can spinup in secconds ,connect and use. This is same as you personal computer.
 
-**➡️ Docker image of this application consists of following layers :**
+* &#x20;**Docker image of this application consists of following layers :**
 
 ```
 'FROM ubuntu:20.04' Taking ubuntu:20.04 as the base image.
@@ -19,11 +19,9 @@ Exposing the port '80' to access the vps.
 
 #### Deploy LinuxVPS on Scaleinfinite
 
-➡️ Go to create apps page and Search scaleinfinite/linuxvps on the search bar.
-
-➡️ Click on install button.
-
-➡️ Fill all the reqired feilds.
+* &#x20;Go to create apps page and Search scaleinfinite/linuxvps on the search bar.
+* Click on install button.
+* &#x20;Fill all the reqired feilds.
 
 | PRODUCT NAME |
 | ------------ |
@@ -35,29 +33,27 @@ Exposing the port '80' to access the vps.
 | ---- | ------- |
 | `80` |         |
 
-➡️ click on Advanced.
+* &#x20;click on Advanced.
 
 | ENV VARIABLE        | WHITELIST                                                      | WORKING DIR                   |
 | ------------------- | -------------------------------------------------------------- | ----------------------------- |
 | `Give env variable` | `If you want to white list any ports list here` `Example` `82` | `WORKDIR for the application` |
 
-➡️ Click on the Insatll button.
-
-➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
+* Click on the Insatll button.
+* You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 152656.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Copy the Linuxvps application Hostname without NodePort and search the Url.
-
-➡️ Now you can see a similar window like this.
+* Copy the Linuxvps application Hostname without NodePort and search the Url.
+* &#x20;Now you can see a similar window like this.
 
 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 152717.png" alt=""><figcaption></figcaption></figure>
 
-➡️ From pressing the LADE symbol button you can access to terminal and file-system etc..,
+* &#x20;From pressing the LADE symbol button you can access to terminal and file-system etc..,
 
 
 

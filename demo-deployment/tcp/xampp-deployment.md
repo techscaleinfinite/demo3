@@ -2,7 +2,7 @@
 
 XAMPP i free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.
 
-**➡️ Docker image of this application consists of following layers :**
+* &#x20;**Docker image of this application consists of following layers :**
 
 ```
 'FROM debian:buster' Taking debian:buster as the base image.
@@ -18,11 +18,9 @@ And exposing 3306, 22 and 80 ports.
 
 #### Deploy Xampp on Scaleinfinite
 
-➡️ Go to create apps page and Search scaleinfinite/xampp on the search bar.
-
-➡️ Click on install button.
-
-➡️ Fill all the reqired feilds.
+* &#x20;Go to create apps page and Search scaleinfinite/xampp on the search bar.
+* &#x20;Click on install button.
+* &#x20;Fill all the reqired feilds.
 
 | PRODUCT NAME |
 | ------------ |
@@ -34,41 +32,37 @@ And exposing 3306, 22 and 80 ports.
 | ---- | ------- |
 | `80` |         |
 
-➡️ click on Advanced.
+* &#x20;click on Advanced.
 
 | ENV VARIABLE        | WHITELIST                                       | WORKING DIR                   |
 | ------------------- | ----------------------------------------------- | ----------------------------- |
 | `Give env variable` | `If you want to white list any ports list here` | `WORKDIR for the application` |
 
-➡️ Click on the Install button.
-
-➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
+* &#x20;Click on the Install button.
+* &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
 
 
 <figure><img src="../../.gitbook/assets/myapps.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Copy the xampp application Hostname without NodePort and search the Url.
-
-➡️ You will see the Xampp interface.
+* &#x20;Copy the xampp application Hostname without NodePort and search the Url.
+* &#x20;You will see the Xampp interface.
 
 
 
 <figure><img src="../../.gitbook/assets/xampp.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Click on PHPMyAdmin button to access the PHPMyAdmin.
+* &#x20;Click on PHPMyAdmin button to access the PHPMyAdmin.
 
 
 
 <figure><img src="../../.gitbook/assets/phpmyadmin.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Add the /www to the link to access the html application.
-
-
+* &#x20;Add the /www to the link to access the html application.
 
 <figure><img src="../../.gitbook/assets/index.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Now you can able to easily access and create application and edit databases in Mysql using Xampp.
+* Now you can able to easily access and create application and edit databases in Mysql using Xampp.
 
 ### FAQ
 

@@ -2,13 +2,10 @@
 
 Jellyfin is a free and open-source media server software that allows users to organize and stream their personal media, such as music, videos, and pictures, to a variety of different devices.
 
-**➡️ This deployment uses the linuxserver/jellyfin Docker image.**
-
-➡️ Go to create apps page and Search linuxserver/jellyfin on the search bar.
-
-➡️ Click on install button.
-
-➡️ Fill all the reqired feilds.
+* &#x20;**This deployment uses the linuxserver/jellyfin Docker image.**
+* &#x20;Go to create apps page and Search linuxserver/jellyfin on the search bar.
+* &#x20;Click on install button.
+* &#x20;Fill all the reqired feilds.
 
 | PRODUCT NAME |
 | ------------ |
@@ -20,39 +17,32 @@ Jellyfin is a free and open-source media server software that allows users to or
 | ------ | ------- |
 | `8096` |         |
 
-➡️ click on Advanced.
+* click on Advanced.
 
 | ENV VARIABLE        | WHITELIST                                       | WORKING DIR                   |
 | ------------------- | ----------------------------------------------- | ----------------------------- |
 | `Give env variable` | `If you want to white list any ports list here` | `WORKDIR for the application` |
 
-➡️ Default Installation is enough for Jellyfin to be up and running. Click install
-
-➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
+* Default Installation is enough for Jellyfin to be up and running. Click install
+* You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
 
 
 <figure><img src="../../.gitbook/assets/my-apps.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Copy the Jellyfin application Hostname without NodePort and search the Url.
-
-➡️ Now you will access the application. And start setting up the application.
-
-➡️ Now Follow the on screen instructions and setup your account
-
-➡️ We’ll add media files using ftp
-
-➡️ Goto SFTP section in right-side bar menu and click 'Reinitilze password'
-
-➡️ You will get credentials to login to your sftp storage. SFTP storage can be accessed using various tools, example:- Filezilla
+* &#x20;Copy the Jellyfin application Hostname without NodePort and search the Url.
+* &#x20;Now you will access the application. And start setting up the application.
+* &#x20;Now Follow the on screen instructions and setup your account
+* &#x20;We’ll add media files using ftp
+* &#x20;Goto SFTP section in right-side bar menu and click 'Reinitilze password'
+* &#x20;You will get credentials to login to your sftp storage. SFTP storage can be accessed using various tools, example:- Filezilla
 
 
 
 <figure><img src="../../.gitbook/assets/select-hdd-to-server.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Select HDD to Server
-
-➡️ Make sure you have provided right From and To file paths
+* Select HDD to Server
+* &#x20;Make sure you have provided right From and To file paths
 
 
 

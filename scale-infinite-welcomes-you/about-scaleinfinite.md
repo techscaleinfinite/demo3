@@ -1,22 +1,22 @@
+---
+description: >-
+  Easily host containerized applications without infrastructure worries. Scale
+  Infinite offers user-friendly deployment with rich telemetry insights.
+---
+
 # About ScaleInfinite
 
-🔹By using scale infinite platform you can easily host your containerized applications without worrying about underlying infrastructure provisioning, maintenance and scaling.
-
-🔹Within a matter of few clicks you can host and access your applications.
-
-🔹we provide rich telemetry data of your account and applications like (CPU usage, Memory usage, I/O and Network usage) and a public IP address.
+* By using scaleinfinite platform you can easily host your containerized applications without worrying about underlying infrastructure provisioning, maintenance and scaling.
+* Within a matter of few clicks you can host and access your applications.
+* we provide rich telemetry data of your account and applications like (CPU usage, Memory usage, I/O and Network usage) and a public IP address.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-12 145308.png" alt=""><figcaption></figcaption></figure>
 
-🛡️ SECURE : We offer different layer of security options. Users can choose the right security level that suits well for the application as well for their needs.
-
-🤝 User Friendly : The platform is designed in a way that anybody from technical and most importantly the non-technical background can easily deploy and run their applications securely.
-
-♾️ Your are not limited to one application from a list of applications that are supported. You choose to deploy and run any application that is publicly available on docker hub and also choose the application from your private docker registry by synchronizing your account.
-
-🔗 You can able to link you Docker Hub account to our platform and deploy the images right away in seconds.
-
-➡️ In Dashboard section you can find CPU usage, Memory usage, I/O and Network usage of the account and applications. 📊📈
+* SECURE : We offer different layer of security options. Users can choose the right security level that suits well for the application as well for their needs.
+* User Friendly : The plateform is designed in a way that anybody from technical and most importantly the non-technical background can easily deploy and run their applications securly.
+* Your are not limited to one application from a list of applications that are supported. You choose to deploy and run any application that is publicly available on docker hub and also choose the application from your private docker registry by synchronising your account.
+* You can able to link you Docker Hub account to our platform and deploy the images right away in seconds.
+* In Dashboard section you can find CPU usage, Memory usage, I/O and Network usage of the account and applications. 📊📈
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-12 145215.png" alt=""><figcaption></figcaption></figure>
 

@@ -2,13 +2,10 @@
 
 Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources.
 
-**➡️ This deployment uses the official Grafana Docker image.**
-
-➡️ Go to create apps page and Search grafana on the search bar.
-
-➡️ Click on install button.
-
-➡️ Fill all the reqired feilds.
+* &#x20;**This deployment uses the official Grafana Docker image.**
+* &#x20;Go to create apps page and Search grafana on the search bar.
+* &#x20;Click on install button.
+* &#x20;Fill all the reqired feilds.
 
 | PRODUCT NAME |
 | ------------ |
@@ -20,31 +17,28 @@ Grafana is a multi-platform open source analytics and interactive visualization 
 | ------ | ------- |
 | `3000` |         |
 
-➡️ click on Advanced.
+* &#x20;click on Advanced.
 
 | ENV VARIABLE        | WHITELIST                                       | WORKING DIR                   |
 | ------------------- | ----------------------------------------------- | ----------------------------- |
 | `Give env variable` | `If you want to white list any ports list here` | `WORKDIR for the application` |
 
-➡️ Click on the Install button.
-
-➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
+* &#x20;Click on the Install button.
+* &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 155305.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Copy the grafana application Hostname without NodePort and search the Url.
-
-➡️ Now you will access the application. And you need to login to grafana.
+* &#x20;Copy the grafana application Hostname without NodePort and search the Url.
+* &#x20;Now you will access the application. And you need to login to grafana.
 
 
 
 <figure><img src="../../.gitbook/assets/grafana-login.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Default Username and Password for grafana is admin.
-
-➡️ After you will be required to add datasources and create dashboards to visualize your data.
+* &#x20;Default Username and Password for grafana is admin.
+* &#x20;After you will be required to add datasources and create dashboards to visualize your data.
 
 
 
@@ -52,7 +46,7 @@ Grafana is a multi-platform open source analytics and interactive visualization 
 
 `ADD DATASOURCE`
 
-➡️ Now you can create the dashboard and select the data source to visualize the data you need.
+* &#x20;Now you can create the dashboard and select the data source to visualize the data you need.
 
 
 

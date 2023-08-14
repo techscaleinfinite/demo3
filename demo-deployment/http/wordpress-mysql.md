@@ -2,7 +2,7 @@
 
 WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS.
 
-**➡️ Docker image of this application consists of following layers :**
+&#x20;**Docker image of this application consists of following layers :**
 
 ```
 'FROM ubuntu:14.04' Taking ubuntu:14.04 as the base image.
@@ -18,11 +18,9 @@ Exposing 3306 and 80 ports on the container.
 
 #### Deploy Wordpress Mysql on Scaleinfinite
 
-➡️ Go to create apps page and Search scaleinfinite/wpmysql on the search bar.
-
-➡️ Click on install button.
-
-➡️ Fill all the reqired feilds.
+* &#x20;Go to create apps page and Search scaleinfinite/wpmysql on the search bar.
+* &#x20;Click on install button.
+* Fill all the reqired feilds.
 
 | PRODUCT NAME |
 | ------------ |
@@ -34,29 +32,27 @@ Exposing 3306 and 80 ports on the container.
 | ---- | ------- |
 | `80` |         |
 
-➡️ click on Advanced.
+* &#x20;click on Advanced.
 
 | ENV VARIABLE        | WHITELIST                                       | WORKING DIR                   |
 | ------------------- | ----------------------------------------------- | ----------------------------- |
 | `Give env variable` | `If you want to white list any ports list here` | `WORKDIR for the application` |
 
-➡️ Click on the Install button.
-
-➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
+* &#x20;Click on the Install button.
+* You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153148.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Copy the wpmysql application Hostname without NodePort and search the Url.
-
-➡️ Now you can see the wordpress language selection page.
+* Copy the wpmysql application Hostname without NodePort and search the Url.
+* Now you can see the wordpress language selection page.
 
 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153222.png" alt=""><figcaption></figcaption></figure>
 
-➡️ After selecting language you will be directly redirected to site creation page and fill all the fields like site name and username and so on.
+* After selecting language you will be directly redirected to site creation page and fill all the fields like site name and username and so on.
 
 
 
@@ -68,7 +64,7 @@ Exposing 3306 and 80 ports on the container.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153317.png" alt=""><figcaption></figcaption></figure>
 
-➡️ Then you will be redirected to the WordPress Admin dashboard.
+* Then you will be redirected to the WordPress Admin dashboard.
 
 
 

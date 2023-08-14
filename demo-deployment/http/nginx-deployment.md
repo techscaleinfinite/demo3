@@ -2,13 +2,10 @@
 
 Nginx is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache. Nginx is free and open-source software.
 
-**➡️ This deployment uses the official Nginx Docker image.**
-
-➡️ Go to create apps page and Search nginx on the search bar.
-
-➡️ Click on install button.
-
-➡️ Fill all the reqired feilds.
+* &#x20;**This deployment uses the official Nginx Docker image.**
+* &#x20;Go to create apps page and Search nginx on the search bar.
+* &#x20;Click on install button.
+* &#x20;Fill all the reqired feilds.
 
 | PRODUCT NAME |
 | ------------ |
@@ -20,23 +17,21 @@ Nginx is a web server that can also be used as a reverse proxy, load balancer, m
 | ---- | ------- |
 | `80` |         |
 
-➡️ click on Advanced.
+* &#x20;click on Advanced.
 
 | ENV VARIABLE        | WHITELIST                                       | WORKING DIR                   |
 | ------------------- | ----------------------------------------------- | ----------------------------- |
 | `Give env variable` | `If you want to white list any ports list here` | `WORKDIR for the application` |
 
-➡️ Click on the Install button.
-
-➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
+* &#x20;Click on the Install button.
+* You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 152028 (1).png" alt=""><figcaption></figcaption></figure>
 
-➡️ Copy the nginx application Hostname without NodePort and search the Url.
-
-➡️ Now you can able to access the nginx webpage.
+* &#x20;Copy the nginx application Hostname without NodePort and search the Url.
+* &#x20;Now you can able to access the nginx webpage.
 
 
 

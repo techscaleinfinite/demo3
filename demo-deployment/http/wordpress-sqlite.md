@@ -2,7 +2,7 @@
 
 SQLite is a opensource SQL database that stores data to a text file on a device. WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS.
 
-**➡️ Docker image of this application consists of following layers :**
+&#x20;**Docker image of this application consists of following layers :**
 
 ```
 'FROM wordpress:latest' Taking Wordpress as the base image
@@ -13,11 +13,9 @@ Used PHP scripts to 'install' the SQLite plugin and setting up the database so t
 
 #### Deploy Wordpress SQLite on Scaleinfinite
 
-➡️ Go to create apps page and Search scaleinfinite/wpsqlite on the search bar.
-
-➡️ Click on install button.
-
-➡️ Fill all the reqired feilds.
+* &#x20;Go to create apps page and Search scaleinfinite/wpsqlite on the search bar.
+* &#x20;Click on install button.
+* Fill all the reqired feilds.
 
 | PRODUCT NAME |
 | ------------ |
@@ -29,37 +27,32 @@ Used PHP scripts to 'install' the SQLite plugin and setting up the database so t
 | ---- | ------- |
 | `80` |         |
 
-➡️ click on Advanced.
+* &#x20;click on Advanced.
 
 | ENV VARIABLE        | WHITELIST                                       | WORKING DIR     |
 | ------------------- | ----------------------------------------------- | --------------- |
 | `Give env variable` | `If you want to white list any ports list here` | `/var/www/html` |
 
-➡️ Click on the Install button.
-
-➡️ You will be redirected to My Apps page, Here you can find all the applications you deployed.
-
-
+* &#x20;Click on the Install button.
+* &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
 
 <figure><img src="../../.gitbook/assets/myapps (2).png" alt=""><figcaption></figcaption></figure>
 
-➡️ Copy the wpsqlite application Hostname without NodePort and search the Url.
-
-➡️ Now you can see the wordpress language selection page.
+* &#x20;Copy the wpsqlite application Hostname without NodePort and search the Url.
+* Now you can see the wordpress language selection page.
 
 
 
 <figure><img src="../../.gitbook/assets/wordpress-welcome.png" alt=""><figcaption></figcaption></figure>
 
-➡️ After selecting language you will be directly redirected to site creation page and fill all the fields like site name and username and so on.
+&#x20;After selecting language you will be directly redirected to site creation page and fill all the fields like site name and username and so on.
 
 
 
 <figure><img src="../../.gitbook/assets/wordpress-dashboard.jpg" alt=""><figcaption></figcaption></figure>
 
-➡️ Then Login with that detials.
-
-➡️ Then you will be redirected to the wordpress Admin dashboard.
+* Then Login with that detials.
+* Then you will be redirected to the wordpress Admin dashboard.
 
 ### FAQ
 
