@@ -1,6 +1,6 @@
 # Wordpress Mysql
 
-#### <mark style="color:blue;">What's WordPress?</mark>
+### <mark style="color:blue;">What's WordPress?</mark>
 
 WordPress is a dynamic, open-source content management system, coded in hypertext preprocessor (PHP), seamlessly paired with a MySQL or MariaDB database, and fortified with HTTPS support. It's your platform for creating and managing websites with ease.
 
@@ -11,7 +11,7 @@ WordPress is a dynamic, open-source content management system, coded in hypertex
 3. **Database Pairing:** WordPress relies on MySQL or MariaDB databases to store content, settings, and more.
 4. **HTTPS Supported:** Security is prioritized with built-in HTTPS support, encrypting data transmission.
 
-#### <mark style="color:blue;">**Working in Brief**</mark>
+### <mark style="color:blue;">**Working in Brief**</mark>
 
 1. **Content Creation:** Craft and publish web content through an intuitive dashboard.
 2. **Database Interaction:** WordPress communicates with the MySQL/MariaDB database to store and retrieve content, settings, and user data.
@@ -67,7 +67,7 @@ Exposing 3306 and 80 ports on the container.
 * Then Login with that detials.
 * Then you will be redirected to the WordPress Admin dashboard.
 
-#### <mark style="color:blue;">Visual snapshots</mark>
+### <mark style="color:blue;">Visual snapshots</mark>
 
 <figure><img src="../../.gitbook/assets/myapps (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -97,6 +97,6 @@ The image is created and verified by the scaleinfinite. it is a 100% secure imag
 
 For the free user there is no persistence, and for the premium user you can different type of persistence.
 
-#### Join us
+### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;

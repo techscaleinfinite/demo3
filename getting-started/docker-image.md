@@ -20,6 +20,6 @@ Yes, as long as the repositiory is public
 
 
 
-#### Join us
+### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;

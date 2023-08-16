@@ -1,6 +1,6 @@
 # Mysql deployment
 
-#### <mark style="color:blue;">**What's MySQL?**</mark>
+### <mark style="color:blue;">**What's MySQL?**</mark>
 
 **MySQL: Relational Database Management System**
 
@@ -14,7 +14,7 @@ MySQL is a popular open-source Relational Database Management System (RDBMS) tha
 4. **Scalability:** It's scalable for small to large-scale applications, supporting high data volumes.
 5. **Data Integrity:** MySQL enforces data integrity rules, preventing inconsistencies.
 
-#### <mark style="color:blue;">**Working in Brief:**</mark>
+### <mark style="color:blue;">**Working in Brief:**</mark>
 
 1. **Database Creation:** Set up databases to store related data tables.
 2. **Table Definition:** Create tables with predefined column names and data types.
@@ -24,7 +24,7 @@ MySQL is a popular open-source Relational Database Management System (RDBMS) tha
 
 MySQL efficiently manages structured data through its table-based approach, ensuring data accuracy and enabling data-driven applications. Its open-source nature, reliability, and wide community support make it a go-to choice for various web and software projects.
 
-#### <mark style="color:blue;">Installation</mark>
+### <mark style="color:blue;">Installation</mark>
 
 * **This deployment uses the official Mysql Docker image.**
 * Go to create apps page and Search mysql on the search bar.
@@ -51,7 +51,7 @@ MySQL efficiently manages structured data through its table-based approach, ensu
 * &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
 * &#x20;Copy the mysql application Hostname without NodePort and search the Url.
 
-#### <mark style="color:blue;">Visual Snapshot</mark>
+### <mark style="color:blue;">Visual Snapshot</mark>
 
 <figure><img src="../../.gitbook/assets/my.png" alt=""><figcaption></figcaption></figure>
 

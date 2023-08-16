@@ -1,6 +1,6 @@
 # Nginx deployment
 
-#### <mark style="color:blue;">What's is Nginx?</mark>
+### <mark style="color:blue;">What's is Nginx?</mark>
 
 Nginx is more than a web server; it's a multitool for your online presence:
 
@@ -10,13 +10,13 @@ Nginx is more than a web server; it's a multitool for your online presence:
 * **Mail Proxy:** Routes emails effectively, improving email infrastructure.
 * **HTTP Cache:** Stores and serves frequently accessed resources for faster delivery.
 
-#### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works:**</mark>
 
 Nginx's event-driven architecture handles multiple connections simultaneously, making it perfect for high-traffic scenarios. It's resource-efficient and enhances application performance, all while being open-source and free.
 
 Nginx: Streamline, secure, and supercharge your web operations
 
-#### <mark style="color:blue;">Installation steps</mark>
+### <mark style="color:blue;">Installation steps</mark>
 
 * &#x20;<mark style="background-color:purple;">**This deployment uses the official Nginx Docker image.**</mark>
 * &#x20;Go to create apps page and Search nginx on the search bar.
@@ -44,7 +44,7 @@ Nginx: Streamline, secure, and supercharge your web operations
 * &#x20;Copy the nginx application Hostname without NodePort and search the Url.
 * &#x20;Now you can able to access the nginx webpage.
 
-#### <mark style="color:blue;">Visual Snapshots</mark>
+### <mark style="color:blue;">Visual Snapshots</mark>
 
 <figure><img src="../../.gitbook/assets/myapps (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -64,6 +64,6 @@ Yes, you can simply deploy any version or modified image to our platform by link
 
 For the free user there is no persistence, and for the premium user you can different type of persistence.
 
-#### Join us
+### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;

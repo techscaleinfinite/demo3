@@ -1,6 +1,6 @@
 # Wordpress Sqlite
 
-#### <mark style="color:blue;">What's WordPress Sqlite?</mark>
+### <mark style="color:blue;">What's WordPress Sqlite?</mark>
 
 .WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS.SQLite is an open-source SQL database system that stores data in a text file on a device. It provides a simple and efficient way to manage and retrieve structured information locally.
 
@@ -12,7 +12,7 @@
 4. **Embedded Database:** It's integrated within the application, not requiring a separate database server.
 5. **Self-Contained:** The entire database is contained within a single file, enhancing portability.
 
-#### <mark style="color:blue;">**Working in Brief**</mark>**:**
+### <mark style="color:blue;">**Working in Brief**</mark>**:**
 
 1. **Database Creation:** Applications integrate SQLite by creating a database file.
 2. **Table Structure:** Define tables with columns to structure the data.
@@ -22,7 +22,7 @@
 
 SQLite offers a convenient solution for applications that require structured data storage without the complexity of a traditional database system. Its lightweight nature and self-contained design make it an ideal choice for various applications.
 
-#### <mark style="color:blue;">Installation</mark>
+### <mark style="color:blue;">Installation</mark>
 
 &#x20;<mark style="background-color:yellow;">**Docker image of this application consists of following layers :**</mark>
 
@@ -63,7 +63,7 @@ Used PHP scripts to 'install' the SQLite plugin and setting up the database so t
 * Then Login with that detials.
 * Then you will be redirected to the wordpress Admin dashboard.
 
-#### <mark style="color:blue;">Visual SnapShots</mark>
+### <mark style="color:blue;">Visual SnapShots</mark>
 
 <div>
 
@@ -107,6 +107,6 @@ The image is created and verified by the scaleinfinite. it is a 100% secure imag
 
 For the free user there is no persistence, and for the premium user you can different type of persistence.
 
-#### Join us
+### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going! &#x20;

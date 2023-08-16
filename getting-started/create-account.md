@@ -1,6 +1,6 @@
 # Create account
 
-#### &#x20;<mark style="color:blue;">How To Create an Account?</mark>
+### &#x20;<mark style="color:blue;">How To Create an Account?</mark>
 
 Go to Scaleinfinite platform.
 
@@ -16,7 +16,7 @@ Go to Scaleinfinite platform.
 * &#x20;And you can also link your Docker Hub account with scale infinite platform.
 * &#x20;If you has a docker file you can also add it here to built the application.
 
-#### <mark style="color:blue;">Visual Snapshots</mark>
+### <mark style="color:blue;">Visual Snapshots</mark>
 
 
 
@@ -62,6 +62,6 @@ Go to Scaleinfinite platform.
 
 <figure><img src="../.gitbook/assets/docker (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Join us
+### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;

@@ -1,6 +1,6 @@
 # Linux VPS deployment
 
-#### <mark style="color:blue;">What's Linux VPS?</mark>
+### <mark style="color:blue;">What's Linux VPS?</mark>
 
 The Linux Virtual Private Server (VPS) is your personal virtual environment that you can set up in mere seconds, connect to, and utilize. Similar to your personal computer, it offers a controlled space for your projects, experiments, and applications.
 
@@ -12,7 +12,7 @@ The Linux Virtual Private Server (VPS) is your personal virtual environment that
 4. **Controlled Environment:** Customize your VPS with the software, configurations, and tools you need.
 5. **Isolation:** Your VPS is isolated from other users' activities, ensuring privacy and security.
 
-#### <mark style="color:blue;">**Working in Brief:**</mark>
+### <mark style="color:blue;">**Working in Brief:**</mark>
 
 1. **Server Virtualization:** The physical server is divided into multiple virtual compartments, each functioning independently.
 2. **VPS Creation:** You select your preferred Linux distribution and configuration, and the VPS is created swiftly.
@@ -22,7 +22,7 @@ The Linux Virtual Private Server (VPS) is your personal virtual environment that
 
 With Linux VPS, you gain a versatile, isolated environment that's ready to adapt to your needs – all without the hassle of hardware setup.
 
-#### Installations
+### Installations
 
 * &#x20;**Docker image of this application consists of following layers**&#x20;
 
@@ -67,7 +67,7 @@ Exposing the port '80' to access the vps.
 * &#x20;Now you can see a similar window like this.
 * &#x20;From pressing the LADE symbol button you can access to terminal and file-system etc..,
 
-#### <mark style="color:blue;">Visual Snapshots</mark>
+### <mark style="color:blue;">Visual Snapshots</mark>
 
 <figure><img src="../../.gitbook/assets/myapps (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -89,6 +89,6 @@ The image is created and verified by the scale infinite. it is a 100% secure ima
 
 For the free user there is no persistence, and for the premium user you can different type of persistence.
 
-#### Join us
+### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;

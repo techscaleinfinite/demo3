@@ -28,3 +28,4 @@
   * [Docker image](getting-started/docker-image.md)
 * [FAQ](faq/README.md)
   * [FAQ](faq/faq.md)
+* [Join Us](join-us.md)

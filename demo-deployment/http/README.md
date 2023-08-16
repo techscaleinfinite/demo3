@@ -6,7 +6,7 @@ description: >-
 
 # Http
 
-**HTTP Deployment: Diverse Application Possibilities**
+### **HTTP Deployment: Diverse Application Possibilities**
 
 . Let's explore a few:
 
@@ -20,6 +20,6 @@ description: >-
 
 In each deployment, the process involves setting up the necessary components, configuring settings, and ensuring compatibility. Our platform streamlines these steps, making deployment accessible even to non-technical users. Select the deployment that aligns with your goals, and our platform handles the rest, empowering you to focus on your application's essence.
 
-#### Join us
+### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;

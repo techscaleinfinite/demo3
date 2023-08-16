@@ -1,6 +1,6 @@
 # Xampp deployment
 
-#### <mark style="color:blue;">What's Xampp?</mark>
+### <mark style="color:blue;">What's Xampp?</mark>
 
 XAMPP is a free and open-source cross-platform web server solution stack, crafted by Apache Friends. It brings together essential components for web development, including the Apache HTTP Server, MariaDB database, and interpreters for PHP and Perl scripting.
 
@@ -12,7 +12,7 @@ XAMPP is a free and open-source cross-platform web server solution stack, crafte
 4. **Web Development:** XAMPP provides tools for building dynamic web applications.
 5. **Local Server Environment:** Creates a local server on your machine for testing and development.
 
-<mark style="color:blue;">**Working in Brief:**</mark>
+### <mark style="color:blue;">**Working in Brief:**</mark>
 
 
 
@@ -24,7 +24,7 @@ XAMPP is a free and open-source cross-platform web server solution stack, crafte
 
 XAMPP simplifies web development by offering a self-contained environment with essential tools. It empowers developers to create and test web applications seamlessly before deploying them to production servers.
 
-#### <mark style="color:blue;">Installation</mark>&#x20;
+### <mark style="color:blue;">Installation</mark>&#x20;
 
 * &#x20;**Docker image of this application consists of following layers :**
 
@@ -70,7 +70,7 @@ And exposing 3306, 22 and 80 ports.
 * &#x20;Add the /www to the link to access the html application.
 * Now you can able to easily access and create application and edit databases in Mysql using Xampp.
 
-#### <mark style="color:blue;">Visual SnapShots</mark>
+### <mark style="color:blue;">Visual SnapShots</mark>
 
 
 

@@ -1,6 +1,6 @@
 # Grafana deployment
 
-#### <mark style="color:blue;">What's Grafana?</mark>
+### <mark style="color:blue;">What's Grafana?</mark>
 
 Grafana is a versatile, open-source analytics and interactive visualization web application. It empowers users to create compelling charts, graphs, and alerts by connecting to supported data sources.
 
@@ -12,7 +12,7 @@ Grafana is a versatile, open-source analytics and interactive visualization web 
 4. **Data Source Connectivity:** It connects to various data sources, like databases, APIs, and cloud services.
 5. **Alerting System:** Grafana can trigger alerts based on preset conditions to notify users of changes.
 
-#### <mark style="color:blue;">**Working in Brief:**</mark>
+### <mark style="color:blue;">**Working in Brief:**</mark>
 
 1. **Data Source Connection:** Grafana connects to your chosen data source, whether it's a database or cloud service.
 2. **Dashboard Creation:** Users design dashboards by selecting data metrics, visualizations, and layout.
@@ -22,7 +22,7 @@ Grafana is a versatile, open-source analytics and interactive visualization web 
 
 Grafana transforms raw data into visually engaging insights, enhancing data-driven decision-making. Its open-source nature and compatibility with multiple data sources make it an invaluable tool for monitoring and understanding complex datasets.
 
-#### <mark style="color:blue;">Installation</mark>
+### <mark style="color:blue;">Installation</mark>
 
 * &#x20;<mark style="background-color:yellow;">**This deployment uses the official Grafana Docker image.**</mark>
 * &#x20;Go to create apps page and Search grafana on the search bar.
@@ -53,7 +53,7 @@ Grafana transforms raw data into visually engaging insights, enhancing data-driv
 * &#x20;After you will be required to add datasources and create dashboards to visualize your data.    `ADD DATASOURCE`
 * &#x20;Now you can create the dashboard and select the data source to visualize the data you need.
 
-#### <mark style="color:blue;">Visual Snapshots</mark>
+### <mark style="color:blue;">Visual Snapshots</mark>
 
 <figure><img src="../../.gitbook/assets/myapps (7).png" alt=""><figcaption></figcaption></figure>
 
@@ -81,6 +81,6 @@ Yes, you can simply deploy any version or modified image to our platform by link
 
 For the free user there is no persistence, and for the premium user you can different type of persistence.
 
-#### Join us
+### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
