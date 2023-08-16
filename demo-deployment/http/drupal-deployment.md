@@ -1,11 +1,33 @@
 # Drupal deployment
 
-Drupal is a free and open-source web content management system written in PHP.
+#### <mark style="color:blue;">What's Drupal?</mark>
 
-* &#x20;**This deployment uses the official Drupal Docker image.**
+Drupal is a powerful, open-source web content management system (CMS) built using the PHP scripting language. It offers a versatile platform for creating, managing, and customizing websites to meet your specific needs.
+
+**Key Points:**
+
+1. **Open-Source CMS:** Drupal is freely accessible, providing a foundation for website development and management.
+2. **PHP-Powered:** The core of Drupal is written in PHP, a versatile scripting language.
+3. **Modularity:** Drupal's modular architecture allows you to add and customize features using modules.
+4. **Customization:** Tailor your site's appearance and functionality with themes and modules.
+5. **Community-Driven:** A thriving community contributes to Drupal's development, providing updates, support, and resources.
+
+#### <mark style="color:blue;">**Working in Brief**</mark>
+
+1. **Content Creation:** Easily create and organize content using Drupal's user-friendly interface.
+2. **Modular Architecture:** Add functionalities with modules that offer specific features or integrations.
+3. **Themes & Appearance:** Customize your site's look and feel with themes, ensuring a unique design.
+4. **PHP Processing:** PHP processes user requests, dynamically generating web pages and content.
+5. **Community Support:** Benefit from a community of developers and users providing updates, solutions, and enhancements.
+
+Drupal empowers website management by providing flexibility, scalability, and a robust ecosystem of modules and themes. Its open-source nature and dedicated community make it a versatile choice for various web projects.
+
+#### <mark style="color:blue;">Installation</mark>&#x20;
+
+* &#x20;<mark style="background-color:orange;">**This deployment uses the official Drupal Docker image.**</mark>
 * &#x20;Go to create apps page and Search Drupal on the search bar.
 * Click on install button.
-* &#x20;Fill all the reqired feilds.
+* &#x20;Fill all the required feilds.
 
 | PRODUCT NAME |
 | ------------ |
@@ -25,25 +47,23 @@ Drupal is a free and open-source web content management system written in PHP.
 
 * &#x20;Click on the Install button.
 * &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
-
-
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153921.png" alt=""><figcaption></figcaption></figure>
-
 * &#x20;Copy the Drupal application Hostname without NodePort and search the Url.
-
-
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 154027.png" alt=""><figcaption></figcaption></figure>
-
 * &#x20;Now you can access the Drupal login page.
 * &#x20;Then you will be redirected to the Drupal dashboard page.
 
 
 
+#### <mark style="color:blue;">Visual Snapshots</mark>
+
+
+
+<figure><img src="../../.gitbook/assets/myapps (6).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/drupal-login.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 154105.png" alt=""><figcaption></figcaption></figure>
 
-### FAQ
+### <mark style="color:blue;">FAQ</mark>
 
 **About Drupal image we used.**
 
@@ -61,4 +81,6 @@ Yes, you can simply deploy any version or modified image to our platform by link
 
 For the free user there is no persistence, and for the premium user you can different type of persistence.
 
-#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;
+#### Join us
+
+Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;

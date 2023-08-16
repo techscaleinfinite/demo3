@@ -32,7 +32,7 @@ A simple single page Node.js application.
 
 
 
-<figure><img src="../../../.gitbook/assets/my-apps (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/my-apps (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * &#x20;Copy the application Hostname without NodePort and search the Url.
 

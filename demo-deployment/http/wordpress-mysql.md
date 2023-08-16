@@ -1,6 +1,27 @@
 # Wordpress Mysql
 
-WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS.
+#### <mark style="color:blue;">What's WordPress?</mark>
+
+WordPress is a dynamic, open-source content management system, coded in hypertext preprocessor (PHP), seamlessly paired with a MySQL or MariaDB database, and fortified with HTTPS support. It's your platform for creating and managing websites with ease.
+
+**Key Points:**
+
+1. **Open-Source CMS:** WordPress is freely accessible, offering a flexible foundation for website creation.
+2. **PHP-Powered:** The core of WordPress is written in PHP, a versatile scripting language.
+3. **Database Pairing:** WordPress relies on MySQL or MariaDB databases to store content, settings, and more.
+4. **HTTPS Supported:** Security is prioritized with built-in HTTPS support, encrypting data transmission.
+
+#### <mark style="color:blue;">**Working in Brief**</mark>
+
+1. **Content Creation:** Craft and publish web content through an intuitive dashboard.
+2. **Database Interaction:** WordPress communicates with the MySQL/MariaDB database to store and retrieve content, settings, and user data.
+3. **Themes & Plugins:** Enhance functionality and design using themes for appearance and plugins for added features.
+4. **Dynamic Pages:** PHP processes user requests, dynamically generating web pages and assembling content.
+5. **HTTPS Encryption:** Data transmitted between users and the website is encrypted, enhancing security.
+
+WordPress simplifies website management, offering a user-friendly interface for content creation and a robust ecosystem of themes and plugins to customize your site's look and features.
+
+#### Installation&#x20;
 
 &#x20;**Docker image of this application consists of following layers :**
 
@@ -40,37 +61,25 @@ Exposing 3306 and 80 ports on the container.
 
 * &#x20;Click on the Install button.
 * You will be redirected to My Apps page, Here you can find all the applications you deployed.
-
-
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153148.png" alt=""><figcaption></figcaption></figure>
-
 * Copy the wpmysql application Hostname without NodePort and search the Url.
 * Now you can see the wordpress language selection page.
-
-
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153222.png" alt=""><figcaption></figcaption></figure>
-
 * After selecting language you will be directly redirected to site creation page and fill all the fields like site name and username and so on.
-
-
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153246.png" alt=""><figcaption></figcaption></figure>
-
-➡️ Then Login with that detials.
-
-
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153317.png" alt=""><figcaption></figcaption></figure>
-
+* Then Login with that detials.
 * Then you will be redirected to the WordPress Admin dashboard.
 
+#### <mark style="color:blue;">Visual snapshots</mark>
 
+<figure><img src="../../.gitbook/assets/myapps (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/wordpress-lang (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/wordpress-welcome (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/wordpress-login (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153350.png" alt=""><figcaption></figcaption></figure>
 
-### FAQ
+### <mark style="color:purple;">FAQ</mark>
 
 **About Wordpress mysql image we used.**
 
@@ -88,4 +97,6 @@ The image is created and verified by the scaleinfinite. it is a 100% secure imag
 
 For the free user there is no persistence, and for the premium user you can different type of persistence.
 
-#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;
+#### Join us
+
+Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;

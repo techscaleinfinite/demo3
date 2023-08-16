@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Scale Infinite Welcomes you](README.md)
-  * [About ScaleInfinite](scale-infinite-welcomes-you/about-scaleinfinite.md)
+  * [About Scale Infinite](scale-infinite-welcomes-you/about-scaleinfinite.md)
   * [Cloud float](scale-infinite-welcomes-you/easy-application-deployments.md)
   * [Containers and Kubernetes](scale-infinite-welcomes-you/containers-and-kubernetes.md)
   * [Managed Kubernetes](scale-infinite-welcomes-you/managed-kubernetes.md)

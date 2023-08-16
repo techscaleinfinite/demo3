@@ -32,4 +32,6 @@ It will only take some few clicks and choose the deployment name/port/variable. 
 
 Yes they are safe & secured. we provide different security option, you can choose the security option that suits for your needs.
 
-#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;
+#### Join us
+
+Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;

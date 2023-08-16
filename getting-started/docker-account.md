@@ -17,4 +17,6 @@ We have limited the users to access only first 10 public docker repositories For
 
 Make sure you have provided valid dockerhub username and access token as password. if problem still persist contact our support team you can find it in **Support** section.
 
-#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;
+#### Join us
+
+Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going! &#x20;

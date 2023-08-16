@@ -1,11 +1,27 @@
 # Nginx deployment
 
-Nginx is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache. Nginx is free and open-source software.
+#### <mark style="color:blue;">What's is Nginx?</mark>
+
+Nginx is more than a web server; it's a multitool for your online presence:
+
+* **Web Server:** Delivers web content quickly and efficiently to users.
+* **Reverse Proxy:** Safeguards applications by managing external requests.
+* **Load Balancer:** Distributes traffic among multiple servers for optimal performance.
+* **Mail Proxy:** Routes emails effectively, improving email infrastructure.
+* **HTTP Cache:** Stores and serves frequently accessed resources for faster delivery.
+
+#### <mark style="color:blue;">**How It Works:**</mark>
+
+Nginx's event-driven architecture handles multiple connections simultaneously, making it perfect for high-traffic scenarios. It's resource-efficient and enhances application performance, all while being open-source and free.
+
+Nginx: Streamline, secure, and supercharge your web operations
+
+#### <mark style="color:blue;">Installation steps</mark>
 
 * &#x20;<mark style="background-color:purple;">**This deployment uses the official Nginx Docker image.**</mark>
 * &#x20;Go to create apps page and Search nginx on the search bar.
 * &#x20;Click on install button.
-* &#x20;Fill all the reqired feilds.
+* &#x20;Fill all the required fields.
 
 | PRODUCT NAME |
 | ------------ |
@@ -25,19 +41,16 @@ Nginx is a web server that can also be used as a reverse proxy, load balancer, m
 
 * &#x20;Click on the Install button.
 * You will be redirected to My Apps page, Here you can find all the applications you deployed.
-
-
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 152028 (1).png" alt=""><figcaption></figcaption></figure>
-
 * &#x20;Copy the nginx application Hostname without NodePort and search the Url.
 * &#x20;Now you can able to access the nginx webpage.
 
+#### <mark style="color:blue;">Visual Snapshots</mark>
 
+<figure><img src="../../.gitbook/assets/myapps (3).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 152047.png" alt=""><figcaption></figcaption></figure>
 
-### FAQ
+### <mark style="color:blue;">FAQ</mark>
 
 **About nginx image we used.**
 
@@ -51,4 +64,6 @@ Yes, you can simply deploy any version or modified image to our platform by link
 
 For the free user there is no persistence, and for the premium user you can different type of persistence.
 
-#### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;
+#### Join us
+
+Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
