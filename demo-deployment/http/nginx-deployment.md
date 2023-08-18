@@ -35,6 +35,8 @@ Nginx's event-driven architecture handles multiple connections simultaneously, m
 
 <mark style="color:blue;">Nginx: Streamline, secure, and supercharge your web operations</mark>
 
+### <mark style="color:blue;">Steps And Procedure</mark>
+
 * &#x20;<mark style="background-color:purple;">**This deployment uses the official Nginx Docker image.**</mark>
 * &#x20;Go to create apps page and Search nginx on the search bar.
 * &#x20;Click on install button.
