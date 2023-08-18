@@ -1,5 +1,7 @@
 # Simple Website with Node.js
 
+### <mark style="color:orange;">Getting started</mark>&#x20;
+
 A simple single page Node.js application.
 
 * The code for the application is uploaded on github.
@@ -11,8 +13,13 @@ A simple single page Node.js application.
 * Search the docker image you have created in Create app page.
 * Click on the Install button.
 * Fill all the required fields.
+* &#x20;click on Advanced.
+* You will be redirected to My Apps page, Here you can find all the applications you deployed.
+* &#x20;Copy the application Hostname without NodePort and search the Url.
 
-| PRODUCT NAME             |
+### <mark style="color:blue;">Installation</mark>&#x20;
+
+| Docker Image             |
 | ------------------------ |
 | `<name of docker image>` |
 
@@ -22,21 +29,15 @@ A simple single page Node.js application.
 | ------ | ------- |
 | `3000` |         |
 
-* &#x20;click on Advanced.
-
-| ENV VARIABLE        | WHITELIST                                       | WORKING DIR                   |
-| ------------------- | ----------------------------------------------- | ----------------------------- |
-| `Give env variable` | `If you want to white list any ports list here` | `WORKDIR for the application` |
-
-* You will be redirected to My Apps page, Here you can find all the applications you deployed.
+| ENV VARIABLE                                                            | WHITELIST                                       | WORKING DIR                                       |
+| ----------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> | `If you want to white list any ports list here` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
 
 
+
+### <mark style="color:blue;">Visual snapshots</mark>
 
 <figure><img src="../../../.gitbook/assets/my-apps (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-* &#x20;Copy the application Hostname without NodePort and search the Url.
-
-
 
 <div>
 
@@ -50,7 +51,7 @@ A simple single page Node.js application.
 
 &#x20;The Application is running successfully
 
-### FAQ
+### <mark style="color:blue;">FAQ</mark>
 
 **Can i install my own node.js Application?**
 

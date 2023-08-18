@@ -7,31 +7,39 @@ Drupal is a powerful, open-source web content management system (CMS) built usin
 **Key Points:**
 
 1. **Open-Source CMS:** Drupal is freely accessible, providing a foundation for website development and management.
-2. **PHP-Powered:** The core of Drupal is written in PHP, a versatile scripting language.
+2. <mark style="color:orange;">**PHP-Powered**</mark>**:** The core of Drupal is written in PHP, a versatile scripting language.
 3. **Modularity:** Drupal's modular architecture allows you to add and customize features using modules.
-4. **Customization:** Tailor your site's appearance and functionality with themes and modules.
+4. <mark style="color:orange;">**Customization**</mark>**:** Tailor your site's appearance and functionality with themes and modules.
 5. **Community-Driven:** A thriving community contributes to Drupal's development, providing updates, support, and resources.
 
 ### <mark style="color:blue;">**Working in Brief**</mark>
 
-1. **Content Creation:** Easily create and organize content using Drupal's user-friendly interface.
+1. <mark style="color:orange;">**Content Creation**</mark>**:** Easily create and organize content using Drupal's user-friendly interface.
 2. **Modular Architecture:** Add functionalities with modules that offer specific features or integrations.
-3. **Themes & Appearance:** Customize your site's look and feel with themes, ensuring a unique design.
+3. <mark style="color:orange;">**Themes & Appearance**</mark>**:** Customize your site's look and feel with themes, ensuring a unique design.
 4. **PHP Processing:** PHP processes user requests, dynamically generating web pages and content.
-5. **Community Support:** Benefit from a community of developers and users providing updates, solutions, and enhancements.
+5. <mark style="color:orange;">**Community Support**</mark>**:** Benefit from a community of developers and users providing updates, solutions, and enhancements.
 
 Drupal empowers website management by providing flexibility, scalability, and a robust ecosystem of modules and themes. Its open-source nature and dedicated community make it a versatile choice for various web projects.
 
-### <mark style="color:blue;">Installation</mark>&#x20;
+### &#x20;<mark style="color:blue;">Steps And Procedure</mark>
 
 * &#x20;<mark style="background-color:orange;">**This deployment uses the official Drupal Docker image.**</mark>
 * &#x20;Go to create apps page and Search Drupal on the search bar.
 * Click on install button.
-* &#x20;Fill all the required feilds.
+* &#x20;Fill all the required fields.
+* &#x20;click on Advanced.
+* &#x20;Click on the Install button.
+* &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
+* &#x20;Copy the Drupal application Hostname without NodePort and search the Url.
+* &#x20;Now you can access the Drupal login page.
+* &#x20;Then you will be redirected to the Drupal dashboard page.
 
-| PRODUCT NAME |
-| ------------ |
-| `drupal`     |
+### <mark style="color:blue;">Installation</mark>
+
+| Docker Image                                 |
+| -------------------------------------------- |
+| [`drupal`](https://hub.docker.com/\_/drupal) |
 
 `PROTOCOL`
 
@@ -39,19 +47,9 @@ Drupal empowers website management by providing flexibility, scalability, and a 
 | ---- | ------- |
 | `80` |         |
 
-* &#x20;click on Advanced.
-
-| ENV VARIABLE                                                                                                                 | WHITELIST                                       | WORKING DIR                   |
-| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------- |
-| `You can set multiple ENV for database connection` `MYSQL_DATABASE, MYSQL_USER`, `MYSQL_PASSWORD`, and `MYSQL_ROOT_PASSWORD` | `If you want to white list any ports list here` | `WORKDIR for the application` |
-
-* &#x20;Click on the Install button.
-* &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the Drupal application Hostname without NodePort and search the Url.
-* &#x20;Now you can access the Drupal login page.
-* &#x20;Then you will be redirected to the Drupal dashboard page.
-
-
+| ENV VARIABLE                                                                                                                                                                                                                        | WHITELIST                                       | WORKING DIR                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| <p><code>You can set multiple ENV for database connection</code> <code>Give env variable.</code></p><p><code>Eg:key==value MYSQL_DATABASE, MYSQL_USER</code>, <code>MYSQL_PASSWORD</code>, and <code>MYSQL_ROOT_PASSWORD</code></p> | `If you want to white list any ports list here` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 

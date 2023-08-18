@@ -6,45 +6,29 @@ Jellyfin is a versatile, open-source media server software designed to help user
 
 **Key Points:**
 
-1. **Open-Source Media Server:** Jellyfin is freely accessible, providing a platform to organize and stream personal media.
+1. <mark style="color:orange;">**Open-Source Media Server**</mark>**:** Jellyfin is freely accessible, providing a platform to organize and stream personal media.
 2. **Media Variety:** It supports various types of media, from music tracks to videos and images.
-3. **Device Compatibility:** Jellyfin streams content to a wide array of devices, ensuring seamless access.
+3. <mark style="color:orange;">**Device Compatibility**</mark>**:** Jellyfin streams content to a wide array of devices, ensuring seamless access.
 4. **Customization:** Tailor your media server's interface and functionality to suit your preferences.
-5. **User Privacy:** Your media collection remains private as it's self-hosted, with no external sharing.
+5. <mark style="color:orange;">**User Privacy**</mark>**:** Your media collection remains private as it's self-hosted, with no external sharing.
 
 ### <mark style="color:blue;">**Working in Brief:**</mark>
 
 1. **Media Organization:** Jellyfin catalogues your media library, allowing you to arrange content by type, genre, or artist.
-2. **Streaming Capability:** Upon request, Jellyfin streams media to connected devices over a local network or the internet.
+2. <mark style="color:orange;">**Streaming Capability**</mark>**:** Upon request, Jellyfin streams media to connected devices over a local network or the internet.
 3. **User Authentication:** Users log in to their Jellyfin accounts to access their personalized media libraries.
-4. **Transcoding & Formats:** Jellyfin adapts media formats for compatibility with different devices.
+4. <mark style="color:orange;">**Transcoding & Formats**</mark>**:** Jellyfin adapts media formats for compatibility with different devices.
 5. **Remote Access:** Enjoy your media on-the-go by accessing your Jellyfin server from external locations.
 
 Jellyfin simplifies media management, offering a self-hosted solution for streaming your favorite content across various devices. Its open-source nature empowers customization and ensures that your media remains private and secure.
 
-### <mark style="color:blue;">Installation</mark>
+### <mark style="color:blue;">Steps And Procedure</mark>
 
 * &#x20;<mark style="background-color:yellow;">**This deployment uses the linuxserver/jellyfin Docker image**</mark>**.**
 * &#x20;Go to create apps page and Search linuxserver/jellyfin on the search bar.
 * &#x20;Click on install button.
-* &#x20;Fill all the reqired feilds.
-
-| PRODUCT NAME |
-| ------------ |
-| `Jellyfin`   |
-
-`PROTOCOL`
-
-| HTTP   | TCP/UDP |
-| ------ | ------- |
-| `8096` |         |
-
+* &#x20;Fill all the required fields.
 * click on Advanced.
-
-| ENV VARIABLE        | WHITELIST                                       | WORKING DIR                   |
-| ------------------- | ----------------------------------------------- | ----------------------------- |
-| `Give env variable` | `If you want to white list any ports list here` | `WORKDIR for the application` |
-
 * Default Installation is enough for Jellyfin to be up and running. Click install
 * You will be redirected to My Apps page, Here you can find all the applications you deployed.
 * &#x20;Copy the Jellyfin application Hostname without NodePort and search the Url.
@@ -57,7 +41,21 @@ Jellyfin simplifies media management, offering a self-hosted solution for stream
 * &#x20;Make sure you have provided right From and To file paths
 * &#x20;Add the uploaded media files into the jellyfin using its web interface
 
+### <mark style="color:blue;">Installation</mark>
 
+| Docker Image                                             |
+| -------------------------------------------------------- |
+| [`Jellyfin`](https://hub.docker.com/r/jellyfin/jellyfin) |
+
+`PROTOCOL`
+
+| HTTP   | TCP/UDP |
+| ------ | ------- |
+| `8096` |         |
+
+| ENV VARIABLE                                                            | WHITELIST                                       | WORKING DIR                                       |
+| ----------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> | `If you want to white list any ports list here` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
@@ -66,8 +64,6 @@ Jellyfin simplifies media management, offering a self-hosted solution for stream
 <figure><img src="../../.gitbook/assets/select-hdd-to-server.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/sftp-upload.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### <mark style="color:blue;">FAQ</mark>
 

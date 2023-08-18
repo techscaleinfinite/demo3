@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/grafana3182.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Grafana deployment
 
 ### <mark style="color:blue;">What's Grafana?</mark>
@@ -6,45 +25,29 @@ Grafana is a versatile, open-source analytics and interactive visualization web 
 
 **Key Points:**
 
-1. **Multi-Platform Analytics:** Grafana is available across various platforms, making data analysis accessible.
+1. <mark style="color:orange;">**Multi-Platform Analytics**</mark>**:** Grafana is available across various platforms, making data analysis accessible.
 2. **Open-Source:** It's freely available, fostering collaboration and customization.
-3. **Interactive Visualization:** Grafana offers dynamic charts, graphs, and dashboards to illustrate data trends.
+3. <mark style="color:orange;">**Interactive Visualization**</mark>**:** Grafana offers dynamic charts, graphs, and dashboards to illustrate data trends.
 4. **Data Source Connectivity:** It connects to various data sources, like databases, APIs, and cloud services.
-5. **Alerting System:** Grafana can trigger alerts based on preset conditions to notify users of changes.
+5. <mark style="color:orange;">**Alerting System:**</mark> Grafana can trigger alerts based on preset conditions to notify users of changes.
 
 ### <mark style="color:blue;">**Working in Brief:**</mark>
 
 1. **Data Source Connection:** Grafana connects to your chosen data source, whether it's a database or cloud service.
-2. **Dashboard Creation:** Users design dashboards by selecting data metrics, visualizations, and layout.
-3. **Interactive Visuals:** Charts and graphs respond in real-time to user interactions, aiding analysis.
+2. <mark style="color:orange;">**Dashboard Creation**</mark>**:** Users design dashboards by selecting data metrics, visualizations, and layout.
+3. <mark style="color:orange;">**Interactive Visuals**</mark>**:** Charts and graphs respond in real-time to user interactions, aiding analysis.
 4. **Alert Configuration:** Set conditions for alerts to notify users when specific thresholds are met.
-5. **Real-Time Insights:** Grafana visualizes data trends, helping users grasp patterns and make informed decisions.
+5. <mark style="color:orange;">**Real-Time Insights**</mark>**:** Grafana visualizes data trends, helping users grasp patterns and make informed decisions.
 
 Grafana transforms raw data into visually engaging insights, enhancing data-driven decision-making. Its open-source nature and compatibility with multiple data sources make it an invaluable tool for monitoring and understanding complex datasets.
 
-### <mark style="color:blue;">Installation</mark>
+### <mark style="color:blue;">Steps And Procedure</mark>&#x20;
 
 * &#x20;<mark style="background-color:yellow;">**This deployment uses the official Grafana Docker image.**</mark>
 * &#x20;Go to create apps page and Search grafana on the search bar.
 * &#x20;Click on install button.
-* &#x20;Fill all the reqired feilds.
-
-| PRODUCT NAME |
-| ------------ |
-| `grafana`    |
-
-`PROTOCOL`
-
-| HTTP   | TCP/UDP |
-| ------ | ------- |
-| `3000` |         |
-
+* &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
-
-| ENV VARIABLE        | WHITELIST                                       | WORKING DIR                   |
-| ------------------- | ----------------------------------------------- | ----------------------------- |
-| `Give env variable` | `If you want to white list any ports list here` | `WORKDIR for the application` |
-
 * &#x20;Click on the Install button.
 * &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
 * &#x20;Copy the grafana application Hostname without NodePort and search the Url.
@@ -52,6 +55,22 @@ Grafana transforms raw data into visually engaging insights, enhancing data-driv
 * &#x20;Default Username and Password for grafana is admin.
 * &#x20;After you will be required to add datasources and create dashboards to visualize your data.    `ADD DATASOURCE`
 * &#x20;Now you can create the dashboard and select the data source to visualize the data you need.
+
+### <mark style="color:blue;">Installation</mark>
+
+| Docker Image                                          |
+| ----------------------------------------------------- |
+| [`grafana`](https://hub.docker.com/r/grafana/grafana) |
+
+`PROTOCOL`
+
+| HTTP   | TCP/UDP |
+| ------ | ------- |
+| `3000` |         |
+
+| ENV VARIABLE                                                            | WHITELIST                                       | WORKING DIR                                       |
+| ----------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> | `If you want to white list any ports list here` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 

@@ -1,4 +1,23 @@
-# Wordpress Mysql
+---
+cover: ../../.gitbook/assets/WordPress-logotype-alternative.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# WordPress MySQL
 
 ### <mark style="color:blue;">What's WordPress?</mark>
 
@@ -6,22 +25,22 @@ WordPress is a dynamic, open-source content management system, coded in hypertex
 
 **Key Points:**
 
-1. **Open-Source CMS:** WordPress is freely accessible, offering a flexible foundation for website creation.
+1. <mark style="color:orange;">**Open-Source CMS**</mark>**:** WordPress is freely accessible, offering a flexible foundation for website creation.
 2. **PHP-Powered:** The core of WordPress is written in PHP, a versatile scripting language.
-3. **Database Pairing:** WordPress relies on MySQL or MariaDB databases to store content, settings, and more.
+3. <mark style="color:orange;">**Database Pairing**</mark>**:** WordPress relies on MySQL or MariaDB databases to store content, settings, and more.
 4. **HTTPS Supported:** Security is prioritized with built-in HTTPS support, encrypting data transmission.
 
 ### <mark style="color:blue;">**Working in Brief**</mark>
 
-1. **Content Creation:** Craft and publish web content through an intuitive dashboard.
+1. <mark style="color:orange;">**Content Creation**</mark>**:** Craft and publish web content through an intuitive dashboard.
 2. **Database Interaction:** WordPress communicates with the MySQL/MariaDB database to store and retrieve content, settings, and user data.
-3. **Themes & Plugins:** Enhance functionality and design using themes for appearance and plugins for added features.
+3. <mark style="color:orange;">**Themes & Plugins**</mark>**:** Enhance functionality and design using themes for appearance and plugins for added features.
 4. **Dynamic Pages:** PHP processes user requests, dynamically generating web pages and assembling content.
-5. **HTTPS Encryption:** Data transmitted between users and the website is encrypted, enhancing security.
+5. <mark style="color:orange;">**HTTPS Encryption**</mark>**:** Data transmitted between users and the website is encrypted, enhancing security.
 
 WordPress simplifies website management, offering a user-friendly interface for content creation and a robust ecosystem of themes and plugins to customize your site's look and features.
 
-#### Installation&#x20;
+### <mark style="color:blue;">Steps And Procedure</mark>
 
 &#x20;**Docker image of this application consists of following layers :**
 
@@ -41,24 +60,8 @@ Exposing 3306 and 80 ports on the container.
 
 * &#x20;Go to create apps page and Search scaleinfinite/wpmysql on the search bar.
 * &#x20;Click on install button.
-* Fill all the reqired feilds.
-
-| PRODUCT NAME |
-| ------------ |
-| `Wpmysql`    |
-
-`PROTOCOL`
-
-| HTTP | TCP/UDP |
-| ---- | ------- |
-| `80` |         |
-
+* Fill all the reqired fields.
 * &#x20;click on Advanced.
-
-| ENV VARIABLE        | WHITELIST                                       | WORKING DIR                   |
-| ------------------- | ----------------------------------------------- | ----------------------------- |
-| `Give env variable` | `If you want to white list any ports list here` | `WORKDIR for the application` |
-
 * &#x20;Click on the Install button.
 * You will be redirected to My Apps page, Here you can find all the applications you deployed.
 * Copy the wpmysql application Hostname without NodePort and search the Url.
@@ -66,6 +69,22 @@ Exposing 3306 and 80 ports on the container.
 * After selecting language you will be directly redirected to site creation page and fill all the fields like site name and username and so on.
 * Then Login with that detials.
 * Then you will be redirected to the WordPress Admin dashboard.
+
+### <mark style="color:blue;">Installation</mark>&#x20;
+
+| Docker Image                                     |
+| ------------------------------------------------ |
+| [`Wpmysql`](https://hub.docker.com/\_/wordpress) |
+
+`PROTOCOL`
+
+| HTTP | TCP/UDP |
+| ---- | ------- |
+| `80` |         |
+
+| ENV VARIABLE                                                            | WHITELIST                                       | WORKING DIR                                       |
+| ----------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> | `If you want to white list any ports list here` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
 
 ### <mark style="color:blue;">Visual snapshots</mark>
 

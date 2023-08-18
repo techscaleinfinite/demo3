@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/images (1).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Mysql deployment
 
 ### <mark style="color:blue;">**What's MySQL?**</mark>
@@ -8,48 +27,48 @@ MySQL is a popular open-source Relational Database Management System (RDBMS) tha
 
 **Key Points:**
 
-1. **Open-Source RDBMS:** MySQL is freely accessible, providing a robust RDBMS solution.
+1. <mark style="color:orange;">**Open-Source RDBMS**</mark>**:** MySQL is freely accessible, providing a robust RDBMS solution.
 2. **Structured Data:** It stores data in tables with predefined schemas, ensuring data integrity.
-3. **SQL Queries:** MySQL uses SQL (Structured Query Language) for data manipulation and retrieval.
+3. <mark style="color:orange;">**SQL Queries**</mark>**:** MySQL uses SQL (Structured Query Language) for data manipulation and retrieval.
 4. **Scalability:** It's scalable for small to large-scale applications, supporting high data volumes.
-5. **Data Integrity:** MySQL enforces data integrity rules, preventing inconsistencies.
+5. <mark style="color:orange;">**Data Integrity**</mark>**:** MySQL enforces data integrity rules, preventing inconsistencies.
 
 ### <mark style="color:blue;">**Working in Brief:**</mark>
 
-1. **Database Creation:** Set up databases to store related data tables.
+1. <mark style="color:orange;">**Database Creation**</mark>**:** Set up databases to store related data tables.
 2. **Table Definition:** Create tables with predefined column names and data types.
 3. **Data Insertion:** Populate tables with data using SQL INSERT statements.
-4. **Data Retrieval:** Use SQL SELECT queries to retrieve specific data from tables.
+4. <mark style="color:orange;">**Data Retrieval**</mark>**:** Use SQL SELECT queries to retrieve specific data from tables.
 5. **Data Manipulation:** Update, delete, or modify data using SQL UPDATE and DELETE statements.
 
 MySQL efficiently manages structured data through its table-based approach, ensuring data accuracy and enabling data-driven applications. Its open-source nature, reliability, and wide community support make it a go-to choice for various web and software projects.
 
-### <mark style="color:blue;">Installation</mark>
+### <mark style="color:blue;">Steps And Procedure</mark>
 
-* **This deployment uses the official Mysql Docker image.**
-* Go to create apps page and Search mysql on the search bar.
+* **This deployment uses the official MySQL Docker image.**
+* Go to create apps page and Search MySQL on the search bar.
 * &#x20;Click on install button.
-* &#x20;Fill all the reqired feilds.
+* &#x20;Fill all the required fields.
+* &#x20;click on Advanced.
+* &#x20;Click on the Install button.
+* &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
+* &#x20;Copy the mysql application Hostname without NodePort and search the Url.
 
-| PRODUCT NAME |
-| ------------ |
-| `mysql`      |
+### <mark style="color:blue;">Installation</mark>&#x20;
+
+| Docker Image                               |
+| ------------------------------------------ |
+| [`mysql`](https://hub.docker.com/\_/mysql) |
 
 `PROTOCOL`
 
 | HTTP | TCP/UDP |
 | ---- | ------- |
-| `80` |         |
+|      | 3306    |
 
-* &#x20;click on Advanced.
-
-| ENV VARIABLE        | WHITELIST                                       | WORKING DIR                   |
-| ------------------- | ----------------------------------------------- | ----------------------------- |
-| `Give env variable` | `If you want to white list any ports list here` | `WORKDIR for the application` |
-
-* &#x20;Click on the Install button.
-* &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the mysql application Hostname without NodePort and search the Url.
+| ENV VARIABLE                                                            | WHITELIST                                       | WORKING DIR                                       |
+| ----------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> | `If you want to white list any ports list here` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
 
 ### <mark style="color:blue;">Visual Snapshot</mark>
 

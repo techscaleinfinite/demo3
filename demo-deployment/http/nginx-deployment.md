@@ -1,31 +1,55 @@
+---
+cover: ../../.gitbook/assets/NGINX-logo-rgb-large (1).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Nginx deployment
 
 ### <mark style="color:blue;">What's is Nginx?</mark>
 
 Nginx is more than a web server; it's a multitool for your online presence:
 
-* **Web Server:** Delivers web content quickly and efficiently to users.
-* **Reverse Proxy:** Safeguards applications by managing external requests.
-* **Load Balancer:** Distributes traffic among multiple servers for optimal performance.
-* **Mail Proxy:** Routes emails effectively, improving email infrastructure.
-* **HTTP Cache:** Stores and serves frequently accessed resources for faster delivery.
+* <mark style="color:orange;">**Web Server**</mark>**:** Delivers web content quickly and efficiently to users.
+* <mark style="color:orange;">**Reverse Proxy**</mark>**:** Safeguards applications by managing external requests.
+* <mark style="color:orange;">**Load Balancer**</mark>**:** Distributes traffic among multiple servers for optimal performance.
+* <mark style="color:orange;">**Mail Proxy**</mark>**:** Routes emails effectively, improving email infrastructure.
+* <mark style="color:orange;">**HTTP Cache**</mark>**:** Stores and serves frequently accessed resources for faster delivery.
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
 Nginx's event-driven architecture handles multiple connections simultaneously, making it perfect for high-traffic scenarios. It's resource-efficient and enhances application performance, all while being open-source and free.
 
-Nginx: Streamline, secure, and supercharge your web operations
-
-### <mark style="color:blue;">Installation steps</mark>
+<mark style="color:blue;">Nginx: Streamline, secure, and supercharge your web operations</mark>
 
 * &#x20;<mark style="background-color:purple;">**This deployment uses the official Nginx Docker image.**</mark>
 * &#x20;Go to create apps page and Search nginx on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the required fields.
+* &#x20;click on Advanced.
+* Click on the Install button.
+* You will be redirected to My Apps page, Here you can find all the applications you deployed.
+* &#x20;Copy the nginx application Hostname without NodePort and search the Url.
+* &#x20;Now you can able to access the nginx webpage.
 
-| PRODUCT NAME |
-| ------------ |
-| `nginx`      |
+### <mark style="color:blue;">Installation</mark>
+
+| Docker Image                               |
+| ------------------------------------------ |
+| [`nginx`](https://hub.docker.com/\_/nginx) |
 
 `PROTOCOL`
 
@@ -33,16 +57,11 @@ Nginx: Streamline, secure, and supercharge your web operations
 | ---- | ------- |
 | `80` |         |
 
-* &#x20;click on Advanced.
+| ENV VARIABLE                                                            | WHITELIST                                       | WORKING DIR                                       |
+| ----------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> | `If you want to white list any ports list here` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
 
-| ENV VARIABLE        | WHITELIST                                       | WORKING DIR                   |
-| ------------------- | ----------------------------------------------- | ----------------------------- |
-| `Give env variable` | `If you want to white list any ports list here` | `WORKDIR for the application` |
 
-* &#x20;Click on the Install button.
-* You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the nginx application Hostname without NodePort and search the Url.
-* &#x20;Now you can able to access the nginx webpage.
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 

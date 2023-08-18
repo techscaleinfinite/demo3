@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/USA-Dedicated-Server-12.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Linux VPS deployment
 
 ### <mark style="color:blue;">What's Linux VPS?</mark>
@@ -22,7 +41,7 @@ The Linux Virtual Private Server (VPS) is your personal virtual environment that
 
 With Linux VPS, you gain a versatile, isolated environment that's ready to adapt to your needs – all without the hassle of hardware setup.
 
-### Installations
+### &#x20;<mark style="color:blue;">Steps And Procedure</mark>
 
 * &#x20;**Docker image of this application consists of following layers**&#x20;
 
@@ -43,11 +62,19 @@ Exposing the port '80' to access the vps.
 
 * &#x20;Go to create apps page and Search scaleinfinite/linuxvps on the search bar.
 * Click on install button.
-* &#x20;Fill all the reqired feilds.
+* &#x20;Fill all the required fields.
+* &#x20;click on Advanced.
+* Click on the Install button.
+* You will be redirected to My Apps page, Here you can find all the applications you deployed.
+* Copy the Linuxvps application Hostname without NodePort and search the Url.
+* &#x20;Now you can see a similar window like this.
+* &#x20;From pressing the LADE symbol button you can access to terminal and file-system etc..,
 
-| PRODUCT NAME |
-| ------------ |
-| `Linux VPS`  |
+### &#x20;<mark style="color:blue;">Installation</mark>
+
+| Docker Image                                                   |
+| -------------------------------------------------------------- |
+| [`Linux VPS`](https://hub.docker.com/r/scaleinfinite/linuxvps) |
 
 `PROTOCOL`
 
@@ -55,17 +82,9 @@ Exposing the port '80' to access the vps.
 | ---- | ------- |
 | `80` |         |
 
-* &#x20;click on Advanced.
-
-| ENV VARIABLE        | WHITELIST                                                      | WORKING DIR                   |
-| ------------------- | -------------------------------------------------------------- | ----------------------------- |
-| `Give env variable` | `If you want to white list any ports list here` `Example` `82` | `WORKDIR for the application` |
-
-* Click on the Install button.
-* You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* Copy the Linuxvps application Hostname without NodePort and search the Url.
-* &#x20;Now you can see a similar window like this.
-* &#x20;From pressing the LADE symbol button you can access to terminal and file-system etc..,
+| ENV VARIABLE                                                            | WHITELIST                                                      | WORKING DIR                                       |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------- |
+| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> | `If you want to white list any ports list here` `Example` `82` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 

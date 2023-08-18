@@ -27,14 +27,14 @@ layout:
 
 At ScaleInfinite, we're revolutionizing application hosting, so you can focus on what truly matters - your vision. Explore how we're shaping the future of deployment:
 
-* **Effortless Hosting:** Simplify application hosting with streamlined infrastructure management, leaving you free from worries about provisioning, maintenance, and scaling.
-* **Instant Access:** Get your applications up and running with just a few clicks, granting rapid accessibility to your hosted content.
-* **Rich Telemetry Insights:** Benefit from detailed telemetry data, including CPU usage, Memory usage, I/O, and Network usage, along with a public IP address.
-* **Tailored Security:** Choose the security level that matches your application needs, offering different layers of protection to ensure your data's safety.
-* **User-Friendly Platform:** Designed for everyone, our platform bridges the gap between technical and non-technical users. Easily deploy and manage applications securely.
-* **Limitless Application Freedom:** Break free from restrictions. Deploy any publicly available application from Docker Hub or sync from your private registry.
-* **Instant Deployment:** Link your Docker Hub account and deploy images in mere seconds, allowing you to save time and focus on innovation.
-* **Insights Dashboard:** Monitor your account and application metrics, including CPU usage, Memory usage, I/O, and Network usage, through the intuitive Dashboard section.
+* <mark style="color:orange;">**Effortless Hosting**</mark>**:** Simplify application hosting with streamlined infrastructure management, leaving you free from worries about provisioning, maintenance, and scaling.
+* <mark style="color:orange;">**Instant Access**</mark>**:** Get your applications up and running with just a few clicks, granting rapid accessibility to your hosted content.
+* <mark style="color:orange;">**Rich Telemetry Insights**</mark>**:** Benefit from detailed telemetry data, including CPU usage, Memory usage, I/O, and Network usage, along with a public IP address.
+* <mark style="color:orange;">**Tailored Security**</mark>**:** Choose the security level that matches your application needs, offering different layers of protection to ensure your data's safety.
+* <mark style="color:orange;">**User-Friendly Platform**</mark>**:** Designed for everyone, our platform bridges the gap between technical and non-technical users. Easily deploy and manage applications securely.
+* <mark style="color:orange;">**Limitless Application Freedom**</mark>**:** Break free from restrictions. Deploy any publicly available application from Docker Hub or sync from your private registry.
+* <mark style="color:orange;">**Instant Deployment**</mark>**:** Link your Docker Hub account and deploy images in mere seconds, allowing you to save time and focus on innovation.
+* <mark style="color:orange;">**Insights Dashboard**</mark>**:** Monitor your account and application metrics, including CPU usage, Memory usage, I/O, and Network usage, through the intuitive Dashboard section.
 
 Join ScaleInfinite and experience hosting like never before. Whether you're a startup, enterprise, or visionary individual, we're here to elevate your applications and empower your journey. Welcome to limitless possibilities.
 

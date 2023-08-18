@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/119-1192475_faq.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # FAQ
 
 **Do my applications Highly available, scalable, and reliable?**

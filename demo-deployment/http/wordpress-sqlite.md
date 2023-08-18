@@ -1,28 +1,47 @@
-# Wordpress Sqlite
+---
+cover: ../../.gitbook/assets/WordPress-logotype-alternative (1).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-### <mark style="color:blue;">What's WordPress Sqlite?</mark>
+# WordPress SQLite
 
-.WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS.SQLite is an open-source SQL database system that stores data in a text file on a device. It provides a simple and efficient way to manage and retrieve structured information locally.
+### <mark style="color:blue;">What's WordPress SQLite?</mark>
+
+WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS. SQLite is an open-source SQL database system that stores data in a text file on a device. It provides a simple and efficient way to manage and retrieve structured information locally.
 
 **Key Points:**
 
-1. **Open-Source SQL:** SQLite is freely accessible, offering SQL database capabilities for local storage.
+1. <mark style="color:orange;">**Open-Source SQL**</mark>**:** SQLite is freely accessible, offering SQL database capabilities for local storage.
 2. **Text File Storage:** Data is stored in a single text file, eliminating the need for a separate server.
-3. **Lightweight:** SQLite is compact, making it suitable for applications with limited resources.
+3. <mark style="color:orange;">**Lightweight**</mark>**:** SQLite is compact, making it suitable for applications with limited resources.
 4. **Embedded Database:** It's integrated within the application, not requiring a separate database server.
-5. **Self-Contained:** The entire database is contained within a single file, enhancing portability.
+5. <mark style="color:orange;">**Self-Contained**</mark>**:** The entire database is contained within a single file, enhancing portability.
 
 ### <mark style="color:blue;">**Working in Brief**</mark>**:**
 
 1. **Database Creation:** Applications integrate SQLite by creating a database file.
-2. **Table Structure:** Define tables with columns to structure the data.
+2. <mark style="color:orange;">**Table Structure**</mark>**:** Define tables with columns to structure the data.
 3. **Data Storage:** Insert, update, or delete data within the tables.
-4. **SQL Queries:** Utilize SQL queries to retrieve specific information from the database.
+4. <mark style="color:orange;">**SQL Queries**</mark>**:** Utilize SQL queries to retrieve specific information from the database.
 5. **Local Retrieval:** Applications access data directly from the local SQLite file.
 
 SQLite offers a convenient solution for applications that require structured data storage without the complexity of a traditional database system. Its lightweight nature and self-contained design make it an ideal choice for various applications.
 
-### <mark style="color:blue;">Installation</mark>
+### <mark style="color:blue;">Steps And Procedure</mark>&#x20;
 
 &#x20;<mark style="background-color:yellow;">**Docker image of this application consists of following layers :**</mark>
 
@@ -37,24 +56,8 @@ Used PHP scripts to 'install' the SQLite plugin and setting up the database so t
 
 * &#x20;Go to create apps page and Search scaleinfinite/wpsqlite on the search bar.
 * &#x20;Click on install button.
-* Fill all the reqired feilds.
-
-| PRODUCT NAME |
-| ------------ |
-| `Wpsqlite`   |
-
-`PROTOCOL`
-
-| HTTP | TCP/UDP |
-| ---- | ------- |
-| `80` |         |
-
+* Fill all the required fields.
 * &#x20;click on Advanced.
-
-| ENV VARIABLE        | WHITELIST                                       | WORKING DIR     |
-| ------------------- | ----------------------------------------------- | --------------- |
-| `Give env variable` | `If you want to white list any ports list here` | `/var/www/html` |
-
 * &#x20;Click on the Install button.
 * &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
 * &#x20;Copy the wpsqlite application Hostname without NodePort and search the Url.
@@ -62,6 +65,22 @@ Used PHP scripts to 'install' the SQLite plugin and setting up the database so t
 * After selecting language you will be directly redirected to site creation page and fill all the fields like site name and username and so on.
 * Then Login with that detials.
 * Then you will be redirected to the wordpress Admin dashboard.
+
+### <mark style="color:blue;">Installation</mark>
+
+| Docker Image                                      |
+| ------------------------------------------------- |
+| [`Wpsqlite`](https://hub.docker.com/\_/wordpress) |
+
+`PROTOCOL`
+
+| HTTP | TCP/UDP |
+| ---- | ------- |
+| `80` |         |
+
+| ENV VARIABLE                                                            | WHITELIST                                       | WORKING DIR                                       |
+| ----------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> | `If you want to white list any ports list here` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
 
 ### <mark style="color:blue;">Visual SnapShots</mark>
 

@@ -2,10 +2,10 @@
 
 ### <mark style="color:blue;">**Containers**</mark>&#x20;
 
-* **Portable Units:** Containers encapsulate code and dependencies, ensuring swift and reliable application execution across different computing environments.
-* **Docker Container Image:** A compact, self-contained package, encompassing code, runtime, system tools, libraries, and settings, enabling seamless application execution.
-* **Runtime Transformation:** Container images metamorphose into containers during runtime, delivering consistent functionality across varying environments.
-* **Isolation Champions:** Containers shield software from its surroundings, maintaining uniformity irrespective of disparities between development and staging environments.
+* <mark style="color:orange;">**Portable Units**</mark>**:** Containers encapsulate code and dependencies, ensuring swift and reliable application execution across different computing environments.
+* <mark style="color:orange;">**Docker Container Image**</mark>**:** A compact, self-contained package, encompassing code, runtime, system tools, libraries, and settings, enabling seamless application execution.
+* <mark style="color:orange;">**Runtime Transformation**</mark>**:** Container images metamorphose into containers during runtime, delivering consistent functionality across varying environments.
+* <mark style="color:orange;">**Isolation Champions**</mark>**:** Containers shield software from its surroundings, maintaining uniformity irrespective of disparities between development and staging environments.
 
 Experience the power of containers – where reliability and adaptability converge.
 
@@ -15,7 +15,7 @@ Experience the power of containers – where reliability and adaptability conver
 * Boasts an expansive, rapidly evolving ecosystem with abundant services, support, and tools accessible.
 * Empowers you with a robust framework to execute distributed systems resiliently.
 
-A Kubernetes Cluster:
+<mark style="background-color:blue;">A Kubernetes Cluster:</mark>
 
 * Comprises worker machines known as nodes, tasked with executing containerized applications.
 * Every cluster holds at least one worker node.
@@ -27,11 +27,11 @@ Discover Kubernetes, where orchestration transforms containerization into a symp
 
 #### <mark style="color:orange;">**Kubernetes Benefits**</mark>&#x20;
 
-* **Extreme Scaling:** Kubernetes' decoupled architecture empowers diverse scaling approaches. Horizontal scaling for servers, auto and manual scaling for containers, and replication controllers for pods offer unparalleled flexibility.
-* **Swift Deployment:** Enjoy uninterrupted application updates. Kubernetes supports immutable infrastructure, self-healing, and declarative configuration, ensuring seamless deployments without downtime.
-* **High Availability:** Designed for both applications and infrastructure, Kubernetes boasts auto-replacement capabilities to heal crashed pods. Built-in load balancers automatically balance network loads.
-* **Unmatched Portability:** Kubernetes transcends platforms. Embrace it on public clouds, on-premises environments, or multi-cloud setups. Its adaptability thrives in any setting.
-* **Enhanced Security:** Confidential data rests secure within Kubernetes secret objects. Passwords, OAuth tokens, SSH keys – all are safeguarded, enabling easy and secure data replacement.
+* <mark style="color:blue;">**Extreme Scaling**</mark>**:** Kubernetes' decoupled architecture empowers diverse scaling approaches. Horizontal scaling for servers, auto and manual scaling for containers, and replication controllers for pods offer unparalleled flexibility.
+* <mark style="color:blue;">**Swift Deployment**</mark>**:** Enjoy uninterrupted application updates. Kubernetes supports immutable infrastructure, self-healing, and declarative configuration, ensuring seamless deployments without downtime.
+* <mark style="color:blue;">**High Availability**</mark>**:** Designed for both applications and infrastructure, Kubernetes boasts auto-replacement capabilities to heal crashed pods. Built-in load balancers automatically balance network loads.
+* <mark style="color:blue;">**Unmatched Portability**</mark>**:** Kubernetes transcends platforms. Embrace it on public clouds, on-premises environments, or multi-cloud setups. Its adaptability thrives in any setting.
+* <mark style="color:blue;">**Enhanced Security**</mark>**:** Confidential data rests secure within Kubernetes secret objects. Passwords, OAuth tokens, SSH keys – all are safeguarded, enabling easy and secure data replacement.
 
 Delve into the world of Kubernetes – where scalability, speed, availability, portability, and security unite in harmony.
 
