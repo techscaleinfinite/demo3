@@ -44,7 +44,7 @@ Jellyfin simplifies media management, offering a self-hosted solution for stream
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
 * &#x20;<mark style="background-color:yellow;">**This deployment uses the linuxserver/jellyfin Docker image**</mark>**.**
-* &#x20;Go to create apps page and Search linuxserver/jellyfin on the search bar.
+* &#x20;Go to create apps page and Search <mark style="color:orange;">linuxserver/jellyfin</mark> on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the required fields.
 * click on Advanced.
@@ -62,9 +62,9 @@ Jellyfin simplifies media management, offering a self-hosted solution for stream
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                               |
-| ---------------------------------------------------------- |
-| 👉[`Jellyfin`](https://hub.docker.com/r/jellyfin/jellyfin) |
+| Docker Image                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------ |
+| [`Jellyfin`](https://hub.docker.com/r/jellyfin/jellyfin)<mark style="background-color:yellow;">👈(click me)</mark> |
 
 | Application name                                                              |
 | ----------------------------------------------------------------------------- |
@@ -131,11 +131,35 @@ By following these steps, you can effortlessly deploy and JELLY instance with yo
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
-<figure><img src="../../.gitbook/assets/my-apps.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/select-hdd-to-server.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/sftp-upload.png" alt=""><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 161711.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 161749.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 161854.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 161922.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 162015.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 162055.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
 
 ### <mark style="color:blue;">FAQ</mark>
 

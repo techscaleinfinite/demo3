@@ -56,9 +56,9 @@ MySQL efficiently manages structured data through its table-based approach, ensu
 
 ### <mark style="color:blue;">Installation</mark>&#x20;
 
-| Docker Image                                 |
-| -------------------------------------------- |
-| 👉[`mysql`](https://hub.docker.com/\_/mysql) |
+| Docker Image                                                                                         |
+| ---------------------------------------------------------------------------------------------------- |
+| [`mysql`](https://hub.docker.com/\_/mysql)<mark style="background-color:yellow;">👈(click me)</mark> |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |

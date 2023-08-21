@@ -60,7 +60,7 @@ Exposing the port '80' to access the vps.
 
 #### Deploy LinuxVPS on Scaleinfinite
 
-* &#x20;Go to create apps page and Search scaleinfinite/linuxvps on the search bar.
+* &#x20;Go to create apps page and Search <mark style="color:orange;">scaleinfinite/linuxvps</mark> on the search bar.
 * Click on install button.
 * &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
@@ -72,9 +72,9 @@ Exposing the port '80' to access the vps.
 
 ### &#x20;<mark style="color:blue;">Installation</mark>
 
-| Docker Image                                                     |
-| ---------------------------------------------------------------- |
-| 👉[`Linux VPS`](https://hub.docker.com/r/scaleinfinite/linuxvps) |
+| Docker Image                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| [`Linux VPS`](https://hub.docker.com/r/scaleinfinite/linuxvps)<mark style="background-color:yellow;">👈(click me)</mark> |
 
 | Application name                                                              |
 | ----------------------------------------------------------------------------- |
@@ -141,11 +141,17 @@ By following these steps, you can effortlessly deploy an Linux Vps instance with
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
-<figure><img src="../../.gitbook/assets/myapps (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/vps-desktop.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 152739.png" alt=""><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 151320.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 151425.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:blue;">FAQ</mark>
 

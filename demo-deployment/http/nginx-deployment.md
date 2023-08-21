@@ -38,7 +38,7 @@ Nginx's event-driven architecture handles multiple connections simultaneously, m
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
 * &#x20;<mark style="background-color:purple;">**This deployment uses the official Nginx Docker image.**</mark>
-* &#x20;Go to create apps page and Search nginx on the search bar.
+* &#x20;Go to create apps page and Search <mark style="color:orange;">nginx</mark> on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
@@ -49,9 +49,9 @@ Nginx's event-driven architecture handles multiple connections simultaneously, m
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                 |
-| -------------------------------------------- |
-| 👉[`nginx`](https://hub.docker.com/\_/nginx) |
+| Docker Image                                                                                         |
+| ---------------------------------------------------------------------------------------------------- |
+| [`nginx`](https://hub.docker.com/\_/nginx)<mark style="background-color:yellow;">👈(click me)</mark> |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |
@@ -118,9 +118,17 @@ By following these steps, you can effortlessly deploy an NGINX instance with you
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
-<figure><img src="../../.gitbook/assets/myapps (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 152047.png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 150405 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 150443 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:blue;">FAQ</mark>
 

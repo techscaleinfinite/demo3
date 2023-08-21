@@ -44,7 +44,7 @@ Grafana transforms raw data into visually engaging insights, enhancing data-driv
 ### <mark style="color:blue;">Steps And Procedure</mark>&#x20;
 
 * &#x20;<mark style="background-color:yellow;">**This deployment uses the official Grafana Docker image.**</mark>
-* &#x20;Go to create apps page and Search grafana on the search bar.
+* &#x20;Go to create apps page and Search <mark style="color:orange;">grafana</mark> on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
@@ -58,9 +58,9 @@ Grafana transforms raw data into visually engaging insights, enhancing data-driv
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                            |
-| ------------------------------------------------------- |
-| 👉[`grafana`](https://hub.docker.com/r/grafana/grafana) |
+| Docker Image                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------- |
+| [`grafana`](https://hub.docker.com/r/grafana/grafana)<mark style="background-color:yellow;">👈(click me)</mark> |
 
 | Application name                                                                 |
 | -------------------------------------------------------------------------------- |
@@ -72,7 +72,7 @@ Grafana transforms raw data into visually engaging insights, enhancing data-driv
 
 <mark style="background-color:yellow;">`PROTOCOL`</mark>
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80/3000</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -127,13 +127,25 @@ By following these steps, you can effortlessly deploy an GRAFANA instance with y
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
-<figure><img src="../../.gitbook/assets/myapps (7).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/grafana-login (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/datasources (1).png" alt=""><figcaption></figcaption></figure>
+<div>
 
-<figure><img src="../../.gitbook/assets/grafana-dashboard.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 163652.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 164123.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/datasources (2).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/grafana-dashboard (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:blue;">FAQ</mark>
 

@@ -61,7 +61,7 @@ And exposing 3306, 22 and 80 ports.
 
 #### Deploy Xampp on Scaleinfinite
 
-* &#x20;Go to create apps page and Search scaleinfinite/xampp on the search bar.
+* &#x20;Go to create apps page and Search <mark style="color:orange;">scaleinfinite/xampp</mark> on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
@@ -75,9 +75,9 @@ And exposing 3306, 22 and 80 ports.
 
 ### <mark style="color:blue;">Installation</mark>&#x20;
 
-| Docker Image                                          |
-| ----------------------------------------------------- |
-| 👉[`Xampp`](https://hub.docker.com/r/tomsik68/xampp/) |
+| Docker Image                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------- |
+| [`Xampp`](https://hub.docker.com/r/tomsik68/xampp/)<mark style="background-color:yellow;">👈(click me)</mark> |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |
@@ -144,13 +144,21 @@ By following these steps, you can effortlessly deploy an XAMPP instance with you
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
-<figure><img src="../../.gitbook/assets/myapps (9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/xampp (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/phpmyadmin (1) (1).png" alt=""><figcaption></figcaption></figure>
+<div>
 
-<figure><img src="../../.gitbook/assets/index (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 173602.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 173629.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 173706.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:blue;">FAQ</mark>
 

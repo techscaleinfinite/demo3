@@ -68,9 +68,9 @@ Used PHP scripts to 'install' the SQLite plugin and setting up the database so t
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                        |
-| --------------------------------------------------- |
-| 👉[`Wpsqlite`](https://hub.docker.com/\_/wordpress) |
+| Docker Image                                                                                                |
+| ----------------------------------------------------------------------------------------------------------- |
+| [`Wpsqlite`](https://hub.docker.com/\_/wordpress)<mark style="background-color:yellow;">👈(click me)</mark> |
 
 | Application name                                                                   |
 | ---------------------------------------------------------------------------------- |
@@ -137,25 +137,23 @@ By following these steps, you can effortlessly deploy an NGINX instance with you
 
 ### <mark style="color:blue;">Visual SnapShots</mark>
 
+
+
 <div>
 
-<figure><img src="../../.gitbook/assets/wordpress-dashboard (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152422 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/wordpress-login (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152458 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/wordpress-welcome (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152840.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/wordpress-lang (2).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/myapps (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152910 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

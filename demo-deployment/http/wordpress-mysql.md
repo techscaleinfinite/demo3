@@ -58,7 +58,7 @@ Exposing 3306 and 80 ports on the container.
 
 #### Deploy Wordpress Mysql on Scaleinfinite
 
-* &#x20;Go to create apps page and Search scaleinfinite/wpmysql on the search bar.
+* &#x20;Go to create apps page and Search <mark style="color:orange;">scaleinfinite/wpmysql</mark> on the search bar.
 * &#x20;Click on install button.
 * Fill all the reqired fields.
 * &#x20;click on Advanced.
@@ -72,9 +72,9 @@ Exposing 3306 and 80 ports on the container.
 
 ### <mark style="color:blue;">Installation</mark>&#x20;
 
-| Docker Image                                       |
-| -------------------------------------------------- |
-| 👉[`Wpmysql`](https://hub.docker.com/\_/wordpress) |
+| Docker Image                                                                                               |
+| ---------------------------------------------------------------------------------------------------------- |
+| [`Wpmysql`](https://hub.docker.com/\_/wordpress)<mark style="background-color:yellow;">👈(click me)</mark> |
 
 | Application name                                                                  |
 | --------------------------------------------------------------------------------- |
@@ -141,15 +141,27 @@ By following these steps, you can effortlessly deploy an Wordpress mysql instanc
 
 ### <mark style="color:blue;">Visual snapshots</mark>
 
-<figure><img src="../../.gitbook/assets/myapps (5).png" alt=""><figcaption></figcaption></figure>
+<div>
 
-<figure><img src="../../.gitbook/assets/wordpress-lang (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152422.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/wordpress-welcome (1).png" alt=""><figcaption></figcaption></figure>
+ 
 
-<figure><img src="../../.gitbook/assets/wordpress-login (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152458.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 153350.png" alt=""><figcaption></figcaption></figure>
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152722.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152910.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/spaces_tKO1h8ymGqNtYiKTJ8WZ_uploads_SfraJPEmMJwthKGO4lsE_Screenshot 2023-08-12 153350.webp" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:purple;">FAQ</mark>
 

@@ -44,7 +44,7 @@ Drupal empowers website management by providing flexibility, scalability, and a 
 ### &#x20;<mark style="color:blue;">Steps And Procedure</mark>
 
 * &#x20;<mark style="background-color:orange;">**This deployment uses the official Drupal Docker image.**</mark>
-* &#x20;Go to create apps page and Search Drupal on the search bar.
+* &#x20;Go to create apps page and Search <mark style="background-color:orange;">Drupal</mark> on the search bar.
 * Click on install button.
 * &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
@@ -56,9 +56,9 @@ Drupal empowers website management by providing flexibility, scalability, and a 
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                   |
-| ---------------------------------------------- |
-| 👉[`drupal`](https://hub.docker.com/\_/drupal) |
+| Docker Image                                                                                           |
+| ------------------------------------------------------------------------------------------------------ |
+| [`drupal`](https://hub.docker.com/\_/drupal)<mark style="background-color:yellow;">👈(click me)</mark> |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -125,11 +125,29 @@ By following these steps, you can effortlessly deploy an drupal instance with yo
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
-<figure><img src="../../.gitbook/assets/myapps (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/drupal-login.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 154105.png" alt=""><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 155639 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 155724 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 160110 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 160414 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/spaces_tKO1h8ymGqNtYiKTJ8WZ_uploads_kuTabiFuRQL5mCpFhJ1f_Screenshot 2023-08-12 154105 (1).webp" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:blue;">FAQ</mark>
 
