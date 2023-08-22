@@ -58,9 +58,9 @@ Grafana transforms raw data into visually engaging insights, enhancing data-driv
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------- |
-| [`grafana`](https://hub.docker.com/r/grafana/grafana)<mark style="background-color:yellow;">👈(click me)</mark> |
+| Docker Image                                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------- |
+| [`grafana`](https://hub.docker.com/r/grafana/grafana)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
 | Application name                                                                 |
 | -------------------------------------------------------------------------------- |

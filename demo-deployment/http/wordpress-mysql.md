@@ -72,9 +72,9 @@ Exposing 3306 and 80 ports on the container.
 
 ### <mark style="color:blue;">Installation</mark>&#x20;
 
-| Docker Image                                                                                               |
-| ---------------------------------------------------------------------------------------------------------- |
-| [`Wpmysql`](https://hub.docker.com/\_/wordpress)<mark style="background-color:yellow;">👈(click me)</mark> |
+| Docker Image                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| [`Wpmysql`](https://hub.docker.com/\_/wordpress)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
 | Application name                                                                  |
 | --------------------------------------------------------------------------------- |

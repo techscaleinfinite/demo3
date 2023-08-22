@@ -72,9 +72,9 @@ Exposing the port '80' to access the vps.
 
 ### &#x20;<mark style="color:blue;">Installation</mark>
 
-| Docker Image                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------ |
-| [`Linux VPS`](https://hub.docker.com/r/scaleinfinite/linuxvps)<mark style="background-color:yellow;">👈(click me)</mark> |
+| Docker Image                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [`Linux VPS`](https://hub.docker.com/r/scaleinfinite/linuxvps)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
 | Application name                                                              |
 | ----------------------------------------------------------------------------- |

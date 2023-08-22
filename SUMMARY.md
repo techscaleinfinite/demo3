@@ -26,6 +26,7 @@
   * [Adding a Docker Account](getting-started/docker-account.md)
   * [Create account](getting-started/create-account.md)
   * [Docker image](getting-started/docker-image.md)
+* [Extra](extra.md)
 * [FAQ](faq/README.md)
   * [FAQ](faq/faq.md)
 * [Join Us](join-us.md)

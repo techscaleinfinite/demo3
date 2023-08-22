@@ -68,9 +68,9 @@ Used PHP scripts to 'install' the SQLite plugin and setting up the database so t
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                                                                                |
-| ----------------------------------------------------------------------------------------------------------- |
-| [`Wpsqlite`](https://hub.docker.com/\_/wordpress)<mark style="background-color:yellow;">👈(click me)</mark> |
+| Docker Image                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| [`Wpsqlite`](https://hub.docker.com/\_/wordpress)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
 | Application name                                                                   |
 | ---------------------------------------------------------------------------------- |

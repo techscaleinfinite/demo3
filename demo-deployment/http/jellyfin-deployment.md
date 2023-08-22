@@ -62,9 +62,9 @@ Jellyfin simplifies media management, offering a self-hosted solution for stream
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------ |
-| [`Jellyfin`](https://hub.docker.com/r/jellyfin/jellyfin)<mark style="background-color:yellow;">👈(click me)</mark> |
+| Docker Image                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [`Jellyfin`](https://hub.docker.com/r/jellyfin/jellyfin)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
 | Application name                                                              |
 | ----------------------------------------------------------------------------- |

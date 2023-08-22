@@ -54,9 +54,9 @@ ScaleInfinite's personal Minecraft server provides an ideal platform for seamles
 
 ### <mark style="color:blue;">Installation</mark>
 
-| PRODUCT NAME                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| [`minecraft`](https://hub.docker.com/r/itzg/minecraft-server)<mark style="background-color:yellow;">👈(click me)</mark> |
+| PRODUCT NAME                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [`minecraft`](https://hub.docker.com/r/itzg/minecraft-server)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
 | Application name                                                                   |
 | ---------------------------------------------------------------------------------- |

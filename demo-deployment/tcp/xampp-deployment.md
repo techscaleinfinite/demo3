@@ -75,9 +75,9 @@ And exposing 3306, 22 and 80 ports.
 
 ### <mark style="color:blue;">Installation</mark>&#x20;
 
-| Docker Image                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------- |
-| [`Xampp`](https://hub.docker.com/r/tomsik68/xampp/)<mark style="background-color:yellow;">👈(click me)</mark> |
+| Docker Image                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------- |
+| [`Xampp`](https://hub.docker.com/r/tomsik68/xampp/)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |

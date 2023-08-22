@@ -49,9 +49,9 @@ Nginx's event-driven architecture handles multiple connections simultaneously, m
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                                                                         |
-| ---------------------------------------------------------------------------------------------------- |
-| [`nginx`](https://hub.docker.com/\_/nginx)<mark style="background-color:yellow;">👈(click me)</mark> |
+| Docker Image                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| [`nginx`](https://hub.docker.com/\_/nginx)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |
