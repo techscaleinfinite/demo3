@@ -134,7 +134,7 @@ By following these steps, you can effortlessly deploy an NGINX instance with you
 
 Check out our youtube video for more clarification.
 
-[https://youtu.be/dQzn-G4iwUw](https://youtu.be/dQzn-G4iwUw)
+{% embed url="https://youtu.be/dQzn-G4iwUw" %}
 
 
 
