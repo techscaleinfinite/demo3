@@ -15,7 +15,6 @@
     * [Custom Docker Image](demo-deployment/http/custom-docker-image/README.md)
       * [Simple Static Website](demo-deployment/http/custom-docker-image/simple-static-website.md)
       * [Simple Website with Node.js](demo-deployment/http/custom-docker-image/simple-website-with-node.js.md)
-    * [Page](demo-deployment/http/page.md)
     * [Nginx deployment](demo-deployment/http/nginx-deployment.md)
     * [Linux VPS deployment](demo-deployment/http/linux-vps-deployment.md)
     * [WordPress MySQL](demo-deployment/http/wordpress-mysql.md)

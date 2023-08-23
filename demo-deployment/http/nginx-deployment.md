@@ -130,6 +130,16 @@ By following these steps, you can effortlessly deploy an NGINX instance with you
 
 </div>
 
+### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+
+Check out our youtube video for more clarification.
+
+[https://youtu.be/dQzn-G4iwUw](https://youtu.be/dQzn-G4iwUw)
+
+
+
+
+
 ### <mark style="color:blue;">FAQ</mark>
 
 **About nginx image we used.**
