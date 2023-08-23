@@ -121,11 +121,64 @@ If you choose Advanced option:
 7. <mark style="color:orange;">**Installation**</mark>**:**
    * Click the "Install" button to initiate the deployment process.
 
+
+
 By following these steps, you can effortlessly deploy an MYSQL instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
+
+<mark style="color:orange;">**Connecting to MySQL Database via MySQL Client**</mark>
+
+When deploying a MySQL application, you can't directly connect to it via a web browser as you would with HTTP applications. Instead, you need to use a MySQL client to establish a connection using the application's IP address, username, and password. Here's how to do it:
+
+1. **Install MySQL Client:** If you don't have MySQL client installed, you can download and install it on your local machine from the official MySQL website.
+2. **Gather Connection Details:** After deploying your MySQL application, note down its IP address, username, and password. You might have received these details during the deployment process or through an email.
+3. **Open MySQL Client:** Open your MySQL client application on your local machine.
+4. **Create a New Connection:** Look for an option to create a new connection or establish a new session. This might vary based on the MySQL client you are using.
+5. **Enter Connection Details:** In the connection setup, provide the following details:
+   * Host: The IP address of your deployed MySQL application.
+   * Username: The MySQL username associated with your application.
+   * Password: The corresponding password for the provided username.
+6. **Connect:** Once you've entered the details, click on the "Connect" or "Log In" button to establish a connection.
+7. **Execute Queries:** After successfully connecting, you'll be able to execute SQL queries, manage databases, and perform various database-related operations using the MySQL client interface.
 
 ### <mark style="color:blue;">Visual Snapshot</mark>
 
-<figure><img src="../../.gitbook/assets/my.png" alt=""><figcaption></figcaption></figure>
+
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 160349.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 153655.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 154843.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 161329.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 161407.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 163544.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 163811.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 170133 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
 
 
 

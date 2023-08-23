@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Scale Infinite Welcomes you](README.md)
+  * [About Scale Infinite](scale-infinite-welcomes-you/about-scale-infinite.md)
+  * [Cloud float](scale-infinite-welcomes-you/cloud-float.md)
+  * [Containers and Kubernetes](<scale-infinite-welcomes-you/containers-and-kubernetes (1).md>)
+  * [Managed Kubernetes](<scale-infinite-welcomes-you/managed-kubernetes (1).md>)
+* [Scale Infinite Welcomes you](<README (1).md>)
   * [About Scale Infinite](scale-infinite-welcomes-you/about-scaleinfinite.md)
   * [Cloud float](scale-infinite-welcomes-you/easy-application-deployments.md)
   * [Containers and Kubernetes](scale-infinite-welcomes-you/containers-and-kubernetes.md)
@@ -10,6 +15,7 @@
     * [Custom Docker Image](demo-deployment/http/custom-docker-image/README.md)
       * [Simple Static Website](demo-deployment/http/custom-docker-image/simple-static-website.md)
       * [Simple Website with Node.js](demo-deployment/http/custom-docker-image/simple-website-with-node.js.md)
+    * [Page](demo-deployment/http/page.md)
     * [Nginx deployment](demo-deployment/http/nginx-deployment.md)
     * [Linux VPS deployment](demo-deployment/http/linux-vps-deployment.md)
     * [WordPress MySQL](demo-deployment/http/wordpress-mysql.md)
