@@ -1,4 +1,6 @@
-# Extra
+# Concepts
+
+### <mark style="color:orange;">Some Key Concepts</mark>
 
 <mark style="color:orange;">**App Redeployment and Data Persistence in Kubernetes:**</mark> When you redeploy an application in Kubernetes, the default behavior is to replace the existing pods with new ones containing the updated application. This process involves stopping the old pods and starting new ones. However, there's an important consideration regarding data persistence.
 

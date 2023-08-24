@@ -1,22 +1,22 @@
 # Managed Kubernetes
 
-*   <mark style="color:blue;">Managed Kubernetes</mark>:
+<mark style="color:blue;">Managed Kubernetes</mark>:
 
-    * Third-party providers assume responsibility for successful K8s setup and operation, relieving you of certain or all associated tasks.
-    * "Managed" can encompass dedicated support, hosting with pre-configured environments, or complete hosting and operation, contingent on the vendor.
+* Third-party providers assume responsibility for successful K8s setup and operation, relieving you of certain or all associated tasks.
+* "Managed" can encompass dedicated support, hosting with pre-configured environments, or complete hosting and operation, contingent on the vendor.
 
-    <mark style="color:purple;">Kubernetes' Built-in Features:</mark>
+<mark style="color:purple;">Kubernetes' Built-in Features:</mark>
 
-    * Encompasses scalability, detached credential configuration, self-recovery, workload management, batch execution, and progressive application deployment.
-    * These features demand substantial manual configuration.
+* Encompasses scalability, detached credential configuration, self-recovery, workload management, batch execution, and progressive application deployment.
+* These features demand substantial manual configuration.
 
-    <mark style="color:purple;">Managed Solutions' Power:</mark>
+<mark style="color:purple;">Managed Solutions' Power:</mark>
 
-    * These solutions handle configuration or guide decision-making, simplifying the setup process.
-    * Once operational, they automate routine tasks like updates, scaling, load-balancing, and monitoring.
-    * When coupled with a hosting platform, managed Kubernetes services manage maintenance and configuration of your infrastructure.
+* These solutions handle configuration or guide decision-making, simplifying the setup process.
+* Once operational, they automate routine tasks like updates, scaling, load-balancing, and monitoring.
+* When coupled with a hosting platform, managed Kubernetes services manage maintenance and configuration of your infrastructure.
 
-    Experience Kubernetes' potential with managed solutions, where excellence is curated with simplicity, automation, and attentive care.
+Experience Kubernetes' potential with managed solutions, where excellence is curated with simplicity, automation, and attentive care.
 
 #### Join us
 
