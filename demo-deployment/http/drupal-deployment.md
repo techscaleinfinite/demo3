@@ -149,6 +149,12 @@ By following these steps, you can effortlessly deploy an drupal instance with yo
 
 </div>
 
+### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+
+Check out our youtube video for more clarification.
+
+{% embed url="https://youtu.be/nN4WPumcczM" %}
+
 ### <mark style="color:blue;">FAQ</mark>
 
 **About Drupal image we used.**
