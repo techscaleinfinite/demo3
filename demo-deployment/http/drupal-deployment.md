@@ -153,7 +153,7 @@ By following these steps, you can effortlessly deploy an drupal instance with yo
 
 Check out our youtube video for more clarification.
 
-{% embed url="https://youtu.be/nN4WPumcczM" %}
+{% embed url="https://youtu.be/BxIf3QarbvU" %}
 
 ### <mark style="color:blue;">FAQ</mark>
 

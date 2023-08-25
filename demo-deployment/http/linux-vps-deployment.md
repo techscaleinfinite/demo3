@@ -153,6 +153,14 @@ By following these steps, you can effortlessly deploy an Linux Vps instance with
 
 </div>
 
+### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+
+Check out our youtube video for more clarification.
+
+{% embed url="https://youtu.be/34WoUxoQvzY" %}
+
+
+
 ### <mark style="color:blue;">FAQ</mark>
 
 **About Linux VPS image we used.**
