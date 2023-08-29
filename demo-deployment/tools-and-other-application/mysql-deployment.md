@@ -178,9 +178,13 @@ When deploying a MySQL application, you can't directly connect to it via a web b
 
 </div>
 
+### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+
+Check out our youtube video for more clarification.
 
 
 
+{% embed url="https://youtu.be/dr-P1VnJo-Q" %}
 
 ### <mark style="color:blue;">FAQ</mark>
 
