@@ -21,6 +21,7 @@
     * [Jellyfin Deployment](demo-deployment/http/jellyfin-deployment.md)
     * [Grafana deployment](demo-deployment/http/grafana-deployment.md)
     * [WordPress SQLite](demo-deployment/http/wordpress-sqlite.md)
+    * [Mongo DB](demo-deployment/http/mongo-db.md)
   * [Tcp](demo-deployment/tools-and-other-application/README.md)
     * [Mysql deployment](demo-deployment/tools-and-other-application/mysql-deployment.md)
     * [Minecraft Server](demo-deployment/tools-and-other-application/minecraft-server.md)
