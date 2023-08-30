@@ -160,6 +160,12 @@ By following these steps, you can effortlessly deploy an XAMPP instance with you
 
 </div>
 
+### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+
+Check out our youtube video for more clarification.
+
+{% embed url="https://youtu.be/Eu0i3Gny3VQ" %}
+
 ### <mark style="color:blue;">FAQ</mark>
 
 **About Xampp image we used.**
