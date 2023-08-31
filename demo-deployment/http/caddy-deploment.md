@@ -1,13 +1,27 @@
 ---
 cover: ../../.gitbook/assets/caddy-open-graph.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Caddy
+# Caddy Deploment
 
 ### <mark style="color:blue;">What's is caddy?</mark>
 
-Caddy is an open-source, modern web server that is designed to be simple, efficient, and secure. It aims to make the process of configuring and deploying web services easier by providing a user-friendly interface and automated features
+<mark style="color:orange;">Caddy is an open-source, modern web server that is designed to be simple, efficient, and secure. It aims to make the process of configuring and deploying web services easier by providing a user-friendly interface and automated features.</mark>
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
@@ -17,7 +31,7 @@ Caddy is an open-source, modern web server that is designed to be simple, effici
 
 **3. Reverse Proxy:** Caddy can act as a reverse proxy, forwarding requests to other services based on domain or path matching. This makes it easy to host multiple services on a single server and route traffic to the appropriate backend applications.
 
-**4. Load Balancing:** Caddy supports load balancing across multiple backend servers, distributing incoming traffic to ensure high availability and improved performance.
+**4. **<mark style="color:orange;">**Load Balancing**</mark>**:** Caddy supports load balancing across multiple backend servers, distributing incoming traffic to ensure high availability and improved performance.
 
 **5. Rewrite and Redirection:** Caddy allows you to define URL rewrites and redirections, which can be useful for changing URLs or handling SEO-friendly redirects.
 
@@ -29,15 +43,16 @@ Caddy is an open-source, modern web server that is designed to be simple, effici
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
-* &#x20;<mark style="background-color:purple;">**This deployment uses the official homer caddy image.**</mark>
-* &#x20;Go to create apps page and Search caddy on the search bar.
-* &#x20;Click on install button.
-* &#x20;Fill all the required fields.
-* &#x20;click on Advanced.
-* Click on the Install button.
-* You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the caddy application Hostname without NodePort and search the Url.
-* &#x20;Now you can able to access the caddy webpage.
+&#x20; <mark style="background-color:purple;">**This deployment utilizes the official caddy image. Here's a step-by-step guide to get you started:**</mark>
+
+1. Begin by navigating to the "Create Apps" page and use the search bar to find the cadd application.
+2. Click on the "Install" button to initiate the installation process.
+3. Fill in all the required fields with the necessary information.
+4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
+5. After making your selections, press the "Install" button to proceed.
+6. Once the installation is complete, you'll be directed to the "My Apps" page, where you'll find a list of all the applications you've deployed.
+7. Copy the Hostname of the Caddy application without the NodePort and paste it into your preferred browser's address bar.
+8. Voilà! You're now able to access the  Caddy webpage and explore its content.
 
 ### <mark style="color:blue;">Installation</mark>
 

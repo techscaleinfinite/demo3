@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Vault Warden
+# Vault Warden Deployment
 
 ### <mark style="color:blue;">What's is vault warden?</mark>
 
@@ -26,8 +26,8 @@ Vaultwarden is the new name for the project that was formerly known as "Bitwarde
 Here are the key points about Vaultwarden:
 
 1. **Self-Hosted Password Management**: Vaultwarden allows individuals and organizations to host their own password manager instance, providing control over data storage and privacy.
-2. **Open Source**: The project is open-source, meaning that its source code is available to the public. This fosters transparency, collaboration, and security.
-3. **Security**: Vaultwarden employs strong encryption practices to secure user data. It utilizes end-to-end encryption to protect passwords and other sensitive information.
+2. <mark style="color:orange;">**Open Source**</mark><mark style="color:orange;">:</mark> The project is open-source, meaning that its source code is available to the public. This fosters transparency, collaboration, and security.
+3. <mark style="color:orange;">**Security**</mark><mark style="color:orange;">:</mark> Vaultwarden employs strong encryption practices to secure user data. It utilizes end-to-end encryption to protect passwords and other sensitive information.
 4. **Cross-Platform Support**: Vaultwarden provides browser extensions, mobile apps, and desktop clients for various operating systems, making it convenient for users to access their passwords from different devices.
 5. **Browser Integration**: Browser extensions allow users to autofill passwords and manage their credentials directly from their web browsers.
 6. **Two-Factor Authentication (2FA)**: Vaultwarden supports two-factor authentication, adding an extra layer of security to user accounts.
@@ -40,19 +40,22 @@ Vaultwarden (formerly Bitwarden\_RS) works as a self-hosted password management 
 2. **Installation**: You install the Vaultwarden application on the server. This involves deploying the necessary software components, which include the Vaultwarden server itself, a web server (e.g., Nginx), and a database (e.g., PostgreSQL).
 3. **Database Storage**: Vaultwarden uses a database to store user accounts, encrypted passwords, and other sensitive data. The data is encrypted with strong encryption algorithms, and only the user has the decryption key.
 4. **User Accounts**: Users create accounts on your self-hosted Vaultwarden instance. Each user account is protected with a master password, which is known only to the user. This master password is used to derive the encryption key used to encrypt and decrypt the stored data.
-5. **End-to-End Encryption**: When users add passwords or other items to their Vaultwarden accounts, the data is encrypted on the client side using their master password and the encryption key derived from it. This encrypted data is then sent to the Vaultwarden server.
+5. <mark style="color:orange;">**End-to-End Encryption**</mark><mark style="color:orange;">:</mark> When users add passwords or other items to their Vaultwarden accounts, the data is encrypted on the client side using their master password and the encryption key derived from it. This encrypted data is then sent to the Vaultwarden server.
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
-* &#x20;<mark style="background-color:purple;">**This deployment uses the official vaultwarden Docker image.**</mark>
-* &#x20;Go to create apps page and Search <mark style="color:orange;">vaultwarden/server</mark> on the search bar.
-* &#x20;Click on install button.
-* &#x20;Fill all the required fields.
-* &#x20;click on Advanced.
-* Click on the Install button.
-* You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the vault warden application Hostname without NodePort and search the Url.
-* &#x20;Now you can able to access the vault warden webpage.
+*   &#x20;<mark style="background-color:purple;">**This deployment utilizes the official Vault warden Docker image. Here's a step-by-step guide to get you started:**</mark>
+
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">vaultwarden/server</mark> application.
+    2. Click on the "Install" button to initiate the installation process.
+    3. Fill in all the required fields with the necessary information.
+    4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
+    5. After making your selections, press the "Install" button to proceed.
+    6. Once the installation is complete, you'll be directed to the "My Apps" page, where you'll find a list of all the applications you've deployed.
+    7. Copy the Hostname of the vaultwarden application without the NodePort and paste it into your preferred browser's address bar.
+    8. Voilà! You're now able to access the vaultwarden webpage and explore its content.
+
+    By following these straightforward steps, you'll have successfully deployed the vaultwardem application and gained access to its features through a seamless and user-friendly process.
 
 ### <mark style="color:blue;">Installation</mark>
 

@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/NGINX-logo-rgb-large (1).png
+cover: ../../.gitbook/assets/Nextcloud_Logo.svg.png
 coverY: 0
 layout:
   cover:
@@ -17,48 +17,55 @@ layout:
     visible: true
 ---
 
-# Nginx deployment
+# Next Cloud Deployment
 
-### <mark style="color:blue;">What's is Nginx?</mark>
+### <mark style="color:blue;">What's Next cloud?</mark>
 
-Nginx is more than a web server; it's a multitool for your online presence:
-
-* <mark style="color:orange;">**Web Server**</mark>**:** Delivers web content quickly and efficiently to users.
-* <mark style="color:orange;">**Reverse Proxy**</mark>**:** Safeguards applications by managing external requests.
-* <mark style="color:orange;">**Load Balancer**</mark>**:** Distributes traffic among multiple servers for optimal performance.
-* <mark style="color:orange;">**Mail Proxy**</mark>**:** Routes emails effectively, improving email infrastructure.
-* <mark style="color:orange;">**HTTP Cache**</mark>**:** Stores and serves frequently accessed resources for faster delivery.
+<mark style="color:orange;">"Nextcloud" is an open-source, self-hosted cloud storage and collaboration platform that allows you to store, sync, and share your files, documents, photos, and more. It provides a private and secure alternative to commercial cloud storage services.</mark>
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-Nginx's event-driven architecture handles multiple connections simultaneously, making it perfect for high-traffic scenarios. It's resource-efficient and enhances application performance, all while being open-source and free.
+**1. Installation and Setup:**
 
-<mark style="color:blue;">Nginx: Streamline, secure, and supercharge your web operations</mark>
+* You start by installing the Nextcloud software on a server or hosting provider of your choice. This server becomes your personal cloud storage platform.
+* During the setup process, you create an admin account and configure basic settings.
+
+**2. File Storage and Sync:**
+
+* Nextcloud provides you with a central location to store your files, just like other cloud storage services. You can upload files, create folders, and organize your content.
+
+**3. **<mark style="color:orange;">**File Synchronization:**</mark>
+
+* Nextcloud offers synchronization clients for various platforms, including Windows, macOS, Linux, Android, and iOS. These clients keep your files synchronized across your devices, ensuring that the latest version of your files is available on all your devices.
+
+**4. Sharing and Collaboration:**
+
+* You can easily share files and folders with others using Nextcloud. You have the flexibility to share files publicly or with specific users, and you can set permissions for viewing, editing, or downloading.
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official Nginx Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   &#x20; <mark style="background-color:purple;">**This deployment utilizes the official NextCloud Docker image. Here's a step-by-step guide to get you started:**</mark>
 
-    1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">Nginx</mark> application.
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">nextcloud</mark> application.
     2. Click on the "Install" button to initiate the installation process.
     3. Fill in all the required fields with the necessary information.
     4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
     5. After making your selections, press the "Install" button to proceed.
     6. Once the installation is complete, you'll be directed to the "My Apps" page, where you'll find a list of all the applications you've deployed.
-    7. Copy the Hostname of the Nginx application without the NodePort and paste it into your preferred browser's address bar.
-    8. Voilà! You're now able to access the Nginx webpage and explore its content.
+    7. Copy the Hostname of the <mark style="color:orange;">nextcloud</mark> application without the NodePort and paste it into your preferred browser's address bar.
+    8. Voilà! You're now able to access the  homer webpage and explore its content.
 
-    By following these straightforward steps, you'll have successfully deployed the Nginx application and gained access to its features through a seamless and user-friendly process.
+    By following these straightforward steps, you'll have successfully deployed the <mark style="color:orange;">nextcloud</mark> application and gained access to its features through a seamless and user-friendly process..
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| [`nginx`](https://hub.docker.com/\_/nginx)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| Docker Image                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| [nextcloud](https://hub.docker.com/\_/nextcloud/)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
-| Application name                                                               |
-| ------------------------------------------------------------------------------ |
-| <mark style="background-color:yellow;">Eg: Nginx1(you can put any name)</mark> |
+| Application name                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="background-color:yellow;">Eg:</mark> nextcloud1<mark style="background-color:yellow;">(you can put any name)</mark> |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,7 +73,7 @@ Nginx's event-driven architecture handles multiple connections simultaneously, m
 
 <mark style="background-color:yellow;">`PROTOCOL`</mark>
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td>8080</td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -88,16 +95,16 @@ If you choose Advanced option:
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to NGINX Deployment**</mark>
+<mark style="color:purple;">**Step-by-Step Guide to nextcloud Deployment**</mark>
 
 1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`nginx`</mark>
+   * <mark style="color:orange;">Docker Image Name: nextcloud</mark>
 2. <mark style="color:orange;">**Application Details**</mark>**:**
-   * Application Name: `nginx1`
+   * Application Name: nextcloud
    * Resource Allocation: Set the desired resource allocation from 0-100%.
 3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
-   * Protocol: `HTTP`
-   * Port: `80`
+   * Protocol: HTTP
+   * Port: 8080
 4. <mark style="color:orange;">**Installation Options**</mark>**:**
    * Choose between "Default" or "Advanced" installation.
 5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
@@ -117,7 +124,7 @@ If you choose Advanced option:
 7. <mark style="color:orange;">**Installation**</mark>**:**
    * Click the "Install" button to initiate the deployment process.
 
-By following these steps, you can effortlessly deploy an NGINX instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
+By following these steps, you can effortlessly deploy an nextcloud instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
@@ -125,11 +132,15 @@ By following these steps, you can effortlessly deploy an NGINX instance with you
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 150405 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 160853.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 150443 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 160919.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 161017.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -137,17 +148,15 @@ By following these steps, you can effortlessly deploy an NGINX instance with you
 
 Check out our youtube video for more clarification.
 
-{% embed url="https://youtu.be/7EIoXZbmW9I" %}
-
 
 
 ### <mark style="color:blue;">FAQ</mark>
 
-**About nginx image we used.**
+**About nextcloud image we used.**
 
-This is the official nginx image.
+This is the official nextcloud image.
 
-**Can I deploy my own nginx image with modified configuration ?**
+**Can I deploy my own nextcloud image with modified configuration ?**
 
 Yes, you can simply deploy any version or modified image to our platform by linking your docker hub account to our platform.
 

@@ -3,15 +3,15 @@ cover: ../../.gitbook/assets/ff.png
 coverY: 0
 ---
 
-# Qbittorent
+# Qbittorent Deployment
 
-### <mark style="color:blue;">What's is qbittorent?</mark>
+### <mark style="color:blue;">What's  qbittorent?</mark>
 
 qBittorrent is a free, open-source, and cross-platform BitTorrent client that allows users to download and share files using the BitTorrent protocol. It serves as an alternative to proprietary torrent clients and provides a range of features for managing and controlling torrent downloads. Here are some key points about qBittorrent:
 
 1. **BitTorrent Client**: qBittorrent is designed to handle the downloading and uploading of files through the BitTorrent protocol. This protocol enables peer-to-peer file sharing, where users can exchange parts of a file with each other rather than relying on a single central server.
 2. **Cross-Platform**: qBittorrent is available for various operating systems, including Windows, macOS, Linux, and FreeBSD. This makes it accessible to a wide range of users regardless of their preferred platform.
-3. **Open Source**: qBittorrent is open-source software, which means its source code is publicly available and can be reviewed and audited by the community. This transparency helps ensure the security and integrity of the software.
+3. <mark style="color:orange;">**Open Source**</mark>: qBittorrent is open-source software, which means its source code is publicly available and can be reviewed and audited by the community. This transparency helps ensure the security and integrity of the software.
 4. **User-Friendly Interface**: The user interface of qBittorrent is designed to be intuitive and user-friendly. It provides easy-to-understand controls for adding, managing, and monitoring torrent downloads.
 5. **Search and Discovery**: qBittorrent includes a built-in search function that allows users to search for torrents directly from within the client. This can help users discover new content to download.
 
@@ -21,20 +21,23 @@ qBittorrent is a free, open-source, and cross-platform BitTorrent client that al
 
 1. **Torrent File Creation**: To share a file using qBittorrent, a user first creates a "torrent file." This file contains metadata about the file to be shared, such as its name, size, and a list of tracker servers. A tracker server acts as a central hub that keeps track of all the users downloading and uploading a specific torrent.
 2. **Downloading a Torrent**: When a user wants to download a file, they obtain the torrent file (usually from a website or another user) and open it in qBittorrent. The torrent client uses the tracker server's information to connect to other users who are sharing the same file.
-3. **Peer Discovery**: qBittorrent connects to multiple peers (other users who are downloading or uploading the same file) and exchanges information about the parts of the file they have. Each peer becomes a source of data for others.
+3. <mark style="color:orange;">**Peer Discovery**</mark>: qBittorrent connects to multiple peers (other users who are downloading or uploading the same file) and exchanges information about the parts of the file they have. Each peer becomes a source of data for others.
 4. **Piece Downloading**: The file is divided into small "pieces," and each peer downloads different pieces from multiple sources simultaneously. This parallel downloading increases the overall download speed and helps distribute the load among peers.
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
-* &#x20;<mark style="background-color:purple;">**This deployment uses the official qbit torrent Docker image.**</mark>
-* &#x20;Go to create apps page and Search  linuxserver/qbittorrent  on the search bar.
-* &#x20;Click on install button.
-* &#x20;Fill all the required fields.
-* &#x20;click on Advanced.
-* Click on the Install button.
-* You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the qbittorrent  application Hostname without NodePort and search the Url.
-* &#x20;Now you can able to access the qbittorrent  webpage.
+*   &#x20;<mark style="background-color:purple;">**This deployment utilizes the official QBittorent Docker image. Here's a step-by-step guide to get you started:**</mark>
+
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">linuxserver/qbittorent</mark> application.
+    2. Click on the "Install" button to initiate the installation process.
+    3. Fill in all the required fields with the necessary information.
+    4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
+    5. After making your selections, press the "Install" button to proceed.
+    6. Once the installation is complete, you'll be directed to the "My Apps" page, where you'll find a list of all the applications you've deployed.
+    7. Copy the Hostname of the QBittorent application without the NodePort and paste it into your preferred browser's address bar.
+    8. Voilà! You're now able to access the QBittorent webpage and explore its content.
+
+    By following these straightforward steps, you'll have successfully deployed the QBittorent application and gained access to its features through a seamless and user-friendly process.
 
 ### <mark style="color:blue;">Installation</mark>
 
