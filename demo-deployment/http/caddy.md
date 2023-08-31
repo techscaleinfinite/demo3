@@ -1,38 +1,53 @@
-# Homer
+---
+cover: ../../.gitbook/assets/caddy-open-graph.jpg
+coverY: 0
+---
 
-### <mark style="color:blue;">What's is homer?</mark>
+# Caddy
 
-Homer," which is a simple self-hosted dashboard that allows you to organize and access various services from a single interface. It's designed to provide quick access to your self-hosted applications, services, and tools through a web-based dashboard.
+### <mark style="color:blue;">What's is caddy?</mark>
+
+Caddy is an open-source, modern web server that is designed to be simple, efficient, and secure. It aims to make the process of configuring and deploying web services easier by providing a user-friendly interface and automated features
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-1. **Configuration**: You define the services you want to include in your Homer dashboard using a YAML configuration file. This configuration file lists the names, URLs, and icons of the services you want to access.
-2. **Dashboard Interface**: Once you've set up the configuration, you can access your Homer dashboard through a web browser. The dashboard presents an organized view of your services, making it easy to find and launch them.
-3. **Service Accessibility**: Each service entry on the dashboard typically includes an icon, name, and URL link. Clicking on a service's icon or name opens a new tab or window in your browser and directs you to the specified service's URL.
-4. **Customization**: Homer allows you to customize the appearance of the dashboard by choosing different themes, layouts, and colors to match your preferences.
-5. **Quick Access**: By using Homer, you can eliminate the need to remember individual URLs or bookmarks for various self-hosted services. Instead, you have a centralized place to access everything.
+**Configuration:** Caddy's configuration is defined using a simple and human-readable Caddyfile.The Caddyfile allows you to specify how your web server should behave, including domain routing, TLS certificates, reverse proxying, and more.
+
+**2. Automatic HTTPS:** One of Caddy's standout features is its automatic HTTPS provisioning. When you configure a domain in the Caddyfile, Caddy will automatically request and manage SSL/TLS certificates from Let's Encrypt to enable secure HTTPS connections for your websites. This process simplifies the setup of secure connections and eliminates the need for manual certificate management.
+
+**3. Reverse Proxy:** Caddy can act as a reverse proxy, forwarding requests to other services based on domain or path matching. This makes it easy to host multiple services on a single server and route traffic to the appropriate backend applications.
+
+**4. Load Balancing:** Caddy supports load balancing across multiple backend servers, distributing incoming traffic to ensure high availability and improved performance.
+
+**5. Rewrite and Redirection:** Caddy allows you to define URL rewrites and redirections, which can be useful for changing URLs or handling SEO-friendly redirects.
+
+**6. Fast and Efficient:** Caddy is built with performance in mind. It uses modern web server technologies and is optimized to handle concurrent connections efficiently.
+
+**7. Plugins and Middleware:** Caddy supports plugins and middleware that can extend its functionality. These can be used to add features like rate limiting, authentication, logging, and more.
+
+**8. On-the-Fly Compression:** Caddy can automatically compress resources like CSS, JavaScript, and HTML on the fly,
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
-* &#x20;<mark style="background-color:purple;">**This deployment uses the official homer Docker image.**</mark>
-* &#x20;Go to create apps page and Search <mark style="color:orange;">b4bz/homer</mark> on the search bar.
+* &#x20;<mark style="background-color:purple;">**This deployment uses the official homer caddy image.**</mark>
+* &#x20;Go to create apps page and Search caddy on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
 * Click on the Install button.
 * You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the hhomer application Hostname without NodePort and search the Url.
-* &#x20;Now you can able to access the homer webpage.
+* &#x20;Copy the caddy application Hostname without NodePort and search the Url.
+* &#x20;Now you can able to access the caddy webpage.
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| [homer](https://hub.docker.com/r/b4bz/homer)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| Docker Image                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [<mark style="color:orange;">caddy</mark>](https://hub.docker.com/\_/caddy)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
 | Application name                                                              |
 | ----------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: homer(you can put any name)</mark> |
+| <mark style="background-color:yellow;">Eg: caddy(you can put any name)</mark> |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,7 +55,7 @@ Homer," which is a simple self-hosted dashboard that allows you to organize and 
 
 <mark style="background-color:yellow;">`PROTOCOL`</mark>
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">8080</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td>80</td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td></td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -62,16 +77,16 @@ If you choose Advanced option:
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to homer Deployment**</mark>
+<mark style="color:purple;">**Step-by-Step Guide to caddy Deployment**</mark>
 
 1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name: homer</mark>
+   * <mark style="color:orange;">Docker Image Name: caddy</mark>
 2. <mark style="color:orange;">**Application Details**</mark>**:**
-   * Application Name: homer
+   * Application Name: caddy
    * Resource Allocation: Set the desired resource allocation from 0-100%.
 3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
-   * Protocol: `HTTP`
-   * Port: `8080`
+   * Protocol: http
+   * Port: 80
 4. <mark style="color:orange;">**Installation Options**</mark>**:**
    * Choose between "Default" or "Advanced" installation.
 5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
@@ -99,11 +114,11 @@ By following these steps, you can effortlessly deploy an HOMER instance with you
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 150802.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 162704.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 150839.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 162815.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -115,11 +130,11 @@ Check out our youtube video for more clarification.
 
 ### <mark style="color:blue;">FAQ</mark>
 
-**About homer image we used.**
+**About plex image we used.**
 
-This is the official homer image.
+This is the official plex image.
 
-**Can I deploy my own homer image with modified configuration ?**
+**Can I deploy my own plex image with modified configuration ?**
 
 Yes, you can simply deploy any version or modified image to our platform by linking your docker hub account to our platform.
 
@@ -129,4 +144,4 @@ For the free user there is no persistence, and for the premium user you can diff
 
 ### Join us
 
-Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!

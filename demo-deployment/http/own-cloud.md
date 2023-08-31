@@ -1,25 +1,25 @@
-# Book Stack
+# Own Cloud
 
-### <mark style="color:blue;">What's is book stack?</mark>
+### <mark style="color:blue;">What's is Nginx?</mark>
 
-BookStack" is an open-source platform for creating and managing documentation, wikis, and knowledge bases. It provides a user-friendly interface for organizing and sharing information within an organization, team, or community. Here's a brief overview of what BookStack is and how it works:
+Nginx is more than a web server; it's a multitool for your online presence:
 
-1. **Documentation Platform**: BookStack is designed to help users create and maintain structured documentation and knowledge bases. It's often used for creating internal wikis, project documentation, user manuals, and more.
-2. **Hierarchical Structure**: BookStack uses a hierarchical structure of "Books," "Chapters," and "Pages" to organize content. "Books" can contain multiple "Chapters," and each "Chapter" can contain multiple "Pages." This structure makes it easy to categorize and manage content.
-3. **Rich Editing Tools**: BookStack provides a WYSIWYG (What You See Is What You Get) editor that allows users to format text, insert images, create links, embed media, and more. This makes it simple to create visually appealing and informative conten
+* <mark style="color:orange;">**Web Server**</mark>**:** Delivers web content quickly and efficiently to users.
+* <mark style="color:orange;">**Reverse Proxy**</mark>**:** Safeguards applications by managing external requests.
+* <mark style="color:orange;">**Load Balancer**</mark>**:** Distributes traffic among multiple servers for optimal performance.
+* <mark style="color:orange;">**Mail Proxy**</mark>**:** Routes emails effectively, improving email infrastructure.
+* <mark style="color:orange;">**HTTP Cache**</mark>**:** Stores and serves frequently accessed resources for faster delivery.
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-1. **Configuration**: You define the services you want to include in your Homer dashboard using a YAML configuration file. This configuration file lists the names, URLs, and icons of the services you want to access.
-2. **Dashboard Interface**: Once you've set up the configuration, you can access your Homer dashboard through a web browser. The dashboard presents an organized view of your services, making it easy to find and launch them.
-3. **Service Accessibility**: Each service entry on the dashboard typically includes an icon, name, and URL link. Clicking on a service's icon or name opens a new tab or window in your browser and directs you to the specified service's URL.
-4. **Customization**: Homer allows you to customize the appearance of the dashboard by choosing different themes, layouts, and colors to match your preferences.
-5. **Quick Access**: By using Homer, you can eliminate the need to remember individual URLs or bookmarks for various self-hosted services. Instead, you have a centralized place to access everything.
+Nginx's event-driven architecture handles multiple connections simultaneously, making it perfect for high-traffic scenarios. It's resource-efficient and enhances application performance, all while being open-source and free.
+
+<mark style="color:blue;">Nginx: Streamline, secure, and supercharge your web operations</mark>
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
-* &#x20;<mark style="background-color:purple;">**This deployment uses the official homer bookstack image.**</mark>
-* &#x20;Go to create apps page and Search  on the search bar.
+* &#x20;<mark style="background-color:purple;">**This deployment uses the official Nginx Docker image.**</mark>
+* &#x20;Go to create apps page and Search <mark style="color:orange;">nginx</mark> on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
@@ -30,13 +30,13 @@ BookStack" is an open-source platform for creating and managing documentation, w
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------- |
-| [bookstack](https://hub.docker.com/r/linuxserver/bookstack)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| Docker Image                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| [`nginx`](https://hub.docker.com/\_/nginx)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
-| Application name                                                                  |
-| --------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: bookstack(you can put any name)</mark> |
+| Application name                                                               |
+| ------------------------------------------------------------------------------ |
+| <mark style="background-color:yellow;">Eg: Nginx1(you can put any name)</mark> |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@ BookStack" is an open-source platform for creating and managing documentation, w
 
 <mark style="background-color:yellow;">`PROTOCOL`</mark>
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td>-</td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>3306</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,16 +66,16 @@ If you choose Advanced option:
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to bookstack Deployment**</mark>
+<mark style="color:purple;">**Step-by-Step Guide to NGINX Deployment**</mark>
 
 1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name: bookstack</mark>
+   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`nginx`</mark>
 2. <mark style="color:orange;">**Application Details**</mark>**:**
-   * Application Name: bookstack
+   * Application Name: `nginx1`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
 3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
-   * Protocol: TCP
-   * Port: 3306
+   * Protocol: `HTTP`
+   * Port: `80`
 4. <mark style="color:orange;">**Installation Options**</mark>**:**
    * Choose between "Default" or "Advanced" installation.
 5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
@@ -95,25 +95,37 @@ If you choose Advanced option:
 7. <mark style="color:orange;">**Installation**</mark>**:**
    * Click the "Install" button to initiate the deployment process.
 
-By following these steps, you can effortlessly deploy an HOMER instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
+By following these steps, you can effortlessly deploy an NGINX instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
 
 
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 150405 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 150443 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
 
 Check out our youtube video for more clarification.
+
+{% embed url="https://youtu.be/7EIoXZbmW9I" %}
 
 
 
 ### <mark style="color:blue;">FAQ</mark>
 
-**About bookstack image we used.**
+**About nginx image we used.**
 
-This is the official bookstack image.
+This is the official nginx image.
 
-**Can I deploy my own bookstack image with modified configuration ?**
+**Can I deploy my own nginx image with modified configuration ?**
 
 Yes, you can simply deploy any version or modified image to our platform by linking your docker hub account to our platform.
 
@@ -123,4 +135,4 @@ For the free user there is no persistence, and for the premium user you can diff
 
 ### Join us
 
-Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going

@@ -13,7 +13,7 @@ Olaris is an open-source, community driven, media manager and transcoding server
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
 * &#x20;<mark style="background-color:purple;">**This deployment uses the official homer olaris image.**</mark>
-* &#x20;Go to create apps page and Search  on the search bar.
+* &#x20;Go to create apps page and Search <mark style="color:orange;">olaristv/olaris-server</mark> on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
@@ -94,6 +94,24 @@ By following these steps, you can effortlessly deploy an HOMER instance with you
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
 
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 124107.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 124324.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 125400.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 125906.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
 

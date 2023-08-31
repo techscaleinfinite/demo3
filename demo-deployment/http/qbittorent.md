@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/ff.png
+coverY: 0
+---
+
 # Qbittorent
 
 ### <mark style="color:blue;">What's is qbittorent?</mark>
@@ -22,24 +27,24 @@ qBittorrent is a free, open-source, and cross-platform BitTorrent client that al
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
 * &#x20;<mark style="background-color:purple;">**This deployment uses the official qbit torrent Docker image.**</mark>
-* &#x20;Go to create apps page and Search  on the search bar.
+* &#x20;Go to create apps page and Search  linuxserver/qbittorrent  on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
 * Click on the Install button.
 * You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the nginx application Hostname without NodePort and search the Url.
-* &#x20;Now you can able to access the nginx webpage.
+* &#x20;Copy the qbittorrent  application Hostname without NodePort and search the Url.
+* &#x20;Now you can able to access the qbittorrent  webpage.
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                                                                 |
-| -------------------------------------------------------------------------------------------- |
-| qbittorent<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| Docker Image                                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [<mark style="color:orange;">qbittorent</mark>](https://hub.docker.com/r/linuxserver/qbittorrent)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
-| Application name                                                                     |
-| ------------------------------------------------------------------------------------ |
-| <mark style="background-color:yellow;">Eg: vault warden(you can put any name)</mark> |
+| Application name                                                               |
+| ------------------------------------------------------------------------------ |
+| <mark style="background-color:yellow;">Eg: qbitt1(you can put any name)</mark> |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,7 +52,7 @@ qBittorrent is a free, open-source, and cross-platform BitTorrent client that al
 
 <mark style="background-color:yellow;">`PROTOCOL`</mark>
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">8080</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,7 +83,7 @@ If you choose Advanced option:
    * Resource Allocation: Set the desired resource allocation from 0-100%.
 3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
    * Protocol: `HTTP`
-   * Port: `80`
+   * Port: `8080`
 4. <mark style="color:orange;">**Installation Options**</mark>**:**
    * Choose between "Default" or "Advanced" installation.
 5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
@@ -98,11 +103,21 @@ If you choose Advanced option:
 7. <mark style="color:orange;">**Installation**</mark>**:**
    * Click the "Install" button to initiate the deployment process.
 
-By following these steps, you can effortlessly deploy an vault warden instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
+By following these steps, you can effortlessly deploy an qBittorrent instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
 
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 143443.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 143524 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
 

@@ -1,34 +1,68 @@
-# Plex
+---
+cover: ../../.gitbook/assets/Nextcloud_Logo.svg.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-### <mark style="color:blue;">What's is plex?</mark>
+# Next Cloud
 
-Plex is a media server platform designed to help you organize, manage, and stream your multimedia content across various devices. It offers a user-friendly interface and powerful features that make it easy to access and enjoy your media library
+### <mark style="color:blue;">What's is next cloud?</mark>
+
+"Nextcloud" is an open-source, self-hosted cloud storage and collaboration platform that allows you to store, sync, and share your files, documents, photos, and more. It provides a private and secure alternative to commercial cloud storage services.
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-1. **Installation**: Yo
+**1. Installation and Setup:**
+
+* You start by installing the Nextcloud software on a server or hosting provider of your choice. This server becomes your personal cloud storage platform.
+* During the setup process, you create an admin account and configure basic settings.
+
+**2. File Storage and Sync:**
+
+* Nextcloud provides you with a central location to store your files, just like other cloud storage services. You can upload files, create folders, and organize your content.
+
+**3. File Synchronization:**
+
+* Nextcloud offers synchronization clients for various platforms, including Windows, macOS, Linux, Android, and iOS. These clients keep your files synchronized across your devices, ensuring that the latest version of your files is available on all your devices.
+
+**4. Sharing and Collaboration:**
+
+* You can easily share files and folders with others using Nextcloud. You have the flexibility to share files publicly or with specific users, and you can set permissions for viewing, editing, or downloading.
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
-* &#x20;<mark style="background-color:purple;">**This deployment uses the official homer plex image.**</mark>
-* &#x20;Go to create apps page and Search  on the search bar.
+* &#x20;<mark style="background-color:purple;">**This deployment uses the official nextcloud image.**</mark>
+* &#x20;Go to create apps page and Search nextcloud on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
 * Click on the Install button.
 * You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the nginx application Hostname without NodePort and search the Url.
-* &#x20;Now you can able to access the nginx webpage.
+* &#x20;Copy the nextcloud application Hostname without NodePort and search the Url.
+* &#x20;Now you can able to access the nextcloud webpage.
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| [plex](https://hub.docker.com/r/linuxserver/plex)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| Docker Image                                                                                |
+| ------------------------------------------------------------------------------------------- |
+| nextcloud<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
-| Application name                                                             |
-| ---------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: plex(you can put any name)</mark> |
+| Application name                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="background-color:yellow;">Eg:</mark> nextcloud1<mark style="background-color:yellow;">(you can put any name)</mark> |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +70,7 @@ Plex is a media server platform designed to help you organize, manage, and strea
 
 <mark style="background-color:yellow;">`PROTOCOL`</mark>
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td>8096</td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td>8080</td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,15 +92,15 @@ If you choose Advanced option:
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to plex Deployment**</mark>
+<mark style="color:purple;">**Step-by-Step Guide to nextcloud Deployment**</mark>
 
 1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name: plex</mark>
+   * <mark style="color:orange;">Docker Image Name: nextcloud</mark>
 2. <mark style="color:orange;">**Application Details**</mark>**:**
-   * Application Name: plex
+   * Application Name: nextcloud
    * Resource Allocation: Set the desired resource allocation from 0-100%.
 3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
-   * Protocol: http
+   * Protocol: HTTP
    * Port: 8080
 4. <mark style="color:orange;">**Installation Options**</mark>**:**
    * Choose between "Default" or "Advanced" installation.
@@ -87,11 +121,25 @@ If you choose Advanced option:
 7. <mark style="color:orange;">**Installation**</mark>**:**
    * Click the "Install" button to initiate the deployment process.
 
-By following these steps, you can effortlessly deploy an HOMER instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
+By following these steps, you can effortlessly deploy an nextcloud instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
 
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 160853.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 160919.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 161017.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
 
@@ -101,11 +149,11 @@ Check out our youtube video for more clarification.
 
 ### <mark style="color:blue;">FAQ</mark>
 
-**About plex image we used.**
+**About nextcloud image we used.**
 
-This is the official plex image.
+This is the official nextcloud image.
 
-**Can I deploy my own plex image with modified configuration ?**
+**Can I deploy my own nextcloud image with modified configuration ?**
 
 Yes, you can simply deploy any version or modified image to our platform by linking your docker hub account to our platform.
 
@@ -115,4 +163,4 @@ For the free user there is no persistence, and for the premium user you can diff
 
 ### Join us
 
-Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!
+Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;

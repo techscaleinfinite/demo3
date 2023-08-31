@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/images (2).jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Vault Warden
 
 ### <mark style="color:blue;">What's is vault warden?</mark>
@@ -13,8 +32,6 @@ Here are the key points about Vaultwarden:
 5. **Browser Integration**: Browser extensions allow users to autofill passwords and manage their credentials directly from their web browsers.
 6. **Two-Factor Authentication (2FA)**: Vaultwarden supports two-factor authentication, adding an extra layer of security to user accounts.
 
-
-
 ### <mark style="color:blue;">**How It Works:**</mark>
 
 Vaultwarden (formerly Bitwarden\_RS) works as a self-hosted password management solution, allowing users to securely store, manage, and access their passwords and other sensitive information. Here's how it works:
@@ -28,14 +45,14 @@ Vaultwarden (formerly Bitwarden\_RS) works as a self-hosted password management 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
 * &#x20;<mark style="background-color:purple;">**This deployment uses the official vaultwarden Docker image.**</mark>
-* &#x20;Go to create apps page and Search  on the search bar.
+* &#x20;Go to create apps page and Search <mark style="color:orange;">vaultwarden/server</mark> on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
 * Click on the Install button.
 * You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the nginx application Hostname without NodePort and search the Url.
-* &#x20;Now you can able to access the nginx webpage.
+* &#x20;Copy the vault warden application Hostname without NodePort and search the Url.
+* &#x20;Now you can able to access the vault warden webpage.
 
 ### <mark style="color:blue;">Installation</mark>
 
@@ -109,6 +126,24 @@ By following these steps, you can effortlessly deploy an vault warden instance w
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
 
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 145538.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 145621.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 145750.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 145921.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
 

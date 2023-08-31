@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/download (4).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Emby
 
 ### <mark style="color:blue;">What's is emby?</mark>
@@ -18,7 +37,7 @@ Emby is a media server software designed to organize, manage, and stream multime
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
 * &#x20;<mark style="background-color:purple;">**This deployment uses the official homer emby image.**</mark>
-* &#x20;Go to create apps page and Search  on the search bar.
+* &#x20;Go to create apps page and Search emby/embyserver  on the search bar.
 * &#x20;Click on install button.
 * &#x20;Fill all the required fields.
 * &#x20;click on Advanced.
@@ -70,11 +89,11 @@ If you choose Advanced option:
 1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
    * <mark style="color:orange;">Docker Image Name: emby</mark>
 2. <mark style="color:orange;">**Application Details**</mark>**:**
-   * Application Name: emby
+   * Application Name: emby1
    * Resource Allocation: Set the desired resource allocation from 0-100%.
 3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
    * Protocol: http
-   * Port: 8080
+   * Port: 8096
 4. <mark style="color:orange;">**Installation Options**</mark>**:**
    * Choose between "Default" or "Advanced" installation.
 5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
@@ -94,11 +113,45 @@ If you choose Advanced option:
 7. <mark style="color:orange;">**Installation**</mark>**:**
    * Click the "Install" button to initiate the deployment process.
 
-By following these steps, you can effortlessly deploy an HOMER instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
+By following these steps, you can effortlessly deploy an EMBY instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
 
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 110916.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111139 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111217.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111330.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111435.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111522.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111602.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111633.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
 
