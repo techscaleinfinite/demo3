@@ -21,44 +21,46 @@ layout:
 
 ### <mark style="color:blue;">What's Jellyfin?</mark>
 
-Jellyfin is a versatile, open-source media server software designed to help users organize, manage, and stream their personal media collection, including music, videos, and pictures, across a range of devices.
+Jellyfin is like a personal media maestro, here to help you orchestrate, organize, and enjoy your media collection with ease. Here are the key points that make Jellyfin shine:
 
-**Key Points:**
+**Open-Source Media Server:** Jellyfin believes in the freedom of media. It's open-source and completely accessible to all, offering a powerful platform to organize and stream your personal media without any hidden costs.
 
-1. <mark style="color:orange;">**Open-Source Media Server**</mark>**:** Jellyfin is freely accessible, providing a platform to organize and stream personal media.
-2. **Media Variety:** It supports various types of media, from music tracks to videos and images.
-3. <mark style="color:orange;">**Device Compatibility**</mark>**:** Jellyfin streams content to a wide array of devices, ensuring seamless access.
-4. **Customization:** Tailor your media server's interface and functionality to suit your preferences.
-5. <mark style="color:orange;">**User Privacy**</mark>**:** Your media collection remains private as it's self-hosted, with no external sharing.
+**Media Variety:** Whether you're a cinephile, a music aficionado, or a photography enthusiast, Jellyfin has you covered. It gracefully handles a wide range of media types, from your favorite music tracks to cherished videos and treasured pictures.
+
+**Device Compatibility:** No matter where you are or what you're using, Jellyfin ensures your media is at your fingertips. It harmoniously streams your content to a diverse array of devices, ensuring a seamless and accessible experience.
+
+**Customization:** Jellyfin knows that personal taste matters. That's why it allows you to tailor your media server's interface and functionality to your liking. It's like having your own private media sanctuary, designed just the way you want it.
+
+**User Privacy:** Your media kingdom stays private and secure. Since it's self-hosted, there's no need to worry about external sharing or prying eyes. It's like having a locked vault for your digital treasures.
+
+In a world where media is an integral part of our lives, Jellyfin is the conductor of your media orchestra, ensuring that your collection is organized, accessible, and completely under your control. It's like having your own personal media curator, ready to deliver entertainment whenever and wherever you desire.
 
 ### <mark style="color:blue;">**Working in Brief:**</mark>
 
-1. **Media Organization:** Jellyfin catalogues your media library, allowing you to arrange content by type, genre, or artist.
-2. <mark style="color:orange;">**Streaming Capability**</mark>**:** Upon request, Jellyfin streams media to connected devices over a local network or the internet.
-3. **User Authentication:** Users log in to their Jellyfin accounts to access their personalized media libraries.
-4. <mark style="color:orange;">**Transcoding & Formats**</mark>**:** Jellyfin adapts media formats for compatibility with different devices.
-5. **Remote Access:** Enjoy your media on-the-go by accessing your Jellyfin server from external locations.
+**Media Organization:** Picture Jellyfin as your personal librarian, diligently cataloging your media library. It lets you arrange your content just the way you like it—by type, genre, or artist. It's like having a beautifully organized bookshelf for your movies, music, and more.
 
-Jellyfin simplifies media management, offering a self-hosted solution for streaming your favorite content across various devices. Its open-source nature empowers customization and ensures that your media remains private and secure.
+**Streaming Capability:** At your beck and call, Jellyfin effortlessly streams your media to connected devices, whether they're in the same room or across the globe. It's like having a magic genie who grants your media wishes, no matter where you are.
+
+**User Authentication:** For a personalized experience, users simply log in to their Jellyfin accounts. It's like having your own VIP pass to your media wonderland, where everything is tailored to your taste.
+
+**Transcoding & Formats:** Jellyfin is the ultimate media translator. It adapts media formats on-the-fly to match the devices you're using, ensuring compatibility. It's like having a universal remote control for your media.
+
+**Remote Access:** The world is your media oyster with Jellyfin. You can enjoy your media on-the-go by accessing your Jellyfin server from anywhere. It's like carrying your entire media library in your pocket, ready to entertain you wherever you roam.
+
+Jellyfin is your media maestro, simplifying the sometimes complex world of media management. It offers a self-hosted solution, putting you in control of your media, while its open-source nature means you can customize it to your heart's content. With Jellyfin, your media stays private and secure, ensuring that your entertainment experience is tailored to your unique preferences.
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
-* &#x20;<mark style="background-color:yellow;">**This deployment uses the linuxserver/jellyfin Docker image**</mark>**.**
-* &#x20;Go to create apps page and Search <mark style="color:orange;">linuxserver/jellyfin</mark> on the search bar.
-* &#x20;Click on install button.
-* &#x20;Fill all the required fields.
-* click on Advanced.
-* Default Installation is enough for Jellyfin to be up and running. Click install
-* You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the Jellyfin application Hostname without NodePort and search the Url.
-* &#x20;Now you will access the application. And start setting up the application.
-* &#x20;Now Follow the on screen instructions and setup your account
-* &#x20;We’ll add media files using ftp
-* &#x20;Goto SFTP section in right-side bar menu and click 'Reinitilze password'
-* &#x20;You will get credentials to login to your sftp storage. SFTP storage can be accessed using various tools, example:- Filezilla
-* Select HDD to Server
-* &#x20;Make sure you have provided right From and To file paths
-* &#x20;Add the uploaded media files into the jellyfin using its web interface
+&#x20; <mark style="background-color:purple;">**This deployment utilizes the official jellyfin Docker image. Here's a step-by-step guide to get you started:**</mark>
+
+1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">jellyfin</mark> application.
+2. Click on the "Install" button to initiate the installation process.
+3. Fill in all the required fields with the necessary information.
+4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
+5. After making your selections, press the "Install" button to proceed.
+6. Once the installation is complete, you'll be directed to the "My Apps" page, where you'll find a list of all the applications you've deployed.
+7. Copy the Hostname of the <mark style="color:orange;">jellyfin</mark> application without the NodePort and paste it into your preferred browser's address bar.
+8. Voilà! You're now able to access the  <mark style="color:orange;">jellyfin</mark> webpage and explore its content.
 
 ### <mark style="color:blue;">Installation</mark>
 

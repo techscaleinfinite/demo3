@@ -4,7 +4,7 @@ coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -21,27 +21,28 @@ layout:
 
 ### <mark style="color:blue;">What's Xampp?</mark>
 
-XAMPP is a free and open-source cross-platform web server solution stack, crafted by Apache Friends. It brings together essential components for web development, including the Apache HTTP Server, MariaDB database, and interpreters for PHP and Perl scripting.
+XAMPP is a great and free web server solution carefully built by Apache Friends. This is your one stop shop for web development, bringing together some of the essential components that make your web projects a breeze.
 
-**Key Points:**
+<mark style="color:orange;">**All-in-one package:**</mark> XAMPP is like a toolbox filled with useful features for web development. Inside you'll find the Apache HTTP server, the MariaDB database, and an interpreter for PHP and Perl scripts. It's like having all the tools you need in one place. Universal Compatibility: No matter which operating system you prefer, XAMPP can support you. It is available for different platforms, ensuring a consistent development experience whether you are using Windows, macOS or Linux.
 
-1. <mark style="color:orange;">**Comprehensive Solution**</mark>**:** XAMPP packages Apache HTTP Server, MariaDB, PHP, and Perl.
-2. **Cross-Platform:** Available for various operating systems, enabling uniform development.
-3. <mark style="color:orange;">**Open Source**</mark>**:** Freely accessible and customizable, promoting collaborative development.
-4. **Web Development:** XAMPP provides tools for building dynamic web applications.
-5. <mark style="color:orange;">**Local Server Environment**</mark>**:** Creates a local server on your machine for testing and development.
+<mark style="color:orange;">**Towards the community:**</mark> XAMPP's open source nature means it's not only free, but open to the community to tinker and improve. This fosters collaboration and innovation in the world of web development.
+
+<mark style="color:orange;">**Web magic:**</mark> XAMPP is more than just a bundled software package. It's the magic wand for web developers. With the built-in Apache server, MariaDB database, and PHP/Perl interpreter, you can easily create dynamic web applications.
+
+<mark style="color:orange;">**Local playground:**</mark> One of the coolest features of XAMPP is the ability to create a local server environment right on your machine. This serves as a personal playground for site testing and development before they go live. It's like having a secret lab where you can experiment with no consequences. In short, XAMPP is the right choice for web developers who want a simple, comprehensive and community-driven solution for their local development needs. So go ahead, unleash your web development power with XAMPP!&#x20;
 
 ### <mark style="color:blue;">**Working in Brief:**</mark>
 
+Here is a step-by-step guide on how to use XAMPP to make your web development journey easier:
 
+1. <mark style="color:orange;">Installation:</mark> Start by installing XAMPP on your computer. This handy package includes all the essentials like Apache, MariaDB, PHP and Perl. It's like having all the ingredients for your favorite recipes in one go.
+2. <mark style="color:orange;">**Local web server:**</mark> After installing XAMPP, launch it! Launching XAMPP creates a cozy little local server environment on your machine. It's like having your own proof platform at your fingertips.
+3. <mark style="color:orange;">**Database management:**</mark> Now let's talk about data. With MariaDB, you can easily store and manage your valuable application data. Think of it as your digital filing cabinet to store all your data.
+4. <mark style="color:orange;">**Web Development:**</mark> This is where the magic happens. With the XAMPP tools at your disposal, you can develop and test PHP and Perl scripts directly on your localhost. It's like having your own personal lab for coding testing. 5. Browser access: Don't keep your creations to yourself! Access your development site through your browser. It's like opening the curtains and letting the world see your work, even while it's still under construction.
 
-1. **Installation:** Install XAMPP on your computer; it bundles Apache, MariaDB, PHP, and Perl.
-2. <mark style="color:orange;">**Local Web Server**</mark>**:** Launch XAMPP to start a local server environment.
-3. **Database Management:** Utilize MariaDB to store and manage your application's data.
-4. <mark style="color:orange;">**Web Development**</mark>**:** Develop and test PHP and Perl scripts on the local server.
-5. **Browser Access:** Access your development site through a browser, simulating real deployment.
+In short, XAMPP is your trusted companion when it comes to web development. It simplifies the whole process by providing you with a self-contained environment equipped with all the necessary tools. It's like having a trusty workshop where you can create and perfect your web apps before they're ready for the big stage.
 
-XAMPP simplifies web development by offering a self-contained environment with essential tools. It empowers developers to create and test web applications seamlessly before deploying them to production servers.
+So go ahead and harness the power of XAMPP. It's the secret recipe that allows developers like you to seamlessly build, test, and tweak web applications before they hit the Internet. Happy coding! 🚀
 
 ### &#x20;<mark style="color:blue;">Steps And Procedure</mark>
 
@@ -61,17 +62,16 @@ And exposing 3306, 22 and 80 ports.
 
 #### Deploy Xampp on Scaleinfinite
 
-* &#x20;Go to create apps page and Search <mark style="color:orange;">scaleinfinite/xampp</mark> on the search bar.
-* &#x20;Click on install button.
-* &#x20;Fill all the required fields.
-* &#x20;click on Advanced.
-* &#x20;Click on the Install button.
-* &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the xampp application Hostname without NodePort and search the Url.
-* &#x20;You will see the Xampp interface.
-* &#x20;Click on PHPMyAdmin button to access the PHPMyAdmin.
-* &#x20;Add the /www to the link to access the html application.
-* Now you can able to easily access and create application and edit databases in Mysql using Xampp.
+<mark style="background-color:purple;">**This deployment utilizes the official Xampp Docker image. Here's a step-by-step guide to get you started:**</mark>
+
+1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">scaleinfinite/xampp</mark>  application.
+2. Click on the "Install" button to initiate the installation process.
+3. Fill in all the required fields with the necessary information.
+4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
+5. After making your selections, press the "Install" button to proceed.
+6. Once the installation is complete, you'll be directed to the "My Apps" page, where you'll find a list of all the applications you've deployed.
+7. Copy the Hostname of the xampp  application without the NodePort and paste it into your preferred browser's address bar.
+8. Voilà! You're now able to access the xampp webpage and explore its content.
 
 ### <mark style="color:blue;">Installation</mark>&#x20;
 
