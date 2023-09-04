@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/drupal-vector-logo-2022.png
+cover: ../../../.gitbook/assets/drupal-vector-logo-2022.png
 coverY: 0
 layout:
   cover:
@@ -129,23 +129,23 @@ By following these steps, you can effortlessly deploy an drupal instance with yo
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 155639 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 155639 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 155724 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 155724 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 160110 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 160110 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 160414 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 160414 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/spaces_tKO1h8ymGqNtYiKTJ8WZ_uploads_kuTabiFuRQL5mCpFhJ1f_Screenshot 2023-08-12 154105 (1).webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/spaces_tKO1h8ymGqNtYiKTJ8WZ_uploads_kuTabiFuRQL5mCpFhJ1f_Screenshot 2023-08-12 154105 (1).webp" alt=""><figcaption></figcaption></figure>
 
 </div>
 

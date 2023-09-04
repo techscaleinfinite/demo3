@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/WordPress-logotype-alternative (1).png
+cover: ../../../.gitbook/assets/WordPress-logotype-alternative (1).png
 coverY: 0
 layout:
   cover:
@@ -141,19 +141,19 @@ By following these steps, you can effortlessly deploy an NGINX instance with you
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152422 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 152422 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152458 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 152458 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152840.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 152840.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152910 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 152910 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

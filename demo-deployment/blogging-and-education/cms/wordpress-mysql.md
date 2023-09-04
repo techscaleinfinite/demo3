@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/WordPress-logotype-alternative.png
+cover: ../../../.gitbook/assets/WordPress-logotype-alternative.png
 coverY: 0
 layout:
   cover:
@@ -143,23 +143,23 @@ By following these steps, you can effortlessly deploy an Wordpress mysql instanc
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152422.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 152422.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152458.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 152458.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152722.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 152722.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 152910.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 152910.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/spaces_tKO1h8ymGqNtYiKTJ8WZ_uploads_SfraJPEmMJwthKGO4lsE_Screenshot 2023-08-12 153350.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/spaces_tKO1h8ymGqNtYiKTJ8WZ_uploads_SfraJPEmMJwthKGO4lsE_Screenshot 2023-08-12 153350.webp" alt=""><figcaption></figcaption></figure>
 
 </div>
 

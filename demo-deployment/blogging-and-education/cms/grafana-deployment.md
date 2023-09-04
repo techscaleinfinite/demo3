@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/grafana3182.jpg
+cover: ../../../.gitbook/assets/grafana3182.jpg
 coverY: 0
 layout:
   cover:
@@ -131,19 +131,19 @@ By following these steps, you can effortlessly deploy an GRAFANA instance with y
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 163652.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 163652.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 164123.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 164123.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/datasources (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/datasources (2).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/grafana-dashboard (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafana-dashboard (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

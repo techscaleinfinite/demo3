@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/MediaWiki-2020-logo-horizontal.svg.png
+cover: ../../../.gitbook/assets/MediaWiki-2020-logo-horizontal.svg.png
 coverY: 0
 layout:
   cover:
@@ -131,15 +131,15 @@ By following these steps, you can effortlessly deploy an NGINX instance with you
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-01 152224.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-01 152224.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-01 152718.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-01 152718.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-01 152346.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-01 152346.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
