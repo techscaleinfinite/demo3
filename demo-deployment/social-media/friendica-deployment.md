@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Friendica Deployment
+# 📰 Friendica Deployment
 
 ### <mark style="color:blue;">What's friendica?</mark>
 

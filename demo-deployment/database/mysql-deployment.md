@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Mysql deployment
+# 🖥 Mysql deployment
 
 ### <mark style="color:blue;">**What's MySQL?**</mark>
 

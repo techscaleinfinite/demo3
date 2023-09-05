@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# WordPress MySQL
+# 🖥 WordPress MySQL
 
 ### <mark style="color:blue;">What's WordPress?</mark>
 

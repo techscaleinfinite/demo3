@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/ff.png
 coverY: 0
 ---
 
-# Qbittorent Deployment
+# 🖥 Qbittorent Deployment
 
 ### <mark style="color:blue;">What's  qbittorent?</mark>
 

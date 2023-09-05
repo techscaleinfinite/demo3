@@ -1,4 +1,24 @@
-# Homer Deployment
+---
+cover: >-
+  ../../.gitbook/assets/687474703a2f2f692e696d6775722e636f6d2f566958634741442e706e67.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🖥 Homer Deployment
 
 ### <mark style="color:blue;">What's is homer?</mark>
 

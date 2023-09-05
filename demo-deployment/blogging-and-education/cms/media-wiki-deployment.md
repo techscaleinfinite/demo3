@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Media Wiki Deployment
+# 🖥 Media Wiki Deployment
 
 ### <mark style="color:blue;">What's media wiki?</mark>
 

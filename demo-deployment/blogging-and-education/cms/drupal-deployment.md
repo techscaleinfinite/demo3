@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Drupal deployment
+# 💧 Drupal deployment
 
 ### <mark style="color:blue;">What's Drupal?</mark>
 

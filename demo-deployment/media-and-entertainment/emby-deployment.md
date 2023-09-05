@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Emby DeployMent
+# 📺 Emby DeployMent
 
 ### <mark style="color:blue;">What's  emby?</mark>
 

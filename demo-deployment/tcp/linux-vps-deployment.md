@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Linux VPS deployment
+# 🖥 Linux VPS deployment
 
 ### <mark style="color:blue;">What's Linux VPS?</mark>
 

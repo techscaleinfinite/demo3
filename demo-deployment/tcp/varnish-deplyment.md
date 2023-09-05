@@ -1,4 +1,9 @@
-# Varnish Deplyment
+---
+cover: ../../.gitbook/assets/3-161103094050-thumbnail.png
+coverY: 0
+---
+
+# 🖥 Varnish Deplyment
 
 ### <mark style="color:blue;">What's  varnish?</mark>
 

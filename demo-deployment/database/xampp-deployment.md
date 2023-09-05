@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Xampp deployment
+# 🖥 Xampp deployment
 
 ### <mark style="color:blue;">What's Xampp?</mark>
 

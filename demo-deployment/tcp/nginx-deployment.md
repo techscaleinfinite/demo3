@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Nginx deployment
+# 🖥 Nginx deployment
 
 ### <mark style="color:blue;">What's is Nginx?</mark>
 

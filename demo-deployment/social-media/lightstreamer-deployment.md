@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# LightStreamer Deployment
+# ⚡ LightStreamer Deployment
 
 ### <mark style="color:blue;">What's LightStreamer?</mark>
 

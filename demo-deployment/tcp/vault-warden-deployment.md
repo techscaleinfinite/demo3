@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Vault Warden Deployment
+# 🖥 Vault Warden Deployment
 
 ### <mark style="color:blue;">What's is vault warden?</mark>
 

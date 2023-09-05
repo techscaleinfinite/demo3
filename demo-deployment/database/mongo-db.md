@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Mongo DB
+# 🖥 Mongo DB
 
 ### <mark style="color:blue;">What's Mongo DB?</mark>
 

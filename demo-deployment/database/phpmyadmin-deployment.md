@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# PHPmyADMIN Deployment
+# 🖥 PHPmyADMIN Deployment
 
 ### <mark style="color:blue;">What's  php myadmin?</mark>
 

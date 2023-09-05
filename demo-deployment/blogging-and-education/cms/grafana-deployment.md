@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Grafana deployment
+# 💻 Grafana deployment
 
 ### <mark style="color:blue;">What's Grafana?</mark>
 

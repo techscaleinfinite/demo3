@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Bazarr Deployment
+# 📺 Bazarr Deployment
 
 ### <mark style="color:blue;">What's Bazarr?</mark>
 

@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/ownCloud-Trademark.png
 coverY: 0
 ---
 
-# Own Cloud Deployment
+# ☁ Own Cloud Deployment
 
 ### <mark style="color:blue;">What's  OWNCLOUD?</mark>
 

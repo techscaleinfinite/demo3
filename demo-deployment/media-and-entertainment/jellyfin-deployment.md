@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Jellyfin Deployment
+# 📺 Jellyfin Deployment
 
 ### <mark style="color:blue;">What's Jellyfin?</mark>
 

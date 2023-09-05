@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Caddy Deploment
+# 🔒 Caddy Deploment
 
 ### <mark style="color:blue;">What's is caddy?</mark>
 

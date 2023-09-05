@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Next Cloud Deployment
+# ☁ Next Cloud Deployment
 
 ### <mark style="color:blue;">What's Next cloud?</mark>
 

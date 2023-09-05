@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# WordPress SQLite
+# 🖥 WordPress SQLite
 
 ### <mark style="color:blue;">What's WordPress SQLite?</mark>
 
