@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Joomla
+# 🖥 Joomla
 
 ### <mark style="color:blue;">What's joomla?</mark>
 
@@ -223,8 +223,6 @@ By following these steps, you can effortlessly deploy an joomla instance with yo
 ### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
 
 Check out our youtube video for more clarification.
-
-
 
 ### <mark style="color:blue;">FAQ</mark>
 
