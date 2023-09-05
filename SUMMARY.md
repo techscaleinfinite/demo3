@@ -39,7 +39,7 @@
     * [Maria Db Deployment](demo-deployment/database/maria-db-deployment.md)
     * [Tomcat Deployment](demo-deployment/database/tomcat-deployment.md)
   * [Tools and Other Applications](demo-deployment/tcp/README.md)
-    * [Own Cloud Deployment](demo-deployment/tcp/own-cloud-deployment.md)
+    * [🖥 Own Cloud Deployment](demo-deployment/tcp/own-cloud-deployment.md)
     * [Next Cloud Deployment](demo-deployment/tcp/next-cloud-deployment.md)
     * [Caddy Deploment](demo-deployment/tcp/caddy-deploment.md)
     * [Homer Deployment](demo-deployment/tcp/homer-deployment.md)
