@@ -1,3 +1,9 @@
+---
+cover: >-
+  ../../.gitbook/assets/68747470733a2f2f692e696d6775722e636f6d2f65777a3554414e2e706e67.png
+coverY: 0
+---
+
 # Olaris Deployment
 
 ### <mark style="color:blue;">What's is olaris?</mark>

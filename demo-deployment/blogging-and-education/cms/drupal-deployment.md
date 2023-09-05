@@ -21,38 +21,50 @@ layout:
 
 ### <mark style="color:blue;">What's Drupal?</mark>
 
-Drupal is a powerful, open-source web content management system (CMS) built using the PHP scripting language. It offers a versatile platform for creating, managing, and customizing websites to meet your specific needs.
+Drupal is a dynamic and versatile open-source web content management system (CMS) that leverages the PHP scripting language to empower users in creating, managing, and customizing websites tailored to their specific requirements.
 
-**Key Points:**
+Here are the key points to note about Drupal:
 
-1. **Open-Source CMS:** Drupal is freely accessible, providing a foundation for website development and management.
-2. <mark style="color:orange;">**PHP-Powered**</mark>**:** The core of Drupal is written in PHP, a versatile scripting language.
-3. **Modularity:** Drupal's modular architecture allows you to add and customize features using modules.
-4. <mark style="color:orange;">**Customization**</mark>**:** Tailor your site's appearance and functionality with themes and modules.
-5. **Community-Driven:** A thriving community contributes to Drupal's development, providing updates, support, and resources.
+Open-Source CMS: Drupal is an open-source CMS, meaning it is freely accessible to all, providing a solid foundation for website development and management without any licensing fees.
+
+Powered by PHP: At its core, Drupal is built using PHP, a robust and flexible scripting language widely used for web development.
+
+Modularity: Drupal boasts a modular architecture that grants users the ability to enhance and customize their websites by incorporating various modules. These modules extend the CMS's functionality to suit diverse needs.
+
+Customization: Drupal facilitates the tailoring of a website's appearance and functionality through the utilization of themes and modules. This flexibility empowers users to craft unique and engaging digital experiences.
+
+Community-Driven: Drupal thrives due to its vibrant and dedicated community of developers, contributors, and enthusiasts. This community actively participates in the ongoing development of Drupal, ensuring regular updates, providing support, and furnishing valuable resources to aid users in achieving their goals.
+
+In essence, Drupal is more than just a CMS; it's a powerful and adaptable platform that enables individuals and organizations to create websites that are not only visually compelling but also rich in functionality and interactivity. Its open-source nature, coupled with its supportive community, positions Drupal as a prominent choice for web development.
 
 ### <mark style="color:blue;">**Working in Brief**</mark>
 
-1. <mark style="color:orange;">**Content Creation**</mark>**:** Easily create and organize content using Drupal's user-friendly interface.
-2. **Modular Architecture:** Add functionalities with modules that offer specific features or integrations.
-3. <mark style="color:orange;">**Themes & Appearance**</mark>**:** Customize your site's look and feel with themes, ensuring a unique design.
-4. **PHP Processing:** PHP processes user requests, dynamically generating web pages and content.
-5. <mark style="color:orange;">**Community Support**</mark>**:** Benefit from a community of developers and users providing updates, solutions, and enhancements.
+Content Creation: Drupal simplifies content creation through an intuitive and user-friendly interface, making it effortless for users to generate and structure content effectively.
 
-Drupal empowers website management by providing flexibility, scalability, and a robust ecosystem of modules and themes. Its open-source nature and dedicated community make it a versatile choice for various web projects.
+Modular Architecture: The strength of Drupal lies in its modular architecture, allowing users to expand and enhance their websites by integrating specific functionalities through modules. These modules are designed to address various needs, providing flexibility and adaptability.
+
+Themes & Appearance: Drupal offers extensive options for customizing the visual aspects of your website. Themes can be applied to modify the site's appearance, ensuring it aligns with your branding and design preferences.
+
+PHP Processing: At the core of Drupal's functionality is PHP, a dynamic scripting language. PHP processes user requests, generating web pages and content dynamically, which allows for real-time updates and interactions.
+
+Community Support: Drupal benefits from a thriving community of developers, contributors, and users who actively engage in its ongoing development. This collaborative ecosystem ensures regular updates, provides solutions to challenges, and introduces enhancements to the platform.
+
+Drupal's robust capabilities and open-source foundation make it a powerful choice for web content management. Its flexibility, scalability, and the support of an engaged community contribute to its reputation as a versatile solution for a wide range of web projects.
 
 ### &#x20;<mark style="color:blue;">Steps And Procedure</mark>
 
-* &#x20;<mark style="background-color:orange;">**This deployment uses the official Drupal Docker image.**</mark>
-* &#x20;Go to create apps page and Search <mark style="background-color:orange;">Drupal</mark> on the search bar.
-* Click on install button.
-* &#x20;Fill all the required fields.
-* &#x20;click on Advanced.
-* &#x20;Click on the Install button.
-* &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* &#x20;Copy the Drupal application Hostname without NodePort and search the Url.
-* &#x20;Now you can access the Drupal login page.
-* &#x20;Then you will be redirected to the Drupal dashboard page.
+<mark style="background-color:purple;">**This deployment utilizes the official drupal Docker image. Here's a step-by-step guide to get you started:**</mark>
+
+1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">drupal</mark> application.
+2. Click on the "Install" button to initiate the installation process.
+3. Fill in all the required fields with the necessary information.
+4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
+5. After making your selections, press the "Install" button to proceed.
+6. Once the installation is complete, you'll be directed to the "My Apps" page, where you'll find a list of all the applications you've deployed.
+7. Copy the Hostname of the <mark style="color:orange;">drupal</mark> application without the NodePort and paste it into your preferred browser's address bar.
+8. Voilà! You're now able to access the  <mark style="color:orange;">drupal</mark> webpage and explore its content.
+
+By following these straightforward steps, you'll have successfully deployed the <mark style="color:orange;">drupal</mark> application and gained access to its features through a seamless and user-friendly process.
 
 ### <mark style="color:blue;">Installation</mark>
 

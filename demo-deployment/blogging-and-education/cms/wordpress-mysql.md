@@ -21,24 +21,33 @@ layout:
 
 ### <mark style="color:blue;">What's WordPress?</mark>
 
-WordPress is a dynamic, open-source content management system, coded in hypertext preprocessor (PHP), seamlessly paired with a MySQL or MariaDB database, and fortified with HTTPS support. It's your platform for creating and managing websites with ease.
+WordPress stands as a dynamic and open-source content management system (CMS), proficiently crafted with PHP, and designed to operate seamlessly alongside either MySQL or MariaDB databases. Additionally, it includes robust support for HTTPS, bolstering security measures for data transmission. Here are key details:
 
-**Key Points:**
+**Open-Source CMS**: WordPress extends itself as an open-source CMS, breaking down accessibility barriers and offering an adaptable platform for the creation and management of websites.
 
-1. <mark style="color:orange;">**Open-Source CMS**</mark>**:** WordPress is freely accessible, offering a flexible foundation for website creation.
-2. **PHP-Powered:** The core of WordPress is written in PHP, a versatile scripting language.
-3. <mark style="color:orange;">**Database Pairing**</mark>**:** WordPress relies on MySQL or MariaDB databases to store content, settings, and more.
-4. **HTTPS Supported:** Security is prioritized with built-in HTTPS support, encrypting data transmission.
+**PHP-Powered:** At its core, WordPress leverages the versatile PHP scripting language. PHP plays a pivotal role in dynamically generating and rendering web content and interactions, contributing to the platform's flexibility.
+
+**Database Pairing**: WordPress relies on the support of MySQL or MariaDB databases for the storage of diverse elements, encompassing content, configurations, user data, and more. This partnership with robust databases enables WordPress to handle various aspects of website functionality efficiently.
+
+**HTTPS Supported**: Recognizing the paramount importance of security in today's digital landscape, WordPress actively promotes and supports HTTPS (HyperText Transfer Protocol Secure). This encryption protocol ensures that data transmission remains confidential and safeguarded against potential threats during its journey across the internet.
+
+WordPress embodies a user-centric approach to website development, offering a versatile and accessible solution. By embracing open-source principles and integrating PHP, robust databases, and HTTPS, WordPress empowers users to create and manage websites with both ease and security at the forefront.
 
 ### <mark style="color:blue;">**Working in Brief**</mark>
 
-1. <mark style="color:orange;">**Content Creation**</mark>**:** Craft and publish web content through an intuitive dashboard.
-2. **Database Interaction:** WordPress communicates with the MySQL/MariaDB database to store and retrieve content, settings, and user data.
-3. <mark style="color:orange;">**Themes & Plugins**</mark>**:** Enhance functionality and design using themes for appearance and plugins for added features.
-4. **Dynamic Pages:** PHP processes user requests, dynamically generating web pages and assembling content.
-5. <mark style="color:orange;">**HTTPS Encryption**</mark>**:** Data transmitted between users and the website is encrypted, enhancing security.
+WordPress empowers users to manage websites effectively through a user-friendly interface, enabling content creation, while also employing a dynamic and secure foundation. Here are key aspects:
 
-WordPress simplifies website management, offering a user-friendly interface for content creation and a robust ecosystem of themes and plugins to customize your site's look and features.
+Content Creation: WordPress facilitates the creation and publication of web content via an accessible dashboard. Users can draft articles, add media, and manage their site's pages effortlessly.
+
+Database Interaction: WordPress engages in seamless communication with MySQL or MariaDB databases. These databases serve as repositories for an array of elements, including content, configuration settings, and user information. Such integration ensures efficient data storage and retrieval.
+
+Themes & Plugins: WordPress extends its functionality through themes and plugins. Themes are instrumental in shaping a website's appearance, enabling customization to match specific design preferences. Meanwhile, plugins provide additional features and functionalities, allowing users to tailor their sites according to their unique requirements.
+
+Dynamic Pages: PHP, a versatile scripting language, forms the backbone of WordPress, dynamically processing user requests. This enables the generation of web pages on-the-fly, assembling content and delivering it to visitors in real-time.
+
+HTTPS Encryption: WordPress prioritizes security by integrating support for HTTPS (HyperText Transfer Protocol Secure). This encryption protocol safeguards data transmitted between users and the website, bolstering privacy and shielding against potential security threats.
+
+WordPress stands as a powerful platform that streamlines website management, offering a combination of user-friendly content creation tools and an extensive repository of themes and plugins. Its dynamic PHP-driven pages and commitment to HTTPS encryption underscore its dedication to providing both functionality and security.
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
@@ -58,17 +67,18 @@ Exposing 3306 and 80 ports on the container.
 
 #### Deploy Wordpress Mysql on Scaleinfinite
 
-* &#x20;Go to create apps page and Search <mark style="color:orange;">scaleinfinite/wpmysql</mark> on the search bar.
-* &#x20;Click on install button.
-* Fill all the reqired fields.
-* &#x20;click on Advanced.
-* &#x20;Click on the Install button.
-* You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* Copy the wpmysql application Hostname without NodePort and search the Url.
-* Now you can see the wordpress language selection page.
-* After selecting language you will be directly redirected to site creation page and fill all the fields like site name and username and so on.
-* Then Login with that detials.
-* Then you will be redirected to the WordPress Admin dashboard.
+<mark style="background-color:purple;">**This deployment utilizes the official  wordpress Docker image. Here's a step-by-step guide to get you started:**</mark>
+
+1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">m</mark><mark style="color:orange;">scaleinfinite/wpmysql</mark> application.
+2. Click on the "Install" button to initiate the installation process.
+3. Fill in all the required fields with the necessary information.
+4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
+5. After making your selections, press the "Install" button to proceed.
+6. Once the installation is complete, you'll be directed to the "My Apps" page, where you'll find a list of all the applications you've deployed.
+7. Copy the Hostname of the wordpress application without the NodePort and paste it into your preferred browser's address bar.
+8. Voilà! You're now able to access the wordpress webpage and explore its content.
+
+
 
 ### <mark style="color:blue;">Installation</mark>&#x20;
 

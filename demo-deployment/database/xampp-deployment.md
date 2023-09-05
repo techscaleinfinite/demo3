@@ -31,7 +31,7 @@ XAMPP is a great and free web server solution carefully built by Apache Friends.
 
 <mark style="color:orange;">**Local playground:**</mark> One of the coolest features of XAMPP is the ability to create a local server environment right on your machine. This serves as a personal playground for site testing and development before they go live. It's like having a secret lab where you can experiment with no consequences. In short, XAMPP is the right choice for web developers who want a simple, comprehensive and community-driven solution for their local development needs. So go ahead, unleash your web development power with XAMPP!&#x20;
 
-### <mark style="color:blue;">**Working in Brief:**</mark>
+### <mark style="color:blue;">**Working in Brief**</mark>
 
 Here is a step-by-step guide on how to use XAMPP to make your web development journey easier:
 
