@@ -62,15 +62,20 @@ Exposing the port '80' to access the vps.
 
 #### Deploy LinuxVPS on Scaleinfinite
 
-* &#x20;Go to create apps page and Search <mark style="color:orange;">scaleinfinite/linuxvps</mark> on the search bar.
-* Click on install button.
-* &#x20;Fill all the required fields.
-* &#x20;click on Advanced.
-* Click on the Install button.
-* You will be redirected to My Apps page, Here you can find all the applications you deployed.
-* Copy the Linuxvps application Hostname without NodePort and search the Url.
-* &#x20;Now you can see a similar window like this.
-* &#x20;From pressing the LADE symbol button you can access to terminal and file-system etc..,
+<mark style="background-color:purple;">**This deployment utilizes the official Vault warden Docker image. Here's a step-by-step guide to get you started:**</mark>
+
+1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">scaleinfinite/linuxvps</mark> application.
+2. Click on the "Install" button to initiate the installation process.
+3. Fill in all the required fields with the necessary information.
+4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
+5. After making your selections, press the "Install" button to proceed.
+6. Once the installation is complete, you'll be directed to the "My Apps" page, where you'll find a list of all the applications you've deployed.
+7. Copy the Hostname of the <mark style="color:orange;">linuxvps</mark> application without the NodePort and paste it into your preferred browser's address bar.
+8. Voilà! You're now able to access the <mark style="color:orange;">linuxvps</mark>webpage and explore its content.
+
+By following these straightforward steps, you'll have successfully deployed the<mark style="color:orange;">linuxvps</mark> application and gained access to its features through a seamless and user-friendly process.
+
+
 
 ### &#x20;<mark style="color:blue;">Installation</mark>
 

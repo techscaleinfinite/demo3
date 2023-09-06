@@ -22,21 +22,25 @@ layout:
 
 ### <mark style="color:blue;">What's is homer?</mark>
 
-Homer," which is a simple self-hosted dashboard that allows you to organize and access various services from a single interface. It's designed to provide quick access to your self-hosted applications, services, and tools through a web-based dashboard.
+Homer is a user-friendly, self-hosted dashboard that simplifies the management of your various services and applications. This web-based dashboard offers quick and convenient access to a wide range of self-hosted tools and services from a single interface. It's designed to streamline your experience in organizing and interacting with your self-hosted applications, enhancing accessibility and productivity.
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-1. **Configuration**: You define the services you want to include in your Homer dashboard using a YAML configuration file. This configuration file lists the names, URLs, and icons of the services you want to access.
-2. **Dashboard Interface**: Once you've set up the configuration, you can access your Homer dashboard through a web browser. The dashboard presents an organized view of your services, making it easy to find and launch them.
-3. **Service Accessibility**: Each service entry on the dashboard typically includes an icon, name, and URL link. Clicking on a service's icon or name opens a new tab or window in your browser and directs you to the specified service's URL.
-4. **Customization**: Homer allows you to customize the appearance of the dashboard by choosing different themes, layouts, and colors to match your preferences.
-5. **Quick Access**: By using Homer, you can eliminate the need to remember individual URLs or bookmarks for various self-hosted services. Instead, you have a centralized place to access everything.
+Homer simplifies the process of configuring and accessing your self-hosted services through these key steps:
+
+1. **Configuration**: Begin by defining the services you want to include in your Homer dashboard using a YAML configuration file. In this file, you list the names, URLs, and icons associated with each service you wish to access.
+2. **Dashboard Interface**: After setting up your configuration, you can access your Homer dashboard through a web browser. The dashboard offers an organized and user-friendly view of your services, making it straightforward to locate and launch them.
+3. **Service Accessibility**: Each entry on the dashboard typically features an icon, a service name, and a URL link. Clicking on either the icon or the name of a service opens a new tab or window in your browser, taking you directly to the designated URL of that service.
+4. **Customization**: Homer goes the extra mile in terms of customization. You can personalize the appearance of your dashboard by selecting different themes, layouts, and colors that align with your preferences.
+5. **Quick Access**: With Homer, there's no need to remember individual URLs or maintain a complex list of bookmarks for your self-hosted services. The dashboard provides a centralized hub, simplifying access to everything you need.
+
+In essence, Homer transforms the way you interact with your self-hosted applications and services, offering a seamless and efficient solution for managing and accessing them all from a single, user-friendly interface.
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
 &#x20;<mark style="background-color:purple;">**This deployment utilizes the official Homer Docker image. Here's a step-by-step guide to get you started:**</mark>
 
-1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">b4bz/hom</mark><mark style="color:orange;">er</mark> application.
+1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">b4bz/homer</mark> application.
 2. Click on the "Install" button to initiate the installation process.
 3. Fill in all the required fields with the necessary information.
 4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
