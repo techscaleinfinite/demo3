@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Olaris Deployment
+# 📺 Olaris Deployment
 
 ### <mark style="color:blue;">What's is olaris?</mark>
 
