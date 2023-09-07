@@ -166,18 +166,6 @@ If you choose Advanced option:
        Environment variables are dynamic values used by a containerized application for configuration. They are defined as key-value pairs, like `API_KEY=xyz`, and provide flexibility to adjust an app's behavior without changing its code.
 
        * Environment Variables: Define environment variables with keys and values (e.g., `key=value`).
-       *
-
-           The following environment variables are also honored for configuring your Joomla instance:
-
-           * `-e JOOMLA_DB_HOST=...` (defaults to the IP and port of the linked `mysql` container)
-           * `-e JOOMLA_DB_USER=...` (defaults to "root")
-           * `-e JOOMLA_DB_PASSWORD=...` (defaults to the value of the `MYSQL_ROOT_PASSWORD` environment variable from the linked `mysql` container)
-           * `-e JOOMLA_DB_NAME=...` (defaults to "joomla")
-
-           ```yaml
-            MYSQL_ROOT_PASSWORD: example
-           ```
    *   **Working Directory:**
 
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
@@ -188,7 +176,7 @@ If you choose Advanced option:
 7. <mark style="color:orange;">**Installation**</mark>**:**
    * Click the "Install" button to initiate the deployment process.
 
-By following these steps, you can effortlessly deploy an joomla instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
+By following these steps, you can effortlessly deploy an  firefox instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
