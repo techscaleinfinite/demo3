@@ -31,6 +31,7 @@
       * [📓 Onlyoffice deployment](demo-deployment/blogging-and-education/cms/onlyoffice-deployment.md)
       * [📓 Dillinger Deployment](demo-deployment/blogging-and-education/cms/dillinger-deployment.md)
       * [📓 DocPHT Deployment](demo-deployment/blogging-and-education/cms/docpht-deployment.md)
+      * [📓 Livebook Deployment](demo-deployment/blogging-and-education/cms/livebook-deployment.md)
       * [🎨 DRAW.IO Deployment](demo-deployment/blogging-and-education/cms/draw.io-deployment.md)
       * [💧 Drupal deployment](demo-deployment/blogging-and-education/cms/drupal-deployment.md)
   * [Media and Entertainment](demo-deployment/media-and-entertainment/README.md)
