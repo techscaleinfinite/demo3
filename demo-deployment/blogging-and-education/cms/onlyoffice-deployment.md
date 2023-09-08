@@ -159,15 +159,15 @@ By following these steps, you can effortlessly deploy an ONLYOFFICE instance wit
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 124740.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 130006.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 125028 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 130024.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 124804 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 130256.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
