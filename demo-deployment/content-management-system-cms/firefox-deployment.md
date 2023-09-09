@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/208-2080292_firefox-logo.png
+cover: ../../.gitbook/assets/208-2080292_firefox-logo.png
 coverY: 0
 layout:
   cover:
@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🦊 Firefox
+# 🦊 Firefox Deployment
 
 ### <mark style="color:blue;">What's firefox?</mark>
 
@@ -147,12 +147,12 @@ If you choose Advanced option:
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to joomla Deployment**</mark>
+<mark style="color:purple;">**Step-by-Step Guide to firefox Deployment**</mark>
 
 1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`joomla`</mark>
+   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`firefox`</mark>
 2. <mark style="color:orange;">**Application Details**</mark>**:**
-   * Application Name: `joomla`
+   * Application Name: `firefox`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
 3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
    * Protocol: `HTTP`
@@ -184,15 +184,15 @@ By following these steps, you can effortlessly deploy an  firefox instance with 
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-04 163913.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-04 163913.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-04 164012.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-04 164012.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-04 164043.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-04 164043.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -202,11 +202,11 @@ Check out our youtube video for more clarification.
 
 ### <mark style="color:blue;">FAQ</mark>
 
-**About joomla image we used.**
+**About firefox image we used.**
 
-This is the official joomla image.
+This is the official firefox image.
 
-**Can I deploy my own media joomla with modified configuration ?**
+**Can I deploy my own media firefox with modified configuration ?**
 
 Yes, you can simply deploy any version or modified image to our platform by linking your docker hub account to our platform.
 

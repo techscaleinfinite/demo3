@@ -59,7 +59,7 @@ Rustpad isn't just a text editor; it's your creative cockpit, where innovation a
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official etherpad Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   <mark style="background-color:purple;">**This deployment utilizes the official rustpad Docker image. Here's a step-by-step guide to get you started:**</mark>
 
     1. Begin by navigating to the "Create Apps" page and use the search bar to find the [ekzhang/rustpad](https://hub.docker.com/r/ekzhang/rustpad)application.
     2. Click on the "Install" button to initiate the installation process.

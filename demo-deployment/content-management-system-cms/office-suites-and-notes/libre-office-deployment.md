@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../../.gitbook/assets/06ajIYT7R4AM7Fx9S9aUmBn-14.fit_lim.size_1050x591.v1613661897.png
+  ../../../.gitbook/assets/06ajIYT7R4AM7Fx9S9aUmBn-14.fit_lim.size_1050x591.v1613661897.png
 coverY: 0
 layout:
   cover:
@@ -135,23 +135,23 @@ By following these steps, you can effortlessly deploy an  libreoffice instance w
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 112726.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 112726.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 112743.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 112743.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 115552.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 115552.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 115446.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 115446.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 115340.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 115340.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

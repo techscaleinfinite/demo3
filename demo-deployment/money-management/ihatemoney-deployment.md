@@ -138,12 +138,12 @@ If you choose Advanced option:
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to Docpht  Deployment**</mark>
+<mark style="color:purple;">**Step-by-Step Guide to ihatemooney  Deployment**</mark>
 
 1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name: docpht</mark>
+   * <mark style="color:orange;">Docker Image Name: ihatemoney</mark>
 2. <mark style="color:orange;">**Application Details**</mark>**:**
-   * Application Name: `docpht`
+   * Application Name: `ihatemoney`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
 3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
    * Protocol: `HTTP`
