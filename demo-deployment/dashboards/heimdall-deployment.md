@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../.gitbook/assets/68747470733a2f2f692e696d6775722e636f6d2f697556387733792e706e67.png
+  ../../.gitbook/assets/68747470733a2f2f692e696d6775722e636f6d2f697556387733792e706e67.png
 coverY: 0
 layout:
   cover:
@@ -176,23 +176,23 @@ By following these steps, you can effortlessly deploy an _Heimdall_ instance wit
 
 <div>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-09-11 180032.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 180032.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-09-11 180102.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 180102.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-09-11 180203.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 180203.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-09-11 180321.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 180321.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-09-11 180254.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 180254.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/MediaWiki-2020-logo-horizontal.svg.png
+cover: ../../.gitbook/assets/MediaWiki-2020-logo-horizontal.svg.png
 coverY: 0
 layout:
   cover:
@@ -139,7 +139,7 @@ If you choose Advanced option:
 7. <mark style="color:orange;">**Installation**</mark>**:**
    * Click the "Install" button to initiate the deployment process.
 
-By following these steps, you can effortlessly deploy an NGINX instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
+By following these steps, you can effortlessly deploy an media wiki instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
 ### <mark style="color:blue;">Visual Snapshots</mark>
 
@@ -147,15 +147,15 @@ By following these steps, you can effortlessly deploy an NGINX instance with you
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-01 152224.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-01 152224.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-01 152718.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-01 152718.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-01 152346.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-01 152346.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
