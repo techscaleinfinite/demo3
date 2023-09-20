@@ -179,19 +179,21 @@ By following these steps, you can effortlessly deploy an ETHERPAD instance with 
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 181423.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 181423 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 181453.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 181453 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/ffu.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 181700.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 181551.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/efef.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

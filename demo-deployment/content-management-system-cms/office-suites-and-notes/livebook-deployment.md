@@ -162,27 +162,31 @@ By following these steps, you can effortlessly deploy an Livebook instance with 
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 175650 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dcdf.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 175958 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ddcdcsdasd.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/dcdcdddd.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 175707 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ggfddd.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/fvfvfv.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 180053.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 180030.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 180010.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ggggdd.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

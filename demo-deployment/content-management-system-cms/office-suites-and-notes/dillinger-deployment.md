@@ -159,19 +159,21 @@ By following these steps, you can effortlessly deploy an Dillinger instance with
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 152354.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/fgf.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 152511.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dfdfef.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/rgrgr.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 152446.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 152421.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sfsfsf.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -135,23 +135,25 @@ By following these steps, you can effortlessly deploy an  libreoffice instance w
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 112726.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 112726 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 112743.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/rgrg.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/ccc.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 115552.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 115340 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 115446.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-07 115340.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/gdbf.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -155,23 +155,25 @@ By following these steps, you can effortlessly deploy an DocPHT  instance with y
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 154517.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dfdfadfa.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 154551.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dfdff.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/fdfdf.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 154703.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dcdcdcpng.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 154719.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-08 154810.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dfdf.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

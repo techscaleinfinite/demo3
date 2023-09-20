@@ -104,9 +104,9 @@ By following these straightforward steps, you'll have successfully deployed the 
 
 ### <mark style="color:blue;">Installation</mark>
 
-| Docker Image                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| [komga ](https://github.com/gotson/komga) <mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| Docker Image                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| [komga ](https://hub.docker.com/r/gotson/komga)  <mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
 
 | Application name                                                              |
 | ----------------------------------------------------------------------------- |
