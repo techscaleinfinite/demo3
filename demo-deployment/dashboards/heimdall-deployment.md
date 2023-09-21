@@ -129,9 +129,12 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                                |
+| ---------------------------------------------------------------------------------------------------------- |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                    |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                    |
+| <p></p><pre class="language-bash"><code class="lang-bash">-v /path/to/appdata/config:/config
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -163,6 +166,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```bash
+           -v /path/to/appdata/config:/config
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
@@ -176,23 +185,25 @@ By following these steps, you can effortlessly deploy an _Heimdall_ instance wit
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 180032.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/oooo.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 180102.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/uuuu.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 180203.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tthh.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/oooojj.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 180321.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 180254.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fffyy.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

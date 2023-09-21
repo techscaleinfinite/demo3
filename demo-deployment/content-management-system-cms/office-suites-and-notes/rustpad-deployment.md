@@ -21,19 +21,19 @@ layout:
 
 ### <mark style="color:blue;">What's rustpad?</mark>
 
-Rustpad: Where Real-Time Collaboration Meets Seamless Editing
+<mark style="color:orange;">Rustpad: Where Real-Time Collaboration Meets Seamless Editing</mark>
 
-Imagine a text editor that's not just functional but also thrives on collaboration. Enter Rustpad, an open-source gem that's changing the way we work together on documents.
+<mark style="color:orange;">Imagine a text editor that's not just functional but also thrives on collaboration. Enter Rustpad, an open-source gem that's changing the way we work together on documents.</mark>
 
 **Real-Time Editing**: Rustpad employs the operational transformation algorithm, ensuring that every edit is instantly synced across all collaborators' screens. It's like having a virtual writing party, where your ideas flow freely and effortlessly.
 
 **Web-Based Simplicity**: No need for heavy installations or downloads. Simply share a link to your Rustpad document, and your peers can dive right into editing from their browsers. It's instant, accessible, and hassle-free.
 
-**Live Preview**: Watch your document transform in real time as you and your collaborators make changes. It's not just a text editor; it's a dynamic, living canvas for your ideas.
+<mark style="color:orange;">**Live Preview**</mark>: Watch your document transform in real time as you and your collaborators make changes. It's not just a text editor; it's a dynamic, living canvas for your ideas.
 
 **Uninterrupted Workflow**: With Rustpad, there's no need to take turns or send files back and forth. Everyone edits simultaneously, ensuring a streamlined, interruption-free workflow.
 
-**Version Control**: Sometimes, you might need to revisit an earlier version of your document. Rustpad has your back, with built-in version control that allows you to roll back to previous states effortlessly.
+<mark style="color:orange;">**Version Control**</mark><mark style="color:orange;">:</mark> Sometimes, you might need to revisit an earlier version of your document. Rustpad has your back, with built-in version control that allows you to roll back to previous states effortlessly.
 
 Rustpad is where innovation meets simplicity. It's more than a text editor; it's a collaborative space for turning ideas into reality, in real time. Say goodbye to the delays of traditional document sharing and embrace the future of collaborative editing with Rustpad. Try it now and experience the seamless synergy of real-time collaboration.
 
@@ -41,19 +41,19 @@ Rustpad is where innovation meets simplicity. It's more than a text editor; it's
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**How Rustpad Works: Crafting Collaborative Creativity**
+<mark style="color:orange;">**How Rustpad Works: Crafting Collaborative Creativity**</mark>
 
 Rustpad, the dynamic collaborative text editor, operates on the ingenious operational transformation algorithm, paving the way for a seamless editing experience. Here's the lowdown on how it all comes together:
 
 **1. Share the Link**: Begin by sharing a Rustpad link with your fellow wordsmiths. This isn't just any link; it's your gateway to simultaneous collaboration. It's as simple as sending an invitation to a virtual writing soirée.
 
-**2. Real-Time Magic**: As you and your collaborators access the document from your respective browsers, Rustpad's operational transformation algorithm takes center stage. It ensures that every keystroke, every edit, is instantaneously reflected across all screens. It's like having a real-time conversation with your document.
+<mark style="color:orange;">**2. Real-Time Magic**</mark>: As you and your collaborators access the document from your respective browsers, Rustpad's operational transformation algorithm takes center stage. It ensures that every keystroke, every edit, is instantaneously reflected across all screens. It's like having a real-time conversation with your document.
 
 **3. Live Preview**: Watch your document transform before your eyes. Rustpad's live preview feature gives you a dynamic, interactive canvas for your ideas. It's not just editing; it's a creative journey in motion.
 
 **4. Uninterrupted Flow**: Gone are the days of taking turns or sending files back and forth. Rustpad allows everyone to edit simultaneously, harmonizing your efforts into an uninterrupted workflow. It's your personal symphony of ideas.
 
-**5. Version Control**: Need to revisit an earlier draft? Rustpad's built-in version control has you covered. Effortlessly roll back to previous states, ensuring that no brilliant idea is ever lost.
+<mark style="color:orange;">**5. Version Control**</mark><mark style="color:orange;">:</mark> Need to revisit an earlier draft? Rustpad's built-in version control has you covered. Effortlessly roll back to previous states, ensuring that no brilliant idea is ever lost.
 
 Rustpad isn't just a text editor; it's your creative cockpit, where innovation and collaboration take flight. Say farewell to the delays of traditional document sharing and embrace the future of real-time editing with Rustpad. It's where ideas flow freely, edits happen instantaneously, and your document transforms into a masterpiece right before your eyes. Try Rustpad today and experience the magic of collaborative creativity.
 
@@ -105,6 +105,7 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -136,6 +137,7 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

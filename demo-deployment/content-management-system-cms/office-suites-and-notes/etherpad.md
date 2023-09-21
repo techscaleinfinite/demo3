@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's etherpad?</mark>
 
-📝 **Etherpad's Symphony of Features** 📝
+<mark style="color:orange;">📝</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Etherpad's Symphony of Features**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">📝</mark>
 
 Etherpad isn't your run-of-the-mill text editor; it's a virtuoso of collaborative writing. Here's the crescendo of its capabilities:
 
@@ -59,7 +59,7 @@ There you have it, Etherpad's feature concerto! It transforms your writing into 
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**Unlocking the Magic of Etherpad**
+<mark style="color:orange;">**Unlocking the Magic of Etherpad**</mark>
 
 Etherpad isn't your ordinary text editor; it's a wizardry of collaborative writing. Here's a symphony of its inner workings:
 
@@ -135,6 +135,8 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| application/lib/etherpad-lite/var/dirty.db                                              |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -166,6 +168,8 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * application/lib/etherpad-lite/var/dirty.db
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

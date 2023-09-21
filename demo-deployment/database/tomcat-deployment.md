@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's  tomcat?</mark>
 
-Apache Tomcat, commonly referred to as Tomcat, is an open-source web server and servlet container developed by the Apache Software Foundation. It's designed to serve Java-based web applications by implementing various Java Servlet, JavaServer Pages (JSP), and WebSocket technologies. Here's an overview of what Tomcat is and how it works:
+<mark style="color:orange;">Apache Tomcat, commonly referred to as Tomcat, is an open-source web server and servlet container developed by the Apache Software Foundation. It's designed to serve Java-based web applications by implementing various Java Servlet, JavaServer Pages (JSP), and WebSocket technologies. Here's an overview of what Tomcat is and how it works:</mark>
 
 1. **Web Server and Servlet Container:**
    * Tomcat serves as both a web server and a servlet container. As a web server, it handles HTTP requests and responses, while as a servlet container, it manages Java servlets and JSP pages.
@@ -51,7 +51,7 @@ In summary, Apache Tomcat is a versatile web server and servlet container that p
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-Apache Tomcat operates as a web server and servlet container, facilitating the hosting and execution of Java-based web applications. Here's an explanation of how it works:
+<mark style="color:orange;">Apache Tomcat operates as a web server and servlet container, facilitating the hosting and execution of Java-based web applications. Here's an explanation of how it works:</mark>
 
 1. **HTTP Request Handling:**
    * Apache Tomcat primarily serves as an HTTP server, capable of handling HTTP requests and responses. Clients, typically web browsers, send HTTP requests to the Tomcat server to access web resources.
@@ -124,6 +124,8 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| /etc/mysql/conf.d                                                                       |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -155,7 +157,8 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * here in this case use this /etc/mysql/conf.d
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * /etc/mysql/conf.d
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

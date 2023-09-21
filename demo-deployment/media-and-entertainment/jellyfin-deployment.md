@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's Jellyfin?</mark>
 
-Jellyfin is like a personal media maestro, here to help you orchestrate, organize, and enjoy your media collection with ease. Here are the key points that make Jellyfin shine:
+<mark style="color:orange;">Jellyfin is like a personal media maestro, here to help you orchestrate, organize, and enjoy your media collection with ease. Here are the key points that make Jellyfin shine:</mark>
 
 **Open-Source Media Server:** Jellyfin believes in the freedom of media. It's open-source and completely accessible to all, offering a powerful platform to organize and stream your personal media without any hidden costs.
 
@@ -93,6 +93,8 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| <p>-v /path/to/tvseries:/data/tvshows<br>-v /path/to/movies:/data/movies</p>            |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -124,6 +126,9 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * \-v /path/to/tvseries:/data/tvshows\
+         \-v /path/to/movies:/data/movies
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
@@ -137,27 +142,31 @@ By following these steps, you can effortlessly deploy and JELLY instance with yo
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 161711.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kkk.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 161749.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ffb.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/hhhh.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 161854.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fhhhhk.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/gggggnm.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 161922.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 162015.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 162055.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/llp (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

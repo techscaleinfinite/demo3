@@ -22,21 +22,21 @@ layout:
 ### <mark style="color:blue;">What's livebook?</mark>
 
 \
-**Livebook: Your Collaborative Code Notebook**
+<mark style="color:orange;">**Livebook: Your Collaborative Code Notebook**</mark>
 
 In the ever-evolving realm of coding and data exploration, having the right tools can make all the difference. Enter Livebook, a versatile web application designed to be your partner in interactive, collaborative code notebook creation. Let's dive into what makes Livebook your coding confidant:
 
 **1. Interactive Code Notebooks**: Livebook combines the best of both worlds – Markdown support and Code cells that allow you to execute Elixir code when needed. This dynamic duo makes coding and documentation seamlessly intertwined.
 
-**2. Mighty Monaco Editor**: Meet Monaco, your trusty code editor within Livebook. It's more than just a text box; it's packed with features like autocompletion, inline documentation, code formatting, and more. It's like having a coding companion that always knows what you need.
+<mark style="color:orange;">**2. Mighty Monaco Editor**</mark><mark style="color:orange;">:</mark> Meet Monaco, your trusty code editor within Livebook. It's more than just a text box; it's packed with features like autocompletion, inline documentation, code formatting, and more. It's like having a coding companion that always knows what you need.
 
 **3. Visualize with Kino**: Livebook introduces Kino, your gateway to interactive results. Create eye-catching Vega-Lite charts, tables, maps, and beyond. Now, your data can tell its story visually, adding depth to your notebooks.
 
-**4. Smart Cells for Efficiency**: Boost your productivity with Smart cells. They tackle high-level tasks, allowing you to interact with databases, plot charts, build maps, and perform other actions directly from Livebook's user-friendly interface.
+<mark style="color:orange;">**4. Smart Cells for Efficiency**</mark><mark style="color:orange;">:</mark> Boost your productivity with Smart cells. They tackle high-level tasks, allowing you to interact with databases, plot charts, build maps, and perform other actions directly from Livebook's user-friendly interface.
 
 **5. Reproducible and Predictable**: Livebook ensures your code runs like clockwork, maintaining predictability down to package management. Say goodbye to code chaos and hello to a structured, streamlined coding experience.
 
-**6. Collaboration at Its Best**: The world of coding is no longer a solo journey. Livebook fosters collaboration effortlessly, enabling multiple users to work on the same notebook simultaneously, minus the fuss of additional setup.
+<mark style="color:orange;">**6. Collaboration at Its Best**</mark><mark style="color:orange;">:</mark> The world of coding is no longer a solo journey. Livebook fosters collaboration effortlessly, enabling multiple users to work on the same notebook simultaneously, minus the fuss of additional setup.
 
 **7. Decentralized and Open-Source**: Livebook isn't confined by boundaries. It's open-source, ready to run wherever you need it. The "Run in Livebook" badge simplifies importing any Livebook into your personal workspace.
 
@@ -48,21 +48,21 @@ So, whether you're building the next groundbreaking app or uncovering insights w
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**How Livebook Works: Unveiling the Magic**
+<mark style="color:orange;">**How Livebook Works: Unveiling the Magic**</mark>
 
 Coding and data exploration are about to get a whole lot more exciting with Livebook. This collaborative code notebook brings a touch of magic to your coding journey. Let's uncover the spellbinding workings of Livebook:
 
 📘 **Interactive Code Notebooks**: Picture this – a notebook where you can seamlessly weave your code and explanations. Livebook offers Code cells that allow you to execute Elixir code on the fly, surrounded by the comfort of Markdown support.
 
-✒️ **Monaco Editor**: Inside Livebook, you'll find Monaco, your code-editing wizard. It's not just any editor; it's your coding sidekick. With features like autocompletion, inline documentation, and code formatting, Monaco has a solution for every coding whim.
+✒️ <mark style="color:orange;">**Monaco Editor**</mark><mark style="color:orange;">:</mark> Inside Livebook, you'll find Monaco, your code-editing wizard. It's not just any editor; it's your coding sidekick. With features like autocompletion, inline documentation, and code formatting, Monaco has a solution for every coding whim.
 
 📊 **Visual Magic with Kino**: Livebook introduces Kino, your gateway to visual enchantment. Kino lets you conjure Vega-Lite charts, tables, maps, and more. Your data comes to life with vivid visuals, adding a dash of magic to your notebooks.
 
-🔮 **Smart Cells for Efficiency**: Imagine having cells that can do your bidding! Smart cells in Livebook make complex tasks a breeze. Interact with databases, create charts, map out your data – all without leaving the Livebook interface.
+<mark style="color:orange;">🔮</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Smart Cells for Efficiency**</mark>: Imagine having cells that can do your bidding! Smart cells in Livebook make complex tasks a breeze. Interact with databases, create charts, map out your data – all without leaving the Livebook interface.
 
 🔄 **Reproducibility and Predictability**: Livebook takes the chaos out of coding. It ensures that your code follows a clear, predictable path, from package management to execution. No more surprises, just smooth coding.
 
-🤝 **Seamless Collaboration**: In the realm of coding, teamwork reigns supreme. Livebook makes collaboration effortless. Multiple users can work on the same notebook simultaneously, making it a hub of shared ideas and innovation.
+<mark style="color:orange;">🤝</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Seamless Collaboration**</mark><mark style="color:orange;">:</mark> In the realm of coding, teamwork reigns supreme. Livebook makes collaboration effortless. Multiple users can work on the same notebook simultaneously, making it a hub of shared ideas and innovation.
 
 🌐 **Decentralized and Open**: Livebook breaks free from constraints. It's open-source, ready to be your coding companion wherever you roam. The "Run in Livebook" badge simplifies importing Livebooks into your coding domain.
 
@@ -115,9 +115,11 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                              |
+| ---------------------------------------------------------------------------------------- |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code> </p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                  |
+| -v $(pwd):/data [ghcr.io/livebook-dev/livebook](http://ghcr.io/livebook-dev/livebook)    |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -149,6 +151,8 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * \-v $(pwd):/data [ghcr.io/livebook-dev/livebook](http://ghcr.io/livebook-dev/livebook)
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

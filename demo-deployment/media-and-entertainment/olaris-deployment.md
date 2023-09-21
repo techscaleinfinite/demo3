@@ -8,7 +8,7 @@ coverY: 0
 
 ### <mark style="color:blue;">What's is olaris?</mark>
 
-Olaris is like a creative hub for media enthusiasts, a place where the community comes together to manage and transform their media treasures. At its heart lies the olaris-react project, the main interface that's here to streamline your media management experience. And, guess what? There are plans in the pipeline to support even more clients and applications down the road.
+<mark style="color:orange;">Olaris is like a creative hub for media enthusiasts, a place where the community comes together to manage and transform their media treasures. At its heart lies the olaris-react project, the main interface that's here to streamline your media management experience. And, guess what? There are plans in the pipeline to support even more clients and applications down the road.</mark>
 
 **Open-Source Community:** Olaris isn't just software; it's a labor of love, powered by a community that believes in the open-source spirit. It's like a collective art studio where everyone's brushes and talents come together to create something beautiful.
 
@@ -34,7 +34,7 @@ With Olaris, managing, transforming, and enjoying your media is a breeze. It's l
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
-&#x20; <mark style="background-color:purple;">**This deployment utilizes the official NextCloud Docker image. Here's a step-by-step guide to get you started:**</mark>
+&#x20; <mark style="background-color:purple;">**This deployment utilizes the official oalris Docker image. Here's a step-by-step guide to get you started:**</mark>
 
 1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">olaristv/olaris-server</mark> application.
 2. Click on the "Install" button to initiate the installation process.
@@ -76,6 +76,8 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| /var/media                                                                              |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -107,6 +109,8 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * /var/media
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

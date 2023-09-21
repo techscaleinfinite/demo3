@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">**What's MySQL?**</mark>
 
-MySQL is like a trusted librarian for your data, helping you organize, store, and retrieve structured information with ease. Here are the key points that make MySQL stand out:
+<mark style="color:orange;">MySQL is like a trusted librarian for your data, helping you organize, store, and retrieve structured information with ease. Here are the key points that make MySQL stand out:</mark>
 
 **Open-Source RDBMS:** MySQL is a generous soul—it's open-source and free to use. You get a robust and reliable Relational Database Management System (RDBMS) without breaking the bank.
 
@@ -92,9 +92,12 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------- |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                       |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                       |
+| <p></p><pre class="language-console"><code class="lang-console">-v /my/custom:/etc/mysql/conf.d
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -126,6 +129,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```console
+           -v /my/custom:/etc/mysql/conf.d
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
@@ -156,35 +165,39 @@ When deploying a MySQL application, you can't directly connect to it via a web b
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 160349.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 160349 (2).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 153655.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ccvc.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 154843.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vbvb.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/bbn.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 161329.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mhjyjy.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 161407.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 161329 (3).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/bbf.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 163544.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 163811.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 170133 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/jjj.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

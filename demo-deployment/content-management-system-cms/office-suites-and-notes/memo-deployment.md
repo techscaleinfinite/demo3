@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's  memo?</mark>
 
-**memos: Your Personal Memo Assistant**
+<mark style="color:orange;">**memos: Your Personal Memo Assistant**</mark>
 
-Are you tired of complex note-taking apps with cluttered interfaces and privacy concerns? Enter **memos**, a refreshingly simple yet robust memo application that puts your thoughts and ideas at the forefront while prioritizing your data's privacy.
+<mark style="color:orange;">Are you tired of complex note-taking apps with cluttered interfaces and privacy concerns? Enter</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**memos**</mark><mark style="color:orange;">, a refreshingly simple yet robust memo application that puts your thoughts and ideas at the forefront while prioritizing your data's privacy.</mark>
 
 **Key Features at a Glance:**
 
@@ -57,9 +57,9 @@ So, whether you're jotting down spur-of-the-moment ideas, organizing your though
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**How memos Works: Unveiling the Magic Behind Your Memos**
+<mark style="color:orange;">**How memos Works: Unveiling the Magic Behind Your Memos**</mark>
 
-At first glance, memos may seem like just another note-taking app, but beneath its simple exterior lies a powerhouse of features designed to elevate your memo-keeping experience. Let's peel back the curtain and explore how this ingenious application works:
+<mark style="color:orange;">At first glance, memos may seem like just another note-taking app, but beneath its simple exterior lies a powerhouse of features designed to elevate your memo-keeping experience. Let's peel back the curtain and explore how this ingenious application works:</mark>
 
 **1. Privacy First and Foremost:**
 
@@ -136,6 +136,9 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| <p></p><pre><code>- './memos/:/var/opt/memos'
+</code></pre>                             |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -167,6 +170,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```
+           - './memos/:/var/opt/memos'
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
@@ -180,19 +189,21 @@ By following these steps, you can effortlessly deploy an  memos instance with yo
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 144943.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 144943 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 145021.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 145021 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/rgfg.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 145304.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 145439.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 145439 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -204,7 +215,7 @@ Check out our youtube video for more clarification.
 
 ### <mark style="color:blue;">FAQ</mark>
 
-**About** memos **image we used.**
+**About memos** **image we used.**
 
 This is the official memos image.
 

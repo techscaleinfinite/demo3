@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/Joomla!-Logo.svg.png
+cover: ../../.gitbook/assets/Joomla!-Logo.svg.png
 coverY: 0
 layout:
   cover:
@@ -152,6 +152,7 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -195,6 +196,7 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
@@ -208,15 +210,15 @@ By following these steps, you can effortlessly deploy an joomla instance with yo
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-04 163913.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-04 163913.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-04 164012.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-04 164012.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-04 164043.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-04 164043.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

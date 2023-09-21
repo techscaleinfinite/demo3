@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's Bazarr?</mark>
 
-Bazarr is like a diligent wingman for your media, the unsung hero that makes sure every detail is perfect. It's the Robin to Sonarr and Radarr's Batman, focusing its superpowers on managing and fetching subtitles just the way you like them. Here's how Bazarr becomes your subtitle savior:
+<mark style="color:orange;">Bazarr is like a diligent wingman for your media, the unsung hero that makes sure every detail is perfect. It's the Robin to Sonarr and Radarr's Batman, focusing its superpowers on managing and fetching subtitles just the way you like them. Here's how Bazarr becomes your subtitle savior:</mark>
 
 **Subtitle Preferences:** Bazarr is all about personalization. You get to set your preferences for TV shows and movies, like choosing the perfect outfit for a special occasion. You tell Bazarr what you like, and it takes those preferences to heart.
 
@@ -92,9 +92,14 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                                                                                               |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                                                                                               |
+| <p></p><pre class="language-yaml"><code class="lang-yaml"> - /path/to/bazarr/config:/config
+      - /path/to/movies:/movies #optional
+      - /path/to/tv:/tv #optional
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -126,6 +131,14 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```yaml
+            - /path/to/bazarr/config:/config
+                 - /path/to/movies:/movies #optional
+                 - /path/to/tv:/tv #optional
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

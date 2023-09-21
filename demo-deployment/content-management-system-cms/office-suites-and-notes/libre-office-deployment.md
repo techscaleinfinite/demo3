@@ -22,7 +22,7 @@ layout:
 
 ### <mark style="color:blue;">What's  libre office?</mark>
 
-LibreOffice is like that versatile Swiss Army knife of office software, but in the digital realm. It's a suite of applications that roll up their sleeves and handle your document, spreadsheet, and presentation needs with finesse, all while keeping your wallet happy because it's open-source and free.
+<mark style="color:orange;">LibreOffice is like that versatile Swiss Army knife of office software, but in the digital realm. It's a suite of applications that roll up their sleeves and handle your document, spreadsheet, and presentation needs with finesse, all while keeping your wallet happy because it's open-source and free.</mark>
 
 Picture this: You've got a report to write, a spreadsheet to crunch numbers in, and a presentation to woo your audience. Instead of juggling different tools, LibreOffice steps in as your trusty sidekick, offering Writer for your text, Calc for those complex calculations, and Impress to make your ideas pop.
 
@@ -88,9 +88,12 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                         |
+| --------------------------------------------------------------------------------------------------- |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>             |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                             |
+| <p></p><pre class="language-bash"><code class="lang-bash"> -v /path/to/config:/config
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -122,6 +125,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```bash
+            -v /path/to/config:/config
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's  octobot?</mark>
 
-**OctoBot: Where Crypto Trading Meets Simplicity and Profitability**
+<mark style="color:orange;">**OctoBot: Where Crypto Trading Meets Simplicity and Profitability**</mark>
 
-In the complex world of cryptocurrency trading, OctoBot emerges as a game-changer, combining power, simplicity, and profitability. Let's dive into the heart of this innovative open-source cryptocurrency trading robot:
+<mark style="color:orange;">In the complex world of cryptocurrency trading, OctoBot emerges as a game-changer, combining power, simplicity, and profitability. Let's dive into the heart of this innovative open-source cryptocurrency trading robot:</mark>
 
 **1. Versatile Trading Strategies:**
 
@@ -56,9 +56,9 @@ In essence, OctoBot empowers crypto-investors to harness the full potential of t
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**OctoBot in Action: Unleashing Crypto Trading Potential**
+<mark style="color:orange;">**OctoBot in Action: Unleashing Crypto Trading Potential**</mark>
 
-So, you're eager to explore how OctoBot works its magic in the world of cryptocurrency trading? Let's take a closer look at the inner workings of this innovative trading companion:
+<mark style="color:orange;">So, you're eager to explore how OctoBot works its magic in the world of cryptocurrency trading? Let's take a closer look at the inner workings of this innovative trading companion:</mark>
 
 **1. Strategy Selection:**
 
@@ -145,6 +145,9 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| <p></p><pre><code>/octobot/user
+</code></pre>                                           |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -176,6 +179,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```
+           /octobot/user
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

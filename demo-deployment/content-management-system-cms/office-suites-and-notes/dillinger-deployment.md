@@ -21,29 +21,29 @@ layout:
 
 ### <mark style="color:blue;">What's Dillinger?</mark>
 
-**Dillinger: The Markdown Maestro**
+<mark style="color:orange;">**Dillinger: The Markdown Maestro**</mark>
 
 Prepare to meet Dillinger, the HTML5 Markdown editor that's rewriting the rules. With its cloud-enabled, mobile-ready, and offline-storage-compatible prowess, Dillinger is changing the game:
 
 **1. Markdown Mastery**: Dillinger is your gateway to the world of Markdown, a lightweight markup language that's all about simplicity and readability. It's the tool of choice for writers who focus on content, not distractions.
 
-**2. Mobile Maverick**: Dillinger doesn't tie you down to a desk. It's mobile-ready, which means you can craft your prose or jot down ideas from anywhere, whether you're on a bustling train or lounging at a coffee shop.
+<mark style="color:orange;">**2. Mobile Maverick**</mark><mark style="color:orange;">:</mark> Dillinger doesn't tie you down to a desk. It's mobile-ready, which means you can craft your prose or jot down ideas from anywhere, whether you're on a bustling train or lounging at a coffee shop.
 
 **3. Cloud Connection**: Embrace the power of the cloud with Dillinger. Your documents are securely stored online, ready for access whenever and wherever you need them. Say goodbye to lost files and the fear of hardware failures.
 
-**4. Offline Awesomeness**: Dillinger understands that the internet isn't always at your beck and call. That's why it's offline-storage compatible. You can work on your documents even when you're in the internet wilderness.
+<mark style="color:orange;">**4. Offline Awesomeness**</mark>: Dillinger understands that the internet isn't always at your beck and call. That's why it's offline-storage compatible. You can work on your documents even when you're in the internet wilderness.
 
 **5. AngularJS Backbone**: Powered by AngularJS, Dillinger is more than just a text editor; it's a dynamic web application. It combines the best of web technologies to offer a seamless editing experience.
 
-**6. Distraction-Free Zone**: Dillinger's minimalist interface keeps distractions at bay. When you're in the zone, the last thing you need is a cluttered screen. Focus on your words; Dillinger handles the rest.
+<mark style="color:orange;">**6. Distraction-Free Zone**</mark><mark style="color:orange;">:</mark> Dillinger's minimalist interface keeps distractions at bay. When you're in the zone, the last thing you need is a cluttered screen. Focus on your words; Dillinger handles the rest.
 
 **7. Markdown to HTML**: Dillinger doesn't just stop at Markdown. It effortlessly converts your Markdown documents into HTML, opening up a world of possibilities for publishing and sharing your content.
 
-**8. Real-Time Preview**: See your changes come to life in real-time. Dillinger provides a live preview of your Markdown as you type, so you can fine-tune your content with precision.
+<mark style="color:orange;">**8. Real-Time Preview**</mark><mark style="color:orange;">:</mark> See your changes come to life in real-time. Dillinger provides a live preview of your Markdown as you type, so you can fine-tune your content with precision.
 
 **9. Github Integration**: If you're a developer or open-source enthusiast, you'll love Dillinger's Github integration. Edit and preview your Github-hosted Markdown files with ease.
 
-**10. Open Source Spirit**: Just like Markdown itself, Dillinger embraces the open-source ethos. It's a community-driven project, constantly evolving to meet the needs of its users.
+<mark style="color:orange;">**10. Open Source Spirit**</mark><mark style="color:orange;">:</mark> Just like Markdown itself, Dillinger embraces the open-source ethos. It's a community-driven project, constantly evolving to meet the needs of its users.
 
 So, whether you're a wordsmith, a coder, or a creative thinker, Dillinger has your back. It's a Markdown playground that lets you focus on what matters—your ideas. Embrace the simplicity, embrace the power, and let Dillinger be your Markdown muse.
 
@@ -51,17 +51,17 @@ So, whether you're a wordsmith, a coder, or a creative thinker, Dillinger has yo
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**Unlock the Magic of Dillinger's Features**
+<mark style="color:orange;">**Unlock the Magic of Dillinger's Features**</mark>
 
 Dillinger isn't just your run-of-the-mill Markdown editor; it's a feature-packed wizard that simplifies your writing journey:
 
 **1. HTML to Markdown Sorcery**: Experience the magic of effortless HTML to Markdown conversion. Just import an HTML file into Dillinger, and watch it transform like a digital chameleon.
 
-**2. Dropbox Image Alchemy**: For the image sorcerers among us, Dillinger lets you seamlessly drag and drop images—thanks to your linked Dropbox account. Your visuals become an integral part of your Markdown masterpiece.
+<mark style="color:orange;">**2. Dropbox Image Alchemy**</mark><mark style="color:orange;">:</mark> For the image sorcerers among us, Dillinger lets you seamlessly drag and drop images—thanks to your linked Dropbox account. Your visuals become an integral part of your Markdown masterpiece.
 
 **3. Cosmic File Compatibility**: Dillinger connects to the cosmic realms of file hosting. Import and save your documents from GitHub, Dropbox, Google Drive, and OneDrive. The universe of your content is at your fingertips.
 
-**4. Drag and Drop Wizardry**: Embrace the power of drag and drop with Dillinger. It's as simple as it sounds—just drag and drop your Markdown and HTML files into Dillinger, and let the magic unfold.
+<mark style="color:orange;">**4. Drag and Drop Wizardry**</mark><mark style="color:orange;">:</mark> Embrace the power of drag and drop with Dillinger. It's as simple as it sounds—just drag and drop your Markdown and HTML files into Dillinger, and let the magic unfold.
 
 **5. Export Enchantment**: Dillinger believes in the freedom of choice. Export your documents in various formats: Markdown, HTML, and even PDF. Whether you're sharing your thoughts or preparing a presentation, Dillinger has the spell you need.
 
@@ -112,9 +112,12 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                         |
+| --------------------------------------------------------------------------------------------------- |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>             |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                             |
+| <p></p><pre class="language-yaml"><code class="lang-yaml"> - /path/to/configs:/config
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -146,6 +149,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```yaml
+            - /path/to/configs:/config
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

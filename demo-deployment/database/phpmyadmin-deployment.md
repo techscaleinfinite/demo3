@@ -37,7 +37,7 @@ Basically, phpMyAdmin is your trusted companion that makes browsing through your
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-phpMyAdmin works as a web-based interface for managing MySQL and MariaDB databases. Here's a step-by-step overview of how it operates:
+<mark style="color:orange;">phpMyAdmin works as a web-based interface for managing MySQL and MariaDB databases. Here's a step-by-step overview of how it operates:</mark>
 
 1. **Accessing the Interface**: Users access phpMyAdmin by navigating to its URL through a web browser. The phpMyAdmin interface is hosted on a web server, often the same server where the MySQL or MariaDB database is running.
 2. **Login and Authentication**: Upon reaching the phpMyAdmin login page, users are required to provide valid login credentials, including a username and password. These credentials are checked against the user accounts configured in the MySQL or MariaDB database server.
@@ -90,9 +90,11 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                 |
+| ------------------------------------------------------------------------------------------- |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>     |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                     |
+| -v /some/local/directory/config.user.inc.php:/etc/phpmyadmin/config.user.inc.php phpmyadmin |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -124,6 +126,8 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * \-v /some/local/directory/config.user.inc.php:/etc/phpmyadmin/config.user.inc.php phpmyadmin
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

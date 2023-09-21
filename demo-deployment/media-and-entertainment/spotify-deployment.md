@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's spotify?</mark>
 
-Spotify is a widely acclaimed and immensely popular music streaming service that has revolutionized the way people listen to music. It offers a vast library of songs, podcasts, and audio content that users can access seamlessly on various devices. Here's an overview of Spotify's key features and functionality:
+<mark style="color:orange;">Spotify is a widely acclaimed and immensely popular music streaming service that has revolutionized the way people listen to music. It offers a vast library of songs, podcasts, and audio content that users can access seamlessly on various devices. Here's an overview of Spotify's key features and functionality:</mark>
 
 1. **Extensive Music Catalog:** Spotify boasts an extensive and diverse catalog of music, spanning across various genres, languages, and eras. Users can explore millions of songs, from classic tracks to the latest chart-toppers.
 2. **User-Friendly Interface:** The Spotify app and desktop client feature an intuitive and user-friendly interface. Navigating through playlists, albums, and artists is straightforward, making music discovery a breeze.
@@ -40,7 +40,7 @@ Overall, Spotify has transformed the way people consume music and audio content.
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-&#x20;Spotify operates as a sophisticated music streaming service that provides users with access to an extensive catalog of songs and audio content. Here's an overview of how Spotify works:
+&#x20;<mark style="color:orange;">Spotify operates as a sophisticated music streaming service that provides users with access to an extensive catalog of songs and audio content. Here's an overview of how Spotify works:</mark>
 
 **1. Registration and Account Creation:**
 
@@ -133,6 +133,7 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -164,6 +165,7 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

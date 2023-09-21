@@ -93,6 +93,7 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -124,6 +125,7 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
@@ -137,27 +139,29 @@ By following these steps, you can effortlessly deploy an  GITEA instance with yo
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 122232.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ffwwddddw.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 122307.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wdwd.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 122445.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/www.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/eeeeff.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 122611.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wwff.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 122547.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 122516.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/eefef.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -22,9 +22,9 @@ layout:
 
 ### <mark style="color:blue;">What's podgrab?</mark>
 
-Podgrab: Your Podcast Sidekick for Effortless Listening
+<mark style="color:orange;">Podgrab: Your Podcast Sidekick for Effortless Listening</mark>
 
-Discovering, downloading, and enjoying your favorite podcasts has never been easier, thanks to Podgrab. This self-hosted podcast manager is your ticket to a seamless and enjoyable podcasting experience. Let's dive into the world of Podgrab and explore how it elevates your podcast game.
+<mark style="color:orange;">Discovering, downloading, and enjoying your favorite podcasts has never been easier, thanks to Podgrab. This self-hosted podcast manager is your ticket to a seamless and enjoyable podcasting experience. Let's dive into the world of Podgrab and explore how it elevates your podcast game.</mark>
 
 **Auto-Download Magic** Picture this: You wake up, grab your morning coffee, and Podgrab has already taken care of downloading the latest podcast episodes you love. That's the magic of auto-downloading. With Podgrab, you can set it and forget it, knowing that your podcasts will be ready to accompany you on your daily adventures.
 
@@ -111,9 +111,12 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                      |
+| ------------------------------------------------------------------------------------------------ |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>          |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                          |
+| <p></p><pre class="language-sh"><code class="lang-sh">/host/path/to/assets:/assets
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -145,6 +148,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```sh
+           /host/path/to/assets:/assets
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
@@ -158,23 +167,25 @@ By following these steps, you can effortlessly deploy an  Podgrab instance with 
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 130518 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fgfgf.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 132201.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ghgh.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 132314.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fgfg.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/ffgfgf.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 132449.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 132511.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ghhh.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

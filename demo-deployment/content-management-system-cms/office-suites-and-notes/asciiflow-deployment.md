@@ -22,11 +22,11 @@ layout:
 ### <mark style="color:blue;">What's asciiflow ?</mark>
 
 \
-**ASCII Flow: Where Creativity Meets Simplicity**
+<mark style="color:orange;">**ASCII Flow: Where Creativity Meets Simplicity**</mark>
 
 Imagine a canvas where your ideas come to life, but instead of paintbrushes and colors, you have a simple set of ASCII characters. Welcome to ASCII Flow, your gateway to a world of creativity and simplicity in diagramming.
 
-**1. Infinite ASCII Diagrams:**
+<mark style="color:orange;">**1. Infinite ASCII Diagrams:**</mark>
 
 * _Unleash Your Imagination_: ASCII Flow provides you with an infinite canvas where you can create diagrams, flowcharts, and designs using a straightforward set of ASCII characters. Let your ideas flow freely.
 
@@ -34,15 +34,15 @@ Imagine a canvas where your ideas come to life, but instead of paintbrushes and 
 
 * _Seamless Storage_: You can effortlessly save your ASCII creations to Google Drive, ensuring that your work is safe, secure, and accessible from anywhere.
 
-**3. Resize and Freeform Draw:**
+<mark style="color:orange;">**3. Resize and Freeform Draw:**</mark>
 
 * _Flexible Design_: Need to adjust the size of your diagram or add freeform elements? ASCII Flow gives you the freedom to resize and freeform draw to achieve your desired layout.
 
 **4. Export to Text/HTML:**
 
-* _Share Your Vision_: Once your masterpiece is complete, export it directly to text or HTML. Share your creations with others or incorporate them into your projects with ease.
+* _Share Your Vision_: Once your masterpiece is complete, export it directly to text or HTML. Share <mark style="color:orange;">your creations with others or incorporate them into your projects with ease.</mark>
 
-**5. ASCII and Unicode Support:**
+<mark style="color:orange;">**5. ASCII and Unicode Support:**</mark>
 
 * _Versatile Characters_: Whether you prefer classic ASCII or want to add a touch of sophistication with extended Unicode box drawing characters, ASCII Flow supports both, giving you versatile tools for your creative expressions.
 
@@ -50,7 +50,7 @@ Imagine a canvas where your ideas come to life, but instead of paintbrushes and 
 
 * _Anywhere, Anytime_: Access ASCII Flow from your web browser. It's an interactive tool that's ready to bring your ideas to life whenever inspiration strikes.
 
-**7. Text-Based Brilliance:**
+<mark style="color:orange;">**7. Text-Based Brilliance:**</mark>
 
 * _The Power of Simplicity_: Despite its simplicity, ASCII Flow is a powerful tool for expressing ideas, creating diagrams, and visualizing concepts—all using text-based characters.
 
@@ -58,7 +58,7 @@ In summary, ASCII Flow is where simplicity meets creativity. It provides a limit
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**Unlocking ASCII Creativity: How ASCII Flow Works**
+<mark style="color:orange;">**Unlocking ASCII Creativity: How ASCII Flow Works**</mark>
 
 ASCII Flow is your digital canvas where the magic of creativity blends seamlessly with the simplicity of text-based art. Let's embark on a journey through its inner workings:
 
@@ -66,7 +66,7 @@ ASCII Flow is your digital canvas where the magic of creativity blends seamlessl
 
 * _Unleash Your Imagination_: Imagine an endless canvas where ideas come to life using plain text. ASCII Flow grants you this boundless realm for creating diagrams, flowcharts, and designs—all with a set of simple ASCII characters.
 
-**2. Google Drive Harmony:**
+<mark style="color:orange;">**2. Google Drive Harmony:**</mark>
 
 * _Safe and Accessible_: Your ASCII masterpieces are safely stored in Google Drive. This integration ensures your creations are secure, accessible, and ready for collaboration from any corner of the world.
 
@@ -74,7 +74,7 @@ ASCII Flow is your digital canvas where the magic of creativity blends seamlessl
 
 * _Reshape and Revise_: Need to resize your diagram? Yearning for freeform elements? ASCII Flow provides the flexibility to reshape and freely draw to achieve your desired layout.
 
-**4. Export Brilliance:**
+<mark style="color:orange;">**4. Export Brilliance:**</mark>
 
 * _Sharing Made Simple_: Once your work of art is complete, export it effortlessly to text or HTML formats. Now, you can share your creations with others or seamlessly incorporate them into your projects.
 
@@ -82,7 +82,7 @@ ASCII Flow is your digital canvas where the magic of creativity blends seamlessl
 
 * _Diverse Characters_: Whether you're a purist who prefers classic ASCII or an enthusiast exploring the elegance of extended Unicode box drawing characters, ASCII Flow caters to your diverse character needs.
 
-**6. Web-Based Inspiration:**
+<mark style="color:orange;">**6. Web-Based Inspiration:**</mark>
 
 * _Anytime, Anywhere_: ASCII Flow awaits you in your web browser, ready to bring your ideas to life. It's an interactive platform, available whenever creativity strikes.
 
@@ -140,6 +140,8 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )\\</mark>               |
+| /share                                                                                  |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -171,6 +173,8 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * /share
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

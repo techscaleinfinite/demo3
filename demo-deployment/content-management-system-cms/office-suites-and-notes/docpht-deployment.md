@@ -22,21 +22,21 @@ layout:
 ### <mark style="color:blue;">What's Docpht ?</mark>
 
 \
-**DocPHT: Where Documentation Meets Simplicity**
+<mark style="color:orange;">**DocPHT: Where Documentation Meets Simplicity**</mark>
 
 In a world overflowing with complexity, DocPHT emerges as a refreshing breeze of simplicity and efficiency. Here's why it's the tool you won't believe until you try:
 
 **1. Effortless Note-Taking**: DocPHT makes note-taking a breeze. Quickly jot down your thoughts, ideas, and important information. It's your digital notepad, always at your fingertips.
 
-**2. User Management**: DocPHT is not just for solo adventurers; it's for teams too! Seamlessly manage users, making collaboration a breeze. Everyone can contribute to your digital knowledge hub.
+<mark style="color:orange;">**2. User Management**</mark>: DocPHT is not just for solo adventurers; it's for teams too! Seamlessly manage users, making collaboration a breeze. Everyone can contribute to your digital knowledge hub.
 
 **3. Version Control**: The wisdom of the ages is preserved with DocPHT. Save versions of your pages, ensuring you can revisit the past and track the evolution of your content.
 
-**4. Backup Mastery**: DocPHT takes data safety seriously. Run and restore backups effortlessly, ensuring your valuable information is protected from the unexpected.
+<mark style="color:orange;">**4. Backup Mastery**</mark><mark style="color:orange;">:</mark> DocPHT takes data safety seriously. Run and restore backups effortlessly, ensuring your valuable information is protected from the unexpected.
 
 **5. Tailored Interface**: Your workspace, your rules. Customize the interface to match your preferences, creating a productive environment that suits your unique style.
 
-**6. Database-Free Brilliance**: DocPHT defies the norm. It achieves maximum portability without relying on a database. Your documentation remains agile and adaptable.
+<mark style="color:orange;">**6. Database-Free Brilliance**</mark><mark style="color:orange;">:</mark> DocPHT defies the norm. It achieves maximum portability without relying on a database. Your documentation remains agile and adaptable.
 
 So, here's the deal: You won't believe the power of DocPHT until you give it a spin. It's the tool that brings order to chaos, encourages collaboration, and ensures your valuable content is always within reach. Try it, and let DocPHT redefine your documentation experience. Your digital journey is about to get a whole lot simpler and smarter.
 
@@ -45,21 +45,21 @@ So, here's the deal: You won't believe the power of DocPHT until you give it a s
 ### <mark style="color:blue;">**How It Works:**</mark>
 
 \
-**DocPHT: Simplifying Documentation**
+<mark style="color:orange;">**DocPHT: Simplifying Documentation**</mark>
 
 Ever felt the need for a documentation tool that's as straightforward as it is efficient? Look no further—DocPHT has your back. Here's a closer look at how it all comes together:
 
 **1. Effortless Note-Taking**: DocPHT understands the value of capturing ideas on the fly. It's your digital notebook, always ready to record your thoughts, insights, and crucial information. Think of it as your trusted companion in the world of notes.
 
-**2. User Management Made Easy**: Collaboration is the name of the game. DocPHT allows you to effortlessly manage users, transforming solo projects into team endeavors. With everyone on board, you can collectively build a repository of knowledge.
+<mark style="color:orange;">**2. User Management Made Easy**</mark><mark style="color:orange;">:</mark> Collaboration is the name of the game. DocPHT allows you to effortlessly manage users, transforming solo projects into team endeavors. With everyone on board, you can collectively build a repository of knowledge.
 
 **3. Time Travel with Version Control**: Imagine having the power to travel back in time within your documentation. DocPHT grants you this capability by letting you save versions of your pages. It's like having a history book for your content.
 
-**4. Backup Wizardry**: DocPHT takes data security seriously. Backing up your content is a breeze, and should the need arise, you can effortlessly restore it. Your valuable information is shielded from unforeseen events.
+<mark style="color:orange;">**4. Backup Wizardry**</mark><mark style="color:orange;">:</mark> DocPHT takes data security seriously. Backing up your content is a breeze, and should the need arise, you can effortlessly restore it. Your valuable information is shielded from unforeseen events.
 
 **5. Tailor-Made Interface**: DocPHT understands that customization is key. Personalize the interface to suit your style and preferences. It's all about creating a workspace that feels just right.
 
-**6. Database-Free Agility**: In a world dominated by databases, DocPHT breaks free from convention. It achieves maximum portability without relying on a database. Your documentation remains flexible and adaptable.
+<mark style="color:orange;">**6. Database-Free Agility**</mark><mark style="color:orange;">:</mark> In a world dominated by databases, DocPHT breaks free from convention. It achieves maximum portability without relying on a database. Your documentation remains flexible and adaptable.
 
 So, the bottom line is this: DocPHT simplifies the art of documentation. It's your dependable partner for note-taking, collaboration, version control, and data security. Give it a whirl, and discover how it can revolutionize your documentation experience. With DocPHT, complexity is replaced by clarity, and your digital journey becomes a smooth ride.
 
@@ -108,9 +108,14 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                                                                            |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                                                                            |
+| <p></p><pre><code>-v /var/www/app/src/config:/var/www/app/src/config
+-v /var/www/app/data:/var/www/app/data
+-v /var/www/app/pages:/var/www/app/pages
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -142,6 +147,14 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```
+           -v /var/www/app/src/config:/var/www/app/src/config
+           -v /var/www/app/data:/var/www/app/data
+           -v /var/www/app/pages:/var/www/app/pages
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

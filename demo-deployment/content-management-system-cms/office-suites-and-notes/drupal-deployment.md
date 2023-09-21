@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's Drupal?</mark>
 
-Drupal is a dynamic and versatile open-source web content management system (CMS) that leverages the PHP scripting language to empower users in creating, managing, and customizing websites tailored to their specific requirements.
+<mark style="color:orange;">Drupal is a dynamic and versatile open-source web content management system (CMS) that leverages the PHP scripting language to empower users in creating, managing, and customizing websites tailored to their specific requirements.</mark>
 
-Here are the key points to note about Drupal:
+<mark style="color:orange;">Here are the key points to note about Drupal:</mark>
 
 Open-Source CMS: Drupal is an open-source CMS, meaning it is freely accessible to all, providing a solid foundation for website development and management without any licensing fees.
 
@@ -39,7 +39,7 @@ In essence, Drupal is more than just a CMS; it's a powerful and adaptable platfo
 
 ### <mark style="color:blue;">**Working in Brief**</mark>
 
-Content Creation: Drupal simplifies content creation through an intuitive and user-friendly interface, making it effortless for users to generate and structure content effectively.
+<mark style="color:orange;">Content Creation: Drupal simplifies content creation through an intuitive and user-friendly interface, making it effortless for users to generate and structure content effectively.</mark>
 
 Modular Architecture: The strength of Drupal lies in its modular architecture, allowing users to expand and enhance their websites by integrating specific functionalities through modules. These modules are designed to address various needs, providing flexibility and adaptability.
 
@@ -94,9 +94,15 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code> </p>                                                                                                                                                                                         |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                                                                                                                                                                                          |
+| <p></p><pre class="language-console"><code class="lang-console">-v /path/on/host/modules:/var/www/html/modules \
+	-v /path/on/host/profiles:/var/www/html/profiles \
+	-v /path/on/host/sites:/var/www/html/sites \
+	-v /path/on/host/themes:/var/www/html/themes \
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -128,6 +134,15 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```console
+           -v /path/on/host/modules:/var/www/html/modules \
+           	-v /path/on/host/profiles:/var/www/html/profiles \
+           	-v /path/on/host/sites:/var/www/html/sites \
+           	-v /path/on/host/themes:/var/www/html/themes \
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

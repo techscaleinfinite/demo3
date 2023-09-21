@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's node red?</mark>
 
-**Node-RED: Unleash Your Creativity with the Ultimate Hardware and API Wiring Tool**
+<mark style="color:orange;">**Node-RED: Unleash Your Creativity with the Ultimate Hardware and API Wiring Tool**</mark>
 
-Ever felt the itch to connect the digital dots in exciting and unconventional ways? That's precisely where Node-RED steps in – your programming companion for orchestrating a symphony of hardware devices, APIs, and online services.
+<mark style="color:orange;">Ever felt the itch to connect the digital dots in exciting and unconventional ways? That's precisely where Node-RED steps in – your programming companion for orchestrating a symphony of hardware devices, APIs, and online services.</mark>
 
 **1. Visual Wiring:** Picture this – a browser-based editor that lets you effortlessly wire together flows. It's like playing with digital Lego blocks. Choose from a vast palette of nodes and bring your imaginative flows to life.
 
@@ -105,6 +105,9 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| <p></p><pre><code>-v myNodeREDdata:/data
+</code></pre>                                  |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -136,6 +139,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```
+           -v myNodeREDdata:/data
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

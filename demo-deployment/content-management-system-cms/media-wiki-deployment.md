@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's media wiki?</mark>
 
-MediaWiki is a versatile and open-source wiki software application developed by the Wikimedia Foundation, the same organization behind Wikipedia. It's renowned for powering Wikipedia and numerous other collaborative websites across the internet. MediaWiki is engineered to facilitate the creation and management of wikis, which are platforms where users collectively contribute and edit content. Here's a deeper look at some key features and facets of MediaWiki:
+<mark style="color:orange;">MediaWiki is a versatile and open-source wiki software application developed by the Wikimedia Foundation, the same organization behind Wikipedia. It's renowned for powering Wikipedia and numerous other collaborative websites across the internet. MediaWiki is engineered to facilitate the creation and management of wikis, which are platforms where users collectively contribute and edit content. Here's a deeper look at some key features and facets of MediaWiki:</mark>
 
 **Collaborative Editing**: At the core of MediaWiki is its ability to foster collaboration. Multiple users can seamlessly work together on content creation and editing. They have the freedom to make modifications to existing articles, introduce fresh content, and engage in discussions regarding these alterations on article talk pages.
 
@@ -39,7 +39,7 @@ MediaWiki stands as a testament to collaborative knowledge creation and dissemin
 
 ### <mark style="color:blue;">**How It Works**</mark>
 
-**Content Creation and Editing**: One of the fundamental features of MediaWiki is its robust content creation and editing capabilities. Users, provided they have the appropriate permissions, can author new articles or modify existing ones. Articles are typically composed using a markup language, which simplifies tasks like text formatting, hyperlink creation, and media inclusion.
+<mark style="color:orange;">**Content Creation and Editing**</mark><mark style="color:orange;">: One of the fundamental features of MediaWiki is its robust content creation and editing capabilities. Users, provided they have the appropriate permissions, can author new articles or modify existing ones. Articles are typically composed using a markup language, which simplifies tasks like text formatting, hyperlink creation, and media inclusion.</mark>
 
 **Version Control:** In the realm of version control, MediaWiki excels. It meticulously records and archives every alteration made to an article, establishing a comprehensive version history. This historical record encompasses details such as the identity of the editor, the nature of the changes, and the timestamps of modifications. This version history serves as a valuable resource, allowing users to revisit and even revert to prior iterations when necessary.
 
@@ -100,9 +100,12 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                       |
+| ------------------------------------------------------------------------------------------------- |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>           |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                           |
+| <p></p><pre class="language-console"><code class="lang-console">/var/www/html/sites
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -134,6 +137,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```console
+           /var/www/html/sites
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

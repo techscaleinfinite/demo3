@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/grafana3182.jpg
+cover: ../../.gitbook/assets/grafana3182.jpg
 coverY: 0
 layout:
   cover:
@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's Grafana?</mark>
 
-Grafana is a versatile and open-source analytics and visualization web application that empowers users to harness the power of data. Here are some key features and aspects of Grafana:
+<mark style="color:orange;">Grafana is a versatile and open-source analytics and visualization web application that empowers users to harness the power of data. Here are some key features and aspects of Grafana:</mark>
 
 Multi-Platform Analytics: Grafana's availability across various platforms ensures that users can access and utilize its analytical capabilities without constraints, regardless of their preferred operating system or device.
 
@@ -37,7 +37,7 @@ In summary, Grafana empowers users to unlock the potential of their data through
 
 ### <mark style="color:blue;">**Working in Brief:**</mark>
 
-Grafana serves as a robust platform for data analysis and visualization, empowering users to transform data into actionable insights. Here's how it works:
+<mark style="color:orange;">Grafana serves as a robust platform for data analysis and visualization, empowering users to transform data into actionable insights. Here's how it works:</mark>
 
 1. **Data Source Connection:** Grafana is highly flexible when it comes to data sources. It seamlessly connects to various types of data repositories, including databases, cloud services, and APIs. Users can configure data source connections within Grafana to access the information they need.
 2. **Dashboard Creation:** Users start by creating custom dashboards tailored to their specific analytical needs. Dashboards act as containers for visualizations and data panels. Users can select the desired data metrics, visualizations, and layout to design a dashboard that suits their requirements.
@@ -93,6 +93,8 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| grafana-storage:/var/lib/grafana                                                        |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -124,6 +126,8 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * grafana-storage:/var/lib/grafana
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
@@ -137,19 +141,19 @@ By following these steps, you can effortlessly deploy an GRAFANA instance with y
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 163652.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 163652.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-21 164123.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-21 164123.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/datasources (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/datasources (2).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/grafana-dashboard (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/grafana-dashboard (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

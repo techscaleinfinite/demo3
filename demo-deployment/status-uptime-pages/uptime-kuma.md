@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 📊 Uptime Kuma Deployment
+# 📊 uptime kuma
 
 ### <mark style="color:blue;">What's  Uptime Kuma?</mark>
 
@@ -111,9 +111,12 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                      |
+| ------------------------------------------------------------------------------------------------ |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>          |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                          |
+| <p></p><pre class="language-bash"><code class="lang-bash">-v uptime-kuma:/app/data
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -145,6 +148,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```bash
+           -v uptime-kuma:/app/data
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
@@ -158,27 +167,29 @@ By following these steps, you can effortlessly deploy an  Uptime Kuma instance w
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 155211.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nnn.pngjbjfuyfuygu.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 155324.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lloooll.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 155633.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/loloi.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/poooi.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 155609.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tyt.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 155508.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-07 155429.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/oiuuu.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

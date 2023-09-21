@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's  maria db?</mark>
 
-MariaDB is like a reliable librarian for your data, and it's quite a fascinating character in the world of relational database management systems (RDBMS).
+<mark style="color:orange;">MariaDB is like a reliable librarian for your data, and it's quite a fascinating character in the world of relational database management systems (RDBMS).</mark>
 
 **Data's Trusty Guardian:** Imagine MariaDB as a diligent librarian in a vast library filled with information. But instead of books, this library stores data, lots and lots of it. MariaDB's job is to organize, safeguard, and make that data easily accessible whenever you need it.
 
@@ -109,6 +109,8 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| /etc/mysql/conf.d                                                                       |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -145,6 +147,7 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
        * here in this case use this /etc/mysql/conf.d
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.

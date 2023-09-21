@@ -22,9 +22,9 @@ layout:
 ### <mark style="color:blue;">What's  ihatemoney?</mark>
 
 \
-**"I Hate Money": Where Money Meets Harmony**
+<mark style="color:orange;">**"I Hate Money": Where Money Meets Harmony**</mark>
 
-Tired of those endless debates and awkward moments when it's time to split the bills? Enter "I Hate Money," the web application that's here to rescue your friendships and simplify your shared budget management. Let's take a closer look at how this ingenious tool works:
+<mark style="color:orange;">Tired of those endless debates and awkward moments when it's time to split the bills? Enter "I Hate Money," the web application that's here to rescue your friendships and simplify your shared budget management. Let's take a closer look at how this ingenious tool works:</mark>
 
 **1. Seamless Spending Tracking**: Picture this as your virtual ledger. "I Hate Money" keeps a meticulous record of who spent what, when, and for whom. No more digging through crumpled receipts or trying to remember who owes what.
 
@@ -55,9 +55,9 @@ Give it a try today, and you'll wonder how you ever managed without it. Because 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
 \
-**How "I Hate Money" Works: Where Financial Woes Meet Simplicity**
+<mark style="color:orange;">**How "I Hate Money" Works: Where Financial Woes Meet Simplicity**</mark>
 
-Have you ever wished for a magic wand to make those complicated bill-splitting conversations disappear? "I Hate Money" isn't magic, but it's the next best thing—a web application designed to simplify shared budget management and preserve your friendships. Here's the lowdown on how it works:
+<mark style="color:orange;">Have you ever wished for a magic wand to make those complicated bill-splitting conversations disappear? "I Hate Money" isn't magic, but it's the next best thing—a web application designed to simplify shared budget management and preserve your friendships. Here's the lowdown on how it works:</mark>
 
 1\. **Seamless Spending Tracking**: Say goodbye to lost receipts and memory lapses. "I Hate Money" acts as your digital ledger, meticulously recording who spent what, when, and for whom.
 
@@ -131,6 +131,9 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| <p></p><pre class="language-yaml"><code class="lang-yaml">/database
+</code></pre>       |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -162,6 +165,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```yaml
+           /database
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's mininote?</mark>
 
-**MiniNote: Your Secret Sanctuary for Markdown Memoirs**
+<mark style="color:orange;">**MiniNote: Your Secret Sanctuary for Markdown Memoirs**</mark>
 
 Introducing _MiniNote_, the unassuming yet brilliant self-hosted gem designed for your confidential Markdown note-taking needs. Here's a sneak peek into the world of MiniNote, where simplicity meets security:
 
@@ -63,7 +63,7 @@ In a world filled with overcomplicated note-taking apps, MiniNote stands as a be
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**MiniNote: Where Security Meets Simplicity**
+<mark style="color:orange;">**MiniNote: Where Security Meets Simplicity**</mark>
 
 In the realm of digital sanctuaries, _MiniNote_ stands as a fortress of security with a dash of simplicity. Here's the lowdown on MiniNote's security features:
 
@@ -130,9 +130,12 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                        |
+| -------------------------------------------------------------------------------------------------- |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>            |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                            |
+| <p></p><pre class="language-bash"><code class="lang-bash">-v mininote-data:/app/data
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -164,6 +167,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```bash
+           -v mininote-data:/app/data
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

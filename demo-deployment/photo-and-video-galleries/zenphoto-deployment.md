@@ -153,9 +153,13 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                                                             |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                                                             |
+| <p></p><pre class="language-sh"><code class="lang-sh"> -v ~/zenphoto/mysql:/var/lib/mysql \
+        -v ~/zenphoto/www:/var/www/html \
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -187,6 +191,13 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```sh
+            -v ~/zenphoto/mysql:/var/lib/mysql \
+                   -v ~/zenphoto/www:/var/www/html \
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
@@ -200,43 +211,43 @@ By following these steps, you can effortlessly deploy an Zenphoto instance with 
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 175422 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 175422 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 165111.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mkkmk.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 165309.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/klll.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 165330 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 165330.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mkmk.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 165356.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hyh.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/lkoo.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 165436.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ggttg.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 165923.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 165959.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 165959 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-13 170139.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hhnkk.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

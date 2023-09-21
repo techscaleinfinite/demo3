@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's Lidarr?</mark>
 
-Picture this: you're a music enthusiast, and your collection is the crown jewel of your digital world. Now, imagine having a trusty sidekick named Lidarr, who's like your personal music curator with a dash of tech brilliance.
+<mark style="color:orange;">Picture this: you're a music enthusiast, and your collection is the crown jewel of your digital world. Now, imagine having a trusty sidekick named Lidarr, who's like your personal music curator with a dash of tech brilliance.</mark>
 
 **Lidarr** isn't your ordinary music manager; it's a virtuoso in the world of Usenet and BitTorrent. It's got a keen eye on the horizon, constantly scanning multiple RSS feeds to hunt down new tracks from your favorite artists. And when it spots a gem, Lidarr doesn't just fetch it; it handles it with style.
 
@@ -33,7 +33,7 @@ Think of Lidarr as your music-savvy friend who always knows where to find the la
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-Certainly, let's unravel the magic behind **Lidarr** in a way that's as unique as its abilities!
+<mark style="color:orange;">Certainly, let's unravel the magic behind</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Lidarr**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">in a way that's as unique as its abilities!</mark>
 
 **Lidarr** is like your personal DJ on a mission to upgrade your music game. It works its charm by tapping into the world of Usenet and BitTorrent, which is where all the musical secrets are hidden.
 
@@ -94,9 +94,14 @@ If you choose Advanced option:
 | ----------------------------------------------------------------------- |
 | <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
 
-| WORKING DIR                                                                             |
-| --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| WORKING DIR                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                                                                                                            |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                                                                                                            |
+| <p></p><pre class="language-yaml"><code class="lang-yaml"> - /path/to/appdata/config:/config
+      - /path/to/music:/music #optional
+      - /path/to/downloads:/downloads #optional
+</code></pre> |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -128,6 +133,14 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```yaml
+            - /path/to/appdata/config:/config
+                 - /path/to/music:/music #optional
+                 - /path/to/downloads:/downloads #optional
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

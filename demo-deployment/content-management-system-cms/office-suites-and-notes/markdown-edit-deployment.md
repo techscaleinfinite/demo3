@@ -21,11 +21,11 @@ layout:
 
 ### <mark style="color:blue;">What's  markdown edit?</mark>
 
-**The Web's Markdown Marvel: Your Markdown Editing Sidekick!**
+<mark style="color:orange;">**The Web's Markdown Marvel: Your Markdown Editing Sidekick!**</mark>
 
-_Welcome to Markdown Edit – Where the Web Meets Markdown Magic! ✨_
+_<mark style="color:orange;">Welcome to Markdown Edit – Where the Web Meets Markdown Magic! ✨</mark>_
 
-Hey there, tech-savvy wordsmith! If you're reading this, you're about to discover a markdown editing experience that's as smooth as silk and as powerful as a rocket launch.
+<mark style="color:orange;">Hey there, tech-savvy wordsmith! If you're reading this, you're about to discover a markdown editing experience that's as smooth as silk and as powerful as a rocket launch.</mark>
 
 **Why Markdown Edit? Well, let's break it down:**
 
@@ -44,9 +44,9 @@ So, whether you're a coding guru, a content creator, or just someone who loves t
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**Markdown Edit: Unveiling the Magic Behind the Curtain**
+<mark style="color:orange;">**Markdown Edit: Unveiling the Magic Behind the Curtain**</mark>
 
-Markdown Edit is all about making your markdown editing experience as smooth as butter. So, here's a peek behind the scenes to see how it works:
+<mark style="color:orange;">Markdown Edit is all about making your markdown editing experience as smooth as butter. So, here's a peek behind the scenes to see how it works:</mark>
 
 1. **Web Technology:** Markdown Edit is powered by the marvels of web technology. It's entirely browser-based, so there's no need to download or install anything. Simply open your web browser, and you're good to go.
 2. **Editing Interface:** When you visit Markdown Edit, you're greeted by a clean and intuitive editing interface. It's designed to be user-friendly, whether you're a seasoned markdown pro or just getting started.
@@ -108,6 +108,7 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -139,6 +140,7 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**

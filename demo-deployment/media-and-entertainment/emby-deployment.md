@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's  emby?</mark>
 
-Emby is like a personal media butler, here to help you bring order to your multimedia chaos. It's not just software; it's a trusted companion in your media journey. Here's how Emby adds magic to your media world:
+<mark style="color:orange;">Emby is like a personal media butler, here to help you bring order to your multimedia chaos. It's not just software; it's a trusted companion in your media journey. Here's how Emby adds magic to your media world:</mark>
 
 **Media Organization:** Picture Emby as your dedicated librarian. It empowers you to create libraries for different media types, like a movie library, a music archive, or a TV show collection. You're not just storing files; you're creating a multimedia haven. And the best part? You can add all the bells and whistles—metadata, descriptions, posters, and more—to make your library visually stunning and incredibly easy to navigate.
 
@@ -87,6 +87,8 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| /path/to/tvshows:/mnt/share1                                                            |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -118,6 +120,8 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * /path/to/tvshows:/mnt/share1
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
@@ -131,35 +135,39 @@ By following these steps, you can effortlessly deploy an EMBY instance with your
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 110916.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bn.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111139 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hhfh.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111217.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dgrgt.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/uiuj.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111330.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/chvbd.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111435.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/jfjf.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/ppop.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111522.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111602.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-31 111633.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/jjhjhjh.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

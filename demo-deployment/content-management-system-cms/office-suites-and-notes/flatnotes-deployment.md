@@ -16,11 +16,11 @@ layout:
 
 ### <mark style="color:blue;">What's  flatnotes?</mark>
 
-**Flatnotes: Where Simplicity Meets Note-Taking Brilliance**
+<mark style="color:orange;">**Flatnotes: Where Simplicity Meets Note-Taking Brilliance**</mark>
 
 Flatnotes is not your average note-taking web app; it's a breath of fresh air in the world of digital note-keeping. Let's dive into what makes Flatnotes stand out and how it caters to your note-taking needs:
 
-**1. Distraction-Free Design:**
+<mark style="color:orange;">**1. Distraction-Free Design:**</mark>
 
 * Say goodbye to cluttered interfaces. Flatnotes prides itself on a clean and straightforward user interface that places your note content front and center. No distractions, just your thoughts.
 
@@ -28,7 +28,7 @@ Flatnotes is not your average note-taking web app; it's a breath of fresh air in
 
 * Forget about complex folder structures or notebooks. Flatnotes takes a minimalist approach, presenting all your notes in one place. The power of this simplicity lies in its robust search and tagging functionality. Find what you need quickly and effortlessly with a full-text search accessible via a convenient keyboard shortcut ("/").
 
-**3. Your Notes, Your Freedom:**
+**3. **<mark style="color:orange;">**Your Notes, Your Freedom:**</mark>
 
 * Flatnotes respects your ownership of your notes. It doesn't hold your notes hostage in a proprietary format or a convoluted database. Instead, your notes are plain markdown files—simple, portable, and entirely under your control. Move them elsewhere or use them in other applications whenever you wish.
 
@@ -36,7 +36,7 @@ Flatnotes is not your average note-taking web app; it's a breath of fresh air in
 
 * Whether you're on a desktop or a mobile device, Flatnotes offers a responsive web interface that adapts to your screen size. Your note-taking experience remains smooth and consistent, no matter the device you choose.
 
-**5. Markdown Magic:**
+**5**<mark style="color:orange;">**. Markdown Magic:**</mark>
 
 * Embrace the power of Markdown with Flatnotes. You can choose between Raw and WYSIWYG markdown editor modes, ensuring you have the flexibility to format your notes exactly the way you want.
 
@@ -44,7 +44,7 @@ Flatnotes is not your average note-taking web app; it's a breath of fresh air in
 
 * Finding that specific note is a breeze with Flatnotes. Its advanced search functionality lets you locate notes swiftly, even amidst a growing collection.
 
-**7. Organize with Tags:**
+**7. **<mark style="color:orange;">**Organize with Tags:**</mark>
 
 * Tagging functionality elevates your note organization. Categorize your notes intuitively, making retrieval a breeze.
 
@@ -52,7 +52,7 @@ Flatnotes is not your average note-taking web app; it's a breath of fresh air in
 
 * Customize your note-taking environment with light and dark themes. Choose the one that suits your mood and enhances your focus.
 
-**9. Authentication Options:**
+**9. **<mark style="color:orange;">**Authentication Options:**</mark>
 
 * Flatnotes offers multiple authentication levels, from none to read-only, username/password, and even 2FA. You have the flexibility to choose the level of security that aligns with your needs.
 
@@ -64,11 +64,11 @@ Flatnotes isn't just a note-taking app; it's a philosophy of simplicity, freedom
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**How Flatnotes Works: Your Path to Effortless Note-Taking**
+<mark style="color:orange;">**How Flat notes Works: Your Path to Effortless Note-Taking**</mark>
 
-Flatnotes is more than just a note-taking tool; it's a seamless experience that caters to your needs. Here's how it all comes together:
+Flat notes is more than just a note-taking tool; it's a seamless experience that caters to your needs. Here's how it all comes together:
 
-**1. Clean and Minimalist Interface:**
+<mark style="color:blue;">**1. Clean and Minimalist Interface:**</mark>
 
 * _Simplicity is the Ultimate Sophistication_: When you open Flatnotes, you're greeted by a clean and minimalist interface. It's designed for one purpose—to put your notes front and center. No distractions, no clutter, just your thoughts.
 
@@ -76,7 +76,7 @@ Flatnotes is more than just a note-taking tool; it's a seamless experience that 
 
 * _Unleash Your Creativity_: Create, edit, and manage your notes with ease. Whether you're a Markdown pro or prefer a more visual approach, Flatnotes offers both Raw and WYSIWYG Markdown editor modes. Express yourself exactly as you intend.
 
-**3. Search Magic:**
+<mark style="color:blue;">**3. Search Magic:**</mark>
 
 * _Find What Matters_: Need to find that crucial note from weeks ago? Flatnotes has you covered with its advanced search functionality. A quick keyboard shortcut ("/") brings up a full-text search that helps you locate your notes in an instant.
 
@@ -84,7 +84,7 @@ Flatnotes is more than just a note-taking tool; it's a seamless experience that 
 
 * _Tags for Precision_: No need for complex folder structures. Flatnotes keeps it simple by using tags. Tag your notes intuitively, creating a logical and efficient way to organize your thoughts.
 
-**5. Markdown's Power:**
+<mark style="color:blue;">**5. Markdown's Power:**</mark>
 
 * _Markdown Made Easy_: Embrace the flexibility of Markdown. With Flatnotes, you have the freedom to format your notes using Markdown syntax, whether you're a seasoned Markdown user or just getting started.
 
@@ -92,7 +92,7 @@ Flatnotes is more than just a note-taking tool; it's a seamless experience that 
 
 * _Seamless on Any Screen_: Whether you're on a desktop, tablet, or smartphone, Flatnotes offers a responsive web interface. Your note-taking experience remains consistent, no matter where you are.
 
-**7. Ownership and Portability:**
+<mark style="color:blue;">**7. Ownership and Portability:**</mark>
 
 * _Your Notes, Your Control_: Flatnotes respects your ownership of your notes. They're stored as plain markdown files, ensuring they're entirely portable and under your control. Move them, share them, and use them in other applications—it's your choice.
 
@@ -100,7 +100,7 @@ Flatnotes is more than just a note-taking tool; it's a seamless experience that 
 
 * _Light or Dark_: Customize your note-taking environment with light and dark themes. Choose the theme that suits your style and enhances your focus.
 
-**9. Security Options:**
+<mark style="color:blue;">**9. Security Options:**</mark>
 
 * _Your Data, Your Rules_: Flatnotes offers multiple authentication options, from basic access to enhanced security with 2FA. Your data's safety is in your hands.
 
@@ -162,6 +162,9 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| <p></p><pre><code>- "./data:/data"
+</code></pre>                                        |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -193,6 +196,12 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       *
+
+           ```
+           - "./data:/data"
+           ```
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
@@ -206,27 +215,29 @@ By following these steps, you can effortlessly deploy an  Flatnotes instance wit
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 155524.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/mkk.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 155558 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hhh.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/nnn.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 161011.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nnn (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 160545.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/bnnbb.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 160458.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-09-11 155844.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/mn m .png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's Next cloud?</mark>
 
-Nextcloud is a remarkable open-source solution for self-hosted cloud storage and collaboration. It grants you the power to safeguard, synchronize, and exchange an array of digital assets, including files, documents, images, and much more. It represents a secure and private alternative to conventional commercial cloud storage services. With Nextcloud, you retain control over your data, ensuring both its protection and accessibility.
+<mark style="color:orange;">Nextcloud is a remarkable open-source solution for self-hosted cloud storage and collaboration. It grants you the power to safeguard, synchronize, and exchange an array of digital assets, including files, documents, images, and much more. It represents a secure and private alternative to conventional commercial cloud storage services. With Nextcloud, you retain control over your data, ensuring both its protection and accessibility.</mark>
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
@@ -76,6 +76,8 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| /var/www/html                                                                           |
 
 <mark style="background-color:yellow;">`Access`</mark>
 
@@ -107,6 +109,8 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
+       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * /var/www/html
 6. <mark style="color:orange;">**Access Configuration**</mark>**:**
    * Choose between "Public" or "Private" access to the deployed application.
 7. <mark style="color:orange;">**Installation**</mark>**:**
