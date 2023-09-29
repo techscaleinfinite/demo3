@@ -7,7 +7,7 @@ coverY: 0
 
 ### <mark style="color:blue;">What's  varnish?</mark>
 
-Varnish is an open-source web application accelerator also known as a caching HTTP reverse proxy. It's designed to significantly improve the performance and speed of web servers, particularly for content-heavy dynamic websites. Here's how Varnish works:
+<mark style="color:orange;">Varnish is an open-source web application accelerator also known as a caching HTTP reverse proxy. It's designed to significantly improve the performance and speed of web servers, particularly for content-heavy dynamic websites. Here's how Varnish works:</mark>
 
 1. **Reverse Proxy:** Varnish sits between the client (typically a web browser) and the web server (like Apache or Nginx) as a reverse proxy. When a client requests a web page, Varnish intercepts that request.
 2. **Caching:** Varnish caches a copy of the requested web page or resources (like images, CSS, or JavaScript) the first time it's requested. It stores this cached copy in memory.
@@ -20,7 +20,7 @@ Varnish is highly customizable and configurable, allowing website administrators
 
 I
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
 1. **Client Requests:** When a client, such as a web browser, makes a request for a web page or resource (e.g., an image or CSS file), the request is initially sent to Varnish instead of directly to the web server.
 2. **Cache Lookup:** Upon receiving the client's request, Varnish performs a cache lookup. It checks if the requested content is already stored in its cache. If it finds a cached copy that's still valid (not expired), Varnish serves this cached content directly to the client.

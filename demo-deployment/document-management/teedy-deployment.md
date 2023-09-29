@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's is teedy?</mark>
 
-**Teedy: Where Document Management Meets Elegance**
+<mark style="color:orange;">**Teedy: Where Document Management Meets Elegance**</mark>
 
-In the vast digital landscape, staying organized is no small feat. Enter Teedy, your beacon of light in the world of document management. With a sleek and modern interface, Teedy simplifies your quest for order and clarity in the realm of business operations.
+<mark style="color:orange;">In the vast digital landscape, staying organized is no small feat. Enter Teedy, your beacon of light in the world of document management. With a sleek and modern interface, Teedy simplifies your quest for order and clarity in the realm of business operations.</mark>
 
 **A Symphony of Order** 📂
 
@@ -39,7 +39,7 @@ In the vast digital landscape, staying organized is no small feat. Enter Teedy, 
 
 In a world of digital chaos, Teedy is your anchor, your guardian of order. It's where your documents find solace, and your business operations regain their clarity. With Teedy, you're not just managing documents; you're orchestrating a symphony of organization and security.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
 **Unveiling the Inner Workings of Teedy**
 

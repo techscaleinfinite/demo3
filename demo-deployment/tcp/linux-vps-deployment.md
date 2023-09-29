@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's Linux VPS?</mark>
 
-A Linux Virtual Private Server (VPS) serves as your own personal virtual environment, offering a wealth of advantages for your projects and experiments. Here are some key points to keep in mind:
+<mark style="color:orange;">A Linux Virtual Private Server (VPS) serves as your own personal virtual environment, offering a wealth of advantages for your projects and experiments. Here are some key points to keep in mind:</mark>
 
 1. **Virtual Private Server**: A Linux VPS is essentially a virtual instance running on a physical server. It's like having your dedicated space in the digital realm, free from the limitations of shared hosting.
 2. **Swift Setup**: One of the most appealing aspects of a Linux VPS is its rapid deployment. In a matter of seconds, you can launch your VPS. Gone are the days of dealing with the hardware setup or the intricacies of configuring the operating system.
@@ -31,9 +31,9 @@ A Linux Virtual Private Server (VPS) serves as your own personal virtual environ
 
 In summary, a Linux VPS empowers you with a virtual playground, allowing you to set up, experiment, and work on your projects with ease. Its speed of deployment, remote accessibility, customization options, and the assurance of a controlled and isolated environment make it a valuable resource for various applications. Whether you're a developer, a hobbyist, or a professional, a Linux VPS is a versatile tool in your digital arsenal.
 
-### <mark style="color:blue;">**Working in Brief:**</mark>
+### <mark style="color:blue;">**Working in Brief**</mark>
 
-Linux VPS offers a dynamic environment that empowers users with flexibility and control. Here's a breakdown of how it operates:
+<mark style="color:orange;">Linux VPS offers a dynamic environment that empowers users with flexibility and control. Here's a breakdown of how it operates:</mark>
 
 1. **Server Virtualization**: The physical server is essentially partitioned into distinct virtual compartments, each acting as an independent server. This virtualization technology ensures that your VPS remains isolated from others, granting you autonomy over your digital space.
 2. **VPS Creation**: Getting started with a Linux VPS is a breeze. You get to choose your preferred Linux distribution and set up the configuration parameters that suit your requirements. Once configured, your VPS is swiftly created, sparing you the complexities of traditional hardware setup.

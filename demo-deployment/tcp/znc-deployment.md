@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's  Znc?</mark>
 
-ZNC serves as a vital component in the world of Internet Relay Chat (IRC), functioning as an IRC network bouncer, or more commonly known as a BNC. Its primary purpose is to introduce flexibility and convenience to the IRC experience.
+<mark style="color:orange;">ZNC serves as a vital component in the world of Internet Relay Chat (IRC), functioning as an IRC network bouncer, or more commonly known as a BNC. Its primary purpose is to introduce flexibility and convenience to the IRC experience.</mark>
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
 Here's a closer look at how ZNC operates:
 

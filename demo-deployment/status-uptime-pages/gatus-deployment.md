@@ -23,9 +23,9 @@ layout:
 
 
 
-**Gatus: Your Health Dashboard Maestro**
+<mark style="color:orange;">**Gatus: Your Health Dashboard Maestro**</mark>
 
-Imagine having a trusty health dashboard that not only monitors your digital kingdom but also serenades you with real-time insights. Meet Gatus, the developer's secret weapon for keeping a watchful eye on services.
+<mark style="color:orange;">Imagine having a trusty health dashboard that not only monitors your digital kingdom but also serenades you with real-time insights. Meet Gatus, the developer's secret weapon for keeping a watchful eye on services.</mark>
 
 **Multi-Talented Monitoring:** Gatus wears many hats. It's your health dashboard for HTTP, ICMP, TCP, and even DNS queries. It's like having a Swiss Army knife for service evaluation.
 
@@ -49,9 +49,9 @@ Imagine having a trusty health dashboard that not only monitors your digital kin
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**How Gatus Works: The Symphony of Service Health**
+<mark style="color:orange;">**How Gatus Works: The Symphony of Service Health**</mark>
 
-Imagine Gatus as the conductor of your service health orchestra. It orchestrates the harmony of monitoring and alerting in a truly unique way.
+<mark style="color:orange;">Imagine Gatus as the conductor of your service health orchestra. It orchestrates the harmony of monitoring and alerting in a truly unique way.</mark>
 
 1. **Monitoring Mastery**: Gatus sweeps the stage, monitoring your services with a range of queries: HTTP, ICMP, TCP, and DNS. It's like having a virtuoso who can play any instrument in the orchestra.
 2. **Condition Evaluation**: This conductor doesn't just listen; it evaluates each performance rigorously. It checks the status code, response time, certificate expiration, and even the body of responses. It's like having a keen-eyed music critic for your services.

@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's is Nginx?</mark>
 
-Nginx is more than just your run-of-the-mill web server; it's a versatile multitool that enhances your online presence in a multitude of ways:
+<mark style="color:orange;">Nginx is more than just your run-of-the-mill web server; it's a versatile multitool that enhances your online presence in a multitude of ways</mark>:
 
 Web Server: Nginx serves as a nimble and efficient web server, ensuring that web content is delivered swiftly and effectively to users. It's like the reliable engine powering your website, keeping it up and running smoothly.
 
@@ -33,11 +33,11 @@ Mail Proxy: In the realm of email infrastructure, Nginx shines as a proficient m
 
 HTTP Cache: Nginx boasts a remarkable capability as an HTTP cache, where it stores and serves frequently accessed resources. This cache acts as a well-organized library, enabling faster delivery of web content by reducing the need to fetch data repeatedly.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-Nginx's event-driven architecture handles multiple connections simultaneously, making it perfect for high-traffic scenarios. It's resource-efficient and enhances application performance, all while being open-source and free.
+<mark style="color:orange;">Nginx's event-driven architecture handles multiple connections simultaneously, making it perfect for high-traffic scenarios. It's resource-efficient and enhances application performance, all while being open-source and free.</mark>
 
-<mark style="color:blue;">Nginx: Streamline, secure, and supercharge your web operations</mark>
+<mark style="color:orange;">Nginx: Streamline, secure, and supercharge your web operations</mark>
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 

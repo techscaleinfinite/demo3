@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's komga?</mark>
 
-**Komga: Your Gateway to the World of Comics and Mangas**
+<mark style="color:orange;">**Komga: Your Gateway to the World of Comics and Mangas**</mark>
 
-Are you an avid comics or mangas enthusiast? Look no further than _Komga_, your free and open-source comics/mangas server. Here's what sets it apart:
+<mark style="color:orange;">Are you an avid comics or mangas enthusiast? Look no further than</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">Komga</mark>_<mark style="color:orange;">, your free and open-source comics/mangas server. Here's what sets it apart:</mark>
 
 📚 **Easy Browsing, Anywhere:**
 
@@ -67,11 +67,11 @@ Are you an avid comics or mangas enthusiast? Look no further than _Komga_, your 
 
 Join the Komga community today and embark on an adventure through the captivating world of comics and mangas. Your next favorite read awaits!
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-&#x20;**How Komga Works: Unveiling the Magic Behind Your Comics and Mangas Server**
+&#x20;<mark style="color:orange;">**How Komga Works: Unveiling the Magic Behind Your Comics and Mangas Server**</mark>
 
-Ever wondered how Komga, your comics and mangas server, conjures up a seamless reading experience? Let's peel back the curtain and discover the inner workings:
+<mark style="color:orange;">Ever wondered how Komga, your comics and mangas server, conjures up a seamless reading experience? Let's peel back the curtain and discover the inner workings:</mark>
 
 1. **Library Creation:** Your journey begins with library creation. You organize your comics and mangas by creating libraries. Each library acts as a container for your beloved series and books.
 2. **Series and Books:** Within each library, you categorize your comics into series and individual books. This hierarchy keeps your collection structured and easy to navigate.

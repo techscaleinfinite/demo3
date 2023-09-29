@@ -1,4 +1,4 @@
-# Concepts
+# Basic Concepts
 
 ### <mark style="color:orange;">Some Key Concepts</mark>
 
@@ -23,14 +23,14 @@ In summary, Kubernetes offers you control over data persistence during applicati
 Data persistence is a transformative aspect of application deployment that brings forth a plethora of advantages, ensuring your valuable information remains intact across redeployments and upgrades. Here's why embracing data persistence is a game-changer for your hosting experience:
 
 1. <mark style="color:blue;">**Continuous Availability**</mark><mark style="color:blue;">:</mark> With data persistence, your application's critical data remains accessible even when the application itself is redeployed. This ensures uninterrupted access to your app's content, providing a seamless experience for both users and administrators.
-2. **Reliability and Data Integrity**: By persisting data externally, you safeguard it from the inherent volatility of containerized environments. This reliability prevents data loss due to unexpected events, enhancing the integrity of your application's content.
+2. <mark style="color:blue;">**Reliability and Data Integrity**</mark><mark style="color:blue;">:</mark> By persisting data externally, you safeguard it from the inherent volatility of containerized environments. This reliability prevents data loss due to unexpected events, enhancing the integrity of your application's content.
 3. <mark style="color:blue;">**Efficient Backup and Recovery**</mark>: Persistent data is easier to back up and recover. Should you encounter issues or need to restore previous versions of your application, having a reliable data store ensures swift recovery without compromising data accuracy.
-4. **Streamlined Upgrades and Scaling**: When upgrading or scaling your application, persistent data remains untouched. This means you can enhance your app's features or accommodate increased traffic while preserving user-generated content or important configurations.
+4. <mark style="color:blue;">**Streamlined Upgrades and Scaling**</mark><mark style="color:blue;">:</mark> When upgrading or scaling your application, persistent data remains untouched. This means you can enhance your app's features or accommodate increased traffic while preserving user-generated content or important configurations.
 5. <mark style="color:blue;">**Business Continuity**</mark><mark style="color:blue;">:</mark> For applications that rely on user-generated data, such as content sharing platforms or collaborative tools, data persistence ensures business continuity. Your users won't experience interruptions or data loss during routine maintenance or upgrades.
-6. **Data-Driven Insights**: By preserving historical data across deployments, you empower yourself with valuable insights. These insights can help you analyze trends, user behavior, and performance over time, leading to more informed decisions.
-7. **Regulatory Compliance**: Some industries have strict regulations regarding data retention and privacy. Data persistence enables compliance with these regulations by ensuring data is retained securely and transparently.
-8. **Data-Intensive Applications**: Applications that manage large datasets, like databases or media servers, benefit immensely from data persistence. These apps can continue to serve data without the need for time-consuming data migration during every redeployment.
-9. **Reduced Downtime**: When you don't need to migrate or recreate data during app upgrades or changes, downtime is minimized. Your users experience fewer disruptions, enhancing user satisfaction.
-10. **Fostering Innovation**: With the assurance of data persistence, your development team can confidently explore new features and functionality. The safety net of preserved data encourages innovation without the fear of data loss.
+6. <mark style="color:blue;">**Data-Driven Insights**</mark><mark style="color:blue;">:</mark> By preserving historical data across deployments, you empower yourself with valuable insights. These insights can help you analyze trends, user behavior, and performance over time, leading to more informed decisions.
+7. <mark style="color:blue;">**Regulatory Compliance**</mark><mark style="color:blue;">:</mark> Some industries have strict regulations regarding data retention and privacy. Data persistence enables compliance with these regulations by ensuring data is retained securely and transparently.
+8. <mark style="color:blue;">**Data-Intensive Applications**</mark><mark style="color:blue;">:</mark> Applications that manage large datasets, like databases or media servers, benefit immensely from data persistence. These apps can continue to serve data without the need for time-consuming data migration during every redeployment.
+9. <mark style="color:blue;">**Reduced Downtime**</mark><mark style="color:blue;">:</mark> When you don't need to migrate or recreate data during app upgrades or changes, downtime is minimized. Your users experience fewer disruptions, enhancing user satisfaction.
+10. <mark style="color:blue;">**Fostering Innovation**</mark><mark style="color:blue;">:</mark> With the assurance of data persistence, your development team can confidently explore new features and functionality. The safety net of preserved data encourages innovation without the fear of data loss.
 
 \

@@ -1,4 +1,23 @@
-# Scale Infinite Welcomes you
+---
+cover: .gitbook/assets/3affcdbf-3067-4061-9728-d2edd8479f31.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Getting Started
 
 ## Self-Driving Cloud Applications
 
@@ -18,8 +37,6 @@ At ScaleInfinite, we're revolutionizing application hosting, so you can focus on
 * <mark style="color:orange;">**Insights Dashboard**</mark>**:** Monitor your account and application metrics, including CPU usage, Memory usage, I/O, and Network usage, through the intuitive Dashboard section.
 
 Join ScaleInfinite and experience hosting like never before. Whether you're a startup, enterprise, or visionary individual, we're here to elevate your applications and empower your journey. Welcome to limitless possibilities.
-
-
 
 #### Join us
 

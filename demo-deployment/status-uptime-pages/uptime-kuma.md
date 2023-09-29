@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's  Uptime Kuma?</mark>
 
-🕐 **Keeping Time with Uptime Kuma** 🕐
+<mark style="color:orange;">🕐</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Keeping Time with Uptime Kuma**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">🕐</mark>
 
-Imagine having a trusty companion, always on the lookout, tirelessly monitoring your websites, APIs, and services. Well, that's precisely what **Uptime Kuma** does, but with a little extra charm.
+<mark style="color:orange;">Imagine having a trusty companion, always on the lookout, tirelessly monitoring your websites, APIs, and services. Well, that's precisely what</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Uptime Kuma**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">does, but with a little extra charm.</mark>
 
 **Your Digital Sentry**&#x20;
 
@@ -45,9 +45,9 @@ So, with Uptime Kuma in your corner, your digital realm can be as reliable as Bi
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-🛠️ **The Magic Behind Uptime Kuma** 🛠️
+<mark style="color:orange;">🛠️</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**The Magic Behind Uptime Kuma**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">🛠️</mark>
 
-Have you ever wondered what makes **Uptime Kuma** tick? How does it do its thing without breaking a digital sweat? Well, let's pull back the curtain and see the gears turning in this digital symphony.
+<mark style="color:orange;">Have you ever wondered what makes</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Uptime Kuma**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">tick? How does it do its thing without breaking a digital sweat? Well, let's pull back the curtain and see the gears turning in this digital symphony.</mark>
 
 🕵️‍♂️ **The Digital Detective** 🕵️‍♂️
 

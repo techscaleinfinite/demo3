@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's  jetty?</mark>
 
-Jetty, often referred to as Eclipse Jetty, is an open-source web server and servlet container. It is developed as part of the Eclipse Foundation's community-driven projects and is written in Java. Jetty is designed to be highly scalable, lightweight, and embeddable, making it a popular choice for a wide range of web-based applications and services. Here are some key aspects of Jetty:
+J<mark style="color:orange;">etty, often referred to as Eclipse Jetty, is an open-source web server and servlet container. It is developed as part of the Eclipse Foundation's community-driven projects and is written in Java. Jetty is designed to be highly scalable, lightweight, and embeddable, making it a popular choice for a wide range of web-based applications and services. Here are some key aspects of Jetty:</mark>
 
 1. **Web Server**: Jetty primarily functions as a web server, serving web content, static files, and handling HTTP requests. It supports various HTTP versions, including HTTP/1.1 and HTTP/2, making it suitable for modern web applications.
 2. **Servlet Container**: Jetty also serves as a servlet container, implementing the Java Servlet API. This means it can host Java servlets and JavaServer Pages (JSP), making it compatible with a wide range of Java-based web applications.
@@ -31,9 +31,9 @@ Jetty, often referred to as Eclipse Jetty, is an open-source web server and serv
 6. **Modular Architecture**: Jetty adopts a modular architecture, allowing users to include only the components they need. This reduces the overall footprint and helps maintain a minimal attack surface.
 7. **WebSocket Support**: Jetty provides built-in support for WebSocket, enabling real-time bidirectional communication between clients and servers. This is essential for applications that require instant data updates.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-Jetty works as a web server and servlet container to handle incoming HTTP requests, serve web content, and execute Java servlets and JavaServer Pages (JSP). Here's a simplified overview of how Jetty works:
+<mark style="color:orange;">Jetty works as a web server and servlet container to handle incoming HTTP requests, serve web content, and execute Java servlets and JavaServer Pages (JSP). Here's a simplified overview of how Jetty works:</mark>
 
 1. **Initialization**: Jetty is typically embedded within a Java application as a library. When the application starts, Jetty is initialized programmatically, and the necessary configurations are set up.
 2. **HTTP Server**: Jetty listens on a specified network port (e.g., port 8080) for incoming HTTP requests. It can also be configured to support secure connections via HTTPS.

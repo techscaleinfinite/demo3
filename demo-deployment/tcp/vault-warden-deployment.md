@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's is vault warden?</mark>
 
-Vaultwarden is the new identity of a project formerly recognized as "Bitwarden\_RS." Its primary objective is to provide users with an alternative to the official Bitwarden password manager, enabling them to host and manage their password vault in a self-hosted environment. Here's a closer look at the essential aspects of Vaultwarden:
+<mark style="color:orange;">Vaultwarden is the new identity of a project formerly recognized as "Bitwarden\_RS." Its primary objective is to provide users with an alternative to the official Bitwarden password manager, enabling them to host and manage their password vault in a self-hosted environment. Here's a closer look at the essential aspects of Vaultwarden:</mark>
 
 1. **Self-Hosted Password Management**: Vaultwarden empowers both individuals and organizations to establish and maintain their instance of a password manager. This approach offers complete control over data storage and enhances privacy by allowing users to manage their password vault on their terms.
 2. **Open Source**: Vaultwarden is an open-source project, meaning its source code is publicly accessible. This commitment to openness promotes transparency, encourages collaborative contributions, and ensures a higher level of security through community scrutiny.
@@ -32,9 +32,9 @@ Vaultwarden is the new identity of a project formerly recognized as "Bitwarden\_
 
 In summary, Vaultwarden represents a robust and self-hosted alternative to mainstream password managers. With its commitment to open-source principles, strong security measures, and versatile accessibility options, it offers users greater control over their password management while prioritizing their privacy and data security
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-Vaultwarden, formerly known as Bitwarden\_RS, operates as a self-hosted password management solution, offering users a secure and controlled environment to manage their passwords and sensitive information. Here's a detailed breakdown of how it functions:
+<mark style="color:orange;">Vaultwarden, formerly known as Bitwarden\_RS, operates as a self-hosted password management solution, offering users a secure and controlled environment to manage their passwords and sensitive information. Here's a detailed breakdown of how it functions:</mark>
 
 1. **Server Setup**: To initiate your Vaultwarden journey, you must establish a server where the Vaultwarden application will reside. This server can be either your dedicated hardware or a cloud-based instance, depending on your preferences and requirements.
 2. **Installation**: The next step involves installing the Vaultwarden application on your chosen server. This installation process encompasses the deployment of critical software components, including the Vaultwarden server itself, a web server (commonly Nginx), and a database (typically PostgreSQL). These components work collaboratively to ensure the seamless operation of Vaultwarden.

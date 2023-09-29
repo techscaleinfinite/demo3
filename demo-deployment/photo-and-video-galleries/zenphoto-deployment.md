@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's  zenphoto?</mark>
 
-**Zenphoto: Your Ideal CMS for Gallery-Focused Self-Hosted Websites**
+<mark style="color:orange;">**Zenphoto: Your Ideal CMS for Gallery-Focused Self-Hosted Websites**</mark>
 
 In the digital age, showcasing your creativity through images, videos, and audio is essential. Zenphoto, a powerful Content Management System (CMS), caters specifically to self-hosted websites with a strong focus on galleries. Here's why Zenphoto stands out:
 
@@ -64,11 +64,11 @@ In the digital age, showcasing your creativity through images, videos, and audio
 
 Zenphoto is more than just a CMS; it's a platform that elevates your online presence, especially if your focus is on visual and multimedia content. With Zenphoto, your self-hosted website becomes a canvas to express your creativity and captivate your audience. Whether you're an artist, photographer, filmmaker, or musician, Zenphoto empowers you to share your passion with the world.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-**How Does Zenphoto Work? Unveiling the Magic Behind Your Creative Website**
+<mark style="color:orange;">**How Does Zenphoto Work? Unveiling the Magic Behind Your Creative Website**</mark>
 
-Zenphoto isn't just your average CMS; it's a powerful tool designed to help you manage and showcase your creative work effectively. Let's delve into how Zenphoto works its magic:
+<mark style="color:orange;">Zenphoto isn't just your average CMS; it's a powerful tool designed to help you manage and showcase your creative work effectively. Let's delve into how Zenphoto works its magic:</mark>
 
 **1. Multimedia Management**
 

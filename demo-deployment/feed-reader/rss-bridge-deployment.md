@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's rss bridge?</mark>
 
-**RSS-Bridge: Bridging the Gap in Feeds**
+<mark style="color:orange;">**RSS-Bridge: Bridging the Gap in Feeds**</mark>
 
-In a digital landscape teeming with information, what happens when your favorite websites or platforms don't offer an RSS or Atom feed? This is where RSS-Bridge steps in, serving as a digital bridge that seamlessly connects you to the content you crave. Let's explore how RSS-Bridge makes the seemingly impossible possible.
+<mark style="color:orange;">In a digital landscape teeming with information, what happens when your favorite websites or platforms don't offer an RSS or Atom feed? This is where RSS-Bridge steps in, serving as a digital bridge that seamlessly connects you to the content you crave. Let's explore how RSS-Bridge makes the seemingly impossible possible.</mark>
 
 🌐 **Diverse Bridges for Varied Needs** 🌉 RSS-Bridge boasts an impressive array of bridges, each tailored to different platforms. Whether you're tracking YouTube channels, exploring Twitter hashtags, delving into Telegram groups, or keeping an eye on the latest subreddit posts, RSS-Bridge has you covered. It even allows you to merge multiple feeds into one, creating a personalized information stream.
 
@@ -43,11 +43,11 @@ In a digital landscape teeming with information, what happens when your favorite
 
 RSS-Bridge is your ticket to a more organized and connected digital experience. It transforms the web's unbridled content into a structured and easily accessible feed, ensuring that you never miss out on the latest updates, trends, or discussions across your favorite platforms. With RSS-Bridge, the content you love is just a bridge away.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-🛠️ **Simple Configuration, Powerful Results** 🚀
+<mark style="color:orange;">🛠️</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Simple Configuration, Powerful Results**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">🚀</mark>
 
-RSS-Bridge is designed with user-friendliness in mind. Its configuration is straightforward, making it accessible to both beginners and experienced users. Here's how it operates:
+<mark style="color:orange;">RSS-Bridge is designed with user-friendliness in mind. Its configuration is straightforward, making it accessible to both beginners and experienced users. Here's how it operates:</mark>
 
 1. **Choose Your Bridge**: Begin by selecting the bridge that corresponds to your desired content source. Whether it's YouTube, Twitter, Telegram, Reddit, or others, RSS-Bridge has specialized bridges for each platform.
 2. **Configure Bridge Parameters**: Depending on the chosen bridge, you'll provide specific details like the YouTube channel name, Twitter hashtags, or subreddit name. This information helps RSS-Bridge fetch the relevant content.

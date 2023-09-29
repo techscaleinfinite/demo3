@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's is caddy?</mark>
 
-### &#x20;**Caddy: Where Simplicity Meets Security**
+### &#x20;<mark style="color:orange;">**Caddy: Where Simplicity Meets Security**</mark>
 
-_Introducing Caddy, the modern web server that's rewriting the script on simplicity, efficiency, and security. Here's the backstage pass:_
+_<mark style="color:orange;">Introducing Caddy, the modern web server that's rewriting the script on simplicity, efficiency, and security. Here's the backstage pass:</mark>_
 
 **A Web Server Reimagined:** Caddy isn't your typical web server; it's the avant-garde of the web hosting world. It's designed to break down complexity and hand you simplicity on a silver platter.
 
@@ -37,11 +37,11 @@ _Introducing Caddy, the modern web server that's rewriting the script on simplic
 
 _With Caddy, the web server experience is like a finely orchestrated symphony – harmonious, efficient, and utterly secure._
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-**Caddy's Feature Ensemble: Unveiled**
+<mark style="color:orange;">**Caddy's Feature Ensemble: Unveiled**</mark>
 
-_Caddy is a powerhouse of features that turn web server management into a breeze. Take a tour of its remarkable capabilities:_
+_<mark style="color:orange;">Caddy is a powerhouse of features that turn web server management into a breeze. Take a tour of its remarkable capabilities:</mark>_
 
 **1. Configuration Simplified:** With Caddy, complex configurations are a thing of the past. Its Caddyfile speaks human, making it effortless to define how your web server should behave. No more deciphering cryptic code.
 

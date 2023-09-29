@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's  FarmOs?</mark>
 
-**Unearth the Power of farmOS: Cultivating Agricultural Management**
+<mark style="color:orange;">**Unearth the Power of farmOS: Cultivating Agricultural Management**</mark>
 
-Farm management has evolved, and with it, the need for modern tools to keep pace. Enter farmOS, the web-based application that's transforming the way farmers plan, manage, and document their agricultural endeavors.
+<mark style="color:orange;">Farm management has evolved, and with it, the need for modern tools to keep pace. Enter farmOS, the web-based application that's transforming the way farmers plan, manage, and document their agricultural endeavors.</mark>
 
 🌱 **Community-Driven Development**
 
@@ -67,11 +67,11 @@ Farm management has evolved, and with it, the need for modern tools to keep pace
 
 In a world where farming meets technology, farmOS is the bridge that connects tradition with innovation. It's where your green thumb meets lines of code to cultivate success.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-**Navigating Your Agricultural Odyssey with farmOS**
+<mark style="color:orange;">**Navigating Your Agricultural Odyssey with farmOS**</mark>
 
-Are you ready to embark on a journey towards modernized, efficient farm management? farmOS is your trusted companion for navigating the complexities of agriculture in the digital age. Here's how it works:
+<mark style="color:orange;">Are you ready to embark on a journey towards modernized, efficient farm management? farmOS is your trusted companion for navigating the complexities of agriculture in the digital age. Here's how it works:</mark>
 
 🌾 **Sow the Seeds of Data**:
 

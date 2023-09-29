@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's is kavita?</mark>
 
-**Introducing Kavita: Your Rocket-Powered Digital Library**
+<mark style="color:orange;">**Introducing Kavita: Your Rocket-Powered Digital Library**</mark>
 
-In the vast universe of digital libraries, Kavita shines like a shooting star. This self-hosted wonder is not your average library—it's a high-speed, sleek, and versatile repository for a wide array of file formats.
+<mark style="color:orange;">In the vast universe of digital libraries, Kavita shines like a shooting star. This self-hosted wonder is not your average library—it's a high-speed, sleek, and versatile repository for a wide array of file formats.</mark>
 
 🚀 **Lightning-Fast & Elegant** 🎩 Kavita is like the Flash of digital libraries, giving you supersonic access to your literary treasures. Its slick design isn't just eye candy; it's an intuitive guide to your reading world. With Kavita, you're always just a click away from your reading lists and collections.
 
@@ -37,7 +37,7 @@ In the vast universe of digital libraries, Kavita shines like a shooting star. T
 
 In the realm of digital libraries, Kavita isn't just a star; it's a supernova. It's where speed, style, and substance converge, offering you a portal to explore the vast galaxies of literature. Discover Kavita, where your reading experience goes beyond the ordinary and reaches for the stars
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
 **Unlocking Kavita: Your Digital Library's Inner Workings**
 

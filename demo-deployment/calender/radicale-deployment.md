@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's is Radicale?</mark>
 
-**Your Personal Calendar and Contact Butler**
+<mark style="color:orange;">**Your Personal Calendar and Contact Butler**</mark>
 
-Meet Radicale—the compact yet mighty server that's your go-to for all things calendars, to-do lists, and contacts. It doesn't just handle them; it masters the art of sharing and organizing effortlessly.
+<mark style="color:orange;">Meet Radicale—the compact yet mighty server that's your go-to for all things calendars, to-do lists, and contacts. It doesn't just handle them; it masters the art of sharing and organizing effortlessly.</mark>
 
 **Calendars, Todos, and More** Radicale has your back when it comes to keeping track of events, todos, journal entries, and those all-important business cards. It's a one-stop-shop for managing your personal and professional life.
 
@@ -37,9 +37,9 @@ In a nutshell, Radicale is your personal assistant, handling calendars, to-do li
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**How Radicale Works**
+<mark style="color:orange;">**How Radicale Works**</mark>
 
-Imagine having a trusty assistant for managing your calendars, to-do lists, and contacts. That's precisely what Radicale is—a smart, compact server that simplifies your life. Here's how it works:
+<mark style="color:orange;">Imagine having a trusty assistant for managing your calendars, to-do lists, and contacts. That's precisely what Radicale is—a smart, compact server that simplifies your life. Here's how it works:</mark>
 
 **1. A Master of Sharing**
 

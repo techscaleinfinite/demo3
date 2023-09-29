@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's  httpd?</mark>
 
-**The Apache HTTP Server (HTTPD): Empowering the Web**
+<mark style="color:orange;">**The Apache HTTP Server (HTTPD): Empowering the Web**</mark>
 
-_Apache HTTP Server, commonly known as HTTPD, is more than just a web server; it's the cornerstone of web hosting. Let's unravel the essence of this legendary software:_
+_<mark style="color:orange;">Apache HTTP Server, commonly known as HTTPD, is more than just a web server; it's the cornerstone of web hosting. Let's unravel the essence of this legendary software:</mark>_
 
 1. **Web Serving Excellence:** At its core, HTTPD excels at serving web content. It seamlessly delivers HTML, images, CSS, JavaScript, and more to users' browsers via HTTP and HTTPS protocols.
 2. **Open Source Prowess:** HTTPD is a proud open-source champion. Its source code is a gift to the world, nurturing a community of developers and fostering innovation.
@@ -36,9 +36,9 @@ _In the ever-evolving landscape of web hosting, Apache HTTP Server stands as a t
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-1.  **Client Request Unveiled: The Apache Ballet**
+1.  <mark style="color:orange;">**Client Request Unveiled: The Apache Ballet**</mark>
 
-    _Behold, the enchanting dance of client requests and Apache's graceful response:_
+    _<mark style="color:orange;">Behold, the enchanting dance of client requests and Apache's graceful response:</mark>_
 
     1. **Client Request Debut:** It all commences with a client - often a web browser - extending an HTTP request towards a web server. This request can be as simple as a URL or rich with parameters and information, akin to casting a spell.
     2. **Server's Attentive Ear:** The Apache server is a vigilant sentinel, stationed at a specific port (usually 80 for HTTP or 443 for HTTPS). It stands ready, ears perked, waiting for the faintest whisper of a client connection.

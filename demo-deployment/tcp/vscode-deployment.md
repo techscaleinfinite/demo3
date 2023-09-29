@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's  VsCode?</mark>
 
-Visual Studio Code, often referred to simply as VS Code, is a free and widely-used source code editor developed by Microsoft. It stands out as a versatile and feature-rich tool designed to enhance the coding experience for developers across various programming languages and platforms.
+<mark style="color:orange;">Visual Studio Code, often referred to simply as VS Code, is a free and widely-used source code editor developed by Microsoft. It stands out as a versatile and feature-rich tool designed to enhance the coding experience for developers across various programming languages and platforms.</mark>
 
 Key Features and Aspects of VS Code:
 
@@ -40,9 +40,9 @@ Key Features and Aspects of VS Code:
 
 In summary, Visual Studio Code is a versatile and highly extensible code editor that has gained immense popularity in the developer community. Its combination of performance, customization options, and a vast extensions ecosystem makes it an invaluable tool for programmers across the globe.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-Visual Studio Code (VS Code) operates as a powerful and user-friendly code editor, enhancing the coding experience for developers across diverse programming languages and platforms. Its functionality and operation are rooted in the following key aspects:
+<mark style="color:orange;">Visual Studio Code (VS Code) operates as a powerful and user-friendly code editor, enhancing the coding experience for developers across diverse programming languages and platforms. Its functionality and operation are rooted in the following key aspects:</mark>
 
 1. **Installation and Launch:** To begin using VS Code, developers typically download and install it on their chosen operating system, such as Windows, macOS, or Linux. Once installed, launching the application is as simple as opening the executable file.
 2. **User Interface:** VS Code presents a clean and intuitive user interface. The editor window serves as the primary workspace, where developers write and edit code. The interface includes menus, toolbars, and sidebars that provide access to various features and functionalities.

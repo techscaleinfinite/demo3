@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's is stirling pdf?</mark>
 
-**PDF Magic Unleashed** – Imagine having a digital wizard at your disposal. This web-based PDF manipulation tool is like having a spellbook for PDFs. It can split, merge, convert, and even compress PDFs, turning mundane documents into magical creations.
+<mark style="color:orange;">**PDF Magic Unleashed**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">– Imagine having a digital wizard at your disposal. This web-based PDF manipulation tool is like having a spellbook for PDFs. It can split, merge, convert, and even compress PDFs, turning mundane documents into magical creations.</mark>
 
 **Split and Conquer** – Ever wanted to take just a piece of a lengthy PDF? This tool lets you slice and dice PDFs into multiple files, right at the pages you choose. It's like dissecting a book without the mess.
 
@@ -47,11 +47,11 @@ layout:
 
 So, what's the secret behind this digital wizardry? It's like having a magical spellbook for PDFs, with the power to split, merge, convert, and even compress them. You can reorder pages, add images, rotate, protect with passwords, and even brand them with watermarks. It's the perfect blend of magic and technology for your documents.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-**Unveiling the PDF Manipulation Wizardry**
+<mark style="color:orange;">**Unveiling the PDF Manipulation Wizardry**</mark>
 
-In a world where documents reign supreme, the PDF manipulation tool emerges as a digital wizard. Picture a versatile Swiss Army knife for your PDF files, ready to perform all sorts of enchanting feats. Now, let's uncover the magic behind it:
+<mark style="color:orange;">In a world where documents reign supreme, the PDF manipulation tool emerges as a digital wizard. Picture a versatile Swiss Army knife for your PDF files, ready to perform all sorts of enchanting feats. Now, let's uncover the magic behind it:</mark>
 
 **Splitting Spells** 🧙‍♂️
 

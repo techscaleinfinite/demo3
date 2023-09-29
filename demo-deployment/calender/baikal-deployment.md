@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's is baikal?</mark>
 
-**1. Web Interface Mastery –** Imagine a web interface that's not just user-friendly but genuinely intuitive. Baïkal offers exactly that. Managing users, address books, and calendars becomes a breeze. It's like having a personal assistant that understands your every command.
+<mark style="color:orange;">**1. Web Interface Mastery –**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Imagine a web interface that's not just user-friendly but genuinely intuitive. Baïkal offers exactly that. Managing users, address books, and calendars becomes a breeze. It's like having a personal assistant that understands your every command.</mark>
 
 **2. Universal Access –** Baïkal doesn't believe in boundaries. It's your bridge to a synchronized digital life. Access your contacts and calendars from every device you own. No more hassles with compatibility issues – it's all about harmonious connectivity.
 
@@ -37,7 +37,7 @@ In the grand performance of digital life, Baïkal plays a pivotal role. It's you
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**The Baïkal Ballet –** Ever watched a ballet performance? Imagine Baïkal as the choreographer, orchestrating the beautiful dance of your digital contacts and calendars. It elegantly brings them together in a seamless web interface.
+<mark style="color:orange;">**The Baïkal Ballet –**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Ever watched a ballet performance? Imagine Baïkal as the choreographer, orchestrating the beautiful dance of your digital contacts and calendars. It elegantly brings them together in a seamless web interface.</mark>
 
 **Sync Across Universes –** Baïkal isn't just a contact manager; it's a cosmic connector. It lets you access your precious contacts and calendars from any corner of the digital universe. It's like having a universal remote for your digital life.
 

@@ -26,7 +26,7 @@ In an era where data privacy and control are of utmost importance, OwnCloud stan
 ### <mark style="color:blue;">**How It Work:**</mark>
 
 \
-Sync and Share Files: With ownCloud at your disposal, you gain the incredible ability to synchronize files and folders seamlessly across all your devices. Whether it's your trusted computer, your favorite smartphone, or a reliable tablet, ownCloud acts like your personal butler, ensuring you have your digital belongings with you wherever you go. This promotes effortless collaboration and enhances your productivity, much like having a faithful companion by your side.
+<mark style="color:orange;">Sync and Share Files: With ownCloud at your disposal, you gain the incredible ability to synchronize files and folders seamlessly across all your devices. Whether it's your trusted computer, your favorite smartphone, or a reliable tablet, ownCloud acts like your personal butler, ensuring you have your digital belongings with you wherever you go. This promotes effortless collaboration and enhances your productivity, much like having a faithful companion by your side.</mark>
 
 Self-Hosted Solution: Say farewell to the era of relying on third-party cloud storage providers. ownCloud grants you the power to keep your data exactly where you want it – on your own servers or infrastructure. It's akin to having a digital fortress, with you as the guardian of your privacy and data security, ensuring that your digital assets remain under your watchful eye.
 

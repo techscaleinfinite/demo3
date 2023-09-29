@@ -21,9 +21,9 @@ layout:
 
 ### <mark style="color:blue;">What's  transmission?</mark>
 
-**Transmission: Your Ticket to Effortless Torrenting**
+<mark style="color:orange;">**Transmission: Your Ticket to Effortless Torrenting**</mark>
 
-Tired of wrestling with complicated torrent clients? Meet Transmission, the fast, easy, and free BitTorrent client that simplifies your downloading experience. Here's why Transmission stands out in the crowd:
+<mark style="color:orange;">Tired of wrestling with complicated torrent clients? Meet Transmission, the fast, easy, and free BitTorrent client that simplifies your downloading experience. Here's why Transmission stands out in the crowd:</mark>
 
 **1. Designed for Simplicity**
 
@@ -39,9 +39,9 @@ Tired of wrestling with complicated torrent clients? Meet Transmission, the fast
 
 Say goodbye to torrenting headaches and embrace Transmission's simplicity and speed. It's the BitTorrent client that respects your time and resources, ensuring your downloads are a breeze. Give Transmission a spin and experience torrenting the way it should be—fast, easy, and free.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-The Transmission Process: A Vibrant Torrenting Experience Torrenting does not have to be difficult. Transmission simplifies things without compromising power. This is how it works:
+<mark style="color:orange;">The Transmission Process: A Vibrant Torrenting Experience Torrenting does not have to be difficult. Transmission simplifies things without compromising power. This is how it works:</mark>
 
 Simple Installation and Configuration Transmission is intended to make torrenting as simple as possible. It comes with preset settings that just work, so you can get started downloading right away. Do you require additional control? No worries. With a few clicks, you may simply configure sophisticated features such as monitor folders and peer blocklists. Because of its user-friendliness, Ubuntu, a popular Linux distribution, chose Transmission as its default BitTorrent client. It is the client who will not leave you perplexed.
 

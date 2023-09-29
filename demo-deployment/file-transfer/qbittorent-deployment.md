@@ -7,22 +7,22 @@ coverY: 0
 
 ### <mark style="color:blue;">What's  qbittorent?</mark>
 
-qBittorrent is a cross-platform BitTorrent client that is free, open-source, and allows users to download and exchange files over the BitTorrent protocol. It is a free alternative to proprietary torrent clients, with a variety of tools for organising and regulating torrent downloads. Here are some important facts regarding qBittorrent:
+<mark style="color:orange;">qBittorrent is a cross-platform BitTorrent client that is free, open-source, and allows users to download and exchange files over the BitTorrent protocol. It is a free alternative to proprietary torrent clients, with a variety of tools for organising and regulating torrent downloads. Here are some important facts regarding qBittorrent:</mark>
 
-1. **BitTorrent Client**: qBittorrent is designed to handle the downloading and uploading of files through the BitTorrent protocol. This protocol enables peer-to-peer file sharing, where users can exchange parts of a file with each other rather than relying on a single central server.
-2. **Cross-Platform**: qBittorrent is available for various operating systems, including Windows, macOS, Linux, and FreeBSD. This makes it accessible to a wide range of users regardless of their preferred platform.
+1. <mark style="color:orange;">**BitTorrent Client**</mark><mark style="color:orange;">:</mark> qBittorrent is designed to handle the downloading and uploading of files through the BitTorrent protocol. This protocol enables peer-to-peer file sharing, where users can exchange parts of a file with each other rather than relying on a single central server.
+2. <mark style="color:orange;">**Cross-Platform**</mark><mark style="color:orange;">:</mark> qBittorrent is available for various operating systems, including Windows, macOS, Linux, and FreeBSD. This makes it accessible to a wide range of users regardless of their preferred platform.
 3. <mark style="color:orange;">**Open Source**</mark>: qBittorrent is open-source software, which means its source code is publicly available and can be reviewed and audited by the community. This transparency helps ensure the security and integrity of the software.
-4. **User-Friendly Interface**: The user interface of qBittorrent is designed to be intuitive and user-friendly. It provides easy-to-understand controls for adding, managing, and monitoring torrent downloads.
-5. **Search and Discovery**: qBittorrent includes a built-in search function that allows users to search for torrents directly from within the client. This can help users discover new content to download.
+4. <mark style="color:orange;">**User-Friendly Interface**</mark><mark style="color:orange;">:</mark> The user interface of qBittorrent is designed to be intuitive and user-friendly. It provides easy-to-understand controls for adding, managing, and monitoring torrent downloads.
+5. <mark style="color:orange;">**Search and Discovery**</mark><mark style="color:orange;">:</mark> qBittorrent includes a built-in search function that allows users to search for torrents directly from within the client. This can help users discover new content to download.
 
 
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-1. **Torrent File Creation**: To share a file using qBittorrent, a user first creates a "torrent file." This file contains metadata about the file to be shared, such as its name, size, and a list of tracker servers. A tracker server acts as a central hub that keeps track of all the users downloading and uploading a specific torrent.
-2. **Downloading a Torrent**: When a user wants to download a file, they obtain the torrent file (usually from a website or another user) and open it in qBittorrent. The torrent client uses the tracker server's information to connect to other users who are sharing the same file.
+1. <mark style="color:orange;">**Torrent File Creation**</mark><mark style="color:orange;">:</mark> To share a file using qBittorrent, a user first creates a "torrent file." This file contains metadata about the file to be shared, such as its name, size, and a list of tracker servers. A tracker server acts as a central hub that keeps track of all the users downloading and uploading a specific torrent.
+2. <mark style="color:orange;">**Downloading a Torrent**</mark><mark style="color:orange;">:</mark> When a user wants to download a file, they obtain the torrent file (usually from a website or another user) and open it in qBittorrent. The torrent client uses the tracker server's information to connect to other users who are sharing the same file.
 3. <mark style="color:orange;">**Peer Discovery**</mark>: qBittorrent connects to multiple peers (other users who are downloading or uploading the same file) and exchanges information about the parts of the file they have. Each peer becomes a source of data for others.
-4. **Piece Downloading**: The file is divided into small "pieces," and each peer downloads different pieces from multiple sources simultaneously. This parallel downloading increases the overall download speed and helps distribute the load among peers.
+4. <mark style="color:orange;">**Piece Downloading**</mark><mark style="color:orange;">:</mark> The file is divided into small "pieces," and each peer downloads different pieces from multiple sources simultaneously. This parallel downloading increases the overall download speed and helps distribute the load among peers.
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 

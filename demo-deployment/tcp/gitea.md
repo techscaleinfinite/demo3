@@ -21,7 +21,7 @@ layout:
 
 ### <mark style="color:blue;">What's  Gitea?</mark>
 
-Gitea emerges as a user-friendly, self-hosted comprehensive software development platform that encompasses an array of essential features, including:
+<mark style="color:orange;">Gitea emerges as a user-friendly, self-hosted comprehensive software development platform that encompasses an array of essential features, including:</mark>
 
 1. **Git Hosting**: Gitea provides a seamless environment for hosting Git repositories. It offers a reliable foundation for version control, enabling teams to efficiently manage their source code.
 2. **Code Review**: Collaborative development is made easy through built-in code review capabilities. Teams can collectively assess and refine code changes, fostering code quality and collaboration.
@@ -31,9 +31,9 @@ Gitea emerges as a user-friendly, self-hosted comprehensive software development
 
 Gitea's roots trace back to Gogs, but it has evolved significantly through extensive code modifications. It stands as a compelling alternative to popular services like GitHub, Bitbucket, and GitLab, offering a self-hosted solution that grants teams greater control over their software development processes while fostering collaboration and code quality.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### <mark style="color:blue;">**How It Works**</mark>
 
-In summary, Gitea simplifies and streamlines the software development lifecycle by offering a comprehensive suite of tools for version control, collaboration, and automation. It empowers users to take control of their code, enabling efficient and secure development practices.
+<mark style="color:orange;">In summary, Gitea simplifies and streamlines the software development lifecycle by offering a comprehensive suite of tools for version control, collaboration, and automation. It empowers users to take control of their code, enabling efficient and secure development practices.</mark>
 
 1. **Git Hosting**: Gitea is at its core a Git repository hosting service. It allows users to create and manage Git repositories for their projects. Users can push, pull, and clone repositories, making it a central hub for version control.
 2. **Code Review**: Gitea provides tools for code review, making collaboration among developers smooth. It supports features like pull requests, where developers can propose changes to a project's codebase, and other team members can review and discuss these changes before merging them.

@@ -1,6 +1,6 @@
 # Adding a Docker Account
 
-This Section Demonstrates how to add docker hub account to scale infinite
+<mark style="color:orange;">This Section Demonstrates how to add docker hub account to scale infinite</mark>
 
 * &#x20;Docker account is needed to use **My Account** page. you can create a new account by going to [dockerhub website](https://hub.docker.com/).
 * &#x20;In Docker hub website click profile-->security-->New Access Token. Provide a sutiable name and for access token and click generate.(you can keep read,write,delete permissions). Copy the access token and paste it in a safe place.
