@@ -24,7 +24,7 @@ Simplify deployment with ScaleInfinite. Your app, your way, in mere moments
 
 ### <mark style="color:blue;">Cloud float architecture</mark>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-12 150804.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-12 150804.png" alt=""><figcaption></figcaption></figure>
 
 #### Join us
 

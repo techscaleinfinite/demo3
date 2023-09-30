@@ -41,11 +41,11 @@ Delve into the world of Kubernetes – where scalability, speed, availability, p
 
 #### <mark style="color:blue;">**Virtual machines vs Containers**</mark>&#x20;
 
-<figure><img src="../.gitbook/assets/container.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/container.png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:blue;">Kubernetes</mark>
 
-<figure><img src="../.gitbook/assets/kubernetes.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kubernetes.png" alt=""><figcaption></figcaption></figure>
 
 #### Join us
 

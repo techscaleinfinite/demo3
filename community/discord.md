@@ -1,9 +1,8 @@
-# Join Us
+# Discord
 
-\
-**Join Our Project Community on Slack!**
+**Join Our Project Community on Discord!**
 
-Stay connected, collaborate, and get real-time updates about our project on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join our vibrant community to:
+Stay connected, collaborate, and get real-time updates about our project on[ Discord](https://discord.com/invite/wWvEYdKDcj) !! Join our vibrant community to:
 
 * Receive project updates, announcements, and feature releases.
 * Get assistance and support from fellow members and experts.
