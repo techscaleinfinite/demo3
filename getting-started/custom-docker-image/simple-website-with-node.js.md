@@ -37,15 +37,15 @@ A simple single page Node.js application.
 
 ### <mark style="color:blue;">Visual snapshots</mark>
 
-<figure><img src="../../../.gitbook/assets/my-apps (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/my-apps (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/build-image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/build-image (2).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/running_app.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/running_app.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

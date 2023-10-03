@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/napptive-kubernetes-app-platform.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Napptive
 
 Using Napptive Playground to Unlock the Power of Kubernetes Napptive Playground stands out as a beacon of simplicity and accessibility in the ever-changing environment of cloud-native apps. With Kubernetes at its foundation, this platform intends to enable users from a variety of disciplines, such as data scientists, business analysts, and modelling specialists, to deploy complex applications with ease while avoiding the complexities of Kubernetes.

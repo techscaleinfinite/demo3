@@ -4,8 +4,6 @@ description: 'Here are the steps to deploy an app on our platform:'
 
 # Create App Page
 
-
-
 1. **Navigate to the Create App Page**: To begin the deployment process, head over to our user-friendly Create App page.
 2. **Search for Your Desired App**: In the search bar, type the name of the app you want to deploy. Our platform offers a wide range of pre-configured apps to choose from.
 3. **Select Your Chosen App**: Once you've found the app you want, click on it to select it.
@@ -42,3 +40,19 @@ Then follow these steps:
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an App instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
+
+### Visual Snapshots
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-09 113119.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-10-03 185551 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-10-03 185642.png" alt=""><figcaption></figcaption></figure>
+
+</div>

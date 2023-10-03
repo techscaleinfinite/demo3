@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/qovery_v2-_dribbble.png
+coverY: 0
+---
+
 # Qovery
 
 **Qovery: Simplifying Cloud Infrastructure Management**

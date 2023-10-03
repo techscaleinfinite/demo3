@@ -16,3 +16,6 @@ Exploring your deployed apps on the "My Apps" page is a delightful journey. Here
 By following these steps, you'll effortlessly explore and enjoy your deployed apps on the "My Apps" page. It's where your digital creations come to life, and where you can witness the magic of your own work. Happy exploring!
 
 \
+
+
+<figure><img src="../../.gitbook/assets/dfdfssfsf.png" alt=""><figcaption></figcaption></figure>

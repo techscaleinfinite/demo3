@@ -219,7 +219,7 @@ By following these steps, you can effortlessly deploy an  Flatnotes instance wit
 
  
 
-<figure><img src="../../../.gitbook/assets/hhh.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hhh (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

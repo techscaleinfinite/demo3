@@ -154,7 +154,7 @@ By following these steps, you can effortlessly deploy an  Teedy instance with yo
 
 <div>
 
-<figure><img src="../../.gitbook/assets/dfdfssfsf.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dfdfssfsf (1).png" alt=""><figcaption></figcaption></figure>
 
  
 

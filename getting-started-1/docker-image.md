@@ -1,16 +1,40 @@
 # Docker image
 
-This Section Demonstrates how to use build image page and build a Docker Image
+<mark style="color:orange;">**Mastering Docker Image Building**</mark>
 
-* &#x20;Dockerhub account need to be added in **My Account** page to use **Build Image** page.Steps to add an account is here Link
-* &#x20;Once, your are setup with dockerhub account. You can provide the Details of the image you want to create in build image page.
-* &#x20;The project must contain a Dockerfile so, we can build from it. and a valid github url
+Welcome to the world of containerization! Building Docker images is a pivotal skill, and we're here to guide you through the process step by step. Buckle up, and let's dive into the realm of container magic.
 
-> https://github.com//
+**1. Account Setup: Dockerhub First!** Before we embark on this containerization journey, ensure you've got a Dockerhub account ready to roll. If you don't have one, head to [Dockerhub ](https://hub.docker.com/)and sign up. Don't worry; we'll be here when you get back.
 
-* &#x20;Below the form you can the history of all the images you have built, When you click an app this will show all the logs of creating a Docker image
-* &#x20;If you see this Message at the end of log **Docker image successfully pushed to the docker account** then congratulations you have sucessfully Built a docker image and pushed to dockerhub.
-* &#x20;You find the built image by searching your **dockerhub-username/image-name** in **Create App** section.
+**2. Linking Dockerhub to **<mark style="color:orange;">**MY Account**</mark> Once your Dockerhub account is set, navigate to the <mark style="color:orange;">"My Account"</mark>  page on our platform. Here, you'll find the option to link your Dockerhub account. This step is essential to seamlessly integrate Dockerhub into our platform.
+
+**3. Providing Image Details** Now that your Dockerhub account is linked, it's time to feed our system with the details of the Docker image you wish to create. Remember, your project must contain a Dockerfile. This file acts as the blueprint for your image, outlining all the instructions required to build it.
+
+**4. The GitHub Connection** Your Dockerfile alone isn't enough; you'll also need a valid GitHub URL. Ensure your GitHub repository contains all the necessary files and configurations for your project.
+
+**5. The Image Building Process** Once you've filled in the details and initiated the build, our platform will work its magic. Below the form, you'll find a historical log of all the images you've built. Each time you build an image, this log captures the journey, so you can trace back your steps.
+
+**6. Monitoring the Build** Click on an app, and you'll unveil the detailed logs of your Docker image creation. Every step of the process is meticulously recorded, giving you insights into what's happening under the hood.
+
+**7. The Sweet Success Message** Now, here's the moment of triumph. Keep your eyes peeled for the message that says, "Docker image successfully pushed to the Docker account." When you see this, it's time to celebrate – you've successfully created and pushed a Docker image to Dockerhub!
+
+**8. Finding Your Image** To locate your newly minted Docker image, simply head to the "Create App" section and search for it using the format: `dockerhub-username/image-name`.
+
+And there you have it – you've navigated the Docker image building process like a pro. With your newfound containerization skills, you're ready to harness the power of Docker and take your projects to the next level.
+
+Happy containerizing! 🐳✨
+
+### Images
+
+<div>
+
+<figure><img src="../.gitbook/assets/build-image.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/build_success.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### FAQ
 

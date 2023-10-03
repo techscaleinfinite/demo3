@@ -1,6 +1,8 @@
 # Create Account
 
-Creating an account on Scale Infinite is a breeze. Follow these simple steps to get started on your journey:
+<mark style="color:orange;">Creating an account on Scale Infinite is a breeze.</mark>
+
+&#x20;<mark style="color:blue;">Follow these simple steps to get started on your journey:</mark>
 
 **1. Visit Our Website**: To embark on your hosting adventure, head over to our website.
 
@@ -25,3 +27,7 @@ Creating an account on Scale Infinite is a breeze. Follow these simple steps to 
 **11. Join the Community**: Don't forget to connect with us on Slack to stay in the loop about the latest developments and get support. It's like joining a club of hosting enthusiasts!
 
 There you have it! You're now the proud owner of a Scale Infinite account, ready to host and explore to your heart's content. Enjoy the journey!
+
+
+
+<figure><img src="../../.gitbook/assets/signup (2).png" alt=""><figcaption></figcaption></figure>

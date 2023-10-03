@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/1.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Go daddy
 
 **GoDaddy: Empowering Your Online Presence**

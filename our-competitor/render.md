@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/Render-cloud-intellyx-BC-logo.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Render
 
 Render: Your Easier Path to Cloud Deployment What's the most thrilling thing? When a corporation takes the initiative and delivers on the promise of making difficult things appear simple. Render is one of those rare jewels that actually transforms cloud deployment. It's like having a superhero swooping in to handle all the nitty-gritty while you focus on what you do best: code your heart out.
