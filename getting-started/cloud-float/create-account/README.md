@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/signup (2) (1) (1).png
+cover: ../../../.gitbook/assets/signup (2) (1) (1).png
 coverY: 266.43199999999996
 layout:
   cover:
@@ -49,4 +49,4 @@ There you have it! You're now the proud owner of a Scale Infinite account, ready
 
 
 
-<figure><img src="../../.gitbook/assets/signup (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/signup (2) (1).png" alt=""><figcaption></figcaption></figure>

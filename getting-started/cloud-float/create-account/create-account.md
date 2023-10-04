@@ -22,45 +22,45 @@ Go to Scaleinfinite platform.
 
 <div>
 
-<figure><img src="../.gitbook/assets/menu (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/menu (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/signup (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/signup (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/otp1 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/otp1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/install (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/install (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/ub1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ub1 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/otp3 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/otp3 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/hostname (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hostname (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/myapps (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/myapps (10).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-<figure><img src="../.gitbook/assets/docker (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/docker (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Join us
 
