@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/usages (1) (2).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Dashboard page
 
 <mark style="color:orange;">Welcome to your Dashboard – the nerve center of insights and performance metrics. Here, you'll gain a holistic view of your app's health and vitality, all wrapped up in stunning visualizations.</mark>
@@ -8,13 +27,25 @@
 
 **2. Total Memory Usage**: Memory is the lifeblood of smooth operations. Keep tabs on how much memory your app is consuming. It's like ensuring your app never forgets.
 
+
+
+<figure><img src="../../.gitbook/assets/usages (1) (1).png" alt=""><figcaption></figcaption></figure>
+
 **3. Total I/O Usage**: Input and output – the essence of interaction. See how your app is handling data movement. It's like monitoring your app's conversation skills.
 
 **4. Total Network Usage**: The digital highway for your app's connectivity. Observe how your app is utilizing the network. It's like checking the pulse of your app's online presence.
 
 **5. Visual Delights**: These metrics aren't just numbers; they're brought to life with rich visual graphs. It's like turning raw data into a captivating story.
 
+
+
+<figure><img src="../../.gitbook/assets/m1 (1).png" alt=""><figcaption></figcaption></figure>
+
 **6. Individual Insights**: But wait, there's more! You can drill down to individual pages or components to get granular insights. It's like having a magnifying glass to inspect every nook and cranny of your app.
+
+
+
+<figure><img src="../../.gitbook/assets/m3 (1).png" alt=""><figcaption></figcaption></figure>
 
 **7. Real-Time Knowledge**: In the world of app management, knowledge is power. With real-time data at your fingertips, you can make informed decisions, spot trends, and fine-tune your app's performance.
 
@@ -24,21 +55,4 @@
 
 **10. Data-Driven Decision Making**: In the digital realm, data reigns supreme. Leverage the insights from the Dashboard to make data-driven decisions, ensuring your app's success.
 
-So, welcome to your Dashboard – where data becomes insights and insights lead to empowered decisions. Whether you're tracking overall health or scrutinizing individual components, this is your go-to place for ensuring your app thrives in the digital landscape. Happy charting!\
-
-
-### Visual SnapShot
-
-<div>
-
-<figure><img src="../../.gitbook/assets/m3.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/m1.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/usages (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+So, welcome to your Dashboard – where data becomes insights and insights lead to empowered decisions. Whether you're tracking overall health or scrutinizing individual components, this is your go-to place for ensuring your app thrives in the digital landscape. Happy charting

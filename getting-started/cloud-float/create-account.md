@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/signup (2) (1).png
+coverY: 266.43199999999996
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Create Account
 
 <mark style="color:orange;">Creating an account on Scale Infinite is a breeze.</mark>

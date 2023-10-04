@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/dc301dd6fac108a2a60f103e01539f04.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Artificial Intelligence
 
 <mark style="color:orange;">Artificial Intelligence (AI) plays a pivotal role in modern application deployment and management. One of its fascinating applications is in the realm of fault detection and prevention.</mark>&#x20;

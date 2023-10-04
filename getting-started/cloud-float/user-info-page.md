@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/profile+profile+page+user+icon-1320184664778424092.png
+coverY: 65.64266666666668
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # User info Page
 
 **User Info Page in Scale Infinite**
