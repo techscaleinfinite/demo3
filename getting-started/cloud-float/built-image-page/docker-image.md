@@ -28,11 +28,11 @@ Happy containerizing! 🐳✨
 
 <div>
 
-<figure><img src="../.gitbook/assets/build-image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/build-image.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/build_success.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/build_success.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

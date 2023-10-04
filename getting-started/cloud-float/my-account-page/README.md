@@ -1,6 +1,6 @@
 ---
 description: Adding a docker account
-cover: ../../.gitbook/assets/docker (2) (3).png
+cover: ../../../.gitbook/assets/docker (2) (3).png
 coverY: 0
 layout:
   cover:
@@ -26,21 +26,21 @@ Integrating your Docker Hub account with Scale Infinite is as smooth as a breeze
 
 **1. Docker Hub Account Creation** First things first, if you don't already have a Docker Hub account, head over to Docker Hub's website. It's a crucial prerequisite for this integration.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-10-04 120521.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-10-04 120521.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **2. Generating an Access Token** Once you're logged into Docker Hub, navigate to your profile settings. Look for the "Security" section – that's where the magic happens. Here, you'll find an option to create a new Access Token. This token acts as the bridge between Docker Hub and Scale Infinite.
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-10-04 120817.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-10-04 120817.png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-10-04 120931.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-10-04 120931.png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-10-04 121017.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-10-04 121017.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Kubernetes-Logo (1).png
+coverY: 0
+---
+
 # Managed Kubernetes
 
 <mark style="color:blue;">Managed Kubernetes</mark>:

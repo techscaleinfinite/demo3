@@ -31,7 +31,7 @@ Here's your backstage pass to what you can do:
 
 
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-24 125043 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-10-04 131431.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <mark style="color:orange;">In the Server Detail Page's IP Details segment, the Inbound and Outbound Traffic Rules play a crucial role in managing network traffic to and from your server.</mark>&#x20;
 
@@ -43,8 +43,12 @@ In the intricate realm of server management, gaining control over your server's 
 
 **Inbound Traffic Rules: Mastering the Flow**
 
-* **Blacklisting**:Consider this the bouncer at the door of an expensive club. Inbound blacklisting allows you to identify and prevent unwanted IP addresses from connecting to your server. It acts as a protective screen for your server, preventing any connection attempts from these prohibited attackers and bolstering its security and stability.
+* **Blacklisting**: Consider this the bouncer at the door of an expensive club. Inbound blacklisting allows you to identify and prevent unwanted IP addresses from connecting to your server. It acts as a protective screen for your server, preventing any connection attempts from these prohibited attackers and bolstering its security and stability.
 * **Whitelisting**: Assume you're the VIP host, bestowing extra benefits. With inbound whitelisting, you may lay down the red carpet for trustworthy IP addresses. These are the visitors you want to greet with open arms. Any connection from these whitelisted IPs travels through your server without interruption, ensuring important traffic flows smoothly.
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-10-04 131431 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Outbound Traffic Rules: Shaping Your Server's Outreach**
 
@@ -59,24 +63,5 @@ So, go ahead, take charge, and wield these traffic-shaping tools with confidence
 
 So, welcome to the Server Detail page – your go-to place for app optimization and monitoring. Whether you're making tweaks, analyzing performance, or diving into the command line, this is where the magic happens. Happy managing!
 
-\
 
-
-### Visual SnapShot
-
-
-
-<div>
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-04 144522.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/hhh.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-29 125158.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 

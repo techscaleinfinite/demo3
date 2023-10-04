@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/Screenshot 2023-10-04 132018.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Cloud float
 
 ### <mark style="color:blue;">What  is Cloud Float?</mark>

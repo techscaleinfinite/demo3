@@ -2,6 +2,22 @@
 description: >-
   Easily host containerized applications without infrastructure worries. Scale
   Infinite offers user-friendly deployment with rich telemetry insights.
+cover: ../.gitbook/assets/signup (2).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # About Scale Infinite
