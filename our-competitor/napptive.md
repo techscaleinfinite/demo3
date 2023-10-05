@@ -45,7 +45,15 @@ Napptive's journey with the OAM/KubeVela community has evolved from exploration 
 
 In the future, Napptive Playground offers a hassle-free experience for people interested in exploring the Open Application Model without the need for sophisticated installs. The community contributions continue, with an emphasis on quality assurance tools to assure application stability following upgrades and the adoption of new KubeVela capabilities such as multi-cluster support. Napptive is also aiming towards an OAM-compatible application catalogue, which would ease the storing and accessibility of application definitions. Napptive Playground is a testament to the strength of abstraction and accessibility in the Kubernetes environment, making complicated deployments simple for everybody.
 
+<div>
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-05 164644.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-05 164617.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:purple;">**Check out their website:**</mark>
 

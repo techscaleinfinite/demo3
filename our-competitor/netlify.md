@@ -1,5 +1,20 @@
 ---
+cover: ../.gitbook/assets/Netlify-Logo.wine (3).png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Netlify
@@ -29,3 +44,17 @@ Here's the lowdown on how Netlify works its behind-the-scenes magic:
 In a world where web development is constantly evolving, Netlify stands as a beacon of simplicity and efficiency. It liberates developers from server woes and empowers them to focus on creating remarkable web experiences.
 
 So, whether you're a seasoned developer or just embarking on your coding journey, Netlify has your hosting needs covered. It's where automation meets hosting, and where your web projects find the home they deserve. Dive in and experience web hosting like never before.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-05 163210.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-05 163143.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<mark style="color:purple;">**Check out their website:**</mark>
+
+{% embed url="https://www.netlify.com/" %}

@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/119-1192475_faq.png
+cover: .gitbook/assets/119-1192475_faq.png
 coverY: 0
 layout:
   cover:
@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# FAQ
+# ‼ FAQ
 
 **Do my applications Highly available, scalable, and reliable?**
 

@@ -43,6 +43,8 @@ Hostinger, a pioneering web hosting provider with over a decade of experience, o
 
 At Hostinger, it's not just about hosting websites; it's about hosting dreams and enabling online success for everyone.
 
-<mark style="color:purple;">**Check out their website:**</mark>
+
+
+![](<../.gitbook/assets/image (6).png>)
 
 {% embed url="https://www.hostinger.in/" %}

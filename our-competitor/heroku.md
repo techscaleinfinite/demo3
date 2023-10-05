@@ -1,5 +1,20 @@
 ---
+cover: ../.gitbook/assets/Heroku_logo.svg (1).png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Heroku
@@ -29,3 +44,9 @@ Here's the behind-the-scenes magic that powers Heroku:
 In a world where managing servers, infrastructure, and scaling can be a headache, Heroku swoops in like a digital superhero. It lets you focus on what you do best—writing code—while it takes care of the rest.
 
 So, whether you're a seasoned developer or just dipping your toes into the tech waters, Heroku is your trusty companion, here to make your app deployment journey smoother, easier, and maybe even a little bit fun. Give it a whirl, and watch your apps flourish in the cloud.
+
+![](<../.gitbook/assets/image (2).png>)
+
+<mark style="color:purple;">**Check out their website:**</mark>
+
+{% embed url="https://www.heroku.com/" %}

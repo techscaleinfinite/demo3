@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/hhh (2).png
 coverY: 204
 ---
 
-# Server Detail Page
+# 🖥 Server Detail Page
 
 <mark style="color:orange;">Welcome to the Server Detail page – your command center for fine-tuning, monitoring, and managing your deployed app.  Imagine this as your backstage pass to the inner workings of your app. It's where you can fine-tune, troubleshoot, and ensure everything is running like a well-oiled machine. From a developer's perspective, it's like having a control panel for your digital creation.</mark>
 

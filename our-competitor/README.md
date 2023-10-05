@@ -2,7 +2,7 @@
 description: Table of comparison
 ---
 
-# Our Competitor
+# 🏃♂ Our Competitor
 
 
 

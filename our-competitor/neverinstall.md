@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/nmk.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Neverinstall
 
 \
@@ -37,3 +56,18 @@ From your perspective, the system resources sipped by Neverinstall are as light 
 
 So, let Neverinstall be your portal to Linux application nirvana, all within the comfort of your web browser. Fast, efficient, and ready to elevate your digital journey.
 
+
+
+<div>
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-05 161918 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-05 161545 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<mark style="color:purple;">**Check out their website:**</mark>
+
+{% embed url="https://neverinstall.com/" %}

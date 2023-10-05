@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Dashboard page
+# 📋 Dashboard page
 
 <mark style="color:orange;">Welcome to your Dashboard – the nerve center of insights and performance metrics. Here, you'll gain a holistic view of your app's health and vitality, all wrapped up in stunning visualizations.</mark>
 

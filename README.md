@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Getting Started
+# 🖥 Getting Started
 
 ## Self-Driving Cloud Applications
 

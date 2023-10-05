@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# User info Page
+# 😁 User info Page
 
 **User Info Page in Scale Infinite**
 

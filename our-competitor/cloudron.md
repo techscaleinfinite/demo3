@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/social_hero (1).png
 coverY: 0
 ---
 
@@ -33,3 +34,11 @@ But Cloudron flips the script. It makes your life easier by taking care of all t
 Security? Covered. Backups? Sorted. Updates? Seamless. With Cloudron, you can kiss those errors and endless hours of tinkering goodbye.
 
 In a nutshell, Cloudron is your trusty sidekick, turning the once-daunting world of self-hosting web applications into a walk in the digital park. So, let the magic begin, and let Cloudron be your server's fairy godmother!
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-05 162824.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<mark style="color:purple;">**Check out their website:**</mark>
+
+{% embed url="https://www.cloudron.io/" %}

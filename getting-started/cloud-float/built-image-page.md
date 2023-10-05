@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Built Image Page
+# 🏗 Built Image Page
 
 Building a Docker image is a fundamental step in containerized application deployment. Here's an expanded explanation of the process:
 
