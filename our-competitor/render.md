@@ -44,3 +44,6 @@ Need a database? Render's got your back with fully managed PostgreSQL databases 
 **From Heroku to Render: A Success Story**
 
 Still not convinced? Here's a success story for you. Moving from Heroku to Render cut hosting costs by 80%. Furthermore, websites and databases are faster than ever. Render is more than simply a cloud deployment platform; it's a game changer. So there you have it, Render: where cloud deployment becomes a snap and you get more bang for your coding money. It's time to delegate the tough labour while you pursue your digital ambitions.
+
+<mark style="color:purple;">**Check out their website:**</mark>
+

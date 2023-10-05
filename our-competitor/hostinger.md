@@ -1,10 +1,10 @@
 ---
-cover: ../.gitbook/assets/1_CczJ8BiheVu9OcyzYsefLQ.png
+cover: ../.gitbook/assets/hostinger-web-hosting-review (1).png
 coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -42,3 +42,7 @@ Hostinger, a pioneering web hosting provider with over a decade of experience, o
 **Join Hostinger, Join Success**: They're more than a web host; they're on a mission to help everyone flourish online. Their devotion to faultless hosting experiences, skilled help, and constant server technology improvement drives them. Join Hostinger today and let's work together!
 
 At Hostinger, it's not just about hosting websites; it's about hosting dreams and enabling online success for everyone.
+
+<mark style="color:purple;">**Check out their website:**</mark>
+
+{% embed url="https://www.hostinger.in/" %}
