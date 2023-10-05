@@ -1,10 +1,10 @@
 ---
-cover: ../../.gitbook/assets/profile+profile+page+user+icon-1320184664778424092.png
-coverY: 65.64266666666668
+cover: ../../.gitbook/assets/360_F_554998845_5spsavIcO3KCiPiAjlfJEeUzGPHy7bC4.jpg
+coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 😁 User info Page
+# ☁ User info Page
 
 **User Info Page in Scale Infinite**
 

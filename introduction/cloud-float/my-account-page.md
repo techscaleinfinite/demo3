@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 📃 My Account Page
+# ☁ My Account Page
 
 <mark style="color:orange;">**Seamless Docker Hub Integration**</mark>
 

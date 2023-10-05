@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/Screenshot 2023-09-06 114809 (1).png
 coverY: 195
 ---
 
-# 📄 My APP Page
+# ☁ My APP Page
 
 \
 Exploring your deployed apps on the "My Apps" page is a delightful journey. Here's how to embark on this adventure:

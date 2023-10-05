@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🤖 Artificial Intelligence
+# ☁ Artificial Intelligence
 
 <mark style="color:orange;">Artificial Intelligence (AI) plays a pivotal role in modern application deployment and management. One of its fascinating applications is in the realm of fault detection and prevention.</mark>&#x20;
 

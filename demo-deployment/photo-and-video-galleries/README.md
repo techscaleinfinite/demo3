@@ -1,5 +1,7 @@
 # 📸 Photo and Video Galleries
 
+### **A General Introduction**
+
 **Gallery Software: Where Your Visual Stories Shine Bright**
 
 In a world dominated by visual storytelling, having a reliable gallery software at your disposal is like owning a treasure chest for your digital memories. These digital sanctuaries are where your photos, images, videos, and artistic creations come to life and find their spotlight.
@@ -65,3 +67,11 @@ In a world dominated by visual storytelling, having a reliable gallery software 
 * The world of gallery software is a dynamic one. Expect regular updates and innovative features to elevate your visual storytelling.
 
 So, whether you're an amateur photographer sharing your travel adventures or a professional artist showcasing your portfolio, gallery software is your digital canvas. It transforms your media into visual stories, making sure your memories and creations shine bright in the digital realm.
+
+### Sub-page Explanation:
+
+#### <mark style="color:blue;">What's  zenphoto?</mark>
+
+<mark style="color:orange;">**Zenphoto: Your Ideal CMS for Gallery-Focused Self-Hosted Websites**</mark>
+
+In the digital age, showcasing your creativity through images, videos, and audio is essential. Zenphoto, a powerful Content Management System (CMS), caters specifically to self-hosted websites with a strong focus on galleries

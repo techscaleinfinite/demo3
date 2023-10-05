@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🖱 Create Account
+# ☁ Create Account
 
 <mark style="color:orange;">Creating an account on Scale Infinite is a breeze.</mark>
 

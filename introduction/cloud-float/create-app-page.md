@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/jrr (2).png
 coverY: 218
 ---
 
-# 📄 Create App Page
+# ☁ Create App Page
 
 1. **Navigate to the Create App Page**: To begin the deployment process, head over to our user-friendly Create App page.
 2. **Search for Your Desired App**: In the search bar, type the name of the app you want to deploy. Our platform offers a wide range of pre-configured apps to choose from.

@@ -1,4 +1,4 @@
-# 📁 Accessing Persistent Storage Via FTP
+# ☁ Accessing Persistent Storage Via FTP
 
 ### <mark style="color:blue;">**What is Filezilla?**</mark>
 
