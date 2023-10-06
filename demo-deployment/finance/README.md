@@ -50,14 +50,14 @@ In the kingdom of finance, where budgets rule and savings are treasures, money m
 
 ### Sub-page Explanation:
 
-### <mark style="color:blue;">What's  ihatemoney?</mark>
+#### <mark style="color:blue;">What's  ihatemoney?</mark>
 
 \
 <mark style="color:orange;">**"I Hate Money": Where Money Meets Harmony**</mark>
 
 Tired of those endless debates and awkward moments when it's time to split the bills? Enter "I Hate Money," the web application that's here to rescue your friendships and simplify your shared budget management
 
-<mark style="color:blue;">What's  octobot?</mark>
+<mark style="color:blue;">**What's  octobot?**</mark>
 
 <mark style="color:orange;">**OctoBot: Where Crypto Trading Meets Simplicity and Profitability**</mark>
 

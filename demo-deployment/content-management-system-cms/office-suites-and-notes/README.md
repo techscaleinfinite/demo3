@@ -46,7 +46,7 @@ In a nutshell, an office suite is the catalyst for unleashing your productivity 
 
 <mark style="color:orange;">Rustpad: Where Real-Time Collaboration Meets Seamless Editing</mark>
 
-<mark style="color:orange;">Imagine a text editor that's not just functional but also thrives on collaboration. Enter Rustpad, an open-source gem that's changing the way we work together on documents.</mark>
+Imagine a text editor that's not just functional but also thrives on collaboration. Enter Rustpad, an open-source gem that's changing the way we work together on documents.
 
 #### <mark style="color:blue;">What's ONLYOFFICE?</mark>
 

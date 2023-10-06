@@ -54,7 +54,7 @@ In the realm of digital productivity, an office suite stands as the Swiss Army k
 
 #### <mark style="color:blue;">What's media wiki?</mark>
 
-<mark style="color:orange;">MediaWiki is a versatile and open-source wiki software application developed by the Wikimedia Foundation, the same organization behind Wikipedia. It's renowned for powering Wikipedia and numerous other collaborative websites across the internet.</mark>
+MediaWiki is a versatile and open-source wiki software application developed by the Wikimedia Foundation, the same organization behind Wikipedia. It's renowned for powering Wikipedia and numerous other collaborative websites across the internet.
 
 #### <mark style="color:blue;">What's node red?</mark>
 

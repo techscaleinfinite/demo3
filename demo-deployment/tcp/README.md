@@ -47,7 +47,7 @@ Gitea emerges as a user-friendly, self-hosted comprehensive software development
 
 #### <mark style="color:blue;">What's  jetty?</mark>
 
-J<mark style="color:orange;">etty, often referred to as Eclipse Jetty, is an open-source web server and servlet container. It is developed as part of the Eclipse Foundation's community-driven projects and is written in Java.</mark>&#x20;
+Jetty, often referred to as Eclipse Jetty, is an open-source web server and servlet container. It is developed as part of the Eclipse Foundation's community-driven projects and is written in Java.&#x20;
 
 #### <mark style="color:blue;">What's  varnish?</mark>
 
