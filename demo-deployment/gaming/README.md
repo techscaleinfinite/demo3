@@ -1,5 +1,7 @@
 # 🎮 Gaming
 
+### **A General Introduction**
+
 **Multiplayer Game Servers and Browser Games: Where Fun Meets the Digital Realm**
 
 Ah, the world of gaming – a realm where pixels transform into adventures, and competition ignites the spirit. In this digital playground, multiplayer game servers and browser games reign supreme, weaving tales of excitement and camaraderie. Let's embark on this gaming journey together.
@@ -45,3 +47,15 @@ Ah, the world of gaming – a realm where pixels transform into adventures, and 
 * Browser games offer a universe of possibilities. Whether you seek solace in a solo adventure or crave the camaraderie of multiplayer mayhem, these games have you covered.
 
 In the world of gaming, where pixels hold power, multiplayer game servers and browser games are your enchanted portals. With them, you'll traverse fantastical realms, conquer challenges, and forge digital legends. Your gaming odyssey awaits – embark on this epic journey today!
+
+### Sub-page Explanation:
+
+#### <mark style="color:blue;">What's  mini games?</mark>
+
+This evolving game is like a playground for learning and experimenting with web technologies while diving into the world of multiplayer, high-speed, mobile gaming.
+
+#### <mark style="color:blue;">What's  retro games?</mark>
+
+The self-hosted RetroArch web player is an exciting project that brings retro gaming to the web, offering a nostalgic gaming experience right in your web browser.
+
+ScaleInfinite offers a personalized Minecraft server, exclusively for you and your friends, ensuring an uninterrupted and immersive gaming experience.

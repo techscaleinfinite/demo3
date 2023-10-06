@@ -1,5 +1,7 @@
 # 📋 Dashboards
 
+### **A General Introduction**
+
 **Dashboards: Your Gateway to Information and Applications**
 
 In the digital age, where data flows like a river and applications sprawl across the digital landscape, dashboards emerge as the unsung heroes of organization and accessibility. They're the digital command centers that put the power at your fingertips. Let's dive into the world of dashboards and unlock their potential.
@@ -49,3 +51,15 @@ In the digital age, where data flows like a river and applications sprawl across
 * Dashboards are hubs of innovation. With advancements in data visualization and AI integration, they're constantly evolving to meet the demands of the digital age.
 
 In a world inundated with data and applications, dashboards are your guiding lights. They simplify complexity, boost productivity, and grant you control over your digital universe. Embrace the power of dashboards, and watch your digital life transform. Your command center awaits!
+
+### Sub-page Explanation:
+
+#### <mark style="color:blue;">What's is homer?</mark>
+
+Homer is a user-friendly, self-hosted dashboard that simplifies the management of your various services and applications.
+
+#### <mark style="color:blue;">What's is heimdall?</mark>
+
+**Heimdall Dashboard: Where Web Apps Find Harmony**
+
+Tired of juggling countless tabs and bookmarks for your favorite web applications? Meet Heimdall Application Dashboard, your one-stop solution for taming the chaos and bringing order to your digital life.

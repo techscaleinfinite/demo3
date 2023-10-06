@@ -1,5 +1,7 @@
 # 📃 Document Management
 
+### **A General Introduction**
+
 \
 **Document Management Systems (DMS): Where Order Meets Innovation**
 
@@ -58,3 +60,27 @@ In the age of digital transformation, the mountains of paperwork that once clutt
 * From healthcare to finance, DMS suits every industry. It's the universal language of organization.
 
 DMS isn't just a digital file cabinet; it's a dynamic, intelligent ally in the pursuit of efficiency. It empowers you to reclaim your time, reduce clutter, and boost productivity. So, as you bid farewell to the paper age, remember that DMS is the passport to a clutter-free, organized future.
+
+### Sub-page Explanation:
+
+#### <mark style="color:blue;">What's is stirling pdf?</mark>
+
+<mark style="color:orange;">**PDF Magic Unleashed**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">–</mark> Imagine having a digital wizard at your disposal. This web-based PDF manipulation tool is like having a spellbook for PDFs. It can split, merge, convert, and even compress PDFs, turning mundane documents into magical creations.
+
+#### <mark style="color:blue;">What's is teedy?</mark>
+
+<mark style="color:orange;">**Teedy: Where Document Management Meets Elegance**</mark>
+
+In the vast digital landscape, staying organized is no small feat. Enter Teedy, your beacon of light in the world of document management. With a sleek and modern interface, Teedy simplifies your quest for order and clarity in the realm of business operations.
+
+#### <mark style="color:blue;">What's is kavita?</mark>
+
+<mark style="color:orange;">**Introducing Kavita: Your Rocket-Powered Digital Library**</mark>
+
+In the vast universe of digital libraries, Kavita shines like a shooting star. This self-hosted wonder is not your average library—it's a high-speed, sleek, and versatile repository for a wide array of file formats.
+
+#### <mark style="color:blue;">What's komga?</mark>
+
+<mark style="color:orange;">**Komga: Your Gateway to the World of Comics and Mangas**</mark>
+
+Are you an avid comics or mangas enthusiast? Look no further than _Komga_, your free and open-source comics/mangas server.

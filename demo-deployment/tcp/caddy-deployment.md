@@ -21,7 +21,8 @@ layout:
 
 ### <mark style="color:blue;">What's is caddy?</mark>
 
-### &#x20;<mark style="color:orange;">**Caddy: Where Simplicity Meets Security**</mark>
+\
+<mark style="color:orange;">**Caddy: Where Simplicity Meets Security**</mark>
 
 _<mark style="color:orange;">Introducing Caddy, the modern web server that's rewriting the script on simplicity, efficiency, and security. Here's the backstage pass:</mark>_
 

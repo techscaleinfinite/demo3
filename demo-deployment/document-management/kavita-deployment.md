@@ -158,28 +158,6 @@ By following these steps, you can effortlessly deploy an  Kavita instance with y
 
 
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-12 172745.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-12 172903.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-12 172707.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-12 173046.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-12 173111.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 ### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
 
 Check out our youtube video for more clarification.

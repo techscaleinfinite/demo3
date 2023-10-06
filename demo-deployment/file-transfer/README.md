@@ -66,3 +66,13 @@ In a world that relies on data more than ever before, file transfer, sharing, an
 
 ### Sub-page Explanation:
 
+#### <mark style="color:blue;">What's  qbittorent?</mark>
+
+qBittorrent is a cross-platform BitTorrent client that is free, open-source, and allows users to download and exchange files over the BitTorrent protocol. It is a free alternative to proprietary torrent clients, with a variety of tools for organising and regulating torrent downloads.
+
+#### <mark style="color:blue;">What's  transmission?</mark>
+
+<mark style="color:orange;">**Transmission: Your Ticket to Effortless Torrenting**</mark>
+
+Tired of wrestling with complicated torrent clients? Meet Transmission, the fast, easy, and free BitTorrent client that simplifies your downloading experience.
+
