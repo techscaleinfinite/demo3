@@ -184,27 +184,31 @@ By following these steps, you can effortlessly deploy an I Hate Money  instance 
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-08 162305.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-08 162345 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-08 162345.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-08 162305 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-08 162540 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-08 162441.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-08 162441 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/mmo.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-08 162540.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-08 162525.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-08 162501.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/jkij.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

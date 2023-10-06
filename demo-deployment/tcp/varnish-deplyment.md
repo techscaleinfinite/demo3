@@ -123,8 +123,6 @@ By following these steps, you can effortlessly deploy an varnish instance with y
 
 
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-01 171700 (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 ### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
 
 Check out our youtube video for more clarification.

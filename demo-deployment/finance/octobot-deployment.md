@@ -198,31 +198,35 @@ By following these steps, you can effortlessly deploy an OctoBot   instance with
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 124146.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/njjj.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 123331.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/jiii.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/jjikk.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 123407.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/jjjjl.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/nnjj.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 123751.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/jnjnk.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 124023.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 123941.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-11 123841.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/jjjjji.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
