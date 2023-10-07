@@ -6,6 +6,10 @@
 
 #### OwnCloud is a game-changer in the realm of data management, offering a comprehensive open-source platform that puts you in the driver's seat when it comes to your data.
 
+{% embed url="https://docs.scaleinfinite.fr/demo-deployment/cloud-services/own-cloud-deployment" %}
+
 #### <mark style="color:blue;">What's Next cloud?</mark>
 
 Nextcloud is a remarkable open-source solution for self-hosted cloud storage and collaboration. It grants you the power to safeguard, synchronize, and exchange an array of digital assets, including files, documents, images, and much more.
+
+{% embed url="https://docs.scaleinfinite.fr/demo-deployment/cloud-services/next-cloud-deployment" %}

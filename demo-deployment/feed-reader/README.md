@@ -63,3 +63,7 @@ From catching up on global politics to indulging in your hobbies, news aggregato
 <mark style="color:orange;">**RSS-Bridge: Bridging the Gap in Feeds**</mark>
 
 In a digital landscape teeming with information, what happens when your favorite websites or platforms don't offer an RSS or Atom feed? This is where RSS-Bridge steps in, serving as a digital bridge that seamlessly connects you to the content you crave.&#x20;
+
+| PAGE                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../../.gitbook/assets/image (7).png" alt="" data-size="original"></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/feed-reader/rss-bridge-deployment"><mark style="color:orange;"><strong>RSS-Bridge</strong></mark></a></p><p><mark style="color:orange;"><strong>Bridging the Gap in Feeds</strong></mark></p> |

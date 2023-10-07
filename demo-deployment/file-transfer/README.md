@@ -66,13 +66,9 @@ In a world that relies on data more than ever before, file transfer, sharing, an
 
 ### Sub-page Explanation:
 
-#### <mark style="color:blue;">What's  qbittorent?</mark>
 
-qBittorrent is a cross-platform BitTorrent client that is free, open-source, and allows users to download and exchange files over the BitTorrent protocol. It is a free alternative to proprietary torrent clients, with a variety of tools for organising and regulating torrent downloads.
 
-#### <mark style="color:blue;">What's  transmission?</mark>
-
-<mark style="color:orange;">**Transmission: Your Ticket to Effortless Torrenting**</mark>
-
-Tired of wrestling with complicated torrent clients? Meet Transmission, the fast, easy, and free BitTorrent client that simplifies your downloading experience.
-
+| PAGE                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../../.gitbook/assets/square_qbittorrent_logo_by_zoro6663_dg8ip5w-fullview.jpg" alt="" data-size="original"></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/file-transfer/qbittorent-deployment"><em><mark style="color:blue;"><strong>Qbittorent</strong></mark></em></a></p><p><mark style="color:orange;">qBittorrent is a cross-platform BitTorrent client that is free</mark></p> |
+| <p><img src="../../.gitbook/assets/logo (1).png" alt=""></p><p><a href="./#whats-transmission"><em><strong>Transimission Deployment</strong></em></a></p><p><mark style="color:orange;"><strong>Your Ticket to Effortless Torrenting</strong></mark></p>                                                                                                                                                          |
