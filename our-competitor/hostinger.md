@@ -45,6 +45,6 @@ At Hostinger, it's not just about hosting websites; it's about hosting dreams an
 
 
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 {% embed url="https://www.hostinger.in/" %}
