@@ -16,15 +16,7 @@ By default, when you redeploy an application, the data stored within the applica
 
 In summary, Kubernetes offers you control over data persistence during application redeployment. With persistent storage solutions and the "Go" button, you can ensure that your valuable data stays safe and accessible throughout your application's lifecycle.
 
-### What Is Persistence?
 
-
-
-### Computational:
-
-
-
-### Network:
 
 ### <mark style="color:orange;">Benefits of persistence:</mark>
 
