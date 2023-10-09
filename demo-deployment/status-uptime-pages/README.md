@@ -18,16 +18,6 @@ Now, let's dive into why our Status/Uptime Pages are the real deal:
 
 **2. Peace of Mind:** With uptime percentages that would make even the most punctual Swiss watch jealous, you can rest easy knowing your digital assets are in safe hands.
 
-**3. Trustworthy Performance:** You can trust our systems to be available when you need them the most. No disappearing acts here!
-
-**4. Reliability Redefined:** We've redefined what it means to be reliable. Our systems work tirelessly, so you don't have to.
-
-**5. Real-Time Assurance:** Our Status/Uptime Pages provide real-time updates. It's like having a digital pulse monitor for your online presence.
-
-**6. Minimal Downtime:** We're not fans of downtime, and we're pretty sure you aren't either. That's why we aim for minimal interruptions, ensuring your online experience is smooth sailing.
-
-**7. Problem? What Problem?:** Thanks to our vigilant monitoring, issues are spotted and resolved in a flash. You won't even have time to reach for that cup of coffee!
-
 So, whether you're running a critical online business or just enjoying some leisurely browsing, our Status/Uptime Pages have got your back. After all, uptime isn't just a statistic – it's your digital peace of mind. 🌐🛡️🚀
 
 ### Sub-page Explanation:
@@ -43,3 +33,7 @@ Imagine having a trusty companion, always on the lookout, tirelessly monitoring 
 <mark style="color:orange;">**Gatus: Your Health Dashboard Maestro**</mark>
 
 Imagine having a trusty health dashboard that not only monitors your digital kingdom but also serenades you with real-time insights.
+
+|                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p></p><p><img src="../../.gitbook/assets/image (12).png" alt=""> </p><h4>  <a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/uptime-kuma"><mark style="color:blue;">Uptime Kuma</mark></a></h4><h4></h4><p><a href="https://quillbot.com/"><mark style="color:orange;">🕐 Keeping Time with Uptime Kuma</mark> </a></p> | <p><img src="../../.gitbook/assets/image (13).png" alt="" data-size="original"></p><p>  <a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/gatus-deployment"><mark style="color:blue;"><strong>Gatus</strong></mark></a></p><h4></h4><p><mark style="color:orange;">Gatus</mark><a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/gatus-deployment"><mark style="color:orange;">: Your Health Dashboard Maestro</mark></a></p> |

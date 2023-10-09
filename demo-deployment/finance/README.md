@@ -8,21 +8,6 @@ Ah, the world of finance – a realm where numbers dance, dollars dominate, and 
 
 In the kingdom of finance, where budgets rule and savings are treasures, money management and budgeting software are your loyal allies. With them by your side, you'll conquer debt dragons, navigate investment mazes, and build a castle of financial security. Your financial future awaits – embark on this epic journey today!
 
-### Sub-page Explanation:
+### Sub-page Explanation
 
-#### <mark style="color:blue;">What's  ihatemoney?</mark>
-
-\
-<mark style="color:orange;">**"I Hate Money": Where Money Meets Harmony**</mark>
-
-Tired of those endless debates and awkward moments when it's time to split the bills? Enter "I Hate Money," the web application that's here to rescue your friendships and simplify your shared budget management
-
-{% embed url="https://docs.scaleinfinite.fr/demo-deployment/finance/ihatemoney-deployment" %}
-
-<mark style="color:blue;">**What's  octobot?**</mark>
-
-<mark style="color:orange;">**OctoBot: Where Crypto Trading Meets Simplicity and Profitability**</mark>
-
-In the complex world of cryptocurrency trading, OctoBot emerges as a game-changer, combining power, simplicity, and profitability.
-
-{% embed url="https://docs.scaleinfinite.fr/demo-deployment/finance/octobot-deployment" %}
+<table><thead><tr><th width="367"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (28).png" alt=""> </p><h4><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/ihatemoney-deployment"> <mark style="color:blue;">ihatemoney</mark></a></h4><p><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/ihatemoney-deployment"><br><mark style="color:orange;"><strong>"I Hate Money": Where Money Meets Harmony</strong></mark></a></p></td><td><p><img src="../../.gitbook/assets/image (29).png" alt="" data-size="original"></p><p> <mark style="color:blue;"><strong>O</strong></mark><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/octobot-deployment"><mark style="color:blue;"><strong>ctobot</strong></mark></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/octobot-deployment"><mark style="color:orange;">OctoBot: Where Crypto Trading Meets Simplicity and Profitability</mark></a></p></td></tr></tbody></table>

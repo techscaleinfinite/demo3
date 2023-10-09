@@ -10,46 +10,6 @@ So, whether you're charting the depths of an SQL nebula, uncovering the mysterie
 
 ### Sub-page Explanation:
 
-#### <mark style="color:blue;">What's Xampp?</mark>
+<table><thead><tr><th width="205"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p> </p><h4><img src="../../.gitbook/assets/image (30).png" alt=""><a href="https://docs.scaleinfinite.fr/demo-deployment/database/xampp-deployment"><mark style="color:blue;">Xampp</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/xampp-deployment"><mark style="color:orange;">XAMPP is a great and free web server solution carefully built by Ap</mark></a><mark style="color:orange;">ache Friends.</mark></p></td><td><p><img src="../../.gitbook/assets/image (31).png" alt="" data-size="original"></p><h4><a href="https://docs.scaleinfinite.fr/demo-deployment/database/mongo-db"><mark style="color:blue;">Mongo DB</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/mongo-db"> <mark style="color:orange;">MongoDB is a fresh departure from traditional databases</mark></a><mark style="color:orange;">.</mark></p></td><td><h4><img src="../../.gitbook/assets/image (32).png" alt=""><a href="https://docs.scaleinfinite.fr/demo-deployment/database/couch-base-deployment">C<mark style="color:blue;">ouchbase</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/couch-base-deployment"><mark style="color:orange;">Couchbase: Unrivalled Data Versatility and Productivity</mark></a></p></td><td><h4><img src="../../.gitbook/assets/image (33).png" alt=""> <a href="https://docs.scaleinfinite.fr/demo-deployment/database/mysql-deployment"><mark style="color:blue;"><strong>MySQL</strong></mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/mysql-deployment"><mark style="color:orange;">MySQL is like a trusted librarian for your data, helping you organize, store, and retrieve structured inform</mark></a><mark style="color:orange;">ation with ease.</mark> </p></td></tr></tbody></table>
 
-XAMPP is a great and free web server solution carefully built by Apache Friends. This is your one stop shop for web development, bringing together some of the essential components that make your web projects a breeze.
-
-{% embed url="https://docs.scaleinfinite.fr/demo-deployment/database/xampp-deployment" %}
-
-#### <mark style="color:blue;">What's Mongo DB?</mark>
-
-<mark style="color:orange;">**NoSQL databases:**</mark> MongoDB is a fresh departure from traditional databases. It doesn't limit your data to rigid tables and rows; instead, he dances to the beat of his own drums, using flexible, freehand collections of materials.
-
-{% embed url="https://docs.scaleinfinite.fr/demo-deployment/database/mongo-db" %}
-
-#### <mark style="color:blue;">What's couchbase?</mark>
-
-<mark style="color:orange;">Couchbase: Unrivalled Data Versatility and Productivity</mark>
-
-Couchbase stands out in the dynamic world of modern data management as an award-winning distributed NoSQL cloud database that adds variety, performance, scalability, and excellent value to your varied range of applications
-
-{% embed url="https://docs.scaleinfinite.fr/demo-deployment/database/couch-base-deployment" %}
-
-#### <mark style="color:blue;">**What's MySQL?**</mark>
-
-MySQL is like a trusted librarian for your data, helping you organize, store, and retrieve structured information with ease<mark style="color:orange;">.</mark>&#x20;
-
-{% embed url="https://docs.scaleinfinite.fr/demo-deployment/database/mysql-deployment" %}
-
-#### <mark style="color:blue;">What's  php myadmin?</mark>
-
-phpMyAdmin is like a trusted browser for your MySQL and MariaDB databases, simplifying the often complex world of database management
-
-{% embed url="https://docs.scaleinfinite.fr/demo-deployment/database/phpmyadmin-deployment" %}
-
-#### <mark style="color:blue;">What's  maria db?</mark>
-
-MariaDB is like a reliable librarian for your data, and it's quite a fascinating character in the world of relational database management systems (RDBMS).
-
-{% embed url="https://docs.scaleinfinite.fr/demo-deployment/database/maria-db-deployment" %}
-
-#### <mark style="color:blue;">What's  tomcat?</mark>
-
-Apache Tomcat, commonly referred to as Tomcat, is an open-source web server and servlet container developed by the Apache Software Foundation
-
-{% embed url="https://docs.scaleinfinite.fr/demo-deployment/database/tomcat-deployment" %}
+<table><thead><tr><th width="205"></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p> </p><h4>  <img src="../../.gitbook/assets/image (34).png" alt=""><a href="https://docs.scaleinfinite.fr/demo-deployment/database/phpmyadmin-deployment"><mark style="color:blue;">php myadmin</mark></a></h4><h4></h4><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/phpmyadmin-deployment"><mark style="color:orange;">phpMyAdmin is like a trusted browser for your MySQL and MariaDB databases, simplifying the often complex world of database management.</mark></a></p></td><td><p><img src="../../.gitbook/assets/image (29).png" alt="" data-size="original"></p><h4> <a href="https://docs.scaleinfinite.fr/demo-deployment/database/maria-db-deployment"><mark style="color:blue;">maria db</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/maria-db-deployment"><mark style="color:orange;">MariaDB is like a reliable librarian for your data, and it's quite a fascinating character in the world of relational database management systems (RDBMS).</mark></a></p></td><td><h4>  <img src="../../.gitbook/assets/image (35).png" alt=""><mark style="color:blue;">to</mark><a href="https://docs.scaleinfinite.fr/demo-deployment/database/tomcat-deployment"><mark style="color:blue;">mcat</mark></a></h4><h4></h4><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/tomcat-deployment"><mark style="color:orange;">Apache Tomcat, commonly referred to as Tomcat, is an open-source web server and servlet container developed by the Apache Software Foundati</mark></a><mark style="color:orange;">on</mark></p></td></tr></tbody></table>

@@ -2,53 +2,8 @@
 
 ### Sub-page Explanation:
 
-#### <mark style="color:blue;">What's is caddy?</mark>
+<table><thead><tr><th width="237"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (15).png" alt=""> </p><h4><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/caddy-deployment"><mark style="color:blue;">Caddy</mark></a></h4><p><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/caddy-deployment"><br> <mark style="color:orange;">Where Simplicity Meets Security</mark></a></p></td><td><p><img src="../../.gitbook/assets/image (16).png" alt="" data-size="original"></p><p> <mark style="color:blue;"><strong>V</strong></mark><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/vault-warden-deployment"><mark style="color:blue;"><strong>ault warden</strong></mark></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/vault-warden-deployment"><mark style="color:orange;">Vaultwarden is the new identity of a project formerly recognized as "Bitwarden_RS."</mark></a></p></td><td><p> <img src="../../.gitbook/assets/image (17).png" alt=""> <a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/linux-vps-deployment"><mark style="color:blue;"><strong>Linux VPS</strong></mark></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/linux-vps-deployment"><mark style="color:orange;">A Linux Virtual Private Server (VPS) serves as your own personal virtual environment</mark></a></p></td><td><h4> <img src="../../.gitbook/assets/image (18).png" alt=""><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/nginx-deployment"><mark style="color:blue;">Nginx</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/nginx-deployment"><mark style="color:orange;">Web Server: Nginx serves as a nimble and efficient web server.</mark></a></p></td></tr></tbody></table>
 
-\
-<mark style="color:orange;">**Caddy: Where Simplicity Meets Security**</mark>
+<table><thead><tr><th width="237"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (19).png" alt=""> </p><h4><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/httpd-deployment"> <mark style="color:blue;">httpd</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/httpd-deployment"><mark style="color:orange;">The Apache HTTP Server (HTTPD): Empowering the Web</mark></a></p></td><td><p><img src="../../.gitbook/assets/image (20).png" alt="" data-size="original"></p><h4><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/vscode-deployment"><mark style="color:blue;">VsCode</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/vscode-deployment"><mark style="color:orange;">Visual Studio Code, often referred to simply as VS Code, is a free and widely-used source code editor developed by Microsoft.</mark></a> </p></td><td><p> <img src="../../.gitbook/assets/image (21).png" alt="">   <mark style="color:blue;"><strong>FarmOs</strong></mark></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/farmos-deployment"><mark style="color:orange;">Unearth the Power of farmOS: Cultivating Agricultural Management</mark></a></p></td><td><h4>  <img src="../../.gitbook/assets/image (22).png" alt=""><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/znc-deployment"><mark style="color:blue;">Znc</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/znc-deployment"><mark style="color:orange;">ZNC serves as a vital component in the world of Internet Relay Chat (IRC).</mark></a></p></td></tr></tbody></table>
 
-_Introducing Caddy, the modern web server that's rewriting the script on simplicity, efficiency, and security._
-
-#### <mark style="color:blue;">What's is vault warden?</mark>
-
-Vaultwarden is the new identity of a project formerly recognized as "Bitwarden\_RS." Its primary objective is to provide users with an alternative to the official Bitwarden password manager, enabling them to host and manage their password vault in a self-hosted environment.
-
-#### <mark style="color:blue;">What's Linux VPS?</mark>
-
-A Linux Virtual Private Server (VPS) serves as your own personal virtual environment, offering a wealth of advantages for your projects and experiments.&#x20;
-
-#### <mark style="color:blue;">What's is Nginx?</mark>
-
-Web Server: Nginx serves as a nimble and efficient web server, ensuring that web content is delivered swiftly and effectively to users. It's like the reliable engine powering your website, keeping it up and running smoothly.
-
-#### <mark style="color:blue;">What's  httpd?</mark>
-
-<mark style="color:orange;">**The Apache HTTP Server (HTTPD): Empowering the Web**</mark>
-
-_Apache HTTP Server, commonly known as HTTPD, is more than just a web server; it's the cornerstone of web hosting._
-
-#### <mark style="color:blue;">What's  VsCode?</mark>
-
-Visual Studio Code, often referred to simply as VS Code, is a free and widely-used source code editor developed by Microsoft. It stands out as a versatile and feature-rich tool designed to enhance the coding experience for developers across various programming languages and platforms.
-
-#### <mark style="color:blue;">What's  FarmOs?</mark>
-
-<mark style="color:orange;">**Unearth the Power of farmOS: Cultivating Agricultural Management**</mark>
-
-Farm management has evolved, and with it, the need for modern tools to keep pace. Enter farmOS, the web-based application that's transforming the way farmers plan, manage, and document their agricultural endeavors.
-
-#### <mark style="color:blue;">What's  Znc?</mark>
-
-ZNC serves as a vital component in the world of Internet Relay Chat (IRC), functioning as an IRC network bouncer, or more commonly known as a BNC.&#x20;
-
-#### <mark style="color:blue;">What's  Gitea?</mark>
-
-Gitea emerges as a user-friendly, self-hosted comprehensive software development platform that encompasses an array of essential features.
-
-#### <mark style="color:blue;">What's  jetty?</mark>
-
-Jetty, often referred to as Eclipse Jetty, is an open-source web server and servlet container. It is developed as part of the Eclipse Foundation's community-driven projects and is written in Java.&#x20;
-
-#### <mark style="color:blue;">What's  varnish?</mark>
-
-Varnish is an open-source web application accelerator also known as a caching HTTP reverse proxy. It's designed to significantly improve the performance and speed of web servers, particularly for content-heavy dynamic websites.
+<table><thead><tr><th width="367"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (23).png" alt=""> </p><h4><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/gitea"><mark style="color:blue;">Gitea</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/gitea"><mark style="color:orange;">Gitea emerges as a user-friendly, self-hosted comprehensive software development platform that encompasses an array of essential features.</mark></a></p></td><td><p><img src="../../.gitbook/assets/image (24).png" alt="" data-size="original"></p><h4><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/jetty-deployment"> <mark style="color:blue;">Jetty</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/tcp/jetty-deployment"><mark style="color:orange;">Jetty, often referred to as Eclipse Jetty, is an open-source web server and servlet container</mark></a></p></td></tr></tbody></table>

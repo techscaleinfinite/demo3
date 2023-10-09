@@ -2,14 +2,4 @@
 
 ### Sub-page Explanation
 
-#### <mark style="color:blue;">What's  OWNCLOUD?</mark>
-
-#### OwnCloud is a game-changer in the realm of data management, offering a comprehensive open-source platform that puts you in the driver's seat when it comes to your data.
-
-{% embed url="https://docs.scaleinfinite.fr/demo-deployment/cloud-services/own-cloud-deployment" %}
-
-#### <mark style="color:blue;">What's Next cloud?</mark>
-
-Nextcloud is a remarkable open-source solution for self-hosted cloud storage and collaboration. It grants you the power to safeguard, synchronize, and exchange an array of digital assets, including files, documents, images, and much more.
-
-{% embed url="https://docs.scaleinfinite.fr/demo-deployment/cloud-services/next-cloud-deployment" %}
+<table><thead><tr><th width="367"></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (27).png" alt=""> </p><h4><a href="https://docs.scaleinfinite.fr/demo-deployment/cloud-services/own-cloud-deployment"><mark style="color:blue;">OWNCLOUD</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/cloud-services/own-cloud-deployment"><mark style="color:orange;">OwnCloud is a game-changer in the realm of data management, offering a comprehensive open-source platform that puts you in the driver's seat when it comes to your data.</mark></a></p></td><td><p><img src="../../.gitbook/assets/image (26).png" alt="" data-size="original"></p><h4><mark style="color:blue;">N</mark><a href="https://docs.scaleinfinite.fr/demo-deployment/cloud-services/next-cloud-deployment"><mark style="color:blue;">ext cloud</mark></a></h4><h4></h4><p><a href="https://docs.scaleinfinite.fr/demo-deployment/cloud-services/next-cloud-deployment"><mark style="color:orange;">Nextcloud is a remarkable open-source solution for self-hosted cloud storage and collaboration.</mark></a></p></td></tr></tbody></table>

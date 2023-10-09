@@ -50,12 +50,6 @@ In the world of gaming, where pixels hold power, multiplayer game servers and br
 
 ### Sub-page Explanation:
 
-#### <mark style="color:blue;">What's  mini games?</mark>
+####
 
-This evolving game is like a playground for learning and experimenting with web technologies while diving into the world of multiplayer, high-speed, mobile gaming.
-
-#### <mark style="color:blue;">What's  retro games?</mark>
-
-The self-hosted RetroArch web player is an exciting project that brings retro gaming to the web, offering a nostalgic gaming experience right in your web browser.
-
-ScaleInfinite offers a personalized Minecraft server, exclusively for you and your friends, ensuring an uninterrupted and immersive gaming experience.
+<table><thead><tr><th width="278"></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (12).png" alt=""> </p><h4>  <a href="https://docs.scaleinfinite.fr/demo-deployment/gaming/mini-game-deployment"><mark style="color:blue;">Mini Game</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/gaming/mini-game-deployment"><mark style="color:orange;">This evolving game is like a playground for learning and experimenting</mark></a></p></td><td><p><img src="../../.gitbook/assets/image (13).png" alt="" data-size="original"></p><p> <a href="https://docs.scaleinfinite.fr/demo-deployment/gaming/retro-game-deployment"> <mark style="color:blue;"><strong>Retro Game</strong></mark></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/gaming/retro-game-deployment"> <mark style="color:orange;">RetroArch web player is an exciting project that brings r</mark></a><mark style="color:orange;">etro gaming to the web</mark></p></td><td><p> <img src="../../.gitbook/assets/image (14).png" alt=""><a href="https://docs.scaleinfinite.fr/demo-deployment/gaming/minecraft-server"><mark style="color:blue;"><strong>Minecraft Server</strong></mark></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/gaming/minecraft-server"><mark style="color:orange;">Minecraft server, exclusively for you and your friends.</mark></a></p></td></tr></tbody></table>
