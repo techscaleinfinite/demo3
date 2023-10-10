@@ -1,5 +1,21 @@
 ---
 description: Table of comparison
+cover: ../.gitbook/assets/Competitor-2-503209.png
+coverY: -111.97866666666665
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🏃♂ Our Competitor

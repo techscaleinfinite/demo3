@@ -1,9 +1,23 @@
 ---
-cover: ../../.gitbook/assets/Kubernetes-Logo (2).png
+cover: ../../.gitbook/assets/1614842279154.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Kubernetes
+# 🐋 Kubernetes
 
 Welcome to the Kubernetes Knowledge Hub!
 

@@ -1,10 +1,10 @@
 ---
-cover: ../../../.gitbook/assets/d587f48d64603a26cade119d831cfaa2.jpg
+cover: ../../../.gitbook/assets/1_Cb7O4CAzUKtr519IUB0ljA.png
 coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:

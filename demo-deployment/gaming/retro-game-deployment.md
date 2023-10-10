@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/8018a0dddd1fe905a1ce0b53b6b0f4e5.jpg
+coverY: -79.15733333333333
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # RETRO game Deployment
 
 ### <mark style="color:blue;">What's  retro games?</mark>

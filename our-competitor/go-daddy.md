@@ -49,7 +49,7 @@ GoDaddy isn't just a name; it's a powerhouse in the world of web services. For o
 
 In a nutshell, GoDaddy is your partner in the digital world. It's where your ideas meet the internet, and where your online dreams become a reality. So, whether you're a beginner taking your first steps online or a seasoned pro looking to expand your digital footprint, GoDaddy is here to help you every step of the way.
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 <mark style="color:purple;">**Check out their website:**</mark>
 

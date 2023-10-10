@@ -1,8 +1,26 @@
+---
+cover: >-
+  ../../.gitbook/assets/desktop-wallpaper-social-media-logos-3d-social-media-marketing.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📱 Social Media
 
-### **A General Introduction**
-
-
+### <mark style="color:orange;">**A General Introduction**</mark>
 
 Introducing the Ultimate Social Media Web App!
 
@@ -10,8 +28,8 @@ Are you ready to take your social media experience to the next level? We're thri
 
 Join us on a journey to elevate your social media game. Whether you're a casual user or a digital influencer, our Social Media Web App is your ticket to a richer, more connected online experience. Get ready to explore, connect, and share like never before!
 
-### Sub-page Explanation:
+### <mark style="color:orange;">Sub-page Explanation</mark>
 
 
 
-<table><thead><tr><th width="404"></th><th></th></tr></thead><tbody><tr><td><p> </p><h4><img src="../../.gitbook/assets/image (45).png" alt="" data-size="original"><a href="https://docs.scaleinfinite.fr/demo-deployment/social-media/lightstreamer-deployment"><mark style="color:blue;">LightStreamer</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/social-media/lightstreamer-deployment"><mark style="color:orange;">Lightstreamer is a real-time messaging server that is optimized for the Internet</mark></a></p></td><td><p><img src="../../.gitbook/assets/image (46).png" alt="" data-size="original"></p><h4> <a href="https://docs.scaleinfinite.fr/demo-deployment/social-media/friendica-deployment"><mark style="color:blue;">friendica</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/social-media/friendica-deployment"><mark style="color:orange;">Friendica is a free and open-source social networking platform</mark></a></p></td></tr></tbody></table>
+<table><thead><tr><th width="277"></th><th></th><th></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/image (45).png" alt="" data-size="original"></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/social-media/lightstreamer-deployment"><mark style="color:blue;"><strong>LightStreamer</strong></mark></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/social-media/lightstreamer-deployment"><mark style="color:orange;">Lightstreamer is a real-time messaging server that is optimized for the Internet</mark></a></p></td><td><p><img src="../../.gitbook/assets/image (46).png" alt="" data-size="original"></p><h4> </h4><p><mark style="color:blue;">F</mark><a href="https://docs.scaleinfinite.fr/demo-deployment/social-media/friendica-deployment"><mark style="color:blue;">riendica</mark></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/social-media/friendica-deployment"><mark style="color:orange;">Friendica is a free and open-source social networking platform</mark></a></p></td><td></td></tr></tbody></table>

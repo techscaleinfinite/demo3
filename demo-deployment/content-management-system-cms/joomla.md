@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/Joomla!-Logo.svg.png
-coverY: 0
+coverY: 47
 layout:
   cover:
     visible: true

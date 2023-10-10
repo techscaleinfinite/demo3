@@ -1,6 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/effef.png
-coverY: 0
+coverY: -71
 layout:
   cover:
     visible: true

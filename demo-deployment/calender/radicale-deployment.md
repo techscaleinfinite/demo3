@@ -1,10 +1,10 @@
 ---
-cover: ../../.gitbook/assets/odav_baikal.png
+cover: ../../.gitbook/assets/72caa053-radicle_logo.png
 coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:

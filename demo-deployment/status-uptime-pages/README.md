@@ -1,10 +1,26 @@
 ---
 description: 'Status/Uptime Pages: Keeping It Real'
+cover: ../../.gitbook/assets/tyt.png
+coverY: -140.93866666666665
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 📈 Status / Uptime pages
 
-### **A General Introduction**
+### <mark style="color:orange;">**A General Introduction**</mark>
 
 _Welcome to our Status/Uptime Pages – the heartbeat of system reliability! 🕒_
 
@@ -20,20 +36,6 @@ Now, let's dive into why our Status/Uptime Pages are the real deal:
 
 So, whether you're running a critical online business or just enjoying some leisurely browsing, our Status/Uptime Pages have got your back. After all, uptime isn't just a statistic – it's your digital peace of mind. 🌐🛡️🚀
 
-### Sub-page Explanation:
+### <mark style="color:orange;">Sub-page Explanation:</mark>
 
-#### <mark style="color:blue;">What's  Uptime Kuma?</mark>
-
-<mark style="color:orange;">🕐</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Keeping Time with Uptime Kuma**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">🕐</mark>
-
-Imagine having a trusty companion, always on the lookout, tirelessly monitoring your websites, APIs, and services. Well, that's precisely what **Uptime Kuma** does, but with a little extra charm.
-
-#### <mark style="color:blue;">What's  Gatus?</mark>
-
-<mark style="color:orange;">**Gatus: Your Health Dashboard Maestro**</mark>
-
-Imagine having a trusty health dashboard that not only monitors your digital kingdom but also serenades you with real-time insights.
-
-|                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p></p><p><img src="../../.gitbook/assets/image (12).png" alt=""> </p><h4>  <a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/uptime-kuma"><mark style="color:blue;">Uptime Kuma</mark></a></h4><h4></h4><p><a href="https://quillbot.com/"><mark style="color:orange;">🕐 Keeping Time with Uptime Kuma</mark> </a></p> | <p><img src="../../.gitbook/assets/image (13).png" alt="" data-size="original"></p><p>  <a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/gatus-deployment"><mark style="color:blue;"><strong>Gatus</strong></mark></a></p><h4></h4><p><mark style="color:orange;">Gatus</mark><a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/gatus-deployment"><mark style="color:orange;">: Your Health Dashboard Maestro</mark></a></p> |
+<table><thead><tr><th width="256.3333333333333"></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (12) (1).png" alt=""> </p><h4>  <a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/uptime-kuma"><mark style="color:blue;">Uptime Kuma</mark></a></h4><p></p><p><a href="https://quillbot.com/"><mark style="color:orange;">🕐 Keeping Time with Uptime Kuma</mark> </a></p></td><td><p><img src="../../.gitbook/assets/image (5).png" alt="" data-size="original"></p><p>  <a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/gatus-deployment"><mark style="color:blue;"><strong>Gatus</strong></mark></a></p><p></p><p><mark style="color:orange;">Gatus</mark><a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/gatus-deployment"><mark style="color:orange;">: Your Health Dashboard Maestro</mark></a></p></td><td></td></tr></tbody></table>

@@ -1,6 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/wpyye24ad43y2167kd696j57d3_image.png
-coverY: 0
+coverY: -34
 layout:
   cover:
     visible: true

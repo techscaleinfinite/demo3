@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/download (1).jpg
-coverY: 0
+cover: ../../.gitbook/assets/opengraph.png
+coverY: 65
 layout:
   cover:
     visible: true

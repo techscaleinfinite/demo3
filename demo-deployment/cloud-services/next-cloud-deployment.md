@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/Nextcloud_Logo.svg.png
-coverY: 0
+coverY: 62
 layout:
   cover:
     visible: true

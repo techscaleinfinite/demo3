@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Containers and Kubernetes
+# 🛳 Containers and Kubernetes
 
 ### <mark style="color:blue;">**Containers**</mark>&#x20;
 
@@ -34,7 +34,7 @@ Experience the power of containers – where reliability and adaptability conver
 * Boasts an expansive, rapidly evolving ecosystem with abundant services, support, and tools accessible.
 * Empowers you with a robust framework to execute distributed systems resiliently.
 
-<mark style="background-color:blue;">A Kubernetes Cluster:</mark>
+**A Kubernetes Cluster:**
 
 * Comprises worker machines known as nodes, tasked with executing containerized applications.
 * Every cluster holds at least one worker node.

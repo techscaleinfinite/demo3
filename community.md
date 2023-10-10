@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/community-logo-design-free-vector.jpg
+coverY: 110.04799999999999
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 👫 Community
 
 ### <mark style="color:orange;">SLACK</mark>

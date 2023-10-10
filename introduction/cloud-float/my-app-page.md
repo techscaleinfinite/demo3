@@ -1,6 +1,20 @@
 ---
 cover: ../../.gitbook/assets/Screenshot 2023-09-06 114809 (1).png
-coverY: 195
+coverY: 94.60533333333333
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # ☁ My APP Page

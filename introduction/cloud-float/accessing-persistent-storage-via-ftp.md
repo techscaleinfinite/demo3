@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/2f31gr4.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # ☁ Accessing Persistent Storage Via FTP
 
 ### <mark style="color:blue;">**What is Filezilla?**</mark>

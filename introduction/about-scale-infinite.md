@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# About Scale Infinite
+# ☁ About Scale Infinite
 
 ## <mark style="color:blue;">Introduction</mark>
 

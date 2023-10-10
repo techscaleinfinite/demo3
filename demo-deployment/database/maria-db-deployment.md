@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/mariadb-logo_blue-transparent.png
+cover: ../../.gitbook/assets/img_124107_1.jpg
 coverY: 0
 layout:
   cover:

@@ -1,6 +1,25 @@
+---
+cover: ../../.gitbook/assets/logo-man-with-hat-and-photo-camera-vector-46782404.jpg
+coverY: 142.86933333333332
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📸 Photo and Video Galleries
 
-### **A General Introduction**
+### <mark style="color:orange;">**A General Introduction**</mark>
 
 **Gallery Software: Where Your Visual Stories Shine Bright**
 
@@ -8,10 +27,8 @@ In a world dominated by visual storytelling, having a reliable gallery software 
 
 So, whether you're an amateur photographer sharing your travel adventures or a professional artist showcasing your portfolio, gallery software is your digital canvas. It transforms your media into visual stories, making sure your memories and creations shine bright in the digital realm.
 
-### Sub-page Explanation:
+### <mark style="color:orange;">Sub-page Explanation:</mark>
 
 
 
-| PAGE                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../../.gitbook/assets/1200x630wa.png" alt="" data-size="original"></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/cloud-services/next-cloud-deployment"><em><mark style="color:blue;"><strong>ZEN PHOTO</strong></mark></em></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/photo-and-video-galleries/zenphoto-deployment"><mark style="color:orange;">Your Ideal CMS for Gallery-Focused Self-Hosted Websites</mark></a></p> |
+<table><thead><tr><th width="294.3333333333333"></th><th></th><th></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/1200x630wa.png" alt="" data-size="original"></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/cloud-services/next-cloud-deployment"><em><mark style="color:blue;"><strong>ZEN PHOTO</strong></mark></em></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/photo-and-video-galleries/zenphoto-deployment"><mark style="color:orange;">Your Ideal CMS for Gallery-Focused Self-Hosted Websites</mark></a></p></td><td></td><td></td></tr></tbody></table>

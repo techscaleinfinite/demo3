@@ -1,10 +1,10 @@
 ---
-cover: ../../../.gitbook/assets/download (9) (1).png
-coverY: 0
+cover: ../../../.gitbook/assets/Screenshot 2023-10-10 115911.png
+coverY: -55
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:

@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/0_lIArFM4TR30p_-2h.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # ☁ Architecture
 
 ### <mark style="color:orange;">Some Key Concepts</mark>

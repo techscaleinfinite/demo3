@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/Apache_Tomcat_Logo.png
-coverY: 0
+coverY: 100
 layout:
   cover:
     visible: true

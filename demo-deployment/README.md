@@ -1,5 +1,20 @@
 ---
+cover: ../.gitbook/assets/dj+demo+logo+black+copy.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 📼 Demo Deployment

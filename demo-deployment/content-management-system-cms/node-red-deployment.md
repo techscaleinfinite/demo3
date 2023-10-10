@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/y70e9tix7a_._sablona-web-titulniObrazek.png
-coverY: 0
+coverY: -266.43199999999996
 layout:
   cover:
     visible: true

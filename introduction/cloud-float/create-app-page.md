@@ -1,7 +1,21 @@
 ---
 description: 'Here are the steps to deploy an app on our platform:'
 cover: ../../.gitbook/assets/jrr (2).png
-coverY: 218
+coverY: 13.349333333333341
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # ☁ Create App Page

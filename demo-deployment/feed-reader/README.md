@@ -1,6 +1,25 @@
+---
+cover: ../../.gitbook/assets/rss_reader.png
+coverY: 169.89866666666666
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📂 Feed Reader
 
-### **A General Introduction**
+### <mark style="color:orange;">**A General Introduction**</mark>
 
 **News Aggregators: Your Window to the World**
 
@@ -10,10 +29,10 @@ In a digital age overflowing with information, news aggregators emerge as our tr
 
 From catching up on global politics to indulging in your hobbies, news aggregators redefine the way we consume information. They're your passport to the digital realm of knowledge, offering an oasis of curated content in an ever-expanding desert of data. So, let the news aggregator be your guide as you explore the vast universe of information.
 
-### Sub-page Explanation:
+### <mark style="color:orange;">Sub-page Explanation:</mark>
 
 
 
-| PAGE                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../../.gitbook/assets/image (7).png" alt="" data-size="original"></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/feed-reader/rss-bridge-deployment"><mark style="color:orange;"><strong>RSS-Bridge</strong></mark></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/feed-reader/rss-bridge-deployment"><mark style="color:blue;">Bridging the Gap in Feeds</mark></a></p> |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                 |   |   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
+| <p><img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="original"></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/feed-reader/rss-bridge-deployment"><mark style="color:orange;"><strong>RSS-Bridge</strong></mark></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/feed-reader/rss-bridge-deployment"><mark style="color:blue;">Bridging the Gap in Feeds</mark></a></p> |   |   |

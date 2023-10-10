@@ -1,10 +1,10 @@
 # Table of contents
 
 * [🖥 Introduction](README.md)
-  * [About Scale Infinite](introduction/about-scale-infinite.md)
-  * [Kubernetes](introduction/kubernetes/README.md)
-    * [Containers and Kubernetes](introduction/kubernetes/containers-and-kubernetes.md)
-    * [Managed Kubernetes](introduction/kubernetes/managed-kubernetes.md)
+  * [☁ About Scale Infinite](introduction/about-scale-infinite.md)
+  * [🐋 Kubernetes](introduction/kubernetes/README.md)
+    * [🛳 Containers and Kubernetes](introduction/kubernetes/containers-and-kubernetes.md)
+    * [🛳 Managed Kubernetes](introduction/kubernetes/managed-kubernetes.md)
   * [☁ Cloud float](introduction/cloud-float/README.md)
     * [☁ Architecture](introduction/cloud-float/architecture.md)
     * [☁ Create Account](introduction/cloud-float/create-account.md)

@@ -1,5 +1,10 @@
 ---
+cover: ../../../.gitbook/assets/564445 (1).png
+coverY: 237
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:

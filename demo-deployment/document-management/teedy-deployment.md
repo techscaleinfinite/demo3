@@ -1,10 +1,11 @@
 ---
-cover: ../../.gitbook/assets/Screenshot 2023-09-12 171510.png
+cover: >-
+  ../../.gitbook/assets/68747470733a2f2f74656564792e696f2f696d672f6769746875622d7469746c652e706e67.png
 coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:

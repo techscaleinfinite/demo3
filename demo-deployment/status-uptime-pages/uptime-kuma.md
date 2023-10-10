@@ -185,7 +185,7 @@ By following these steps, you can effortlessly deploy an  Uptime Kuma instance w
 
  
 
-<figure><img src="../../.gitbook/assets/tyt.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tyt (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
