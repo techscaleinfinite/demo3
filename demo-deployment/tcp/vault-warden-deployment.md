@@ -1,4 +1,8 @@
 ---
+description: >-
+  Vaultwarden, formerly known as Bitwarden_RS, is a self-hosted password manager
+  offering enhanced privacy and control. Explore this open-source project
+  focused on data security.
 cover: ../../.gitbook/assets/images (2).jpg
 coverY: 0
 layout:
@@ -182,3 +186,11 @@ For the free user there is no persistence, and for the premium user you can diff
 ### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

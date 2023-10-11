@@ -1,5 +1,8 @@
 ---
-description: 'Status/Uptime Pages: Keeping It Real'
+description: >-
+  Discover the importance of uptime with our Status/Uptime Pages – the ultimate
+  measure of your tech's reliability. Experience transparency and peace of mind
+  for your digital assets.
 cover: ../../.gitbook/assets/tyt.png
 coverY: -140.93866666666665
 layout:
@@ -39,3 +42,11 @@ So, whether you're running a critical online business or just enjoying some leis
 ### <mark style="color:orange;">Sub-page Explanation:</mark>
 
 <table><thead><tr><th width="256.3333333333333"></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (12) (1).png" alt=""> </p><h4>  <a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/uptime-kuma"><mark style="color:blue;">Uptime Kuma</mark></a></h4><p></p><p><a href="https://quillbot.com/"><mark style="color:orange;">🕐 Keeping Time with Uptime Kuma</mark> </a></p></td><td><p><img src="../../.gitbook/assets/image (5).png" alt="" data-size="original"></p><p>  <a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/gatus-deployment"><mark style="color:blue;"><strong>Gatus</strong></mark></a></p><p></p><p><mark style="color:orange;">Gatus</mark><a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/gatus-deployment"><mark style="color:orange;">: Your Health Dashboard Maestro</mark></a></p></td><td></td></tr></tbody></table>
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

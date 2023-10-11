@@ -1,4 +1,8 @@
 ---
+description: >-
+  Welcome to the Server Detail page, your hub for app optimization, monitoring,
+  and traffic management. Fine-tune, secure, and manage your server like a pro.
+  Happy optimizing!
 cover: ../../.gitbook/assets/hhh (2).png
 coverY: 93.95200000000001
 layout:
@@ -79,3 +83,10 @@ So, welcome to the Server Detail page – your go-to place for app optimization 
 
 
 
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

@@ -1,4 +1,8 @@
 ---
+description: >-
+  Explore a universe of applications and digital solutions tailored to your
+  needs. From content management systems to gaming and finance, we're your guide
+  in the digital landscape.
 cover: ../.gitbook/assets/dj+demo+logo+black+copy.jpg
 coverY: 0
 layout:
@@ -19,7 +23,7 @@ layout:
 
 # 📼 Demo Deployment
 
-### **A General Introduction**
+### <mark style="color:orange;">**A General Introduction**</mark>
 
 In the **Demo Deployment** section, we present two distinct deployment options: **HTTP** and **TCP**. These options provide a structured approach to deploying your applications, catering to different needs.
 
@@ -166,3 +170,11 @@ In a world where digital connectivity is paramount, the need to seamlessly move,
 <mark style="color:orange;">**Gallery Software: Where Your Visual Stories Shine Bright**</mark>
 
 In a world dominated by visual storytelling, having a reliable gallery software at your disposal is like owning a treasure chest for your digital memories.
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

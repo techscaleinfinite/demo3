@@ -1,4 +1,7 @@
 ---
+description: >-
+  Your go-to resource for answers! Explore our FAQ section to find solutions,
+  insights, and valuable information on a wide range of topics.
 cover: .gitbook/assets/119-1192475_faq.png
 coverY: 0
 layout:
@@ -54,3 +57,11 @@ Yes they are safe & secured. we provide different security option, you can choos
 #### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

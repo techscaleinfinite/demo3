@@ -1,4 +1,5 @@
 ---
+description: Your Ideal CMS for Gallery-Focused Self-Hosted Websites
 cover: ../../.gitbook/assets/Screenshot 2023-09-13 174820.png
 coverY: 0
 layout:
@@ -20,8 +21,6 @@ layout:
 # 🖥 ZenPhoto Deployment
 
 ### <mark style="color:blue;">What's  zenphoto?</mark>
-
-<mark style="color:orange;">**Zenphoto: Your Ideal CMS for Gallery-Focused Self-Hosted Websites**</mark>
 
 In the digital age, showcasing your creativity through images, videos, and audio is essential. Zenphoto, a powerful Content Management System (CMS), caters specifically to self-hosted websites with a strong focus on galleries. Here's why Zenphoto stands out:
 
@@ -274,3 +273,11 @@ For the free user there is no persistence, and for the premium user you can diff
 ### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

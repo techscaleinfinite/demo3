@@ -1,4 +1,8 @@
 ---
+description: >-
+  LibreOffice: Your versatile open-source office suite for documents,
+  spreadsheets, and presentations. Unleash creativity and productivity without
+  the price tag.
 cover: >-
   ../../../.gitbook/assets/06ajIYT7R4AM7Fx9S9aUmBn-14.fit_lim.size_1050x591.v1613661897.png
 coverY: 0
@@ -189,3 +193,11 @@ For the free user there is no persistence, and for the premium user you can diff
 ### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

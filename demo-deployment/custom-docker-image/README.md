@@ -1,3 +1,10 @@
+---
+description: >-
+  Discover the power of custom Docker images for tailoring your application
+  environments. Craft your unique setup and deploy it seamlessly with the
+  flexibility of custom Docker images.
+---
+
 # Custom Docker Image
 
 <mark style="color:blue;">**Custom Docker Images: Tailoring Your Application Environments**</mark>
@@ -12,3 +19,11 @@ Leveraging custom Docker images yields numerous advantages:
 2. <mark style="color:orange;">**Reproducibility**</mark>: Effortlessly share and deploy Docker images across various settings, streamlining replication of consistent environments throughout development, testing, and production phases.
 3. <mark style="color:yellow;">**Isolation**</mark>: Each Docker image is isolated, a feature that mitigates clashes among dependencies and ensures that alterations to one application don't impede others.
 4. <mark style="color:orange;">**Efficiency**</mark>: By utilizing existing Docker images as base templates and layering on only necessary elements, you can produce lightweight images that launch rapidly and consume fewer resources.
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

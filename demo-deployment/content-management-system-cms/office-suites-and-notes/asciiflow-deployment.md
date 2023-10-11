@@ -1,4 +1,8 @@
 ---
+description: >-
+  Discover ASCII Flow, your canvas for limitless creativity with simple ASCII
+  characters. Create diagrams, flowcharts, and designs, save to Google Drive,
+  resize, and export effortlessly.
 cover: ../../../.gitbook/assets/Screenshot 2023-10-10 115911.png
 coverY: -55
 layout:
@@ -221,3 +225,11 @@ For the free user there is no persistence, and for the premium user you can diff
 ### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

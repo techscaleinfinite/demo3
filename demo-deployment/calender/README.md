@@ -1,4 +1,8 @@
 ---
+description: >-
+  Calendars, the unsung heroes of our daily lives, keep us organized and on
+  time. Whether for business, school, or personal life, calendars are the Swiss
+  army knife of time management.
 cover: ../../.gitbook/assets/360_F_532817322_PDxnP4x147hGYMWSv4hl7cbeJcELfNgD.jpg
 coverY: 0
 layout:
@@ -30,4 +34,12 @@ Calendars may not have capes, but they're superheroes in their own right. They k
 ### <mark style="color:blue;">Sub-page Explanation:</mark>
 
 <table><thead><tr><th width="238.33333333333331"></th><th></th><th></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/image (5) (1).png" alt=""> <mark style="color:blue;"><strong>B</strong></mark><a href="https://docs.scaleinfinite.fr/demo-deployment/calender/baikal-deployment"><em><mark style="color:blue;"><strong>aikal</strong></mark></em></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/calender/baikal-deployment"><mark style="color:orange;">Web Interface Mastery</mark> </a></p></td><td><p><img src="../../.gitbook/assets/image (4) (1).png" alt=""><a href="https://docs.scaleinfinite.fr/demo-deployment/calender/radicale-deployment"><em><mark style="color:blue;"><strong>Radicale</strong></mark></em></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/calender/radicale-deployment"><mark style="color:orange;">Your Personal Calendar</mark></a></p></td><td></td></tr></tbody></table>
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>
 

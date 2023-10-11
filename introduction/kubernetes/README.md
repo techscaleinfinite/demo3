@@ -1,4 +1,8 @@
 ---
+description: >-
+  Explore Kubernetes, Containers, and Managed Kubernetes in our knowledge hub.
+  From container magic to expert Kubernetes insights, we've got you covered.
+  Embark on your journey today!
 cover: ../../.gitbook/assets/1614842279154.png
 coverY: 0
 layout:
@@ -34,3 +38,11 @@ Let's Dive Right In:
 So, whether you're here to quench your thirst for knowledge, gain practical insights, or simply feed your curiosity, rest assured—we've got your back. Together, let's embark on this exhilarating Kubernetes journey, where innovation and simplicity converge.
 
 Happy exploring!
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

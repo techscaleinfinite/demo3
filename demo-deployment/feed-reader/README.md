@@ -1,4 +1,7 @@
 ---
+description: >-
+  Explore the vast universe of information with news aggregators, your digital
+  assistants for personalized and up-to-the-minute news and updates.
 cover: ../../.gitbook/assets/rss_reader.png
 coverY: 169.89866666666666
 layout:
@@ -36,3 +39,11 @@ From catching up on global politics to indulging in your hobbies, news aggregato
 |                                                                                                                                                                                                                                                                                                                                                                                                                                 |   |   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
 | <p><img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="original"></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/feed-reader/rss-bridge-deployment"><mark style="color:orange;"><strong>RSS-Bridge</strong></mark></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/feed-reader/rss-bridge-deployment"><mark style="color:blue;">Bridging the Gap in Feeds</mark></a></p> |   |   |
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

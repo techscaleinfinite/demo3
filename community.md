@@ -1,4 +1,8 @@
 ---
+description: >-
+  Welcome to our thriving community! Discover the heart of our platform, where
+  like-minded individuals connect, share insights, and engage in lively
+  discussions.
 cover: .gitbook/assets/community-logo-design-free-vector.jpg
 coverY: 110.04799999999999
 layout:
@@ -99,3 +103,11 @@ Are you ready to embark on a coding adventure like no other? Welcome to our GitH
 Your journey into the world of coding excellence begins here. Whether you're a seasoned developer or just starting, there's a place for you in our GitHub community. Together, we'll write lines of code that redefine what's possible.
 
 Let's code, collaborate, and innovate. See you on GitHub! 💻🌟
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

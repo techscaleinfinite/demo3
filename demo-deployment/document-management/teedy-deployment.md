@@ -1,4 +1,5 @@
 ---
+description: Where Document Management Meets Elegance
 cover: >-
   ../../.gitbook/assets/68747470733a2f2f74656564792e696f2f696d672f6769746875622d7469746c652e706e67.png
 coverY: 0
@@ -21,8 +22,6 @@ layout:
 # 🖥 Teedy Deployment
 
 ### <mark style="color:blue;">What's is teedy?</mark>
-
-<mark style="color:orange;">**Teedy: Where Document Management Meets Elegance**</mark>
 
 <mark style="color:orange;">In the vast digital landscape, staying organized is no small feat. Enter Teedy, your beacon of light in the world of document management. With a sleek and modern interface, Teedy simplifies your quest for order and clarity in the realm of business operations.</mark>
 
@@ -200,3 +199,11 @@ For the free user there is no persistence, and for the premium user you can diff
 ### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

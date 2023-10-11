@@ -1,4 +1,7 @@
 ---
+description: >-
+  Welcome to your Dashboard, the hub of app insights and performance data. Dive
+  into real-time metrics and empower your app with data-driven decisions.
 cover: ../../.gitbook/assets/usages (1) (2).png
 coverY: 0
 layout:
@@ -19,7 +22,7 @@ layout:
 
 # ☁ Dashboard page
 
-<mark style="color:orange;">Welcome to your Dashboard – the nerve center of insights and performance metrics. Here, you'll gain a holistic view of your app's health and vitality, all wrapped up in stunning visualizations.</mark>
+&#x20;<mark style="color:orange;">Here, you'll gain a holistic view of your app's health and vitality, all wrapped up in stunning visualizations.</mark>
 
 &#x20;Let's dive into what this command center offers:
 
@@ -56,3 +59,11 @@ layout:
 **10. Data-Driven Decision Making**: In the digital realm, data reigns supreme. Leverage the insights from the Dashboard to make data-driven decisions, ensuring your app's success.
 
 So, welcome to your Dashboard – where data becomes insights and insights lead to empowered decisions. Whether you're tracking overall health or scrutinizing individual components, this is your go-to place for ensuring your app thrives in the digital landscape. Happy charting
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

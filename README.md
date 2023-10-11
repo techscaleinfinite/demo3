@@ -1,4 +1,8 @@
 ---
+description: >-
+  ScaleInfinite revolutionizes application hosting, offering effortless
+  deployment, rich telemetry insights, and tailored security for startups,
+  enterprises, and individuals.
 cover: .gitbook/assets/3affcdbf-3067-4061-9728-d2edd8479f31.jpg
 coverY: 0
 layout:
@@ -17,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 🖥 Getting Started
+# 🖥 Introduction
 
 ## Self-Driving Cloud Applications
 

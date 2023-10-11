@@ -58,3 +58,11 @@ A simple single page Node.js application.
 Absolutely, you can install your own applcation, Make Sure you have proper Docker image created on your dockerhub.
 
 #### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

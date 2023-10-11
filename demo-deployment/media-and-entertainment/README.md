@@ -1,4 +1,7 @@
 ---
+description: >-
+  Explore the captivating world of streaming media, where entertainment,
+  information, and endless possibilities flow like a digital river.
 cover: ../../.gitbook/assets/movie-logo-vector-19783443.jpg
 coverY: 0
 layout:
@@ -38,3 +41,11 @@ In essence, streaming media is your digital genie, granting your every entertain
 |                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                           |   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
 | <h4><img src="../../.gitbook/assets/image (44).png" alt=""> <a href="https://docs.scaleinfinite.fr/demo-deployment/media-and-entertainment/podgrab-deployment"><mark style="color:blue;">podgrab</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/media-and-entertainment/podgrab-deployment"> <mark style="color:orange;">Your Podcast Sidekick</mark> </a></p> | <h4><img src="../../.gitbook/assets/image (39).png" alt=""><a href="https://docs.scaleinfinite.fr/demo-deployment/media-and-entertainment/bazarr-deployment"><mark style="color:blue;">Bazarr</mark></a></h4><p></p><p><mark style="color:orange;">A</mark> <a href="https://docs.scaleinfinite.fr/demo-deployment/media-and-entertainment/bazarr-deployment"><mark style="color:orange;">diligent wingman for your media,</mark></a></p> |   |
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

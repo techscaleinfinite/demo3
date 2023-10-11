@@ -1,4 +1,8 @@
 ---
+description: >-
+  Transmission is your hassle-free ticket to BitTorrent. With its easy setup, it
+  simplifies your torrenting experience, making it a top choice for both
+  newcomers and Linux users
 cover: ../../.gitbook/assets/Screenshot 2023-09-13 173348.png
 coverY: 0
 layout:
@@ -189,3 +193,11 @@ For the free user there is no persistence, and for the premium user you can diff
 ### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

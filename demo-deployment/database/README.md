@@ -1,4 +1,8 @@
 ---
+description: >-
+  Web interfaces for seamless database management - your trusty spacecraft
+  through the data universe. Navigate SQL, NoSQL, and Big Data effortlessly.
+  Embark on a cosmic data journey.
 cover: >-
   ../../.gitbook/assets/database-icon-logo-illustration-database-storage-symbol-template-for-graphic-and-web-design-collection-free-vector.jpg
 coverY: 0
@@ -35,3 +39,11 @@ So, whether you're charting the depths of an SQL nebula, uncovering the mysterie
 <table><thead><tr><th></th><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><h4><img src="../../.gitbook/assets/image (33).png" alt=""> <a href="https://docs.scaleinfinite.fr/demo-deployment/database/mysql-deployment"><mark style="color:blue;"><strong>MySQL</strong></mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/mysql-deployment"><mark style="color:orange;">Organizing Data with Trusted Expertise</mark></a></p></td><td></td><td></td><td><p></p><p> </p><h4><img src="../../.gitbook/assets/image (30).png" alt=""><a href="https://docs.scaleinfinite.fr/demo-deployment/database/xampp-deployment"><mark style="color:blue;">Xampp</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/xampp-deployment"><mark style="color:orange;">XAMPP is a great and free web server solution carefully built by Ap</mark></a><mark style="color:orange;">ache Friends.</mark></p></td></tr></tbody></table>
 
 <table><thead><tr><th width="250"></th><th></th><th></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/image (34).png" alt=""></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/phpmyadmin-deployment"><mark style="color:blue;"><strong>php myadmin</strong></mark></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/phpmyadmin-deployment"><mark style="color:orange;">Simplifying Database Management with Ease</mark></a></p></td><td><p><img src="../../.gitbook/assets/image (9).png" alt="" data-size="original"></p><h4> <a href="https://docs.scaleinfinite.fr/demo-deployment/database/maria-db-deployment"><mark style="color:blue;">maria d</mark></a><mark style="color:blue;">b'</mark></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/maria-db-deployment"><mark style="color:orange;">Your Trusty RDBMS Companion</mark></a></p></td><td><h4><img src="../../.gitbook/assets/image (35).png" alt=""><mark style="color:blue;">to</mark><a href="https://docs.scaleinfinite.fr/demo-deployment/database/tomcat-deployment"><mark style="color:blue;">mcat</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/database/tomcat-deployment"><mark style="color:orange;">Powering Your Web Adventures</mark></a></p></td></tr></tbody></table>
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

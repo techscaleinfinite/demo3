@@ -1,4 +1,8 @@
 ---
+description: >-
+  Discover the essential steps to build a Docker image seamlessly. From setting
+  up your Dockerhub account to monitoring the process, this guide has you
+  covered.
 cover: ../../.gitbook/assets/docker (2) (1).png
 coverY: 270.2933333333333
 layout:
@@ -19,7 +23,9 @@ layout:
 
 # ☁ Built Image Page
 
-Building a Docker image is a fundamental step in containerized application deployment. Here's an expanded explanation of the process:
+Building a Docker image is a fundamental step in containerized application deployment.&#x20;
+
+Here's an expanded explanation of the process:
 
 **Building a Docker Image: Step by Step**
 
@@ -56,5 +62,11 @@ In summary, building a Docker image involves linking your Dockerhub account, pro
 
 
 
+<details>
 
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>
 

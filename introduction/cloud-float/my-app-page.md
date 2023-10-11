@@ -1,4 +1,8 @@
 ---
+description: >-
+  Explore your deployed apps on the "My Apps" page effortlessly. Dive into your
+  digital creations, navigate their features, and enjoy the results of your hard
+  work.
 cover: ../../.gitbook/assets/Screenshot 2023-09-06 114809 (1).png
 coverY: 94.60533333333333
 layout:
@@ -38,3 +42,11 @@ By following these steps, you'll effortlessly explore and enjoy your deployed ap
 
 
 <figure><img src="../../.gitbook/assets/dfdfssfsf.png" alt=""><figcaption></figcaption></figure>
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

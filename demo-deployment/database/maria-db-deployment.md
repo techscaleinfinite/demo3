@@ -1,4 +1,8 @@
 ---
+description: >-
+  MariaDB is like a reliable librarian for your data, and it's quite a
+  fascinating character in the world of relational database management systems
+  (RDBMS).
 cover: ../../.gitbook/assets/img_124107_1.jpg
 coverY: 0
 layout:
@@ -20,8 +24,6 @@ layout:
 # 🦭 Maria Db Deployment
 
 ### <mark style="color:blue;">What's  maria db?</mark>
-
-<mark style="color:orange;">MariaDB is like a reliable librarian for your data, and it's quite a fascinating character in the world of relational database management systems (RDBMS).</mark>
 
 **Data's Trusty Guardian:** Imagine MariaDB as a diligent librarian in a vast library filled with information. But instead of books, this library stores data, lots and lots of it. MariaDB's job is to organize, safeguard, and make that data easily accessible whenever you need it.
 
@@ -248,3 +250,11 @@ For the free user there is no persistence, and for the premium user you can diff
 ### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

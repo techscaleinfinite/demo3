@@ -1,4 +1,5 @@
 ---
+description: Bridging the Gap in Feeds
 cover: ../../.gitbook/assets/download (10).png
 coverY: 0
 layout:
@@ -20,8 +21,6 @@ layout:
 # 📙 rss bridge  Deployment
 
 ### <mark style="color:blue;">What's rss bridge?</mark>
-
-<mark style="color:orange;">**RSS-Bridge: Bridging the Gap in Feeds**</mark>
 
 <mark style="color:orange;">In a digital landscape teeming with information, what happens when your favorite websites or platforms don't offer an RSS or Atom feed? This is where RSS-Bridge steps in, serving as a digital bridge that seamlessly connects you to the content you crave. Let's explore how RSS-Bridge makes the seemingly impossible possible.</mark>
 
@@ -203,3 +202,11 @@ For the free user there is no persistence, and for the premium user you can diff
 ### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

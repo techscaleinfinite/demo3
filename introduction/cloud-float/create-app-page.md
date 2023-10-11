@@ -72,3 +72,11 @@ By following these steps, you can effortlessly deploy an App instance with your 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-10-03 185642.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

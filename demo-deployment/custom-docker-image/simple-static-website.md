@@ -35,9 +35,9 @@
 
 ### <mark style="color:orange;">Visual Snapshots</mark>&#x20;
 
-<figure><img src="../../../.gitbook/assets/my-apps (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/my-apps (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/app_running.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/app_running.png" alt=""><figcaption></figcaption></figure>
 
 * The Application is running successfully
 
@@ -48,3 +48,11 @@
 Absolutely, you can install your own Static application, Make Sure you have proper Docker image created on your dockerhub.
 
 #### [Join us](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146)&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

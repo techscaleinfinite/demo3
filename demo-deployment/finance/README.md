@@ -1,4 +1,8 @@
 ---
+description: >-
+  Master your finances with money management and budgeting software. Conquer
+  debt, navigate investments, and build a castle of financial security with your
+  loyal allies in this epic financial journey.
 cover: ../../.gitbook/assets/Handling-Finances.jpg
 coverY: 0
 layout:
@@ -30,3 +34,11 @@ In the kingdom of finance, where budgets rule and savings are treasures, money m
 ### <mark style="color:orange;">Sub-page Explanation</mark>
 
 <table><thead><tr><th width="259"></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (28).png" alt=""> </p><h4><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/ihatemoney-deployment"> <mark style="color:blue;">ihatemoney</mark></a></h4><p><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/ihatemoney-deployment"><br><mark style="color:orange;">"I Hate Money": Where Money Meets Harmony</mark></a></p></td><td><p><img src="../../.gitbook/assets/image (29).png" alt="" data-size="original"></p><p> <mark style="color:blue;"><strong>O</strong></mark><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/octobot-deployment"><mark style="color:blue;"><strong>ctobot</strong></mark></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/octobot-deployment"><mark style="color:orange;">Crypto Trading Meets Simplicity and Profitability</mark></a></p></td><td></td></tr></tbody></table>
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

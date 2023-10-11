@@ -1,4 +1,8 @@
 ---
+description: >-
+  Explore the power of containers and Kubernetes in our comprehensive guide.
+  From containerization to orchestration, discover efficiency and reliability in
+  one place. Start your journey today!
 cover: ../../.gitbook/assets/Kubernetes-Logo.png
 coverY: 0
 layout:
@@ -69,3 +73,11 @@ Delve into the world of Kubernetes – where scalability, speed, availability, p
 #### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

@@ -1,4 +1,8 @@
 ---
+description: >-
+  Nginx is more than a web server; it's your online engine for swift content
+  delivery and a vigilant guardian protecting your applications with reverse
+  proxy capabilities.
 cover: ../../.gitbook/assets/NGINX-logo-rgb-large (1).png
 coverY: 0
 layout:
@@ -167,3 +171,11 @@ For the free user there is no persistence, and for the premium user you can diff
 ### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

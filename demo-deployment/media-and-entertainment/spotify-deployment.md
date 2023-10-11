@@ -1,4 +1,7 @@
 ---
+description: >-
+  Discover the world of Spotify, where millions of songs and personalized
+  playlists await. Stream your favorite music effortlessly on multiple devices.
 cover: ../../.gitbook/assets/Spotify_Logo_CMYK_Green.png
 coverY: 0
 layout:
@@ -209,4 +212,12 @@ For the free user there is no persistence, and for the premium user you can diff
 
 ### Join us
 
-Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going
+Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going.
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

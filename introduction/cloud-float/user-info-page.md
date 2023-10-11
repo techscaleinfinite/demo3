@@ -1,4 +1,8 @@
 ---
+description: >-
+  Explore the User Info Page on Scale Infinite for easy access to your account
+  details, profile settings, security options, notification preferences, and
+  billing management.
 cover: ../../.gitbook/assets/360_F_554998845_5spsavIcO3KCiPiAjlfJEeUzGPHy7bC4.jpg
 coverY: 0
 layout:
@@ -28,3 +32,11 @@ The User Info Page in Scale Infinite is a dedicated section of the platform that
 3. **Security Settings**: This section allows users to manage their account security. You might find options for changing passwords, enabling two-factor authentication (2FA).
 4. **Notification Preferences**: Users can customize how they receive notifications from Scale Infinite. This could include email preferences for updates, alerts, and newsletters.
 5. **Billing and Payments**: For premium or paid users, there may be a billing section where you can manage payment methods, view invoices, and update billing information.
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

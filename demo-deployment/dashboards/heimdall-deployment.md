@@ -1,4 +1,8 @@
 ---
+description: >-
+  Discover Heimdall, your unified web application dashboard that elegantly
+  organizes your favorite web apps, tools, and services in one place. Say
+  goodbye to tab overload and tailor your digital canvas.
 cover: >-
   ../../.gitbook/assets/68747470733a2f2f692e696d6775722e636f6d2f697556387733792e706e67.png
 coverY: 0
@@ -20,7 +24,7 @@ layout:
 
 # 🖥 Heimdall Deployment
 
-### <mark style="color:blue;">What's is heimdall?</mark>
+<mark style="color:blue;">What's is heimdall?</mark>
 
 **Heimdall Dashboard: Where Web Apps Find Harmony**
 
@@ -230,3 +234,11 @@ For the free user there is no persistence, and for the premium user you can diff
 ### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

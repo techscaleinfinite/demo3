@@ -1,5 +1,5 @@
 ---
-description: Table of comparison
+description: Table of comparison, what sets us apart.
 cover: ../.gitbook/assets/Competitor-2-503209.png
 coverY: -111.97866666666665
 layout:

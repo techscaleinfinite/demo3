@@ -1,4 +1,7 @@
 ---
+description: >-
+  Explore the world of FileZilla, your go-to FTP solution for seamless file
+  management between your local computer and remote servers.
 cover: ../../.gitbook/assets/2f31gr4.jpg
 coverY: 0
 layout:
@@ -126,3 +129,11 @@ If you're experiencing connection issues with FileZilla, particularly when using
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-24 144427.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

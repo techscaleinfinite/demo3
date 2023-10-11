@@ -1,4 +1,8 @@
 ---
+description: >-
+  Explore the limitless power of office suites, your ultimate productivity
+  companions. From document creation to data analysis, they're your go-to tools
+  for success in the digital realm.
 cover: >-
   ../../../.gitbook/assets/notes-notepad-notebook-memo-diary-paper-line-icon-illustration-logo-template-suitable-for-many-purposes-free-vector.jpg
 coverY: -54.05866666666666
@@ -47,3 +51,11 @@ In a nutshell, an office suite is the catalyst for unleashing your productivity 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |   |   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | - | - |
 | <h4><img src="../../../.gitbook/assets/image (69).png" alt="">  <a href="https://docs.scaleinfinite.fr/demo-deployment/content-management-system-cms/office-suites-and-notes/markdown-edit-deployment"><mark style="color:blue;">markdown edit</mark></a></h4><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/content-management-system-cms/office-suites-and-notes/markdown-edit-deployment"> <mark style="color:orange;">Your Markdown Editing Sidekick!</mark></a></p> |   |   |
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

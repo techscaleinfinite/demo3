@@ -1,4 +1,8 @@
 ---
+description: >-
+  Discover the future of deployment with Cloud Float. Swift, secure, and
+  user-friendly, we're your ticket to effortless application hosting. Join us
+  today!
 cover: ../../.gitbook/assets/Screenshot 2023-10-04 132018.png
 coverY: 0
 layout:
@@ -114,3 +118,11 @@ Scale Infinite is more than hosting; it's a journey of possibilities. We've cura
 #### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>

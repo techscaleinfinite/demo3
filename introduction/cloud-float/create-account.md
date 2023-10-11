@@ -50,3 +50,11 @@ There you have it! You're now the proud owner of a Scale Infinite account, ready
 
 
 <figure><img src="../../.gitbook/assets/signup (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>
