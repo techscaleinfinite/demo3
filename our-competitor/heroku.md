@@ -1,4 +1,5 @@
 ---
+description: Where Your Apps Go to Flourish
 cover: ../.gitbook/assets/Heroku_logo.svg (1).png
 coverY: 0
 layout:
@@ -20,7 +21,7 @@ layout:
 # Heroku
 
 \
-**Heroku: Where Your Apps Go to Flourish**
+**Where Your Apps Go to Flourish**
 
 Imagine a place where deploying, managing, and scaling your web applications feels like a walk in the digital park. That's Heroku in a nutshell—a cloud platform designed to make your life as a developer a whole lot easier.
 

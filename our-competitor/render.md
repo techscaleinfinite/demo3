@@ -1,4 +1,5 @@
 ---
+description: Your Easier Path to Cloud Deployment
 cover: ../.gitbook/assets/Render-cloud-intellyx-BC-logo.png
 coverY: 0
 layout:

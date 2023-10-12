@@ -42,6 +42,12 @@ At ScaleInfinite, we're revolutionizing application hosting, so you can focus on
 
 Join ScaleInfinite and experience hosting like never before. Whether you're a startup, enterprise, or visionary individual, we're here to elevate your applications and empower your journey. Welcome to limitless possibilities.
 
+### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+
+Check out our youtube video for more clarification.
+
+{% embed url="https://www.youtube.com/watch?v=kccRekLuT_w" %}
+
 #### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;

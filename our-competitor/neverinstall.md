@@ -1,4 +1,5 @@
 ---
+description: Unleash Linux Applications in Your Browser with Neverinstall
 cover: ../.gitbook/assets/nmk.png
 coverY: 0
 layout:
@@ -18,9 +19,6 @@ layout:
 ---
 
 # Neverinstall
-
-\
-**Unleash Linux Applications in Your Browser with Neverinstall**
 
 Imagine a world where you can seamlessly run Linux applications in your web browser, with no tedious downloads or installations. Enter Neverinstall, the cloud-based platform that's changing the game. Here's a sneak peek into how this ingenious solution works:
 

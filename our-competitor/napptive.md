@@ -1,4 +1,7 @@
 ---
+description: >-
+  A beacon of simplicity and accessibility in the ever-changing environment of
+  cloud-native apps.
 cover: ../.gitbook/assets/hNzbbTtx6 (1).png
 coverY: 0
 layout:

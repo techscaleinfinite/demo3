@@ -1,4 +1,5 @@
 ---
+description: 'GoDaddy: Empowering Your Online Presence'
 cover: ../.gitbook/assets/1.jpg
 coverY: 0
 layout:
@@ -19,7 +20,7 @@ layout:
 
 # Go daddy
 
-**GoDaddy: Empowering Your Online Presence**
+
 
 GoDaddy isn't just a name; it's a powerhouse in the world of web services. For over two decades, GoDaddy has been at the forefront of making the internet accessible to everyone. But what exactly is GoDaddy, and how does it work its magic?
 

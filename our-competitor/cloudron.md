@@ -1,4 +1,5 @@
 ---
+description: 'Unlocking the Magic of Cloudron: Your Web Apps'' Best Friend'
 cover: ../.gitbook/assets/social_hero (1).png
 coverY: 0
 layout:
@@ -18,8 +19,6 @@ layout:
 ---
 
 # Cloudron
-
-**Unlocking the Magic of Cloudron: Your Web Apps' Best Friend**
 
 Ever wished for a genie that could make installing, managing, and safeguarding your web apps on your server a breeze? Well, meet Cloudron, the ultimate genie for your server needs!
 

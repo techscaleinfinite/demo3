@@ -119,3 +119,4 @@
   * [Go daddy](our-competitor/go-daddy.md)
 * [‼ FAQ](faq.md)
 * [👫 Community](community.md)
+* [🔗 Useful links](useful-links.md)

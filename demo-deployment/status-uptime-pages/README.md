@@ -47,6 +47,6 @@ So, whether you're running a critical online business or just enjoying some leis
 
 <summary>Category</summary>
 
-Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions, status page
 
 </details>

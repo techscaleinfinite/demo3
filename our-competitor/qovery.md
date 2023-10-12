@@ -1,4 +1,7 @@
 ---
+description: >-
+  Qovery distinguishes out as a contemporary infrastructure automation platform
+  in the ever-changing field of DevOps and cloud infrastructure.
 cover: ../.gitbook/assets/qovery_v2-_dribbble.png
 coverY: 0
 layout:
@@ -21,7 +24,7 @@ layout:
 
 **Qovery: Simplifying Cloud Infrastructure Management**
 
-Qovery distinguishes out as a contemporary infrastructure automation platform in the ever-changing field of DevOps and cloud infrastructure. What is its mission? To make DevOps, Platform, and Engineering teams' life easier by automating the provisioning, setup, and administration of cloud resources.
+. What is its mission? To make DevOps, Platform, and Engineering teams' life easier by automating the provisioning, setup, and administration of cloud resources.
 
 **Empowering DevOps Teams**
 

@@ -44,6 +44,6 @@ So, whether you're charting the depths of an SQL nebula, uncovering the mysterie
 
 <summary>Category</summary>
 
-Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions, database
 
 </details>

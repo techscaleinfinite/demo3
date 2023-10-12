@@ -1,4 +1,5 @@
 ---
+description: Where Web Hosting Meets Seamless Automation
 cover: ../.gitbook/assets/Netlify-Logo.wine (3).png
 coverY: 0
 layout:
@@ -19,8 +20,7 @@ layout:
 
 # Netlify
 
-\
-**Netlify: Where Web Hosting Meets Seamless Automation**
+**Where Web Hosting Meets Seamless Automation**
 
 Imagine a hosting platform where web developers can unleash their creativity without worrying about the intricacies of server management. That's precisely what Netlify brings to the table—a cloud platform that redefines web hosting for the modern era.
 

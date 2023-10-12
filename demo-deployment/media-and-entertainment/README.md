@@ -46,6 +46,6 @@ In essence, streaming media is your digital genie, granting your every entertain
 
 <summary>Category</summary>
 
-Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions, media, entertainment
 
 </details>

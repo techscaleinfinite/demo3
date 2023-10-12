@@ -41,6 +41,6 @@ In a world inundated with data and applications, dashboards are your guiding lig
 
 <summary>Category</summary>
 
-Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions, dashboard
 
 </details>
