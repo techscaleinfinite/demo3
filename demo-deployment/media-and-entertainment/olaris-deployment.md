@@ -28,27 +28,49 @@ layout:
 
 <mark style="color:orange;">Olaris is like a creative hub for media enthusiasts, a place where the community comes together to manage and transform their media treasures. At its heart lies the olaris-react project, the main interface that's here to streamline your media management experience. And, guess what? There are plans in the pipeline to support even more clients and applications down the road.</mark>
 
-**Open-Source Community:** Olaris isn't just software; it's a labor of love, powered by a community that believes in the open-source spirit. It's like a collective art studio where everyone's brushes and talents come together to create something beautiful.
+**olari-react:** The Heart of the Experience
 
-**Media Management:** Olaris is your digital curator, helping you organize, optimize, and enjoy your media collection. It's like having a personal archivist who ensures your media is always in its best form.
+At the core of Olaris is the olaris-react project, your trusty companion in the realm of media management. This interface is your ticket to a smoother and more enjoyable experience when handling your media. And guess what? We're cooking up exciting plans to support even more clients and applications in the near future, so stay tuned!
 
-**Transcoding Wizardry:** Transforming media formats? Olaris has that covered too. It's like a magical spellcaster, turning your media into the perfect format for any occasion or device.
+**The Open-Source Art Studio**
 
-**Olaris-React:** At the forefront is olaris-react, your gateway to a world of media management possibilities. It's like a cozy library where you can easily browse through your media treasures and pick out just what you need.
+Olaris is not just a piece of software; it's a collective labor of love, driven by a vibrant community that celebrates the open-source spirit. It's like a bustling art studio, where everyone's brushes and talents converge to create something truly beautiful.
 
-**Community-Driven:** The best part? Olaris is not a solitary endeavor. It's a collaborative masterpiece crafted by a passionate community that understands the power of media. It's like a jam session where everyone's talents harmonize to create something extraordinary.
+**Your Digital Curator**
 
-So, think of Olaris as your creative studio, your digital playground, and your media oasis—all rolled into one. It's the place where you and the community can make your media management dreams come true.
+Picture Olaris as your very own digital curator, tirelessly working to organize, optimize, and enhance your media collection. It's like having a personal archivist who ensures that your media is always in its prime.
+
+**Media Format Sorcery**
+
+Need to work magic on media formats? Olaris has got you covered. It's like a wizard casting spells, effortlessly transforming your media into the perfect format for any occasion or device.
+
+**olari-react: Your Gateway**
+
+Leading the charge is olari-react, your gateway to a world of media management possibilities. Think of it as your cozy library, where you can effortlessly browse through your media treasures and pick out exactly what you need.
+
+**A Symphony of Community**
+
+But here's the best part: Olaris isn't a solo act. It's a collaborative masterpiece, forged by a passionate community that understands the immense power of media. It's like a jam session where everyone's talents harmonize to create something truly extraordinary.
+
+So, envision Olaris as your creative studio, your digital playground, and your sanctuary for all things media. It's where you and the community can turn your wildest media management dreams into reality. Welcome to the future of media management—welcome to Olaris.
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**Media Management:** Olaris provides a user-friendly web-based interface, like olaris-react, to make managing your media a breeze. It's like having a personal media assistant that helps you upload, organize, and manage all your media files, whether they're captivating videos, soul-soothing audio tracks, or cherished images. It's your digital command center for media organization.
+Are you curious about the inner workings of Olaris, your digital haven for media management? Let's dive in and unveil the magic behind the scenes.
 
-**Transcoding:** Think of Olaris as your media magician. It's equipped with a transcoding engine that lets you perform media alchemy. You can transform your media files from one format to another, like turning a paperback into an e-book. Olaris allows you to specify all the details—output formats, codecs, bitrates, resolutions, and more. It's like having a studio where you can fine-tune your media to perfection, ready for any occasion or device.
+**Media Management Made Easy**
 
-**Server and Processing:** Olaris isn't just a pretty face; it's got the muscle too. It runs on a powerful server, which acts as the wizard behind the scenes. This server takes on the heavy lifting, handling all the grunt work of actual transcoding tasks. It's like having a dedicated production team backstage, making sure your media transformations happen seamlessly and without a hitch.
+At the heart of Olaris is a user-friendly web-based interface, such as the ever-capable olaris-react. Think of it as your personal media assistant, tirelessly working to streamline your media management experience. Upload, organize, and manage all your media files with ease, whether they're captivating videos, soul-soothing audio tracks, or cherished images. It's your digital command center for all things media organization.
 
-With Olaris, managing, transforming, and enjoying your media is a breeze. It's like having a trusted partner that not only understands your media needs but also has the skills and resources to make them a reality. Your media world becomes a place of order, creativity, and limitless possibilities
+**Transcoding: The Media Alchemy**
+
+Olaris is your go-to media magician, equipped with a transcoding engine that performs media alchemy. Imagine turning a paperback into an e-book—it's that simple. Specify all the details you desire, from output formats and codecs to bitrates and resolutions. Olaris is like having a high-tech studio where you can fine-tune your media to perfection, making it ready for any occasion or device.
+
+**The Powerhouse Behind the Curtain**
+
+But Olaris isn't all style and no substance. It operates on a robust server that acts as the wizard working behind the scenes. This server takes on the heavy lifting, handling all the grunt work of actual transcoding tasks. It's akin to having a dedicated production team backstage, ensuring your media transformations happen seamlessly and without a hitch.
+
+With Olaris, managing, transforming, and enjoying your media becomes a seamless and delightful experience. It's like having a trusted partner that not only understands your media needs but also possesses the skills and resources to bring them to life. Your media world transforms into a realm of order, creativity, and limitless possibilities.
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 

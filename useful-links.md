@@ -62,3 +62,29 @@ Greetings, fellow knowledge-seeker! If you're on a quest for answers or find you
 <mark style="color:purple;">**Link to Dockerhub:**</mark>
 
 {% embed url="https://hub.docker.com/" %}
+
+slack cahnnel for docker
+
+{% embed url="https://dockercommunity.slack.com/?redir=/messages" %}
+
+<mark style="color:orange;">**Useful slack links:**</mark>
+
+This is the official Kubernetes Slack workspace that is run by Kubernetes.io and has over 100 thousand members—the most of any Kubernetes Slack group by far.
+
+{% embed url="https://communityinviter.com/apps/kubernetes/community" %}
+
+The Cloud Native Computing Foundation (CNCF) is a part of the nonprofit Linux Foundation that helps Kubernetes and other open-source projects operate.
+
+{% embed url="https://cloud-native.slack.com/join/shared_invite/zt-yijjaqua-UsvdoAvciFP9i8ZoJMp9Kg#/shared-invite/email" %}
+
+IBM Cloud also offers a Kubernetes Slack workspace that is available for anyone with a valid IBM Cloud account to join.
+
+{% embed url="https://cloud.ibm.com/kubernetes/slack" %}
+
+<mark style="color:blue;">**Link to kubernetes:**</mark>
+
+Its is an in-depth interactive tutorial that helps you understand the Kubernetes system and try out some basic Kubernetes features.
+
+{% embed url="https://kubernetes.io/docs/tutorials/" %}
+
+{% embed url="https://www.youtube.com/watch?v=Mi3Lx7yk3Hg&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fsca_esv%3D573110829%26sxsrf%3DAM9HkKkfgBJn_2b9dXHqo-_zDvr4WhPunQ%3A1697181844177%26q%3Dfamous%2Bkubernetes%2Btutor&source_ve_path=MjM4NTE&feature=emb_title" %}
