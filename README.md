@@ -42,7 +42,7 @@ At ScaleInfinite, we're revolutionizing application hosting, so you can focus on
 
 Join ScaleInfinite and experience hosting like never before. Whether you're a startup, enterprise, or visionary individual, we're here to elevate your applications and empower your journey. Welcome to limitless possibilities.
 
-**"Start Your Journey with ScaleInfinite Today!" Hurry and Sign up!!**
+**Start Your Journey with ScaleInfinite Today!" Hurry and Sign up!!**
 
 {% embed url="https://scaleinfinite.fr/" %}
 
