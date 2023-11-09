@@ -27,67 +27,57 @@ layout:
 
 <mark style="color:orange;">**Gatus: Your Health Dashboard Maestro**</mark>
 
-Picture this: an unwavering guardian for your digital kingdom, serenading you with real-time insights. Enter Gatus, the developer's best-kept secret for vigilant service monitoring.
+Imagine having a vigilant guardian for your digital realm, serenading you with real-time insights. That's Gatus, the developer's best-kept secret for monitoring your online services.
 
-**Master of Multifaceted Monitoring**
+**1. Master of Multifaceted Monitoring:** Gatus is like a Swiss Army knife for your digital health. It doesn't just watch over your services; it excels at monitoring HTTP, ICMP, TCP, and even DNS queries. It's the ultimate multitasker for keeping an eye on your service's well-being.
 
-Gatus is the Swiss Army knife of health dashboards. It doesn't just monitor; it excels in HTTP, ICMP, TCP, and even DNS queries. Think of it as the ultimate multitasker for evaluating service health.
+**2. The Sherlock Holmes of Digital Health:** Gatus is no ordinary observer; it's a detective when it comes to service health. It investigates status codes, response times, certificate expirations, and even delves into response content. In the world of digital health checks, it's the Sherlock Holmes that never misses a clue.
 
-**The Sherlock Holmes of Digital Health**
+**3. Symphony of Alerts:** But Gatus doesn't just silently detect issues; it knows how to make an entrance. You can pair your health checks with alerts that notify you through platforms like Slack, PagerDuty, Pushover, Discord, Twilio, and more. It's like having your personal orchestra conductor for service disruptions.
 
-Gatus is more than a spectator; it's a detective of service health. It scrutinizes conditions such as status codes, response times, certificate expirations, and even delves into response content. In the realm of digital health checks, it's the Sherlock Holmes.
+**4. Versatile Sentry:** Gatus is a chameleon. Whether you're safeguarding web services, databases, or other critical components, it's the vigilant sentry that adapts to your needs. You get to configure it to match your environment.
 
-**Symphony of Alerts**
+**5. Intuitive Maestro's Baton:** Navigating Gatus's user interface is as smooth as conducting an orchestra. It's the intuitive conductor's wand that helps you effortlessly orchestrate your monitoring checks.
 
-But Gatus isn't just about detection; it knows how to make an entrance. Pair your health checks with alerts that harmonize notifications through Slack, PagerDuty, Pushover, Discord, Twilio, and more. It's like having your personal orchestra conductor for service disruptions.
+**6. In-Depth Insights:** Gatus goes beyond acknowledging issues; it provides in-depth insights. You can dive into response data, error codes, and trends to conduct a thorough diagnosis of your services.
 
-**Versatile Sentry**
+**7. Open-Source Symphony:** Behind the scenes, Gatus is powered by an open-source orchestra of contributors. It's a global ensemble of developers and sysadmins collaborating to fine-tune the health-check symphony.
 
-Gatus is a chameleon, adapting to your needs. Whether you're safeguarding web services, databases, or other critical components, it's the vigilant sentry that you can configure to suit your environment.
+**8. Seamless Communication:** Gatus is a maestro when it comes to cross-channel communication. Whether you prefer the conversational style of Slack, PagerDuty's precision, or the immediacy of Twilio's SMS, it ensures that you're always in the know.
 
-**Intuitive Maestro's Baton**
+**9. Powered by Data:** With Gatus as your guide, you make data-driven decisions. It's like having a crystal ball that foretells issues before they disrupt your digital kingdom.
 
-Navigating Gatus's user interface is as smooth as conducting an orchestra. It's the intuitive conductor's wand for orchestrating your monitoring checks.
-
-**In-Depth Insights**
-
-Gatus doesn't stop at acknowledging issues; it delves deep into providing comprehensive insights. Dive into response data, error codes, and trends to conduct a thorough diagnosis of your services.
-
-**Open-Source Symphony**
-
-Behind the curtains of Gatus, you'll find an open-source orchestra of contributors. It's a global ensemble of developers and sysadmins collaborating to fine-tune the health-check symphony.
-
-**Seamless Communication**
-
-Gatus excels in cross-channel communication. Whether you prefer the conversational style of Slack, PagerDuty's alert precision, or the immediacy of Twilio's SMS, it ensures that you're always in the know.
-
-**Powered by Data**
-
-With Gatus as your guide, you make data-driven decisions. It's like having a crystal ball that foretells issues before they disrupt your digital realm.
-
-**A Ballad for Tech Enthusiasts**
-
-In the world of health dashboards, Gatus is the soothing ballad for the tech-savvy soul. It's your conductor, your judge, and your sentinel—all in one. As dependable as your oldest friend and as speedy as Usain Bolt, Gatus is your trusty sidekick in the ever-watchful world of online monitoring!
+In the world of health dashboards, Gatus is the soothing ballad for the tech-savvy soul. It's your conductor, your judge, and your sentinel—all rolled into one. As dependable as your oldest friend and as speedy as Usain Bolt, Gatus is your trusty sidekick in the ever-watchful world of online monitoring!
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
 <mark style="color:orange;">**How Gatus Works: The Symphony of Service Health**</mark>
 
-<mark style="color:orange;">Imagine Gatus as the conductor of your service health orchestra. It orchestrates the harmony of monitoring and alerting in a truly unique way.</mark>
+**How Gatus Works: The Symphony of Service Health**
 
-1. **Monitoring Mastery**: Gatus sweeps the stage, monitoring your services with a range of queries: HTTP, ICMP, TCP, and DNS. It's like having a virtuoso who can play any instrument in the orchestra.
-2. **Condition Evaluation**: This conductor doesn't just listen; it evaluates each performance rigorously. It checks the status code, response time, certificate expiration, and even the body of responses. It's like having a keen-eyed music critic for your services.
-3. **Alerting Overture**: Gatus doesn't stop at detection; it's the maestro of alerting. Pair your health checks with alerts that can harmonize through Slack, PagerDuty, Pushover, Discord, Twilio, and more. It's like having an entire symphony of notification methods at your disposal.
-4. **Adaptability Encore**: Just like a seasoned conductor adjusts the tempo, Gatus adapts to your unique needs. It can guard web services, databases, and other critical components with ease. It's the versatile conductor who knows every musical genre.
-5. **User-Friendly Baton**: Gatus wields a user-friendly interface, making it simple to compose your monitoring symphony. It's like having an intuitive conductor's baton in hand, ready to guide your checks.
-6. **Detailed Composition**: Gatus doesn't skim over issues; it dives deep into the score. Explore response data, error codes, and trends for a comprehensive diagnosis of your services. It's like having the sheet music to every note played.
-7. **Open-Source Orchestra**: Behind Gatus's curtain is a global ensemble of developers and sysadmins, collaborating to fine-tune the health-check symphony. It's an open-source orchestra, welcoming contributions from around the world.
-8. **Cross-Channel Performance**: Gatus knows how to communicate. Whether it's the casual chat of Slack, the urgency of PagerDuty's alerts, or the directness of Twilio's SMS, it ensures you hear every note.
-9. **Data-Driven Crescendo**: With Gatus, your decisions crescendo into data-driven masterpieces. It's like having a crystal ball that reveals issues before they become disruptive solos in your digital realm.
-10. **Soothing the Tech-Savvy Soul**: In the realm of health dashboards, Gatus is the soothing ballad for the tech-savvy soul. It's your conductor, your critic, and your guardian—an all-in-one symphony of service health.
+Picture Gatus as the conductor of your service health orchestra, orchestrating the harmony of monitoring and alerting in a truly unique way:
 
-Gatus conducts your service health with precision, ensuring that your digital orchestra always plays in tune.\
+**1. Monitoring Mastery:** Gatus sweeps the stage, monitoring your services with a range of queries: HTTP, ICMP, TCP, and DNS. It's like having a virtuoso who can play any instrument in the orchestra.
 
+**2. Condition Evaluation:** This conductor doesn't just listen; it evaluates each performance rigorously. It checks the status code, response time, certificate expiration, and even the body of responses. It's like having a keen-eyed music critic for your services.
+
+**3. Alerting Overture:** Gatus doesn't stop at detection; it's the maestro of alerting. Pair your health checks with alerts that can harmonize through Slack, PagerDuty, Pushover, Discord, Twilio, and more. It's like having an entire symphony of notification methods at your disposal.
+
+**4. Adaptability Encore:** Just like a seasoned conductor adjusts the tempo, Gatus adapts to your unique needs. It can guard web services, databases, and other critical components with ease. It's the versatile conductor who knows every musical genre.
+
+**5. User-Friendly Baton:** Gatus wields a user-friendly interface, making it simple to compose your monitoring symphony. It's like having an intuitive conductor's baton in hand, ready to guide your checks.
+
+**6. Detailed Composition:** Gatus doesn't skim over issues; it delves deep into the score. Explore response data, error codes, and trends for a comprehensive diagnosis of your services. It's like having the sheet music to every note played.
+
+**7. Open-Source Orchestra:** Behind Gatus's curtain is a global ensemble of developers and sysadmins, collaborating to fine-tune the health-check symphony. It's an open-source orchestra, welcoming contributions from around the world.
+
+**8. Cross-Channel Performance:** Gatus knows how to communicate. Whether it's the casual chat of Slack, the urgency of PagerDuty's alerts, or the directness of Twilio's SMS, it ensures you hear every note.
+
+**9. Data-Driven Crescendo:** With Gatus, your decisions crescendo into data-driven masterpieces. It's like having a crystal ball that reveals issues before they become disruptive solos in your digital realm.
+
+**10. Soothing the Tech-Savvy Soul:** In the realm of health dashboards, Gatus is the soothing ballad for the tech-savvy soul. It's your conductor, your critic, and your guardian—an all-in-one symphony of service health.
+
+Gatus conducts your service health with precision, ensuring that your digital orchestra always plays in tune. It's like music to the ears of tech enthusiasts and service guardians alike.
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 
