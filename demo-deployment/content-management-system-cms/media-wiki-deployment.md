@@ -29,32 +29,32 @@ MediaWiki: The Heart of Collaborative Knowledge
 
 Ever wondered how Wikipedia, the treasure trove of online wisdom, works its magic? Enter MediaWiki, the wizard behind the curtain. It's the software that powers Wikipedia and many other collaborative websites. Let's peel back the layers and see what makes it tick:
 
-**1. Teamwork Made Easy:**
+**1. **<mark style="color:orange;">**Teamwork Made Easy:**</mark>
 
 * MediaWiki is all about teamwork. It's like having a group of friends working together on a giant puzzle.
 * Anyone can join the party, add their pieces, or rearrange what's already there.
 
-**2. Time Machine for Pages:**
+**2. **<mark style="color:orange;">**Time Machine for Pages:**</mark>
 
 * MediaWiki keeps a detailed history of every change made to a page. It's like a time machine for articles.
 * You can travel back in time to see how a page evolved and even hit the "undo" button if something goes wrong.
 
-**3. Content Playground:**
+**3. **<mark style="color:orange;">**Content Playground:**</mark>
 
 * Think of MediaWiki as a playground for information. It's not just a jumble of data; everything has its place.
 * Articles are like neatly labeled boxes, and categories are the shelves where these boxes are organized.
 
-**4. Userland Adventures:**
+**4. **<mark style="color:orange;">**Userland Adventures:**</mark>
 
 * MediaWiki gives users their own space, like a personal room. You can create your user page, watch pages to see changes, and chat with others.
 * It's like having your own little corner in the vast world of knowledge.
 
-**5. Markup Magic:**
+**5. **<mark style="color:orange;">**Markup Magic:**</mark>
 
 * MediaWiki has its own secret language, but it's not like learning a new code. It's more like using simple commands.
 * You can make text bold, create links, add images, and more, just by using these magic words.
 
-**6. Media Mastery:**
+**6. **<mark style="color:orange;">**Media Mastery:**</mark>
 
 * It's not just about words. MediaWiki loves pictures, sounds, and videos.
 * You can easily add images, audio, and video to make pages more engaging and informative.
@@ -63,21 +63,21 @@ MediaWiki is more than just software; it's the enabler of collaborative knowledg
 
 ### <mark style="color:blue;">**How It Works**</mark>
 
-**Content Creation and Editing:** Think of MediaWiki as your digital canvas where you can unleash your creativity. It allows users, with the right permissions, to write new articles or jazz up existing ones. You don't need to be a coding wizard; a simple markup language helps you with things like making text bold, creating links, and adding pictures.
+<mark style="color:orange;">**Content Creation and Editing:**</mark> Think of MediaWiki as your digital canvas where you can unleash your creativity. It allows users, with the right permissions, to write new articles or jazz up existing ones. You don't need to be a coding wizard; a simple markup language helps you with things like making text bold, creating links, and adding pictures.
 
-**Version Control:** Imagine a super-detailed history book, but instead of ancient wars, it records changes made to articles. MediaWiki keeps track of who did what, when they did it, and what they did. If something goes wrong, you can time-travel back to earlier versions of an article.
+<mark style="color:orange;">**Version Control:**</mark> Imagine a super-detailed history book, but instead of ancient wars, it records changes made to articles. MediaWiki keeps track of who did what, when they did it, and what they did. If something goes wrong, you can time-travel back to earlier versions of an article.
 
-**User Contributions:** MediaWiki is all about community spirit. Registered users can create their own pages, like a mini bio, and talk to others through user talk pages. It's like having a personal space in a busy online town where you can chat with neighbors.
+<mark style="color:orange;">**User Contributions:**</mark> MediaWiki is all about community spirit. Registered users can create their own pages, like a mini bio, and talk to others through user talk pages. It's like having a personal space in a busy online town where you can chat with neighbors.
 
-**Categories and Links:** Think of categories as labels in your super-organized kitchen. They help you sort articles neatly. And links are like magical pathways that connect related articles. This makes it easy to explore and find what you're looking for.
+<mark style="color:orange;">**Categories and Links:**</mark> Think of categories as labels in your super-organized kitchen. They help you sort articles neatly. And links are like magical pathways that connect related articles. This makes it easy to explore and find what you're looking for.
 
-**Templates:** Templates are your trusted building blocks. They're like LEGO pieces you can stick in articles. Templates help with things like creating neat info boxes or citing sources correctly.
+<mark style="color:orange;">**Templates:**</mark> Templates are your trusted building blocks. They're like LEGO pieces you can stick in articles. Templates help with things like creating neat info boxes or citing sources correctly.
 
-**Searching:** MediaWiki has a powerful search engine, like a treasure map. Type in keywords, and it shows you where the treasure (the article you need) is buried. It's a quick way to find what you're looking for.
+<mark style="color:orange;">**Searching:**</mark> MediaWiki has a powerful search engine, like a treasure map. Type in keywords, and it shows you where the treasure (the article you need) is buried. It's a quick way to find what you're looking for.
 
-**Media Magic:** MediaWiki is not just about words; it loves pictures, sounds, and videos. You can easily add and share these media gems to make articles more exciting.
+<mark style="color:orange;">**Media Magic:**</mark> MediaWiki is not just about words; it loves pictures, sounds, and videos. You can easily add and share these media gems to make articles more exciting.
 
-**Recent Changes:** The "Recent Changes" page is like a news feed. It shows you the latest updates across the wiki. It's an excellent way to see what's happening and stay up to date.
+<mark style="color:orange;">**Recent Changes:**</mark> The "Recent Changes" page is like a news feed. It shows you the latest updates across the wiki. It's an excellent way to see what's happening and stay up to date.
 
 MediaWiki is a testament to the power of collaboration and knowledge sharing online. It's your user-friendly tool to create, edit, and share knowledge with the world. It's like a digital playground where everyone's invited to play and learn. 📝🔍🌟
 

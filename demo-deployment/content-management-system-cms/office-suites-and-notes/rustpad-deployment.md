@@ -27,13 +27,13 @@ layout:
 
 <mark style="color:orange;">Rustpad: Where Real-Time Collaboration Meets Seamless Editing</mark>
 
-Rustpad: Where Real-Time Collaboration Meets Effortless Editing Picture a text editor that's not only easy to use but excels at bringing people together to work on documents. That's Rustpad, an open-source wonder that's revolutionizing how we collaborate.
+<mark style="color:blue;">Rustpad: Where Real-Time Collaboration Meets Effortless Editing Picture a text editor that's not only easy to use but excels at bringing people together to work on documents.</mark> That's Rustpad, an open-source wonder that's revolutionizing how we collaborate.
 
-1. Real-Time Editing: Rustpad uses a clever algorithm called operational transformation, which means that every edit instantly shows up on everyone's screens. It's like having a virtual writing party where your ideas flow freely and without any hiccups.
-2. Web-Based Simplicity: No need for complicated installations or downloads. Just share a link to your Rustpad document, and your friends or colleagues can jump right into editing from their web browsers. It's quick, convenient, and fuss-free.
-3. Live Preview: Watch your document change in real-time as you and your collaborators make edits. It's not just a regular text editor; it's a dynamic canvas for your ideas, coming to life before your eyes.
-4. Uninterrupted Workflow: With Rustpad, there's no need to take turns or send files back and forth. Everyone can edit at the same time, ensuring a smooth and interruption-free workflow.
-5. Version Control: Sometimes, you might want to go back to an earlier version of your document. Rustpad has got you covered with built-in version control, making it easy to revert to previous states.
+1. _Real-Time Editing: Rustpad uses a clever algorithm called operational transformation, which means that every edit instantly shows up on everyone's screens. It's like having a virtual writing party where your ideas flow freely and without any hiccups._
+2. _Web-Based Simplicity: No need for complicated installations or downloads. Just share a link to your Rustpad document, and your friends or colleagues can jump right into editing from their web browsers. It's quick, convenient, and fuss-free._
+3. _Live Preview: Watch your document change in real-time as you and your collaborators make edits. It's not just a regular text editor; it's a dynamic canvas for your ideas, coming to life before your eyes._
+4. _Uninterrupted Workflow: With Rustpad, there's no need to take turns or send files back and forth. Everyone can edit at the same time, ensuring a smooth and interruption-free workflow._
+5. _Version Control: Sometimes, you might want to go back to an earlier version of your document. Rustpad has got you covered with built-in version control, making it easy to revert to previous states._
 
 Rustpad is where the best of innovation meets the simplicity you crave. It's more than just a text editor; it's a collaborative hub for turning ideas into reality in real time. Say farewell to the old-fashioned way of sharing documents and embrace the future of collaborative editing with Rustpad. Give it a try now and discover the seamless magic of real-time collaboration.
 
@@ -57,7 +57,7 @@ Rustpad isn't just a text editor; it's your creative cockpit, where innovation a
 
 *   <mark style="background-color:purple;">**This deployment utilizes the official rustpad Docker image. Here's a step-by-step guide to get you started:**</mark>
 
-    1. Begin by navigating to the "Create Apps" page and use the search bar to find the [ekzhang/rustpad](https://hub.docker.com/r/ekzhang/rustpad)application.
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the [ekzhang/rustpad](https://hub.docker.com/r/ekzhang/rustpad)  application.
     2. Click on the "Install" button to initiate the installation process.
     3. Fill in all the required fields with the necessary information.
     4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).

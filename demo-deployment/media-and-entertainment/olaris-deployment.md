@@ -28,27 +28,27 @@ layout:
 
 <mark style="color:orange;">Olaris is like a creative hub for media enthusiasts, a place where the community comes together to manage and transform their media treasures. At its heart lies the olaris-react project, the main interface that's here to streamline your media management experience. And, guess what? There are plans in the pipeline to support even more clients and applications down the road.</mark>
 
-**olari-react:** The Heart of the Experience
+<mark style="color:blue;">**olari-react:**</mark> The Heart of the Experience
 
 At the core of Olaris is the olaris-react project, your trusty companion in the realm of media management. This interface is your ticket to a smoother and more enjoyable experience when handling your media. And guess what? We're cooking up exciting plans to support even more clients and applications in the near future, so stay tuned!
 
-**The Open-Source Art Studio**
+<mark style="color:orange;">**The Open-Source Art Studio**</mark>
 
 Olaris is not just a piece of software; it's a collective labor of love, driven by a vibrant community that celebrates the open-source spirit. It's like a bustling art studio, where everyone's brushes and talents converge to create something truly beautiful.
 
-**Your Digital Curator**
+<mark style="color:orange;">**Your Digital Curator**</mark>
 
 Picture Olaris as your very own digital curator, tirelessly working to organize, optimize, and enhance your media collection. It's like having a personal archivist who ensures that your media is always in its prime.
 
-**Media Format Sorcery**
+<mark style="color:orange;">**Media Format Sorcery**</mark>
 
 Need to work magic on media formats? Olaris has got you covered. It's like a wizard casting spells, effortlessly transforming your media into the perfect format for any occasion or device.
 
-**olari-react: Your Gateway**
+<mark style="color:orange;">**olari-react: Your Gateway**</mark>
 
 Leading the charge is olari-react, your gateway to a world of media management possibilities. Think of it as your cozy library, where you can effortlessly browse through your media treasures and pick out exactly what you need.
 
-**A Symphony of Community**
+<mark style="color:orange;">**A Symphony of Community**</mark>
 
 But here's the best part: Olaris isn't a solo act. It's a collaborative masterpiece, forged by a passionate community that understands the immense power of media. It's like a jam session where everyone's talents harmonize to create something truly extraordinary.
 
@@ -58,15 +58,15 @@ So, envision Olaris as your creative studio, your digital playground, and your s
 
 Are you curious about the inner workings of Olaris, your digital haven for media management? Let's dive in and unveil the magic behind the scenes.
 
-**Media Management Made Easy**
+<mark style="color:orange;">**Media Management Made Easy**</mark>
 
 At the heart of Olaris is a user-friendly web-based interface, such as the ever-capable olaris-react. Think of it as your personal media assistant, tirelessly working to streamline your media management experience. Upload, organize, and manage all your media files with ease, whether they're captivating videos, soul-soothing audio tracks, or cherished images. It's your digital command center for all things media organization.
 
-**Transcoding: The Media Alchemy**
+<mark style="color:orange;">**Transcoding: The Media Alchemy**</mark>
 
 Olaris is your go-to media magician, equipped with a transcoding engine that performs media alchemy. Imagine turning a paperback into an e-book—it's that simple. Specify all the details you desire, from output formats and codecs to bitrates and resolutions. Olaris is like having a high-tech studio where you can fine-tune your media to perfection, making it ready for any occasion or device.
 
-**The Powerhouse Behind the Curtain**
+<mark style="color:orange;">**The Powerhouse Behind the Curtain**</mark>
 
 But Olaris isn't all style and no substance. It operates on a robust server that acts as the wizard working behind the scenes. This server takes on the heavy lifting, handling all the grunt work of actual transcoding tasks. It's akin to having a dedicated production team backstage, ensuring your media transformations happen seamlessly and without a hitch.
 

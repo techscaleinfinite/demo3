@@ -33,7 +33,7 @@ Flatnotes is not your average note-taking web app; it's a breath of fresh air in
 
 * Say goodbye to cluttered interfaces. Flatnotes prides itself on a clean and straightforward user interface that places your note content front and center. No distractions, just your thoughts.
 
-**2. Organization Simplified:**
+**2. **<mark style="color:orange;">**Organization Simplified:**</mark>
 
 * Forget about complex folder structures or notebooks. Flatnotes takes a minimalist approach, presenting all your notes in one place. The power of this simplicity lies in its robust search and tagging functionality. Find what you need quickly and effortlessly with a full-text search accessible via a convenient keyboard shortcut ("/").
 
@@ -41,7 +41,7 @@ Flatnotes is not your average note-taking web app; it's a breath of fresh air in
 
 * Flatnotes respects your ownership of your notes. It doesn't hold your notes hostage in a proprietary format or a convoluted database. Instead, your notes are plain markdown files—simple, portable, and entirely under your control. Move them elsewhere or use them in other applications whenever you wish.
 
-**4. Seamless and Responsive:**
+**4. **<mark style="color:orange;">**Seamless and Responsive:**</mark>
 
 * Whether you're on a desktop or a mobile device, Flatnotes offers a responsive web interface that adapts to your screen size. Your note-taking experience remains smooth and consistent, no matter the device you choose.
 
@@ -49,7 +49,7 @@ Flatnotes is not your average note-taking web app; it's a breath of fresh air in
 
 * Embrace the power of Markdown with Flatnotes. You can choose between Raw and WYSIWYG markdown editor modes, ensuring you have the flexibility to format your notes exactly the way you want.
 
-**6. Supercharged Search:**
+**6. **<mark style="color:orange;">**Supercharged Search:**</mark>
 
 * Finding that specific note is a breeze with Flatnotes. Its advanced search functionality lets you locate notes swiftly, even amidst a growing collection.
 
@@ -57,7 +57,7 @@ Flatnotes is not your average note-taking web app; it's a breath of fresh air in
 
 * Tagging functionality elevates your note organization. Categorize your notes intuitively, making retrieval a breeze.
 
-**8. Light or Dark:**
+**8. **<mark style="color:orange;">**Light or Dark:**</mark>
 
 * Customize your note-taking environment with light and dark themes. Choose the one that suits your mood and enhances your focus.
 
@@ -65,7 +65,7 @@ Flatnotes is not your average note-taking web app; it's a breath of fresh air in
 
 * Flatnotes offers multiple authentication levels, from none to read-only, username/password, and even 2FA. You have the flexibility to choose the level of security that aligns with your needs.
 
-**10. Developer-Friendly:** - For developers and tech-savvy users, Flatnotes presents a Restful API, opening doors to seamless integration and customization.
+**10. **<mark style="color:orange;">**Developer-Friendly:**</mark> - For developers and tech-savvy users, Flatnotes presents a Restful API, opening doors to seamless integration and customization.
 
 Flatnotes isn't just a note-taking app; it's a philosophy of simplicity, freedom, and functionality. It's where your thoughts find a home without the distractions, where Markdown is your creative canvas, and where you're in control of your notes. Experience the brilliance of Flatnotes for note-taking that's refreshingly simple yet incredibly powerful.
 
@@ -81,7 +81,7 @@ Flat notes is more than just a note-taking tool; it's a seamless experience that
 
 * _Simplicity is the Ultimate Sophistication_: When you open Flatnotes, you're greeted by a clean and minimalist interface. It's designed for one purpose—to put your notes front and center. No distractions, no clutter, just your thoughts.
 
-**2. Your Notes, Your Way:**
+**2. **<mark style="color:orange;">**Your Notes, Your Way:**</mark>
 
 * _Unleash Your Creativity_: Create, edit, and manage your notes with ease. Whether you're a Markdown pro or prefer a more visual approach, Flatnotes offers both Raw and WYSIWYG Markdown editor modes. Express yourself exactly as you intend.
 
@@ -89,7 +89,7 @@ Flat notes is more than just a note-taking tool; it's a seamless experience that
 
 * _Find What Matters_: Need to find that crucial note from weeks ago? Flatnotes has you covered with its advanced search functionality. A quick keyboard shortcut ("/") brings up a full-text search that helps you locate your notes in an instant.
 
-**4. Effortless Organization:**
+**4. **<mark style="color:orange;">**Effortless Organization:**</mark>
 
 * _Tags for Precision_: No need for complex folder structures. Flatnotes keeps it simple by using tags. Tag your notes intuitively, creating a logical and efficient way to organize your thoughts.
 

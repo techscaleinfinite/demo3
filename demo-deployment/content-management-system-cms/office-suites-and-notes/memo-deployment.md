@@ -30,27 +30,27 @@ layout:
 
 **Key Features at a Glance:**
 
-**Privacy First:**
+<mark style="color:green;">**Privacy First:**</mark>
 
 * With memos, your data is your own. It champions data privacy by storing all your information in a secure SQLite database file, keeping it away from prying eyes.
 
-**Plain Text with Markdown:**
+<mark style="color:purple;">**Plain Text with Markdown:**</mark>
 
 * Your memos are stored as plain text with the added magic of Markdown. This means you can effortlessly format your notes without unnecessary HTML complications.
 
-**Lightweight and Powerful:**
+<mark style="color:purple;">**Lightweight and Powerful:**</mark>
 
 * Under the hood, memos rely on a sleek combination of Go, React.js, and SQLite. This architecture ensures a lightweight package that doesn't compromise on functionality.
 
-**Customizable:**
+<mark style="color:green;">**Customizable:**</mark>
 
 * Make memos truly yours by tailoring it to your preferences. You can customize everything from the server name, icon, description, system style, to execution scripts, and more.
 
-**Completely Open Source:**
+<mark style="color:orange;">**Completely Open Source:**</mark>
 
 * memos embraces the open-source ethos. You can explore its inner workings on GitHub, fostering transparency and community collaboration.
 
-**Free Forever:**
+<mark style="color:blue;">**Free Forever:**</mark>
 
 * Good news for your wallet—memos offers all its features for free, and there's no plan to change that. It's a commitment to keeping your memo-taking experience both valuable and cost-free.
 
@@ -64,27 +64,27 @@ So, whether you're jotting down spur-of-the-moment ideas, organizing your though
 
 <mark style="color:orange;">At first glance, memos may seem like just another note-taking app, but beneath its simple exterior lies a powerhouse of features designed to elevate your memo-keeping experience. Let's peel back the curtain and explore how this ingenious application works:</mark>
 
-**1. Privacy First and Foremost:**
+**1. **<mark style="color:purple;">**Privacy First and Foremost:**</mark>
 
 * memos takes data privacy seriously. Every piece of information you generate while using the app is securely stored within an SQLite database file. This approach ensures your notes are for your eyes only, safeguarding your personal thoughts and ideas.
 
-**2. Markdown Magic:**
+**2. **<mark style="color:purple;">**Markdown Magic:**</mark>
 
 * memos embraces the simplicity of plain text but doesn't skimp on style. It utilizes Markdown, a lightweight markup language, to help you format your memos effortlessly. Whether you want to emphasize text, create lists, or add headers, memos has got your back with a plethora of Markdown features.
 
-**3. Lean yet Robust:**
+**3**<mark style="color:purple;">**. Lean yet Robust:**</mark>
 
 * The technology stack behind memos is a carefully crafted blend of Go, React.js, and SQLite. This choice of architecture strikes the perfect balance between a lightweight application and robust functionality. You get a nimble memo-keeping tool that doesn't compromise on power.
 
-**4. Tailored to Your Tastes:**
+**4. **<mark style="color:purple;">**Tailored to Your Tastes:**</mark>
 
 * Make memos uniquely yours by diving into its customization options. You have the freedom to tweak various elements, including the server name, icon, description, system style, execution scripts, and more. Personalize it to align with your preferences and style.
 
-**5. Open Source Philosophy:**
+**5. **<mark style="color:purple;">**Open Source Philosophy:**</mark>
 
 * Transparency is key, and memos fully embraces the open-source ethos. The entire codebase is available for exploration on GitHub, allowing tech enthusiasts and developers to delve into the application's inner workings, suggest improvements, and foster a sense of community.
 
-**6. Forever Free:**
+**6. **<mark style="color:purple;">**Forever Free:**</mark>
 
 * In a world where software often comes with price tags, memos stands out as a beacon of generosity. It's committed to offering all its features for free, forever. There are no hidden costs or premium tiers. Your memo-taking journey remains valuable without costing you a dime.
 

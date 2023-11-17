@@ -24,38 +24,38 @@ layout:
 
 ### <mark style="color:blue;">What's Grafana?</mark>
 
-**Grafana Unleashed: Your Data's Best Friend**
+<mark style="color:orange;">**Grafana Unleashed: Your Data's Best Friend**</mark>
 
 Meet Grafana, the Swiss Army knife of data analytics and visualization. It doesn't matter if you're a tech genius or just someone who loves numbers; Grafana is here to make data your best friend. Let's dive into what makes Grafana awesome:
 
-**Data Power Without Borders:** Grafana is your buddy across the board. Whether you're rocking a PC, Mac, or even a Raspberry Pi, it's got your back. No need to worry about compatibility—Grafana plays nice with everyone.
+<mark style="color:orange;">**Data Power Without Borders:**</mark> Grafana is your buddy across the board. Whether you're rocking a PC, Mac, or even a Raspberry Pi, it's got your back. No need to worry about compatibility—Grafana plays nice with everyone.
 
-**Where Open Meets Awesome:** Here's the cool part—it's open source. That means it's free, and everybody's invited to the party. You can tweak it, share it, and make it even cooler. Grafana is like an open playground where you're the boss.
+<mark style="color:orange;">**Where Open Meets Awesome:**</mark> Here's the cool part—it's open source. That means it's free, and everybody's invited to the party. You can tweak it, share it, and make it even cooler. Grafana is like an open playground where you're the boss.
 
-**Visualize Like a Pro:** Grafana is the Picasso of data. It takes your numbers and turns them into stunning charts and dashboards. No more squinting at endless rows of data; now you can see your trends and patterns in living color.
+<mark style="color:orange;">**Visualize Like a Pro:**</mark> Grafana is the Picasso of data. It takes your numbers and turns them into stunning charts and dashboards. No more squinting at endless rows of data; now you can see your trends and patterns in living color.
 
-**Data From Everywhere:** Grafana is a data detective. It connects to all your data sources, whether it's a database, an app, or something in the cloud. It's like having a data superhero that brings all your info under one roof.
+<mark style="color:orange;">**Data From Everywhere:**</mark> Grafana is a data detective. It connects to all your data sources, whether it's a database, an app, or something in the cloud. It's like having a data superhero that brings all your info under one roof.
 
-**Stay in the Know:** Grafana doesn't let you snooze. It's got this alert thingy that tells you when something's up. You set the rules, and when your data misbehaves, Grafana gives you a nudge. It's like having a personal data watchdog.
+<mark style="color:orange;">**Stay in the Know:**</mark> Grafana doesn't let you snooze. It's got this alert thingy that tells you when something's up. You set the rules, and when your data misbehaves, Grafana gives you a nudge. It's like having a personal data watchdog.
 
 To sum it up, Grafana is the secret sauce to turn your data chaos into insights and high-fives. Whether you're a data pro or just dipping your toes, it's your ticket to understanding numbers like never before. Your data, your rules, your way!
 
 ### <mark style="color:blue;">**Working in Brief:**</mark>
 
 \
-**Grafana: Your Data's Best Friend in Action**
+<mark style="color:orange;">**Grafana: Your Data's Best Friend in Action**</mark>
 
 Now that you've made friends with Grafana, let's see this buddy in action. Here's how it does its magic:
 
-**1. The Data Detective:** Grafana can connect with just about any data source. Imagine it as the Sherlock Holmes of data, searching databases, cloud services, and APIs to gather clues (or in this case, data).
+**1**<mark style="color:yellow;">**. The Data Detective:**</mark> Grafana can connect with just about any data source. Imagine it as the Sherlock Holmes of data, searching databases, cloud services, and APIs to gather clues (or in this case, data).
 
-**2. Creating Dashboards:** Grafana gives you the power to be the boss. You start by making your own dashboard. Think of it as a personal control center where you decide what data you want and how you want to see it.
+**2. **<mark style="color:orange;">**Creating Dashboards:**</mark> Grafana gives you the power to be the boss. You start by making your own dashboard. Think of it as a personal control center where you decide what data you want and how you want to see it.
 
-**3. The Visual Artist:** Grafana is a true artist. It takes your data and transforms it into beautiful charts and graphs that respond to your every move. You click, it updates - real-time magic!
+**3**<mark style="color:yellow;">**. The Visual Artist**</mark>**:** Grafana is a true artist. It takes your data and transforms it into beautiful charts and graphs that respond to your every move. You click, it updates - real-time magic!
 
-**4. Stay in the Know:** It's like having a data babysitter. You tell Grafana what's important, and it keeps an eye on your data. If something goes wonky, it sends you a message. No more surprises.
+**4. **<mark style="color:orange;">**Stay in the Know:**</mark> It's like having a data babysitter. You tell Grafana what's important, and it keeps an eye on your data. If something goes wonky, it sends you a message. No more surprises.
 
-**5. Real-Time Wizard:** Grafana's visualizations are like a crystal ball for your data. You can see trends and changes as they happen. It's like having a data fortune-teller right at your fingertips.
+**5. **<mark style="color:blue;">**Real-Time Wizard:**</mark> Grafana's visualizations are like a crystal ball for your data. You can see trends and changes as they happen. It's like having a data fortune-teller right at your fingertips.
 
 In a nutshell, Grafana is your data sidekick, making the world of numbers and charts feel like a walk in the park. It's all about connecting, visualizing, and keeping you informed. Plus, it's open to all and keeps getting better with its cool community.
 

@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🖥 Introduction](README.md)
+* [💥 Quick starts](README.md)
+* [🖥 Introduction](<README (1).md>)
   * [☁ About Scale Infinite](introduction/about-scale-infinite.md)
   * [🐋 Kubernetes](introduction/kubernetes/README.md)
     * [🛳 Containers and Kubernetes](introduction/kubernetes/containers-and-kubernetes.md)
@@ -125,4 +126,3 @@
 * [‼ FAQ](faq.md)
 * [👫 Community](community.md)
 * [🔗 Useful links](useful-links.md)
-* [Getting Started](getting-started.md)

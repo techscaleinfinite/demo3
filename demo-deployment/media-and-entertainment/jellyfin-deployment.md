@@ -27,29 +27,29 @@ layout:
 
 <mark style="color:orange;">**Jellyfin: Your Personal Media Maestro**</mark>
 
-**A Symphony of Media Freedom:** Jellyfin is like an open-air concert for your media. It's open-source, meaning it's free for all to enjoy. You get a powerful platform to organize and stream your personal media without reaching for your wallet.
+<mark style="color:orange;">**A Symphony of Media Freedom:**</mark> Jellyfin is like an open-air concert for your media. It's open-source, meaning it's free for all to enjoy. You get a powerful platform to organize and stream your personal media without reaching for your wallet.
 
-**Media Wonderland:** Whether you're a movie buff, a music lover, or a photography enthusiast, Jellyfin's got your back. It plays nicely with all sorts of media, from your favorite songs to cherished videos and treasured photos.
+<mark style="color:orange;">**Media Wonderland:**</mark> Whether you're a movie buff, a music lover, or a photography enthusiast, Jellyfin's got your back. It plays nicely with all sorts of media, from your favorite songs to cherished videos and treasured photos.
 
-**Your Media, Your Way:** With Jellyfin, your media is wherever you are. It harmoniously streams your content to a variety of devices, ensuring you can dive into your collection no matter what gadget you're using.
+<mark style="color:orange;">**Your Media, Your Way:**</mark> With Jellyfin, your media is wherever you are. It harmoniously streams your content to a variety of devices, ensuring you can dive into your collection no matter what gadget you're using.
 
-**Tailored to You:** Personalization is Jellyfin's middle name. You can customize your media server's look and feel to match your style. It's like having your own private media den, designed just the way you like it.
+<mark style="color:orange;">**Tailored to You:**</mark> Personalization is Jellyfin's middle name. You can customize your media server's look and feel to match your style. It's like having your own private media den, designed just the way you like it.
 
-**Fort Knox for Your Media:** Worried about privacy? Jellyfin has you covered. Since it's self-hosted, there's no need to fret about nosy neighbors. It's like having a safe vault for your digital treasures.
+<mark style="color:orange;">**Fort Knox for Your Media:**</mark> Worried about privacy? Jellyfin has you covered. Since it's self-hosted, there's no need to fret about nosy neighbors. It's like having a safe vault for your digital treasures.
 
 In a world where media reigns supreme, Jellyfin is your media maestro. It ensures your collection is neat, accessible, and completely under your command. Think of it as your personal media curator, ready to serve entertainment whenever and wherever you want it.
 
 ### <mark style="color:blue;">**Working in Brief:**</mark>
 
-**Media Library Zen:** Think of Jellyfin as your personal librarian for all things media. It takes your movies, music, and more and neatly organizes them by type, genre, or artist. It's like having a beautifully sorted bookshelf for your entertainment collection.
+<mark style="color:orange;">**Media Library Zen**</mark>**:** Think of Jellyfin as your personal librarian for all things media. It takes your movies, music, and more and neatly organizes them by type, genre, or artist. It's like having a beautifully sorted bookshelf for your entertainment collection.
 
-**Entertainment on Demand:** Jellyfin plays the role of a magical genie, granting your media wishes on demand. It effortlessly streams your media to your devices, no matter if they're in your living room or on the other side of the world.
+<mark style="color:orange;">**Entertainment on Demand:**</mark> Jellyfin plays the role of a magical genie, granting your media wishes on demand. It effortlessly streams your media to your devices, no matter if they're in your living room or on the other side of the world.
 
-**VIP Access:** With Jellyfin, your media kingdom becomes exclusive. You simply log in to your Jellyfin account for a tailored experience. It's like having a VIP pass to your personal media wonderland.
+<mark style="color:orange;">**VIP Access:**</mark> With Jellyfin, your media kingdom becomes exclusive. You simply log in to your Jellyfin account for a tailored experience. It's like having a VIP pass to your personal media wonderland.
 
-**Media Multilingualism:** Jellyfin is the ultimate linguist for your media. It can translate media formats in real-time to match your devices, ensuring everything plays smoothly. It's like having a universal remote control for your media.
+<mark style="color:orange;">**Media Multilingualism:**</mark> Jellyfin is the ultimate linguist for your media. It can translate media formats in real-time to match your devices, ensuring everything plays smoothly. It's like having a universal remote control for your media.
 
-**Worldwide Entertainment:** Jellyfin opens the door to a world of media. You can enjoy your collection from anywhere, as if you're carrying your entire media library in your pocket. It's ready to entertain you wherever you go.
+<mark style="color:orange;">**Worldwide Entertainment:**</mark> Jellyfin opens the door to a world of media. You can enjoy your collection from anywhere, as if you're carrying your entire media library in your pocket. It's ready to entertain you wherever you go.
 
 Jellyfin takes the complexity out of managing your media. It puts you in charge of your entertainment kingdom with its self-hosted solution, and since it's open-source, you have the keys to customize it as you like. With Jellyfin, your media remains private and secure, promising an entertainment experience that's uniquely yours.
 

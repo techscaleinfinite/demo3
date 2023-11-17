@@ -25,35 +25,35 @@ layout:
 
 Introducing _MiniNote_, the unassuming yet brilliant self-hosted gem designed for your confidential Markdown note-taking needs. Here's a sneak peek into the world of MiniNote, where simplicity meets security:
 
-📝 **Simplicity in Complexity:**
+<mark style="color:orange;">📝</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Simplicity in Complexity:**</mark>
 
 * MiniNote is a testament to the beauty of simplicity. Behind its uncluttered interface lies a robust tool for crafting and storing Markdown-based notes.
 
-🔒 **Fortress of Encryption:**
+<mark style="color:orange;">🔒</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Fortress of Encryption:**</mark>
 
 * Your thoughts deserve the utmost security. MiniNote takes your privacy seriously by encrypting your notes, ensuring they remain exclusively yours.
 
-📚 **Markdown Magic:**
+<mark style="color:orange;">📚</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Markdown Magic:**</mark>
 
 * Markdown aficionados rejoice! MiniNote understands your language. Craft beautifully formatted notes with ease, harnessing the power of Markdown syntax.
 
-🏡 **Self-Hosted Sanctuary:**
+🏡 <mark style="color:orange;">**Self-Hosted Sanctuary:**</mark>
 
 * MiniNote doesn't believe in third-party custody. It's your data, and you control it. Hosting it yourself adds an extra layer of ownership and security.
 
-🌟 **No-Frills, All Thrills:**
+🌟 <mark style="color:orange;">**No-Frills, All Thrills:**</mark>
 
 * MiniNote isn't about flashy features. It's about getting down to business—taking notes with minimal distractions and maximal productivity.
 
-🔐 **Data's Best Friend:**
+🔐 <mark style="color:orange;">**Data's Best Friend:**</mark>
 
 * Your data is precious, and MiniNote treats it as such. With encryption and self-hosting, your notes are in the safest of hands—yours.
 
-🌐 **Web-Based Wonder:**
+<mark style="color:orange;">🌐</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Web-Based Wonder:**</mark>
 
 * Access MiniNote from anywhere, anytime. Its web-based nature ensures you're never far from your thoughts.
 
-🚀 **Effortless Efficiency:**
+<mark style="color:orange;">🚀</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Effortless Efficiency:**</mark>
 
 * MiniNote streamlines your note-taking process. Write, edit, and access your notes seamlessly, without the fuss.
 
@@ -67,19 +67,19 @@ In a world filled with overcomplicated note-taking apps, MiniNote stands as a be
 
 In the realm of digital sanctuaries, _MiniNote_ stands as a fortress of security with a dash of simplicity. Here's the lowdown on MiniNote's security features:
 
-🔒 **Bulletproof Encryption:**
+🔒 <mark style="color:orange;">**Bulletproof Encryption:**</mark>
 
 * MiniNote wraps your notes in a cloak of encryption, ensuring that both titles and content remain as secret as the recipe for grandma's cookies. It uses AES-GCM, a formidable encryption method, courtesy of the Web Crypto API.
 
-🔐 **Password Power:**
+🔐 <mark style="color:orange;">**Password Power:**</mark>
 
 * Remember, encryption is only as strong as your password. MiniNote lets you wield this power by using your notebook's password to derive the encryption key. Choose wisely, and your notes will be as secure as Fort Knox.
 
-🌐 **End-to-End-ish:**
+🌐 <mark style="color:orange;">**End-to-End-ish:**</mark>
 
 * While MiniNote takes encryption seriously, it's honest about its limitations. It encrypts your notes before they travel to the server, but it's not quite "NSA-proof." The server might catch a glimpse of your password when creating a new notebook. Think of it as locking your diary with a sturdy padlock, but the locksmith knows the design.
 
-⚔️ **Decent Security:**
+⚔️ <mark style="color:orange;">**Decent Security:**</mark>
 
 * MiniNote doesn't make grandiose claims, but it does aim for a decent level of security. It's your digital safe haven, not a spy movie prop.
 

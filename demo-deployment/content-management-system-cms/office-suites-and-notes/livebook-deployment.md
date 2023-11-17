@@ -44,9 +44,9 @@ In the ever-evolving realm of coding and data exploration, having the right tool
 
 **7. Decentralized and Open-Source**: Livebook isn't confined by boundaries. It's open-source, ready to run wherever you need it. The "Run in Livebook" badge simplifies importing any Livebook into your personal workspace.
 
-In the realm of coding, where innovation meets exploration, Livebook stands as your trusted companion. It seamlessly blends documentation and execution, empowers collaboration, and offers a versatile toolbox to explore and visualize data. With Livebook, coding becomes a vibrant, communal adventure.
+_In the realm of coding, where innovation meets exploration, Livebook stands as your trusted companion. It seamlessly blends documentation and execution, empowers collaboration, and offers a versatile toolbox to explore and visualize data. With Livebook, coding becomes a vibrant, communal adventure._
 
-So, whether you're building the next groundbreaking app or uncovering insights within your data, Livebook has your back. It's not just a code notebook; it's a dynamic, collaborative workspace for the curious minds of the coding world. Try Livebook and elevate your coding experience today!
+_So, whether you're building the next groundbreaking app or uncovering insights within your data, Livebook has your back. It's not just a code notebook; it's a dynamic, collaborative workspace for the curious minds of the coding world. Try Livebook and elevate your coding experience today!_
 
 
 
@@ -78,7 +78,7 @@ So, whether you're crafting the next big software marvel or unraveling data myst
 
 *   <mark style="background-color:purple;">**This deployment utilizes the official  livebook  Docker image. Here's a step-by-step guide to get you started:**</mark>
 
-    1. Begin by navigating to the "Create Apps" page and use the search bar to find the  [livebook/livebook](https://hub.docker.com/r/livebook/livebook) application.
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the  [<mark style="background-color:green;">livebook/livebook</mark>](https://hub.docker.com/r/livebook/livebook) application.
     2. Click on the "Install" button to initiate the installation process.
     3. Fill in all the required fields with the necessary information.
     4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).

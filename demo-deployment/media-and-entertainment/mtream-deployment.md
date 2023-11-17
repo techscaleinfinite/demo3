@@ -28,23 +28,23 @@ layout:
 
 <mark style="color:orange;">Have you ever dreamed of having your very own music streaming server, where your cherished tunes are just a click away, no matter where you are? Well, enter mStream, the maestro of personal music streaming.</mark>
 
-🏡 **Home is Where the Music Is** 🏡
+🏡 <mark style="color:orange;">**Home is Where the Music Is**</mark> 🏡
 
 With mStream, your home computer becomes the star of the show. It transforms your humble abode into a music hub, ready to serenade you with melodies from your own collection.
 
-📱 **Music on the Move** 📱
+📱 <mark style="color:orange;">**Music on the Move**</mark> 📱
 
 But here's the kicker – mStream doesn't like to stay home all the time. It's a globetrotter, with mobile apps for both Android and iPhone. So, whether you're lounging on the couch or exploring far-off lands, your music library is right there in your pocket.
 
-🌟 **Your Personal DJ** 🌟
+🌟 <mark style="color:orange;">**Your Personal DJ**</mark> 🌟
 
 Think of mStream as your personal DJ, spinning your favorite tracks with finesse. Its interface is as smooth as a dance floor, making navigation and playlists a breeze.
 
-📡 **Anywhere, Anytime** 📡
+📡 <mark style="color:orange;">**Anywhere, Anytime**</mark> 📡
 
 With mStream, you're not confined to a single room or device. It breaks free from the shackles of location, bringing your music to any device with an internet connection. From your cozy den to a beachfront paradise, your playlist is your oyster.
 
-🚀 **Stream with Confidence** 🚀
+🚀 <mark style="color:orange;">**Stream with Confidence**</mark> 🚀
 
 Security is key. mStream ensures that your music stays yours, protected behind digital fortifications. It's your vault, and only you hold the key.
 
@@ -52,31 +52,31 @@ So, if you're ready to turn your home into a music haven and your phone into a j
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-🎵 **Unveiling the Harmony: How mStream Works** 🎵
+🎵 <mark style="color:orange;">**Unveiling the Harmony: How mStream Works**</mark> 🎵
 
 At the heart of mStream lies the magic of personal music streaming. Here's your backstage pass to the symphony:
 
-🏡 **Home is Where the Soundwaves Begin** 🏡
+🏡 <mark style="color:yellow;">**Home is Where the Soundwaves Begin**</mark> 🏡
 
 mStream kicks off its performance right at home, on your trusty computer. It's here that your cherished music collection takes center stage.
 
-📡 **The Connection That Knows No Bounds** 📡
+📡 <mark style="color:orange;">**The Connection That Knows No Bounds**</mark> 📡
 
 But mStream isn't content with just staying indoors. It yearns to explore the world, and it does so through your mobile companions. There are apps, both for Android and iPhone, making sure your music is your travel companion.
 
-🎶 **The Maestro Takes the Stage** 🎶
+🎶 <mark style="color:yellow;">**The Maestro Takes the Stage**</mark> 🎶
 
 Picture mStream as your personal music maestro. It orchestrates your tunes effortlessly, curating playlists and making sure your music experience is pitch-perfect.
 
-🌍 **Your Music, Your World** 🌍
+🌍 <mark style="color:orange;">**Your Music, Your World**</mark> 🌍
 
 The beauty of mStream? It's not tethered to one place. With an internet connection, it liberates your melodies, playing them on any device, wherever you roam.
 
-🔒 **Security is Its Encore** 🔒
+🔒 <mark style="color:orange;">**Security is Its Encore**</mark> 🔒
 
 Safety is a top note for mStream. It ensures that your music fortress remains impenetrable, letting only you and your trusted audience listen in.
 
-💫 **The Final Encore** 💫
+💫 <mark style="color:purple;">**The Final Encore**</mark> 💫
 
 So there you have it – mStream's secret sauce. It turns your home into a music sanctuary and your mobile into a pocket-sized concert hall. With mStream, music is more than sound; it's an experience.
 

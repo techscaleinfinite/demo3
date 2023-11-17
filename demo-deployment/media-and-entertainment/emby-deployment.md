@@ -27,19 +27,19 @@ layout:
 
 <mark style="color:orange;">Emby is like a personal media butler, here to help you bring order to your multimedia chaos. It's not just software; it's a trusted companion in your media journey. Here's how Emby adds magic to your media world:</mark>
 
-**Installation: The First Step in Your Emby Adventure**
+<mark style="color:blue;">**Installation: The First Step in Your Emby Adventure**</mark>
 
 Your Emby journey starts with a simple and crucial step – installing the Emby server software. Think of it as finding the perfect home for your precious media collection. You have the freedom to choose the device that suits you best, whether it's your trusted desktop, a nimble laptop, a dedicated server, or a reliable NAS (Network Attached Storage). This chosen device becomes the guardian of your media library, ensuring smooth and hassle-free content streaming.
 
-**Library Setup: Laying the Groundwork for Your Media Empire**
+<mark style="color:blue;">**Library Setup: Laying the Groundwork for Your Media Empire**</mark>
 
 Now that Emby is in place, it's time to create the foundation for your media empire. It's like providing your librarian with a map to all the hidden bookshelves. You configure Emby by informing it about the locations of your valuable media files. Your media might include movies, TV shows, music collections, cherished photos, and more, all waiting to be organized and enjoyed.
 
-**Media Scanning and Metadata Retrieval: Your Meticulous Archivist**
+<mark style="color:blue;">**Media Scanning and Metadata Retrieval: Your Meticulous Archivist**</mark>
 
 Emby takes on the role of a meticulous archivist. It embarks on a quest through the directories you've specified, identifying each media file and categorizing it just like a seasoned librarian. But here's where the magic happens: Emby doesn't stop there. It reaches out to online databases like The Movie Database (TMDb) and TheTVDB to fetch all the juicy details. Picture it as your personal librarian who not only arranges your books but also adds beautifully crafted book jackets, intriguing blurbs, cast lists, and even trailers to breathe life into your library.
 
-**User Profiles: Tailoring the Experience**
+<mark style="color:blue;">**User Profiles: Tailoring the Experience**</mark>
 
 In a household with diverse tastes, Emby plays the role of a diplomat. It graciously supports multiple user profiles, ensuring that each member can have their unique view of the media library. It's like having a custom-made reading nook for every family member in your library. Each user can tailor their preferences and settings, guaranteeing that everyone gets to enjoy their favorite books or media content.
 
@@ -51,19 +51,19 @@ Emby transforms your media experience into something that's not just organized b
 
 Emby transforms your digital space into a well-organized and personalized media haven. Here's how it all comes together:
 
-**1. Installation: Setting the Stage**
+**1. **<mark style="color:orange;">**Installation: Setting the Stage**</mark>
 
 Your Emby journey kicks off with a simple yet crucial step - installing the Emby server software. Think of it like finding the perfect home for your cherished media collection. You have the flexibility to choose from a range of compatible devices, whether it's your reliable desktop, a nimble laptop, a dedicated server, or a trusty NAS (Network Attached Storage). This chosen device becomes the guardian of your media library, ensuring a seamless streaming experience.
 
-**2. Library Setup: The Foundation of Your Media Empire**
+**2. **<mark style="color:orange;">**Library Setup: The Foundation of Your Media Empire**</mark>
 
 With Emby in place, it's time to lay the groundwork for your media empire. It's akin to providing your librarian with a map to all the hidden bookshelves. You configure Emby by informing it about the locations of your precious media files. Your media could encompass movies, TV shows, music collections, cherished photos, and more, all waiting to be neatly organized and thoroughly enjoyed.
 
-**3. Media Scanning and Metadata Retrieval: Your Meticulous Archivist**
+**3. **<mark style="color:orange;">**Media Scanning and Metadata Retrieval: Your Meticulous Archivist**</mark>
 
 Emby takes on the role of a meticulous archivist. It embarks on a quest through the directories you've specified, identifying each media file and categorizing it just like a seasoned librarian. But here's where the magic unfolds - Emby doesn't stop there. It reaches out to online databases like The Movie Database (TMDb) and TheTVDB to fetch all the juicy details. Imagine it as your personal librarian who not only arranges your books but also adds beautifully crafted book jackets, intriguing blurbs, cast lists, and even trailers to bring your library to life.
 
-**4. User Profiles: Tailoring the Experience**
+**4. **<mark style="color:orange;">**User Profiles: Tailoring the Experience**</mark>
 
 In a household where diverse tastes reign, Emby plays the role of a diplomat. It gracefully supports multiple user profiles, ensuring that each member can have their very own, unique view of the media library. It's like having a custom-made reading nook for every family member in your library. Each user can tailor their preferences and settings, guaranteeing that everyone gets to enjoy their favorite books or media content.
 

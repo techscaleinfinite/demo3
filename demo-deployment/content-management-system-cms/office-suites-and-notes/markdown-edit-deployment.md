@@ -33,14 +33,14 @@ _<mark style="color:orange;">Welcome to Markdown Edit – Where the Web Meets Ma
 
 **Why Markdown Edit? Well, let's break it down:**
 
-1. **Web-Powered Wizardry:** Our platform harnesses the incredible power of web technology to give you a markdown editing experience like no other. Say goodbye to clunky, offline editors!
-2. **Your Markdown Muse:** Think of Markdown Edit as your trusty muse. It's here to inspire your creativity and help you craft stunning documents effortlessly.
-3. **Editing Bliss:** Tired of wrestling with formatting quirks? Our editor ensures your markdown document looks pristine, so you can focus on what you do best – writing!
-4. **Web-Based Wonder:** No need to install anything. Markdown Edit is right at your fingertips, wherever you have an internet connection. Convenience at its finest!
-5. **Your Markdown Playground:** Whether you're penning a blog post, creating documentation, or simply jotting down notes, Markdown Edit has your back. It's your versatile playground for all things markdown.
-6. **Real-Time Preview:** Watch your markdown masterpiece come to life with our real-time preview. What you see is what you get, and it's beautiful!
-7. **Simplicity Meets Power:** Markdown Edit strikes the perfect balance between simplicity and functionality. It's perfect for markdown newcomers and seasoned pros alike.
-8. **Seamless Collaboration:** Need to collaborate with others? Markdown Edit's got your back. Share and edit documents together, hassle-free.
+1. <mark style="color:orange;">**Web-Powered Wizardry:**</mark> Our platform harnesses the incredible power of web technology to give you a markdown editing experience like no other. Say goodbye to clunky, offline editors!
+2. <mark style="color:orange;">**Your Markdown Muse:**</mark> Think of Markdown Edit as your trusty muse. It's here to inspire your creativity and help you craft stunning documents effortlessly.
+3. <mark style="color:orange;">**Editing Bliss:**</mark> Tired of wrestling with formatting quirks? Our editor ensures your markdown document looks pristine, so you can focus on what you do best – writing!
+4. <mark style="color:orange;">**Web-Based Wonder:**</mark> No need to install anything. Markdown Edit is right at your fingertips, wherever you have an internet connection. Convenience at its finest!
+5. <mark style="color:orange;">**Your Markdown Playground:**</mark> Whether you're penning a blog post, creating documentation, or simply jotting down notes, Markdown Edit has your back. It's your versatile playground for all things markdown.
+6. <mark style="color:orange;">**Real-Time Preview:**</mark> Watch your markdown masterpiece come to life with our real-time preview. What you see is what you get, and it's beautiful!
+7. <mark style="color:orange;">**Simplicity Meets Power:**</mark> Markdown Edit strikes the perfect balance between simplicity and functionality. It's perfect for markdown newcomers and seasoned pros alike.
+8. <mark style="color:orange;">**Seamless Collaboration:**</mark> Need to collaborate with others? Markdown Edit's got your back. Share and edit documents together, hassle-free.
 
 So, whether you're a coding guru, a content creator, or just someone who loves the elegance of markdown, welcome to your new favorite writing companion. Markdown Edit – where every keystroke is a step closer to markdown mastery! 🚀📝🎩
 
@@ -52,14 +52,14 @@ So, whether you're a coding guru, a content creator, or just someone who loves t
 
 <mark style="color:orange;">Markdown Edit is all about making your markdown editing experience as smooth as butter. So, here's a peek behind the scenes to see how it works:</mark>
 
-1. **Web Technology:** Markdown Edit is powered by the marvels of web technology. It's entirely browser-based, so there's no need to download or install anything. Simply open your web browser, and you're good to go.
-2. **Editing Interface:** When you visit Markdown Edit, you're greeted by a clean and intuitive editing interface. It's designed to be user-friendly, whether you're a seasoned markdown pro or just getting started.
-3. **Markdown Syntax:** You'll see a text area where you can start typing or pasting your markdown content. Markdown is a lightweight markup language that uses simple, human-readable syntax to format text. For example, to make a word bold, you wrap it in double asterisks like this: `**bold text**`.
-4. **Real-Time Preview:** As you type, Markdown Edit provides a real-time preview of your markdown document right next to the editing area. This means you can instantly see how your document will appear when rendered, without having to switch to a separate preview mode.
-5. **Formatting Toolbar:** Markdown Edit often includes a helpful formatting toolbar. This toolbar offers shortcuts and buttons to assist with common markdown formatting tasks, such as making text bold, italic, or creating lists.
-6. **Export Options:** Once you've crafted your masterpiece, Markdown Edit allows you to export your document in various formats. This can include standard markdown text, HTML for web publishing, and even PDF for print-ready documents.
-7. **Collaboration:** If you're collaborating with others, Markdown Edit usually provides sharing options. You can share your markdown document with colleagues or friends, and they can edit it simultaneously, enabling real-time collaboration.
-8. **Accessibility:** Markdown Edit strives to be accessible to everyone. It's designed with features that assist users with disabilities, ensuring a seamless experience for all.
+1. <mark style="color:orange;">**Web Technology:**</mark> Markdown Edit is powered by the marvels of web technology. It's entirely browser-based, so there's no need to download or install anything. Simply open your web browser, and you're good to go.
+2. <mark style="color:orange;">**Editing Interface:**</mark> When you visit Markdown Edit, you're greeted by a clean and intuitive editing interface. It's designed to be user-friendly, whether you're a seasoned markdown pro or just getting started.
+3. <mark style="color:orange;">**Markdown Syntax:**</mark> You'll see a text area where you can start typing or pasting your markdown content. Markdown is a lightweight markup language that uses simple, human-readable syntax to format text. For example, to make a word bold, you wrap it in double asterisks like this: `**bold text**`.
+4. <mark style="color:orange;">**Real-Time Preview:**</mark> As you type, Markdown Edit provides a real-time preview of your markdown document right next to the editing area. This means you can instantly see how your document will appear when rendered, without having to switch to a separate preview mode.
+5. <mark style="color:orange;">**Formatting Toolbar:**</mark> Markdown Edit often includes a helpful formatting toolbar. This toolbar offers shortcuts and buttons to assist with common markdown formatting tasks, such as making text bold, italic, or creating lists.
+6. <mark style="color:orange;">**Export Options:**</mark> Once you've crafted your masterpiece, Markdown Edit allows you to export your document in various formats. This can include standard markdown text, HTML for web publishing, and even PDF for print-ready documents.
+7. <mark style="color:orange;">**Collaboration:**</mark> If you're collaborating with others, Markdown Edit usually provides sharing options. You can share your markdown document with colleagues or friends, and they can edit it simultaneously, enabling real-time collaboration.
+8. <mark style="color:orange;">**Accessibility:**</mark> Markdown Edit strives to be accessible to everyone. It's designed with features that assist users with disabilities, ensuring a seamless experience for all.
 
 In a nutshell, Markdown Edit takes the complexity out of markdown editing. It's a dynamic, web-based tool that empowers you to create beautifully formatted documents without the hassle. Just type, format, and let Markdown Edit handle the rest! 🚀📄🎉\
 

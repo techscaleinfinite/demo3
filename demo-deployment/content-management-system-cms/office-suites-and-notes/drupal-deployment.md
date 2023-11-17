@@ -41,9 +41,9 @@ Building Blocks for Your Dream Website: Imagine Drupal's modular architecture li
 
 Dress Your Website the Way You Like: With Drupal, you have plenty of choices to make your website look just the way you want it to. It's like picking an outfit that matches your style. Themes can be applied to give your site a unique and personalized appearance.
 
-The Magic of PHP: At the heart of Drupal is PHP, a dynamic scripting language. It's like the engine that powers your website, processing requests, and making your content appear in real-time. This means your site can stay updated and interactive.
+<mark style="color:orange;">The Magic of PHP</mark>: At the heart of Drupal is PHP, a dynamic scripting language. It's like the engine that powers your website, processing requests, and making your content appear in real-time. This means your site can stay updated and interactive.
 
-A Community That Has Your Back: Drupal has an awesome community of developers, contributors, and users. They work together to keep Drupal in great shape. They solve problems, introduce cool new stuff, and make sure the platform gets better all the time.
+A[ Community That Has Your Back:](#user-content-fn-1)[^1] Drupal has an awesome community of developers, contributors, and users. They work together to keep Drupal in great shape. They solve problems, introduce cool new stuff, and make sure the platform gets better all the time.
 
 In a nutshell, Drupal is a fantastic choice for managing web content. It's flexible, scalable, and has an amazing community to support you.
 
@@ -205,3 +205,5 @@ Stay informed and engaged with our project's latest developments and support on 
 Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
 
 </details>
+
+[^1]: 

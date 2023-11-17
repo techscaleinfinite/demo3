@@ -27,29 +27,29 @@ layout:
 
 <mark style="color:orange;">Bazarr is like a diligent wingman for your media, the unsung hero that makes sure every detail is perfect. It's the Robin to Sonarr and Radarr's Batman, focusing its superpowers on managing and fetching subtitles just the way you like them. Here's how Bazarr becomes your subtitle savior:</mark>
 
-**Subtitle Preferences:** Bazarr is all about personalization. You get to set your preferences for TV shows and movies, like choosing the perfect outfit for a special occasion. You tell Bazarr what you like, and it takes those preferences to heart.
+<mark style="color:orange;">**Subtitle Preferences:**</mark> Bazarr is all about personalization. You get to set your preferences for TV shows and movies, like choosing the perfect outfit for a special occasion. You tell Bazarr what you like, and it takes those preferences to heart.
 
-**Subtitle Hunting:** Once you've shared your preferences, Bazarr goes on a quest. It tirelessly seeks out and downloads subtitles that match your media files, just like a trusty sidekick on a mission. It's as if it has a sixth sense for finding the exact right words.
+<mark style="color:orange;">**Subtitle Hunting:**</mark> Once you've shared your preferences, <mark style="color:purple;">Bazarr</mark> goes on a quest. It tirelessly seeks out and downloads subtitles that match your media files, just like a trusty sidekick on a mission. It's as if it has a sixth sense for finding the exact right words.
 
-**Enhanced Viewing:** Thanks to Bazarr's dedication, your media viewing experience reaches new heights. You no longer have to squint at the screen or strain your ears to catch every word. Bazarr ensures that precise and fitting subtitles are always there to accompany your content, making every moment enjoyable.
+<mark style="color:orange;">**Enhanced Viewing:**</mark> Thanks to Bazarr's dedication, your media viewing experience reaches new heights. You no longer have to squint at the screen or strain your ears to catch every word. Bazarr ensures that precise and fitting subtitles are always there to accompany your content, making every moment enjoyable.
 
 In a world of media complexities, Bazarr is the friend who always has your back. It ensures that your favorite shows and movies are perfectly dressed in subtitles, ready to deliver an impeccable performance. Bazarr is the unsung hero that makes your media world a little more comfortable, a bit more magical, and a whole lot more enjoyable.
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**Integration:** Bazarr is your media companion that plays well with others. It seamlessly integrates with your media management software, like Sonarr for TV shows and Radarr for movies. Think of it as a friendly handshake between old pals who work together seamlessly.
+<mark style="color:orange;">**Integration**</mark>**:** Bazarr is your media companion that plays well with others. It seamlessly integrates with your media management software, like Sonarr for TV shows and Radarr for movies. Think of it as a friendly handshake between old pals who work together seamlessly.
 
-**Setting Preferences:** Bazarr respects your unique taste. It lets you set your subtitle preferences with meticulous detail. You can specify your language of choice, quality standards, preferred release groups, and more. It's like having your personal subtitle sommelier, ready to serve you the perfect pairing for your media.
+<mark style="color:orange;">**Setting Preferences:**</mark> Bazarr respects your unique taste. It lets you set your subtitle preferences with meticulous detail. You can specify your language of choice, quality standards, preferred release groups, and more. It's like having your personal subtitle sommelier, ready to serve you the perfect pairing for your media.
 
-**Continuous Monitoring:** Bazarr is your vigilant guardian. It constantly keeps an eye on your media library, like a watchful sentry guarding a treasure trove. It's always on the lookout for new arrivals or changes.
+<mark style="color:orange;">**Continuous Monitoring:**</mark> Bazarr is your vigilant guardian. It constantly keeps an eye on your media library, like a watchful sentry guarding a treasure trove. It's always on the lookout for new arrivals or changes.
 
-**Subtitle Search:** When new media enters your library, Bazarr springs into action. It becomes your diligent detective, combing through various subtitle provider websites like a seasoned investigator, searching for the elusive missing piece.
+<mark style="color:orange;">**Subtitle Search:**</mark> When new media enters your library, Bazarr springs into action. It becomes your diligent detective, combing through various subtitle provider websites like a seasoned investigator, searching for the elusive missing piece.
 
-**Download and Matching:** Once Bazarr finds suitable subtitles, it's like a skilled craftsman creating the final piece of a puzzle. It downloads the subtitles and carefully matches them with the corresponding media files in your library, ensuring they fit perfectly.
+<mark style="color:orange;">**Download and Matching:**</mark> Once Bazarr finds suitable subtitles, it's like a skilled craftsman creating the final piece of a puzzle. It downloads the subtitles and carefully matches them with the corresponding media files in your library, ensuring they fit perfectly.
 
-**Notification:** Bazarr doesn't just work behind the scenes; it's polite enough to let you know when the job is done. It notifies your media management application, ensuring that the newly acquired subtitles become an integral part of your media metadata.
+<mark style="color:orange;">**Notification**</mark>**:** Bazarr doesn't just work behind the scenes; it's polite enough to let you know when the job is done. It notifies your media management application, ensuring that the newly acquired subtitles become an integral part of your media metadata.
 
-**Automation:** The best part? It's all automated. You don't need to lift a finger. Bazarr takes care of the entire process, sparing you the hassle of manually searching and downloading subtitles for each and every media file. It's like having a trusty assistant who handles all the little details, leaving you to enjoy your media worry-free.
+<mark style="color:orange;">**Automation:**</mark> The best part? It's all automated. You don't need to lift a finger. Bazarr takes care of the entire process, sparing you the hassle of manually searching and downloading subtitles for each and every media file. It's like having a trusty assistant who handles all the little details, leaving you to enjoy your media worry-free.
 
 With Bazarr by your side, your media world becomes a place of convenience, personalization, and pure enjoyment. It's like having a reliable partner who anticipates your needs and makes sure your media experience is nothing short of perfect.
 

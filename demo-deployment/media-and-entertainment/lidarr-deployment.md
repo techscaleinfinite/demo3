@@ -27,7 +27,7 @@ layout:
 
 <mark style="color:orange;">Picture this: you're a music enthusiast, and your collection is the crown jewel of your digital world. Now, imagine having a trusty sidekick named Lidarr, who's like your personal music curator with a dash of tech brilliance.</mark>
 
-**Lidarr** isn't your ordinary music manager; it's a virtuoso in the world of Usenet and BitTorrent. It's got a keen eye on the horizon, constantly scanning multiple RSS feeds to hunt down new tracks from your favorite artists. And when it spots a gem, Lidarr doesn't just fetch it; it handles it with style.
+<mark style="color:red;">**Lidarr**</mark> isn't your ordinary music manager; it's a virtuoso in the world of Usenet and BitTorrent. It's got a keen eye on the horizon, constantly scanning multiple RSS feeds to hunt down new tracks from your favorite artists. And when it spots a gem, Lidarr doesn't just fetch it; it handles it with style.
 
 Once Lidarr gets its hands on those musical treasures, it doesn't just toss them into the collection. No, no. It's got class. It sorts and renames them, giving your collection that polished, organized look. It's like having a personal butler for your music.
 
@@ -41,15 +41,15 @@ Think of Lidarr as your music-savvy friend who always knows where to find the la
 
 **Lidarr** is like your personal DJ on a mission to upgrade your music game. It works its charm by tapping into the world of Usenet and BitTorrent, which is where all the musical secrets are hidden.
 
-🎵 **Step 1: The Music Radar** 🎵
+🎵 <mark style="color:purple;">**Step 1: The Music Radar**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">🎵</mark>
 
 Lidarr has an impeccable taste in music; it knows your favorite artists like the back of its digital hand. It scours the vast landscape of RSS feeds, keeping a vigilant watch for any new tracks these maestros drop. When it spots a musical treasure, it's like Lidarr's version of a musical jackpot!
 
-🎶 **Step 2: The Organizing Virtuoso** 🎶
+🎶 <mark style="color:yellow;">**Step 2: The Organizing Virtuoso**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">🎶</mark>
 
 But Lidarr isn't just about collecting music; it's all about presentation. It doesn't just toss those tracks into your collection willy-nilly. Oh no, that's not its style. Lidarr takes those musical gems and gives them a proper place in your library. It's like having a personal butler for your tunes, making sure everything is neat, tidy, and easy to find.
 
-🌟 **Step 3: The Quality Maestro** 🌟
+🌟 <mark style="color:purple;">**Step 3: The Quality Maestro**</mark> 🌟
 
 Lidarr is all about quality, darlings. When it stumbles upon a better version of a track you already have, it's on it like a star on the Hollywood Walk of Fame. It'll automatically replace those older files with the high-quality, pristine ones, making sure your collection always sounds like a million bucks.
 

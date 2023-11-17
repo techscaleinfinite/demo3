@@ -36,15 +36,15 @@ Developers, too, reap substantial benefits from Qovery. It simplifies the proces
 
 <mark style="color:green;">**Qovery: Tailored for Success**</mark>
 
-Qovery is, in essence, the deployment platform that every DevOps has wished for. It is not just about deploying apps; it is also about operating production workloads with the highest possible uptime. Qovery enables developers to deploy their apps autonomously while keeping flexibility and control. It's the right option for DevOps workers looking to: Create an internal Platform as a Service (PaaS) with a superior developer experience. Easily create development, staging, and production environments. Make developers self-sufficient while yet maintaining control. Purchase a production-ready infrastructure and save over 18 months of labour.
+Qovery is, in essence, the deployment platform that every DevOps has wished for. It is not just about deploying apps; it is also about operating production workloads with the highest possible uptime. Qovery enables developers to deploy their apps autonomously while keeping flexibility and control. It's the right option for DevOps workers looking to: <mark style="color:orange;">Create an internal Platform as a Service (PaaS) with a superior developer experience.</mark> Easily create development, staging, and production environments. Make developers self-sufficient while yet maintaining control. Purchase a production-ready infrastructure and save over 18 months of labour.
 
 <mark style="color:green;">**Bridging the Gap**</mark>
 
-Qovery serves as an abstraction layer on top of potent tools like Kubernetes, Terraform, and Helm, along with various cloud service providers like AWS, Digital Ocean, and Scaleway. Its goal is to provide a production-ready platform layer, enabling organizations to build on top of it.
+Qovery serves as an abstraction layer on top of potent tools like <mark style="color:orange;">Kubernetes, Terraform, and Helm, along with various cloud service providers like AWS, Digital Ocean, and Scaleway</mark>. Its goal is to provide a production-ready platform layer, enabling organizations to build on top of it.
 
 <mark style="color:green;">**Your Cloud Infrastructure with Qovery**</mark>
 
-The Qovery installation tutorials make it simple to set up the platform on your AWS and Scaleway accounts. To function properly, Qovery requires the installation of a few services on your cloud account. Some are required, while others are optional, allowing you the freedom to customise the infrastructure to your specific requirements..
+The _<mark style="color:purple;">Qovery installation tutorials make it simple to set up the platform on your AWS and Scaleway accounts</mark>_. To function properly, Qovery requires the installation of a few services on your cloud account. Some are required, while others are optional, allowing you the freedom to customise the infrastructure to your specific requirements..
 
 <mark style="color:green;">**Security and Isolation**</mark>
 

@@ -30,20 +30,17 @@ layout:
 Introducing Dillinger: Your Markdown Sidekick Meet Dillinger, the HTML5 Markdown editor that's changing the game. Here's what makes it a standout tool for all kinds of users:
 
 1. Markdown Made Easy: Dillinger is your doorway to the world of Markdown, a simple markup language that's all about clear and clean content creation. It's the go-to choice for writers who value their words, not the distractions.
-2. On-the-Go Guru: Dillinger doesn't keep you tied to your desk. It's mobile-friendly, so you can write and brainstorm from anywhere, whether you're on a busy train or sipping coffee at a cafe.
+2. <mark style="color:orange;">On-the-Go Guru</mark>: Dillinger doesn't keep you tied to your desk. It's mobile-friendly, so you can write and brainstorm from anywhere, whether you're on a busy train or sipping coffee at a cafe.
 3. Cloud Convenience: Say hello to the cloud with Dillinger. Your documents are safely stored online, ready for you whenever and wherever you need them. No more worries about lost files or computer crashes.
-4. Offline Champ: Dillinger understands that the internet isn't always there for you. That's why it works even offline. You can keep working on your documents, even in internet dead zones.
+4. <mark style="color:orange;">Offline Champ</mark>: Dillinger understands that the internet isn't always there for you. That's why it works even offline. You can keep working on your documents, even in internet dead zones.
 5. Tech-Powered: Dillinger is more than a simple text editor. It's a dynamic web application, thanks to AngularJS. This means you get a seamless editing experience with the latest web technology.
 6. Distraction-Free: Dillinger's clean and simple interface keeps distractions away. When you're in your creative zone, the last thing you want is a cluttered screen. Concentrate on your words, and Dillinger will handle the rest.
-7. Markdown to HTML Magic: Dillinger doesn't stop at Markdown. It effortlessly transforms your Markdown into HTML, opening up countless possibilities for publishing and sharing your content.
+7. <mark style="color:orange;">Markdown to HTML Magic</mark>: Dillinger doesn't stop at Markdown. It effortlessly transforms your Markdown into HTML, opening up countless possibilities for publishing and sharing your content.
 8. Live Preview: Watch your changes come to life in real-time. Dillinger shows you a live preview of your Markdown as you type, so you can fine-tune your content with precision.
 9. Github Harmony: If you're a developer or open-source fan, you'll love Dillinger's Github integration. Easily edit and preview your Github-hosted Markdown files.
-10. Open Source Soul: Just like Markdown itself, Dillinger embraces the open-source spirit. It's a project driven by the community, constantly growing to meet your needs.
+10. <mark style="color:orange;">Open Source Soul:</mark> Just like Markdown itself, Dillinger embraces the open-source spirit. It's a project driven by the community, constantly growing to meet your needs.
 
 So, whether you're a writer, a coder, or a creative mind, Dillinger has got your back. It's a Markdown playground that lets you focus on what really matters—your ideas. Embrace the simplicity, harness the power, and let Dillinger be your Markdown companion.
-
-\
-
 
 
 
@@ -53,11 +50,11 @@ So, whether you're a writer, a coder, or a creative mind, Dillinger has got your
 
 Dillinger: Where Markdown Meets Magic Dillinger isn't your ordinary Markdown editor; it's a feature-packed wizard that makes your writing journey enchanting and effortless:
 
-1. HTML to Markdown Magic: Witness the wonder of effortless HTML to Markdown conversion. Just bring an HTML file into Dillinger, and see it transform like a digital chameleon.
+1. <mark style="color:orange;">HTML to Markdown Magic:</mark> Witness the wonder of effortless HTML to Markdown conversion. Just bring an HTML file into Dillinger, and see it transform like a digital chameleon.
 2. Dropbox Image Sorcery: For those who work magic with images, Dillinger allows you to easily drag and drop images from your linked Dropbox account. Your visuals become an integral part of your Markdown masterpiece.
-3. Cosmic File Compatibility: Dillinger connects to the cosmic realms of file hosting. Import and save your documents from GitHub, Dropbox, Google Drive, and OneDrive. The universe of your content is at your fingertips.
+3. <mark style="color:orange;">Cosmic File Compatibility:</mark> Dillinger connects to the cosmic realms of file hosting. Import and save your documents from <mark style="color:purple;">GitHub, Dropbox, Google Drive, and OneDrive.</mark> The universe of your content is at your fingertips.
 4. Drag and Drop Wizardry: Embrace the power of drag and drop with Dillinger. It's as simple as it sounds—just drag and drop your Markdown and HTML files into Dillinger, and let the magic unfold.
-5. Export Enchantment: Dillinger believes in the freedom of choice. Export your documents in various formats: Markdown, HTML, and even PDF. Whether you're sharing your thoughts or preparing a presentation, Dillinger has the spell you need.
+5. <mark style="color:orange;">Export Enchantment</mark>: Dillinger believes in the freedom of choice. Export your documents in various formats: <mark style="color:purple;">Markdown, HTML, and even PDF.</mark> Whether you're sharing your thoughts or preparing a presentation, Dillinger has the spell you need.
 
 So, if you're ready to embark on a writing journey that's both enchanting and efficient, Dillinger is your trusty companion. Watch your ideas come to life, effortlessly convert HTML, and harness the power of seamless image integration. With Dillinger, you're not just writing; you're conjuring words like a true wizard.
 

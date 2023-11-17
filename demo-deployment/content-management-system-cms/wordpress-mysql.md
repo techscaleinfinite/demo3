@@ -26,15 +26,15 @@ layout:
 
 <mark style="color:orange;">WordPress stands as a dynamic and open-source content management system (CMS), proficiently crafted with PHP, and designed to operate seamlessly alongside either MySQL or MariaDB databases. Additionally, it includes robust support for HTTPS, bolstering security measures for data transmission. Here are key details:</mark>
 
-**Open-Source CMS**: WordPress extends itself as an open-source CMS, breaking down accessibility barriers and offering an adaptable platform for the creation and management of websites.
+<mark style="color:orange;">**Open-Source CMS**</mark><mark style="color:orange;">:</mark> WordPress extends itself as an open-source CMS, breaking down accessibility barriers and offering an adaptable platform for the creation and management of websites.
 
-**PHP-Powered:** At its core, WordPress leverages the versatile PHP scripting language. PHP plays a pivotal role in dynamically generating and rendering web content and interactions, contributing to the platform's flexibility.
+<mark style="color:blue;">**PHP-Powered:**</mark> At its core, WordPress leverages the versatile PHP scripting language. PHP plays a pivotal role in dynamically generating and rendering web content and interactions, contributing to the platform's flexibility.
 
-**Database Pairing**: WordPress relies on the support of MySQL or MariaDB databases for the storage of diverse elements, encompassing content, configurations, user data, and more. This partnership with robust databases enables WordPress to handle various aspects of website functionality efficiently.
+<mark style="color:orange;">**Database Pairing**</mark><mark style="color:orange;">:</mark> WordPress relies on the support of MySQL or MariaDB databases for the storage of diverse elements, encompassing content, configurations, user data, and more. This partnership with robust databases enables WordPress to handle various aspects of website functionality efficiently.
 
-**HTTPS Supported**: Recognizing the paramount importance of security in today's digital landscape, WordPress actively promotes and supports HTTPS (HyperText Transfer Protocol Secure). This encryption protocol ensures that data transmission remains confidential and safeguarded against potential threats during its journey across the internet.
+<mark style="color:orange;">**HTTPS Supported**</mark><mark style="color:orange;">:</mark> Recognizing the paramount importance of security in today's digital landscape, WordPress actively promotes and supports HTTPS (HyperText Transfer Protocol Secure). This encryption protocol ensures that data transmission remains confidential and safeguarded against potential threats during its journey across the internet.
 
-WordPress embodies a user-centric approach to website development, offering a versatile and accessible solution. By embracing open-source principles and integrating PHP, robust databases, and HTTPS, WordPress empowers users to create and manage websites with both ease and security at the forefront.
+_WordPress embodies a user-centric approach to website development, offering a versatile and accessible solution. By embracing open-source principles and integrating PHP, robust databases, and HTTPS, WordPress empowers users to create and manage websites with both ease and security at the forefront._
 
 ### <mark style="color:blue;">**Working in Brief**</mark>
 
@@ -42,13 +42,13 @@ WordPress embodies a user-centric approach to website development, offering a ve
 
 Content Creation: WordPress facilitates the creation and publication of web content via an accessible dashboard. Users can draft articles, add media, and manage their site's pages effortlessly.
 
-Database Interaction: WordPress engages in seamless communication with MySQL or MariaDB databases. These databases serve as repositories for an array of elements, including content, configuration settings, and user information. Such integration ensures efficient data storage and retrieval.
+<mark style="color:orange;">Database Interaction:</mark> WordPress engages in seamless communication with MySQL or MariaDB databases. These databases serve as repositories for an array of elements, including content, configuration settings, and user information. Such integration ensures efficient data storage and retrieval.
 
-Themes & Plugins: WordPress extends its functionality through themes and plugins. Themes are instrumental in shaping a website's appearance, enabling customization to match specific design preferences. Meanwhile, plugins provide additional features and functionalities, allowing users to tailor their sites according to their unique requirements.
+T<mark style="color:orange;">**hemes & Plugins**</mark>: WordPress extends its functionality through themes and plugins. Themes are instrumental in shaping a website's appearance, enabling customization to match specific design preferences. Meanwhile, plugins provide additional features and functionalities, allowing users to tailor their sites according to their unique requirements.
 
-Dynamic Pages: PHP, a versatile scripting language, forms the backbone of WordPress, dynamically processing user requests. This enables the generation of web pages on-the-fly, assembling content and delivering it to visitors in real-time.
+<mark style="color:blue;">**Dynamic Pages:**</mark> PHP, a versatile scripting language, forms the backbone of WordPress, dynamically processing user requests. This enables the generation of web pages on-the-fly, assembling content and delivering it to visitors in real-time.
 
-HTTPS Encryption: WordPress prioritizes security by integrating support for HTTPS (HyperText Transfer Protocol Secure). This encryption protocol safeguards data transmitted between users and the website, bolstering privacy and shielding against potential security threats.
+<mark style="color:orange;">HTTPS Encryption:</mark> WordPress prioritizes security by integrating support for HTTPS (HyperText Transfer Protocol Secure). This encryption protocol safeguards data transmitted between users and the website, bolstering privacy and shielding against potential security threats.
 
 WordPress stands as a powerful platform that streamlines website management, offering a combination of user-friendly content creation tools and an extensive repository of themes and plugins. Its dynamic PHP-driven pages and commitment to HTTPS encryption underscore its dedication to providing both functionality and security.
 

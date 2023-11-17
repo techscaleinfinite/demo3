@@ -35,7 +35,7 @@ When you opt for HTTP deployment, you're setting up your application to communic
 
 On the other hand, TCP deployment operates on the Transmission Control Protocol (TCP). This protocol offers a reliable and ordered connection between applications. Think of it as a dedicated channel for your application's data to flow without loss or confusion.
 
-Whether you choose HTTP or TCP deployment, you're tailoring your application's deployment to its specific communication needs. Our platform simplifies this process, ensuring your app is up and running with the right protocol, so you can focus on delivering exceptional experiences to your users
+Whether you choose <mark style="color:orange;">HTTP or TCP</mark> deployment, you're tailoring your application's deployment to its specific communication needs. Our platform simplifies this process, ensuring your app is up and running with the right protocol, so you can focus on delivering exceptional experiences to your users
 
 ### <mark style="color:blue;">Sub-page Explanation</mark>:
 

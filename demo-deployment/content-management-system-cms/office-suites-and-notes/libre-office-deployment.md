@@ -38,13 +38,13 @@ And here's the fun part: It's a bit like that magical wardrobe from Narnia. You 
 
 Alright, let's dive into the enchanting world of LibreOffice and see how this versatile suite of office applications works its magic.
 
-**Imagine you've got a document to create**. You fire up LibreOffice Writer, which is like your trusty word processor. You type away, add some stylish formatting, insert images, and create a masterpiece. Behind the scenes, LibreOffice uses its open-source wizardry to handle the text, layout, and even spell-checking, making your words look as sharp as a well-tailored suit.
+<mark style="color:orange;">**Imagine you've got a document to create**</mark><mark style="color:orange;">.</mark> You fire up LibreOffice Writer, which is like your trusty word processor. You type away, add some stylish formatting, insert images, and create a masterpiece. Behind the scenes, LibreOffice uses its open-source wizardry to handle the text, layout, and even spell-checking, making your words look as sharp as a well-tailored suit.
 
-**Now, let's talk numbers.** You need to crunch some data for that important project. LibreOffice Calc steps in as your spreadsheet wizard. You enter your numbers, create formulas, and watch it perform mathematical feats. It's like having a mathematical butler who's always on point.
+<mark style="color:orange;">**Now, let's talk numbers.**</mark> You need to crunch some data for that important project. LibreOffice Calc steps in as your spreadsheet wizard. You enter your numbers, create formulas, and watch it perform mathematical feats. It's like having a mathematical butler who's always on point.
 
 <mark style="color:orange;">**But what about that upcoming presentation?**</mark> LibreOffice Impress is your ticket to creating captivating slides. You add text, images, charts, and transitions. When you hit "play," it's showtime! Your audience will be nodding in agreement, and they won't even realize it's your secret weapon.
 
-**The beauty of LibreOffice lies in its open-source nature.** It's not some locked-up, proprietary software; it's a collaborative playground. Developers from around the globe have chipped in to make it user-friendly, flexible, and free. It's a bit like an open book; you can read, write, and share your own stories.
+<mark style="color:orange;">**The beauty of LibreOffice lies in its open-source nature.**</mark> It's not some locked-up, proprietary software; it's a collaborative playground. Developers from around the globe have chipped in to make it user-friendly, flexible, and free. It's a bit like an open book; you can read, write, and share your own stories.
 
 So, in a nutshell, LibreOffice works by giving you the tools you need to create, calculate, and captivate without the hassle of expensive licenses. It's the friendly neighborhood superhero of office software, making your digital tasks a breeze.\
 

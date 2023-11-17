@@ -27,15 +27,15 @@ layout:
 
 <mark style="color:orange;">Lightstreamer is a real-time messaging server that is optimized for the Internet. It's designed to facilitate real-time data streaming and messaging, making it a valuable tool for various applications and industries.</mark>
 
-**Real-Time Messaging:** Lightstreamer is like a maestro of real-time communication. It's designed to effortlessly transmit data in real-time across the Internet, making it an invaluable tool for applications that rely on instant data updates. Imagine it as the conductor of a symphony of information, ensuring that every note is played precisely when it should be.
+<mark style="color:purple;">**Real-Time Messaging:**</mark> Lightstreamer is like a maestro of real-time communication. It's designed to effortlessly transmit data in real-time across the Internet, making it an invaluable tool for applications that rely on instant data updates. Imagine it as the conductor of a symphony of information, ensuring that every note is played precisely when it should be.
 
 <mark style="color:orange;">**Optimized for the Internet**</mark>**:** Lightstreamer isn't just any messaging server; it's tailor-made for the Internet's fast-paced environment. It's a favorite in industries like finance, gaming, and e-commerce, where every millisecond counts. Think of it as a Formula 1 car for your data, built to perform at the highest speeds without missing a beat.
 
-**Scalability:** Lightstreamer is flexible, like a rubber band that can stretch to accommodate your needs. It can be deployed in a scalable manner, so organizations can handle more real-time data and users as they grow. Docker's container orchestration tools, like Kubernetes, step in as the conductors of a grand orchestra, ensuring that every Lightstreamer container plays in harmony.
+<mark style="color:purple;">**Scalability:**</mark> Lightstreamer is flexible, like a rubber band that can stretch to accommodate your needs. It can be deployed in a scalable manner, so organizations can handle more real-time data and users as they grow. Docker's container orchestration tools, like Kubernetes, step in as the conductors of a grand orchestra, ensuring that every Lightstreamer container plays in harmony.
 
 <mark style="color:orange;">**Use Cases:**</mark> Lightstreamer is like a versatile actor, capable of playing any role. It's found on the stages of financial trading platforms, in the virtual realms of online gaming, on the scoreboards of live sports events, and in the heart of chat applications. Any scenario that thrives on real-time data delivery can benefit from the magic Lightstreamer brings.
 
-**Community and Support:** Lightstreamer is not just a solo act; it's part of a vibrant community. Users can tap into a wealth of resources, documentation, and forums to seek assistance and share best practices. It's like being part of a club where everyone speaks the same real-time language.
+<mark style="color:orange;">**Community and Support:**</mark> Lightstreamer is not just a solo act; it's part of a vibrant community. Users can tap into a wealth of resources, documentation, and forums to seek assistance and share best practices. It's like being part of a club where everyone speaks the same real-time language.
 
 .Its agility, efficiency, and versatility make it an essential tool for applications that dance to the rhythm of instant data updates and seamless communication
 
@@ -43,23 +43,23 @@ layout:
 
 <mark style="color:orange;">**Client-Server Architecture**</mark>**:** Lightstreamer is like a well-orchestrated symphony. It follows the classic client-server model. Imagine the server as the conductor, and the clients are the orchestra members, ready to play their part in harmony. Clients can be web browsers, mobile apps, or any software that craves real-time data updates. The server, running Lightstreamer, ensures everyone plays in sync.
 
-**Connection Establishment:** Just like an introduction at a social gathering, clients politely initiate a connection to the Lightstreamer server. They use standard protocols like HTTP, HTTPS, or the nimble WebSockets. For added security, this connection can even be wrapped in encryption, ensuring that your data is as private as a whispered secret.
+<mark style="color:purple;">**Connection Establishment:**</mark> Just like an introduction at a social gathering, clients politely initiate a connection to the Lightstreamer server. They use standard protocols like HTTP, HTTPS, or the nimble WebSockets. For added security, this connection can even be wrapped in encryption, ensuring that your data is as private as a whispered secret.
 
 <mark style="color:orange;">**Subscription Model**</mark>**:** Clients have their preferences, and Lightstreamer respects that. They can subscribe to specific data feeds or "items" that pique their interest. These items can represent anything—stock prices, sports scores, chat messages, or any real-time tidbit they crave.
 
-**Data Providers:** Lightstreamer is like a messenger, shuttling between clients and data sources. These sources, often the guardians of valuable data, can be databases, backend systems, or even external data fountains. They supply the actual data that clients eagerly await.
+<mark style="color:orange;">**Data Providers**</mark>**:** Lightstreamer is like a messenger, shuttling between clients and data sources. These sources, often the guardians of valuable data, can be databases, backend systems, or even external data fountains. They supply the actual data that clients eagerly await.
 
-**Real-Time Data Push:** The magic happens when new data emerges or changes occur in the subscribed items. Lightstreamer springs into action, like a news anchor breaking a hot story. It pushes these updates to the waiting clients in real-time, all without them needing to ask. It's like having a personal news ticker, always delivering the latest headlines.
+<mark style="color:orange;">**Real-Time Data Push:**</mark> The magic happens when new data emerges or changes occur in the subscribed items. Lightstreamer springs into action, like a news anchor breaking a hot story. It pushes these updates to the waiting clients in real-time, all without them needing to ask. It's like having a personal news ticker, always delivering the latest headlines.
 
 <mark style="color:orange;">**Bidirectional Communication**</mark>**:** Lightstreamer doesn't just preach; it listens too. It's not a one-way street. Clients can also speak up, sending data or commands to the server. It's this bidirectional dance that enables interactive features like live chat, gaming moves, or even stock trading orders.
 
-**Scalability:** Lightstreamer is built to handle the grandest of stages. To accommodate a massive audience of clients and data feeds, you can deploy multiple instances of Lightstreamer servers. It's like having a network of stages for your orchestra, ensuring that the show can go on, no matter how big the crowd.
+<mark style="color:purple;">**Scalability:**</mark> Lightstreamer is built to handle the grandest of stages. To accommodate a massive audience of clients and data feeds, you can deploy multiple instances of Lightstreamer servers. It's like having a network of stages for your orchestra, ensuring that the show can go on, no matter how big the crowd.
 
-**Failover and High Availability:** Lightstreamer takes its commitments seriously. It supports failover and high availability configurations. If one server instance ever takes a curtain call, clients seamlessly reconnect to another available server, ensuring that the performance never falters.
+<mark style="color:orange;">**Failover and High Availability:**</mark> Lightstreamer takes its commitments seriously. It supports failover and high availability configurations. If one server instance ever takes a curtain call, clients seamlessly reconnect to another available server, ensuring that the performance never falters.
 
 <mark style="color:orange;">**Integration:**</mark> Lightstreamer is the polyglot of the digital world. It can converse fluently with various programming languages, platforms, and frameworks. It offers SDKs and libraries for popular languages like JavaScript, Java, .NET, and more. It's like being multilingual, adaptable to different conversational partners.
 
-**Use Cases:** Lightstreamer doesn't just stick to one genre; it's a versatile performer. It's starred in financial trading platforms, where real-time stock data is the star of the show. It's been a key player in online gaming, providing instant game updates. It's graced live sports apps, ensuring fans get every score update. And it's been the backstage crew for collaborative tools, enabling real-time document editing and chat.
+<mark style="color:orange;">**Use Cases:**</mark> Lightstreamer doesn't just stick to one genre; it's a versatile performer. It's starred in financial trading platforms, where real-time stock data is the star of the show. It's been a key player in online gaming, providing instant game updates. It's graced live sports apps, ensuring fans get every score update. And it's been the backstage crew for collaborative tools, enabling real-time document editing and chat.
 
 In essence, Lightstreamer orchestrates a seamless performance of real-time data delivery. It's like the conductor of a grand symphony, ensuring that every note is played with precision and every audience member is captivated by the show.
 

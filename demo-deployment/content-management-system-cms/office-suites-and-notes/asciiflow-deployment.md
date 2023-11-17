@@ -36,7 +36,7 @@ Imagine a canvas where your ideas come to life, but instead of paintbrushes and 
 
 **2. Google Drive Integration:**
 
-* _Seamless Storage_: You can effortlessly save your ASCII creations to Google Drive, ensuring that your work is safe, secure, and accessible from anywhere.
+* _Seamless Storage_: You can effortlessly save your <mark style="color:purple;">ASCII creations to Google Drive,</mark> ensuring that your work is safe, secure, and accessible from anywhere.
 
 <mark style="color:orange;">**3. Resize and Freeform Draw:**</mark>
 

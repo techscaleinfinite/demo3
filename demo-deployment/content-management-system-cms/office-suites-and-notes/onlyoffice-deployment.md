@@ -29,19 +29,19 @@ layout:
 
 In a world where productivity is paramount, ONLYOFFICE, crafted by Ascensio System SIA, emerges as your go-to solution. This robust office suite takes your document editing experience to new heights, offering a powerhouse of features that rival even the most renowned office software. Here's why ONLYOFFICE is your ticket to seamless document creation and collaboration:
 
-**1. Online Editing Excellence**: ONLYOFFICE boasts a trio of online editors that cover all your document needs—text documents, spreadsheets, and presentations. You're not just editing; you're crafting excellence.
+<mark style="color:orange;">**1. Online Editing Excellence**</mark>: ONLYOFFICE boasts a trio of online editors that cover all your document needs—text documents, spreadsheets, and presentations. You're not just editing; you're crafting excellence.
 
 <mark style="color:orange;">**2. Compatibility Champion**</mark>: Compatibility is key, and ONLYOFFICE gets it right. It's a harmonious blend of Microsoft Office and OpenDocument file formats, ensuring that your documents seamlessly transition across platforms.
 
-**3. Tools Galore**: Dive into a treasure trove of editing tools that empower your creativity. Whether it's precise formatting, intricate calculations, or captivating visuals, ONLYOFFICE has the arsenal you need.
+<mark style="color:orange;">**3. Tools Galore**</mark><mark style="color:orange;">:</mark> Dive into a treasure trove of editing tools that empower your creativity. Whether it's precise formatting, intricate calculations, or captivating visuals, ONLYOFFICE has the arsenal you need.
 
 <mark style="color:orange;">**4. Collaborative Bliss**</mark><mark style="color:orange;">:</mark> Collaboration is where ONLYOFFICE truly shines. It's not just about editing; it's about teamwork. Real-time collaboration, comments, and tracking changes ensure that your team's workflow is smoother than ever.
 
-**5. Mastering Complexity**: Complex formatting and objects are no longer barriers. ONLYOFFICE conquers them with finesse, making your documents not just functional but visually stunning.
+<mark style="color:orange;">**5. Mastering Complexity**</mark><mark style="color:orange;">:</mark> Complex formatting and objects are no longer barriers. ONLYOFFICE conquers them with finesse, making your documents not just functional but visually stunning.
 
 <mark style="color:orange;">**6. Web Solution Integration**</mark><mark style="color:orange;">:</mark> Seamlessly integrate ONLYOFFICE into your web solution. It's not just an office suite; it's an ecosystem designed to enhance your online platform.
 
-**7. Your Productivity Ally**: ONLYOFFICE is more than software; it's your productivity ally. It's where ideas transform into documents, where data becomes insights, and where collaboration is a breeze.
+<mark style="color:orange;">**7. Your Productivity Ally**</mark><mark style="color:orange;">:</mark> ONLYOFFICE is more than software; it's your productivity ally. It's where ideas transform into documents, where data becomes insights, and where collaboration is a breeze.
 
 So, whether you're a creative genius, a number-crunching expert, or a presentation virtuoso, ONLYOFFICE is your canvas, your calculator, and your stage. It's where documents come to life, ideas turn into reality, and productivity knows no bounds. Experience the future of office suites with ONLYOFFICE and elevate your work to unparalleled heights.
 
@@ -53,19 +53,19 @@ So, whether you're a creative genius, a number-crunching expert, or a presentati
 
 Welcome to the world of ONLYOFFICE, where document creation and collaboration reach new heights. Let's dive into the inner workings of this remarkable office suite, so you can grasp how it conjures productivity magic:
 
-**1. Trio of Online Editors**: ONLYOFFICE features three stellar online editors, each tailored to its role—text documents, spreadsheets, and presentations. It's your creative toolkit, accessible from anywhere.
+<mark style="color:orange;">**1. Trio of Online Editors**</mark><mark style="color:orange;">:</mark> ONLYOFFICE features three stellar online editors, each tailored to its role—text documents, spreadsheets, and presentations. It's your creative toolkit, accessible from anywhere.
 
 <mark style="color:orange;">**2. Compatibility Mastery**</mark><mark style="color:orange;">:</mark> ONLYOFFICE speaks the language of files. It effortlessly handles Microsoft Office and OpenDocument formats, ensuring your documents dance seamlessly between different platforms.
 
-**3. Toolbox Extravaganza**: Inside ONLYOFFICE, you'll discover a treasure chest of editing tools. From pixel-perfect formatting to advanced calculations, it's a playground for your creativity.
+<mark style="color:orange;">**3. Toolbox Extravaganza**</mark><mark style="color:orange;">:</mark> Inside ONLYOFFICE, you'll discover a treasure chest of editing tools. From pixel-perfect formatting to advanced calculations, it's a playground for your creativity.
 
 <mark style="color:orange;">**4. Collaborative Symphony**</mark><mark style="color:orange;">:</mark> ONLYOFFICE transforms solo edits into collaborative symphonies. Real-time collaboration, comment threads, and change tracking orchestrate teamwork, turning ideas into reality.
 
-**5. Taming Complexity**: Complex formatting and intricate objects are no match for ONLYOFFICE. It navigates these challenges with grace, making your documents not just functional but visually captivating.
+<mark style="color:orange;">**5. Taming Complexity**</mark><mark style="color:orange;">:</mark> Complex formatting and intricate objects are no match for ONLYOFFICE. It navigates these challenges with grace, making your documents not just functional but visually captivating.
 
 <mark style="color:orange;">**6. Web Solution Integration**</mark>: ONLYOFFICE seamlessly becomes part of your web solution. It's not just software; it's an ecosystem that enhances your online platform's capabilities.
 
-**7. Your Productivity Partner**: Think of ONLYOFFICE as your trusted productivity companion. It's where inspiration takes form, data transforms into insights, and teamwork flourishes.
+<mark style="color:orange;">**7. Your Productivity Partner**</mark><mark style="color:orange;">:</mark> Think of ONLYOFFICE as your trusted productivity companion. It's where inspiration takes form, data transforms into insights, and teamwork flourishes.
 
 In this realm, you're not just editing documents; you're shaping the future. ONLYOFFICE is the canvas where ideas become tangible, numbers reveal stories, and collaboration knows no boundaries. It's the passport to a world where productivity soars to new heights.
 

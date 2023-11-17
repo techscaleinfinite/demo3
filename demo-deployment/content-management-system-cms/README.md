@@ -24,11 +24,11 @@ layout:
 
 ### <mark style="color:orange;">**A General Introduction**</mark>
 
-**Unleash Your Website's Potential with Content Management Systems**
+<mark style="color:yellow;">**Unleash Your Website's Potential with Content Management Systems**</mark>
 
 In the ever-evolving digital landscape, having a dynamic and feature-rich website is no longer a luxury but a necessity. Enter Content Management Systems (CMS), your trusty sidekick in the quest for a powerful online presence.&#x20;
 
-**CMS - Where Functionality Meets Flexibility**
+<mark style="color:red;">**CMS - Where Functionality Meets Flexibility**</mark>
 
 In a nutshell, CMS platforms are your bridge to a feature-rich, dynamic website without the headaches of coding from scratch. With the right CMS, you can craft a digital masterpiece that leaves a lasting impression on your audience. So, let's embark on this digital journey and turn your web vision into reality.
 

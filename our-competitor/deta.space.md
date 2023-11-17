@@ -22,7 +22,7 @@ layout:
 
 
 
-Imagine having your own personal computer on the internet, a magical place where you can create, explore, and share without the hassle of complicated tech stuff. That's what Deta Space is all about – your very own personal cloud.
+<mark style="color:blue;">Imagine having your own personal computer on the internet, a magical place where you can create, explore, and share without the hassle of complicated tech stuff</mark>. That's what Deta Space is all about – your very own personal cloud.
 
 Whether you're a tech wizard building internet wonders or someone who just loves using the internet, Deta Space is designed to bring the joy of personal computing to your online life.
 
@@ -36,14 +36,14 @@ Traditional Web App vs. Space App Life Cycle: In the traditional web app world, 
 
 But in the world of Space, things are different. There are two simple stages: Building and Publishing.
 
-**Building**:
+<mark style="color:orange;">**Building**</mark><mark style="color:orange;">:</mark>
 
-* You develop your app locally, no worries about authentication or data separation.
-* You test your app on a live Builder Instance, a safe and private space.
-* You have an easy-to-use CLI tool for managing your project.
-* No need to think about server setups or complex configurations.
+* <mark style="color:purple;">You develop your app locally, no worries about authentication or data separation.</mark>
+* <mark style="color:purple;">You test your app on a live Builder Instance, a safe and private space.</mark>
+* <mark style="color:purple;">You have an easy-to-use CLI tool for managing your project.</mark>
+* <mark style="color:purple;">No need to think about server setups or complex configurations.</mark>
 
-**Publishing**:
+<mark style="color:orange;">**Publishing**</mark><mark style="color:orange;">:</mark>
 
 * Once you're satisfied with your app, you can share it with the world in a few clicks.
 * No need to deal with server configurations, maintenance, or paying for users' resources.

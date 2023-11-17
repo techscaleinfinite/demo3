@@ -26,7 +26,7 @@ layout:
 
 ### <mark style="color:orange;">**A General Introduction**</mark>
 
-**Unlocking Your Productivity: The Power of Office Suites**
+_<mark style="color:yellow;">**Unlocking Your Productivity: The Power of Office Suites**</mark>_
 
 In the realm of digital productivity, an office suite stands as the Swiss Army knife of software packages. It's your trusted companion, equipped with an array of tools ready to tackle everything from word processing to data crunching and presentation wizardry.&#x20;
 
