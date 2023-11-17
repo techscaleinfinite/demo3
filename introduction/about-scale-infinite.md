@@ -24,7 +24,7 @@ layout:
 
 ## <mark style="color:blue;">Introduction</mark>
 
-<mark style="color:blue;">**Welcome to Scale Infinite**</mark>, where hosting becomes an art of simplicity and possibilities. Whether you're a pioneering startup, a thriving enterprise, or an ambitious individual, our platform transforms hosting into an extraordinary experience. Your journey to unhindered application growth starts now.
+<mark style="color:blue;">**Welcome to Scale Infinite**</mark>, _where hosting becomes an art of simplicity and possibilities. Whether you're a pioneering startup, a thriving enterprise, or an ambitious individual, our platform transforms hosting into an extraordinary experience. Your journey to unhindered application growth starts now._
 
 * <mark style="color:orange;">**Simplified Hosting**</mark>**:** Scale Infinite takes care of infrastructure provisioning, maintenance, and scaling for your containerized applications.
 * <mark style="color:orange;">**Instant Accessibility**</mark>**:** Easily host and access applications with just a few clicks.
@@ -33,7 +33,7 @@ layout:
 * <mark style="color:orange;">**User-Centric Design**</mark>**:** The platform suits both technical and non-technical users for secure application deployment.
 * <mark style="color:orange;">**Limitless Choices**</mark>**:** Deploy any public Docker Hub app or sync from your private registry.
 * <mark style="color:orange;">**Instant Deployment**</mark>**:** Link your Docker Hub account and deploy images in seconds.
-* <mark style="color:orange;">**Insights at a Glance**</mark>**:** Monitor CPU, Memory, I/O, and Network usage in the Dashboard section.
+* <mark style="color:orange;">**Insights at a Glance**</mark>**:** _Monitor CPU, Memory, I/O, and Network usage in the Dashboard section._
 
 ### <mark style="color:blue;">Visual Snapshot</mark>
 

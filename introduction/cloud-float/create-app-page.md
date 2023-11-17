@@ -20,11 +20,11 @@ layout:
 
 # ☁ Create App Page
 
-1. **Navigate to the Create App Page**: To begin the deployment process, head over to our user-friendly Create App page.
-2. **Search for Your Desired App**: In the search bar, type the name of the app you want to deploy. Our platform offers a wide range of pre-configured apps to choose from.
-3. **Select Your Chosen App**: Once you've found the app you want, click on it to select it.
+1. _<mark style="color:orange;">**Navigate to the Create App Page**</mark><mark style="color:orange;">:</mark> To begin the deployment process, head over to our user-friendly <mark style="color:blue;">Create App page</mark>._
+2. _<mark style="color:yellow;">**Search for Your Desired App**</mark><mark style="color:yellow;">:</mark> In the search bar, type the name of the app you want to deploy. Our platform offers a wide range of pre-configured apps to choose from._
+3. _<mark style="color:orange;">**Select Your Chosen App**</mark><mark style="color:orange;">:</mark> Once you've found the app you want, click on it to select it._
 
-Then follow these steps:
+<mark style="background-color:green;">Then follow these steps:</mark>
 
 <mark style="color:purple;">**Step-by-Step Guide to APP Deployment**</mark>
 
@@ -32,20 +32,20 @@ Then follow these steps:
    * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`XYZ`</mark>
 2. <mark style="color:orange;">**Application Details**</mark>**:**
    * Application Name: `XYZ`
-   * Resource Allocation: Set the desired resource allocation from 0-100%.
+   * Resource Allocation: Set the desired resource allocation from <mark style="color:blue;">0-100%.</mark>
 3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
-   * Protocol: `HTTP/TCP`
-   * Port: `GIVE PORT NUMBER EG:80,443 etc`
+   * Protocol: <mark style="color:orange;">`HTTP/TCP`</mark>
+   * Port: <mark style="color:orange;">`GIVE PORT NUMBER EG:80,443 etc`</mark>
 4. <mark style="color:orange;">**Installation Options**</mark>**:**
-   * Choose between "Default" or "Advanced" installation.
+   * Choose between <mark style="color:orange;">"Default" or "Advanced"</mark> installation.
 5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
-   *   **Environment Variables:**
+   *   <mark style="color:green;">**Environment Variables:**</mark>
 
        Environment variables are dynamic values used by a containerized application for configuration. They are defined as key-value pairs, like `API_KEY=xyz`, and provide flexibility to adjust an app's behavior without changing its code.
 
        * Environment Variables: Define environment variables with keys and values (e.g., `key=value`).
-   *   **Working Directory:**
+   *   <mark style="color:green;">**Working Directory:**</mark>
 
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 

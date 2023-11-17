@@ -125,3 +125,4 @@
 * [‼ FAQ](faq.md)
 * [👫 Community](community.md)
 * [🔗 Useful links](useful-links.md)
+* [Getting Started](getting-started.md)

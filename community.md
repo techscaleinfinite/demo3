@@ -27,7 +27,7 @@ layout:
 
 <figure><img src=".gitbook/assets/slack-logo-png-1-900x230.png" alt=""><figcaption></figcaption></figure>
 
-**Join Our Project Community on Slack!**
+<mark style="color:green;">**Join Our Project Community on Slack!**</mark>
 
 Stay connected, collaborate, and get real-time updates about our project on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join our vibrant community to:
 
@@ -44,7 +44,7 @@ Join us on Slack and be a part of our thriving project community. Together, we'l
 
 <figure><img src=".gitbook/assets/youtube-2-logo-png-transparent.png" alt=""><figcaption></figcaption></figure>
 
-**Join Us on YouTube!**
+<mark style="color:green;">**Join Us on YouTube!**</mark>
 
 🎉 Hey there, fellow enthusiasts of knowledge and entertainment! 🎥
 
@@ -66,7 +66,7 @@ See you on the channel! 📺👋
 
 <figure><img src=".gitbook/assets/1656958733linkedin-logo-png.png" alt=""><figcaption></figcaption></figure>
 
-**Join Us on LinkedIn!**
+<mark style="color:green;">**Join Us on LinkedIn!**</mark>
 
 Are you ready to supercharge your professional network? 🚀
 
@@ -90,7 +90,7 @@ See you on LinkedIn! 👥📈
 
 <figure><img src=".gitbook/assets/download (11).png" alt=""><figcaption></figcaption></figure>
 
-**Join Us on GitHub! 🚀**
+<mark style="color:green;">**Join Us on GitHub! 🚀**</mark>
 
 Are you ready to embark on a coding adventure like no other? Welcome to our GitHub page, your gateway to a world of innovation, collaboration, and cutting-edge technology.
 
