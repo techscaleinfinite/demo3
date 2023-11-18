@@ -29,19 +29,19 @@ layout:
 
 <mark style="color:orange;">Imagine having a trusty companion, always on the lookout, tirelessly monitoring your websites, APIs, and services. Well, that's precisely what</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Uptime Kuma**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">does, but with a little extra charm.</mark>
 
-**Your Digital Sentry**&#x20;
+<mark style="color:green;">**Your Digital Sentry**</mark>&#x20;
 
 Think of Uptime Kuma as your digital sentry, standing guard over your online empire. It's on a mission to make sure your websites, APIs, and services are always on their best behavior. Whenever they decide to take a coffee break (a.k.a. downtime), Uptime Kuma is there to give them a friendly nudge.
 
-**Swift Response Times**&#x20;
+<mark style="color:yellow;">**Swift Response Times**</mark>&#x20;
 
 Not only does Uptime Kuma keep an eagle eye on the availability of your digital assets, but it also tracks how fast they respond to requests. It's like having a stopwatch in the digital Olympics, ensuring that your services are always in tip-top shape.
 
-📈 **Data Whisperer** 📈
+<mark style="color:purple;">📈</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Data Whisperer**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">📈</mark>
 
 Uptime Kuma is more than just a digital watchdog; it's also a data whisperer. It collects precious information about your applications' uptime and downtime, and it presents it to you in beautiful, informative graphs. It's like turning raw data into a symphony of insights.
 
-**User-Friendly and Open-Source**&#x20;
+<mark style="color:green;">**User-Friendly and Open-Source**</mark>&#x20;
 
 And here's the kicker: Uptime Kuma is not only incredibly useful but also user-friendly. You don't need to be a tech genius to make sense of it. Plus, it's open-source, which means it's a labor of love from a community of tech enthusiasts.
 
@@ -53,19 +53,19 @@ So, with Uptime Kuma in your corner, your digital realm can be as reliable as Bi
 
 <mark style="color:orange;">Have you ever wondered what makes</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Uptime Kuma**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">tick? How does it do its thing without breaking a digital sweat? Well, let's pull back the curtain and see the gears turning in this digital symphony.</mark>
 
-🕵️‍♂️ **The Digital Detective** 🕵️‍♂️
+🕵️‍♂️ <mark style="color:blue;">**The Digital Detective**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">🕵️‍♂️</mark>
 
 At its core, Uptime Kuma is your very own digital detective, investigating the online world on your behalf. It's programmed to be inquisitive, scanning websites, APIs, and services to ensure they're all playing nice. When something seems amiss, Uptime Kuma's alarm bells start ringing.
 
-🏁 **The Stopwatch Master** 🏁
+<mark style="color:yellow;">🏁</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**The Stopwatch Master**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">🏁</mark>
 
 Response times are Uptime Kuma's playground. It's like a stopwatch master, keeping tabs on how quickly your applications respond to requests. The faster, the better! It's a bit like watching a race, but with data packets sprinting to the finish line.
 
-📊 **The Data Whisperer's Tale** 📊
+📊 <mark style="color:yellow;">**The Data Whisperer's Tale**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">📊</mark>
 
 Now, here's where the magic happens. Uptime Kuma collects data like a seasoned explorer, venturing through the vast wilderness of the internet. But instead of a compass, it uses graphs and charts to map its discoveries. These visualizations are your window into the uptime and downtime of your digital assets.
 
-👩‍💻 **User-Friendly and Open to All** 👨‍💻
+👩‍💻 <mark style="color:red;">**User-Friendly and Open to All**</mark> <mark style="color:red;"></mark><mark style="color:red;">👨‍💻</mark>
 
 Uptime Kuma is built with simplicity in mind. You don't need a Ph.D. in tech jargon to understand it. It's designed to be as approachable as your favorite smartphone app. And being open-source, it's a product of passion and collaboration from tech enthusiasts worldwide.
 

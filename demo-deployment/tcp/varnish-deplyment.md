@@ -28,9 +28,9 @@ layout:
 <mark style="color:orange;">Varnish is an open-source web application accelerator also known as a caching HTTP reverse proxy. It's designed to significantly improve the performance and speed of web servers, particularly for content-heavy dynamic websites. Here's how Varnish works:</mark>
 
 1. **Reverse Proxy:** Varnish sits between the client (typically a web browser) and the web server (like Apache or Nginx) as a reverse proxy. When a client requests a web page, Varnish intercepts that request.
-2. **Caching:** Varnish caches a copy of the requested web page or resources (like images, CSS, or JavaScript) the first time it's requested. It stores this cached copy in memory.
-3. **Subsequent Requests:** When the same web page or resource is requested again, Varnish serves it directly from its cache in memory. This process significantly reduces the load on the web server and speeds up response times.
-4. **Cache Invalidation:** Varnish has mechanisms for cache invalidation. If the content on the web server changes (e.g., a new blog post is published), Varnish can be configured to recognize these changes and fetch a fresh copy from the web server.
+2. <mark style="color:yellow;">**Caching:**</mark> Varnish caches a copy of the requested web page or resources (like images, CSS, or JavaScript) the first time it's requested. It stores this cached copy in memory.
+3. <mark style="color:orange;">**Subsequent Requests:**</mark> When the same web page or resource is requested again, Varnish serves it directly from its cache in memory. This process significantly reduces the load on the web server and speeds up response times.
+4. <mark style="color:yellow;">**Cache Invalidation:**</mark> Varnish has mechanisms for cache invalidation. If the content on the web server changes (e.g., a new blog post is published), Varnish can be configured to recognize these changes and fetch a fresh copy from the web server.
 5. **Load Balancing:** Varnish can also distribute incoming traffic across multiple web servers, which is especially useful for high-traffic websites.
 6. **HTTP Acceleration:** Varnish can optimize and accelerate HTTP requests, including handling compression and HTTP/2.
 
@@ -40,13 +40,13 @@ I
 
 ### <mark style="color:blue;">**How It Works**</mark>
 
-1. **Client Requests:** When a client, such as a web browser, makes a request for a web page or resource (e.g., an image or CSS file), the request is initially sent to Varnish instead of directly to the web server.
-2. **Cache Lookup:** Upon receiving the client's request, Varnish performs a cache lookup. It checks if the requested content is already stored in its cache. If it finds a cached copy that's still valid (not expired), Varnish serves this cached content directly to the client.
-3. **Cache Miss:** If Varnish doesn't find the content in its cache or if the cached copy has expired, it forwards the request to the backend web server. The web server then generates the requested content and sends it back to Varnish.
-4. **Caching the Response:** Before sending the response from the web server to the client, Varnish caches a copy of it. This copy is stored in memory, making future requests for the same content faster.
+1. <mark style="color:red;">**Client Requests:**</mark> When a client, such as a web browser, makes a request for a web page or resource (e.g., an image or CSS file), the request is initially sent to Varnish instead of directly to the web server.
+2. <mark style="color:orange;">**Cache Lookup:**</mark> Upon receiving the client's request, Varnish performs a cache lookup. It checks if the requested content is already stored in its cache. If it finds a cached copy that's still valid (not expired), Varnish serves this cached content directly to the client.
+3. <mark style="color:red;">**Cache Miss:**</mark> If Varnish doesn't find the content in its cache or if the cached copy has expired, it forwards the request to the backend web server. The web server then generates the requested content and sends it back to Varnish.
+4. <mark style="color:purple;">**Caching the Response:**</mark> Before sending the response from the web server to the client, Varnish caches a copy of it. This copy is stored in memory, making future requests for the same content faster.
 5. **Serving Cached Content:** For subsequent requests for the same content, Varnish serves the cached version directly from memory. This reduces the load on the backend web server and accelerates content delivery to clients.
-6. **Cache Invalidation:** To ensure that clients receive updated content when it changes on the web server (e.g., when a new blog post is published), Varnish supports cache invalidation mechanisms. When the content is updated, Varnish can be configured to recognize these changes and fetch a fresh copy from the web server.
-7. **Load Balancing:** In addition to caching, Varnish can distribute incoming requests across multiple backend web servers. This load balancing helps ensure high availability and scalability of web services.
+6. <mark style="color:yellow;">**Cache Invalidation:**</mark> To ensure that clients receive updated content when it changes on the web server (e.g., when a new blog post is published), Varnish supports cache invalidation mechanisms. When the content is updated, Varnish can be configured to recognize these changes and fetch a fresh copy from the web server.
+7. <mark style="color:purple;">**Load Balancing:**</mark> In addition to caching, Varnish can distribute incoming requests across multiple backend web servers. This load balancing helps ensure high availability and scalability of web services.
 8. **HTTP Acceleration:** Varnish can optimize and accelerate HTTP requests. It can handle tasks like HTTP compression and support for the latest HTTP protocols, such as HTTP/2, to further enhance performance.
 
 ### <mark style="color:blue;">Steps And Procedure</mark>

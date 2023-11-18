@@ -33,39 +33,39 @@ layout:
 
 * farmOS is not just software; it's a collaborative effort. Farmers, developers, researchers, and organizations have joined forces to create a standard platform for agricultural data collection and management. It's a testament to the power of community-driven innovation.
 
-🚜 **Your Field's Best Friend**
+🚜 <mark style="color:green;">**Your Field's Best Friend**</mark>
 
 * Imagine having a versatile, digital assistant for your farm. farmOS offers a plethora of features, making it your trusty sidekick in agricultural management. From planning crop rotations to tracking livestock, it's got you covered.
 
-📊 **Seamless Data Collection**
+📊 <mark style="color:orange;">**Seamless Data Collection**</mark>
 
 * Say goodbye to mountains of paperwork. farmOS streamlines data collection and record-keeping. Track everything from soil health to crop yields with ease.
 
-🌦️ **Weather the Storm**
+🌦️ <mark style="color:purple;">**Weather the Storm**</mark>
 
 * Keep a keen eye on weather patterns and their impact on your farm. With farmOS, you can integrate weather data and make informed decisions to protect your crops and livestock.
 
-📅 **Plan Like a Pro**
+📅 <mark style="color:red;">**Plan Like a Pro**</mark>
 
 * Agricultural planning can be complex, but farmOS simplifies it. Plan your planting and harvesting schedules, and get reminders when it's time to take action.
 
-📈 **Data-Driven Insights**
+<mark style="color:green;">📈</mark> <mark style="color:green;"></mark><mark style="color:green;">**Data-Driven Insights**</mark>
 
 * Leverage the power of data to optimize your farm's performance. farmOS provides you with insights and analytics to make informed choices that boost productivity.
 
-🌐 **Accessible Anywhere**
+<mark style="color:purple;">🌐</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Accessible Anywhere**</mark>
 
 * Whether you're in the field or the farmhouse, farmOS is accessible from anywhere with an internet connection. It's like having your farm's command center in your pocket.
 
-🌍 **Sustainability at Heart**
+🌍 <mark style="color:yellow;">**Sustainability at Heart**</mark>
 
 * Join the movement toward sustainable agriculture. farmOS supports eco-friendly practices by helping you monitor and reduce resource consumption.
 
-**Your Farm, Your Way**
+<mark style="color:green;">**Your Farm, Your Way**</mark>
 
 * farmOS adapts to your unique needs. Customize it to match your farm's specific requirements, ensuring it aligns perfectly with your operations.
 
-**Join the farmOS Revolution**
+<mark style="color:red;">**Join the farmOS Revolution**</mark>
 
 * It's time to embrace the future of farming with farmOS. Manage your farm with precision, reduce guesswork, and reap the benefits of data-driven agriculture.
 
@@ -81,35 +81,35 @@ In a world where farming meets technology, farmOS is the bridge that connects tr
 
 * The farmOS adventure begins with data collection. Capture essential information about your crops, livestock, and operations. Say goodbye to paper records; digital is the way to go.
 
-📆 **Plan with Precision**:
+📆 <mark style="color:green;">**Plan with Precision**</mark><mark style="color:green;">:</mark>
 
 * Farm planning has never been this seamless. Utilize farmOS to organize your planting and harvesting schedules. Set reminders, so you're always on top of your farming game.
 
-🌡️ **Weather Insights**:
+🌡️ <mark style="color:yellow;">**Weather Insights**</mark><mark style="color:yellow;">:</mark>
 
 * Stay ahead of Mother Nature's whims. Integrate weather data into farmOS to monitor conditions that affect your farm. Be prepared for whatever the skies bring your way.
 
-📊 **Harvesting Data**:
+📊 <mark style="color:green;">**Harvesting Data**</mark><mark style="color:green;">:</mark>
 
 * As your farm flourishes, so does your data. Use farmOS to gain insights into your farm's performance. Analyze trends, track yields, and optimize your operations for peak productivity.
 
-🌱 **Sustainability Matters**:
+🌱 <mark style="color:yellow;">**Sustainability Matters**</mark><mark style="color:yellow;">:</mark>
 
 * Join the movement toward sustainable farming. With farmOS, you can monitor resource usage and reduce waste, contributing to a greener, more eco-friendly agriculture.
 
-🌐 **Access Anytime, Anywhere**:
+<mark style="color:green;">🌐</mark> <mark style="color:green;"></mark><mark style="color:green;">**Access Anytime, Anywhere**</mark><mark style="color:green;">:</mark>
 
 * Whether you're in the tractor or your farmhouse, farmOS is accessible from any device with an internet connection. Your farm's command center is always at your fingertips.
 
-🔧 **Tailor-Made for Your Farm**:
+🔧 <mark style="color:purple;">**Tailor-Made for Your Farm**</mark><mark style="color:purple;">:</mark>
 
 * Every farm is unique, and farmOS understands that. Customize it to align perfectly with your farm's specific needs. It's a tool that adapts to your world, not the other way around.
 
-💪 **Boost Productivity**:
+<mark style="color:purple;">💪</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Boost Productivity**</mark><mark style="color:purple;">:</mark>
 
 * Experience the transformative power of data-driven decisions. With farmOS, you can make informed choices that lead to increased productivity and profitability.
 
-🌍 **Join the Revolution**:
+<mark style="color:purple;">🌍</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Join the Revolution**</mark><mark style="color:purple;">:</mark>
 
 * Farming isn't just a tradition; it's a dynamic, evolving practice. Embrace the future of agriculture with farmOS and become part of a community-driven movement towards innovation.
 

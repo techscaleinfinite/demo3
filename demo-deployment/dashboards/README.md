@@ -25,7 +25,7 @@ layout:
 
 ### <mark style="color:orange;">**A General Introduction**</mark>
 
-**Dashboards: Your Gateway to Information and Applications**
+_**Dashboards: Your Gateway to Information and Applications**_
 
 In the digital age, where data flows like a river and applications sprawl across the digital landscape, dashboards emerge as the unsung heroes of organization and accessibility. They're the digital command centers that put the power at your fingertips. Let's dive into the world of dashboards and unlock their potential.
 

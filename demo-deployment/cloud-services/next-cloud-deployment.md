@@ -29,13 +29,13 @@ layout:
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**Installation and Setup: Creating Your Cloud Haven** To start your journey with Nextcloud, think of it as your secret vault for files. You need a server or hosting provider, and Nextcloud software will be your magic key to transform it into your personal cloud storage. During this setup, you'll become the admin and customize Nextcloud to fit your style.
+<mark style="color:red;">**Installation and Setup: Creating Your Cloud Haven**</mark> To start your journey with Nextcloud, think of it as your secret vault for files. You need a server or hosting provider, and Nextcloud software will be your magic key to transform it into your personal cloud storage. During this setup, you'll become the admin and customize Nextcloud to fit your style.
 
-**File Handling: Your Digital Filing Cabinet** Once you've set up shop, Nextcloud becomes your digital filing cabinet. Just like other cloud storage services, you can upload files, create folders, and neatly arrange your digital stuff to match your workflow.
+<mark style="color:yellow;">**File Handling: Your Digital Filing Cabinet**</mark> Once you've set up shop, Nextcloud becomes your digital filing cabinet. Just like other cloud storage services, you can upload files, create folders, and neatly arrange your digital stuff to match your workflow.
 
-**Syncing Made Simple: Your Files on All Devices** But what's cooler is how Nextcloud keeps everything in sync. It's like having magical elves working in the background. Your files stay updated on all your devices - computer, phone, tablet, you name it. It doesn't matter where you are; your stuff is with you.
+<mark style="color:green;">**Syncing Made Simple**</mark>**: Your Files on All Devices** But what's cooler is how Nextcloud keeps everything in sync. It's like having magical elves working in the background. Your files stay updated on all your devices - computer, phone, tablet, you name it. It doesn't matter where you are; your stuff is with you.
 
-**Share with Ease: Collaborate Like a Pro** Nextcloud gives you the power to share files and folders effortlessly. It's like sharing a pizza; you decide who gets a slice. You can make things public or invite specific friends to the feast. Plus, you can set rules – whether they can only look, make changes, or take the whole pizza (download). It's collaboration made easy.
+<mark style="color:red;">**Share with Ease: Collaborate Like a Pro**</mark> Nextcloud gives you the power to share files and folders effortlessly. It's like sharing a pizza; you decide who gets a slice. You can make things public or invite specific friends to the feast. Plus, you can set rules – whether they can only look, make changes, or take the whole pizza (download). It's collaboration made easy.
 
 So, Nextcloud is your personal file haven. It's not just about storage; it's about keeping everything in line, wherever you go. It's like having your own magical file manager, plus a team of elves to help you share the goodies! 🌟📂📤🍕
 

@@ -29,12 +29,12 @@ layout:
 
 _<mark style="color:orange;">Apache HTTP Server, commonly known as HTTPD, is more than just a web server; it's the cornerstone of web hosting. Let's unravel the essence of this legendary software:</mark>_
 
-1. **Web Serving Excellence:** At its core, HTTPD excels at serving web content. It seamlessly delivers HTML, images, CSS, JavaScript, and more to users' browsers via HTTP and HTTPS protocols.
+1. <mark style="color:yellow;">**Web Serving Excellence:**</mark> At its core, HTTPD excels at serving web content. It seamlessly delivers HTML, images, CSS, JavaScript, and more to users' browsers via HTTP and HTTPS protocols.
 2. **Open Source Prowess:** HTTPD is a proud open-source champion. Its source code is a gift to the world, nurturing a community of developers and fostering innovation.
-3. **Platform Agnostic:** HTTPD dances gracefully across diverse platforms. It harmonizes with Unix-based systems like Linux and BSD, as well as Windows, offering versatile web hosting solutions.
-4. **Modular Marvel:** HTTPD's strength lies in its modularity. With a treasure trove of dynamic modules, it adapts to various scenarios effortlessly. Customize and extend its capabilities as per your desires.
-5. **Security Sentry:** Security is HTTPD's middle name. It comes fortified with access control, authentication, and encryption features, making it the guardian of secure websites. Administrators wield the power to control access meticulously.
-6. **Configuration Finesse:** HTTPD's configuration options are as intricate as a Swiss watch. Tailor it to your specific needs by tweaking settings that govern access, performance, and functionality.
+3. <mark style="color:green;">**Platform Agnostic:**</mark> HTTPD dances gracefully across diverse platforms. It harmonizes with Unix-based systems like Linux and BSD, as well as Windows, offering versatile web hosting solutions.
+4. <mark style="color:purple;">**Modular Marvel:**</mark> HTTPD's strength lies in its modularity. With a treasure trove of dynamic modules, it adapts to various scenarios effortlessly. Customize and extend its capabilities as per your desires.
+5. <mark style="color:yellow;">**Security Sentry:**</mark> Security is HTTPD's middle name. It comes fortified with access control, authentication, and encryption features, making it the guardian of secure websites. Administrators wield the power to control access meticulously.
+6. <mark style="color:orange;">**Configuration Finesse:**</mark> HTTPD's configuration options are as intricate as a Swiss watch. Tailor it to your specific needs by tweaking settings that govern access, performance, and functionality.
 
 _In the ever-evolving landscape of web hosting, Apache HTTP Server stands as a timeless monument, fostering the web's growth securely and efficiently._ 🚀
 
@@ -45,9 +45,9 @@ _In the ever-evolving landscape of web hosting, Apache HTTP Server stands as a t
     _<mark style="color:orange;">Behold, the enchanting dance of client requests and Apache's graceful response:</mark>_
 
     1. **Client Request Debut:** It all commences with a client - often a web browser - extending an HTTP request towards a web server. This request can be as simple as a URL or rich with parameters and information, akin to casting a spell.
-    2. **Server's Attentive Ear:** The Apache server is a vigilant sentinel, stationed at a specific port (usually 80 for HTTP or 443 for HTTPS). It stands ready, ears perked, waiting for the faintest whisper of a client connection.
+    2. <mark style="color:purple;">**Server's Attentive Ear:**</mark> The Apache server is a vigilant sentinel, stationed at a specific port <mark style="color:orange;">(usually 80 for HTTP or 443 for HTTPS)</mark>. It stands ready, ears perked, waiting for the faintest whisper of a client connection.
     3. **Request Unraveled:** As a request arrives, Apache steps onto the stage, armed with its configuration directives from files like 'httpd.conf' or 'apache2.conf.' These directives hold the script, guiding Apache in its response.
-    4. **Modules, the Dancers:** Apache's secret lies in its modular ensemble. Each request dictates the choreography. If PHP prowess is needed, the 'mod\_php' module takes center stage, elegantly pirouetting to handle PHP scripts.
+    4. <mark style="color:orange;">**Modules, the Dancers:**</mark> Apache's secret lies in its modular ensemble. Each request dictates the choreography. If PHP prowess is needed, the 'mod\_php' module takes center stage, elegantly pirouetting to handle PHP scripts.
 
     _In this intricate ballet, Apache's modular flexibility allows it to waltz through an array of requests, delivering the perfect performance every time_
 

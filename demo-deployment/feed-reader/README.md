@@ -24,7 +24,7 @@ layout:
 
 ### <mark style="color:orange;">**A General Introduction**</mark>
 
-**News Aggregators: Your Window to the World**
+<mark style="color:green;">**News Aggregators: Your Window to the World**</mark>
 
 In a digital age overflowing with information, news aggregators emerge as our trusty navigators through the sea of content. These digital assistants sift through the chaos to deliver personalized, concise, and up-to-the-minute news and updates. Let's embark on a journey to demystify these virtual gatekeepers of knowledge.
 

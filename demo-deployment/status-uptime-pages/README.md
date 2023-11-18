@@ -33,9 +33,9 @@ In simpler terms, it's your tech sidekick's way of saying, "I'm here for you, al
 
 Now, let's dive into why our Status/Uptime Pages are the real deal:
 
-**1. Transparency at Its Finest:** We believe in keeping you in the loop. Our Status/Uptime Pages offer a transparent view of how reliably our systems are humming along.
+_**1.**** **<mark style="color:yellow;">**Transparency at Its Finest:**</mark> We believe in keeping you in the loop. Our Status/Uptime Pages offer a transparent view of how reliably our systems are humming along._
 
-**2. Peace of Mind:** With uptime percentages that would make even the most punctual Swiss watch jealous, you can rest easy knowing your digital assets are in safe hands.
+_**2.**** **<mark style="color:purple;">**Peace of Mind:**</mark> With uptime percentages that would make even the most punctual Swiss watch jealous, you can rest easy knowing your digital assets are in safe hands._
 
 So, whether you're running a critical online business or just enjoying some leisurely browsing, our Status/Uptime Pages have got your back. After all, uptime isn't just a statistic – it's your digital peace of mind. 🌐🛡️🚀
 

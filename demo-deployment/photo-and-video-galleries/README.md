@@ -25,7 +25,7 @@ layout:
 
 ### <mark style="color:orange;">**A General Introduction**</mark>
 
-**Gallery Software: Where Your Visual Stories Shine Bright**
+<mark style="color:green;">**Gallery Software: Where Your Visual Stories Shine Bright**</mark>
 
 In a world dominated by visual storytelling, having a reliable gallery software at your disposal is like owning a treasure chest for your digital memories. These digital sanctuaries are where your photos, images, videos, and artistic creations come to life and find their spotlight.
 

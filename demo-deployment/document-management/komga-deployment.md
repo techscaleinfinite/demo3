@@ -29,43 +29,43 @@ layout:
 
 <mark style="color:orange;">Are you an avid comics or mangas enthusiast? Look no further than</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">Komga</mark>_<mark style="color:orange;">, your free and open-source comics/mangas server. Here's what sets it apart:</mark>
 
-📚 **Easy Browsing, Anywhere:**
+📚 <mark style="color:yellow;">**Easy Browsing, Anywhere:**</mark>
 
 * Access your libraries, series, and books effortlessly through a responsive web UI. Whether you're on a desktop, tablet, or phone, Komga adapts to your needs.
 
-📖 **Organize with Finesse:**
+📖 <mark style="color:orange;">**Organize with Finesse:**</mark>
 
 * Tired of clutter? Komga lets you create collections and read lists to keep your library in pristine order. Say goodbye to the chaos.
 
-📋 **Metadata Mastery:**
+📋 <mark style="color:blue;">**Metadata Mastery:**</mark>
 
 * Take control by editing metadata for your series and books. Komga even automatically imports embedded metadata, saving you time and effort.
 
-🔖 **Immersive Reading:**
+🔖 <mark style="color:red;">**Immersive Reading:**</mark>
 
 * Dive into the world of comics with Komga's web reader, offering multiple reading modes to suit your preferences.
 
-👤 **Multi-User Management:**
+👤 <mark style="color:yellow;">**Multi-User Management:**</mark>
 
 * Share the love for comics with friends and family. Komga allows you to manage multiple users, control access per library, set age restrictions, and apply label restrictions.
 
-📡 **The Power of REST:**
+📡 <mark style="color:green;">**The Power of REST:**</mark>
 
 * Komga offers a REST API, opening doors to numerous community tools and scripts that can enhance your comics/mangas experience.
 
-📥 **Effortless Downloads:**
+📥 <mark style="color:purple;">**Effortless Downloads:**</mark>
 
 * Want to enjoy your favorite comics offline? Komga lets you download book files, entire series, or read lists with ease.
 
-🔍 **No More Duplicates:**
+🔍 <mark style="color:yellow;">**No More Duplicates:**</mark>
 
 * Say farewell to duplicates! Komga detects duplicate files and even goes the extra mile by identifying duplicate pages, ensuring your collection stays tidy.
 
-📥 **Seamless Imports:**
+📥 <mark style="color:orange;">**Seamless Imports:**</mark>
 
 * Adding new content is a breeze with Komga. Import books from outside your libraries directly into your series folder without a hitch.
 
-🚀 **ComicRack Compatibility:**
+🚀 <mark style="color:orange;">**ComicRack Compatibility:**</mark>
 
 * For ComicRack users, Komga seamlessly imports cbl read lists, making your transition smooth and painless.
 
@@ -77,17 +77,17 @@ Join the Komga community today and embark on an adventure through the captivatin
 
 <mark style="color:orange;">Ever wondered how Komga, your comics and mangas server, conjures up a seamless reading experience? Let's peel back the curtain and discover the inner workings:</mark>
 
-1. **Library Creation:** Your journey begins with library creation. You organize your comics and mangas by creating libraries. Each library acts as a container for your beloved series and books.
-2. **Series and Books:** Within each library, you categorize your comics into series and individual books. This hierarchy keeps your collection structured and easy to navigate.
-3. **Metadata Management:** Komga allows you to edit metadata for your series and books. You can add details like titles, authors, covers, and more. Don't worry about manual input; Komga can automatically import embedded metadata to save you time.
-4. **Collections and Read Lists:** Create collections and read lists to further organize your comics. Collections group series by genre, theme, or any category you desire. Read lists let you curate a sequence of comics for binge-reading.
-5. **Responsive Web UI:** Access your library through a responsive web UI. It adapts to your device, whether you're using a desktop computer, tablet, or smartphone. No matter where you are, your comics are at your fingertips.
-6. **Web Reader:** Komga's web reader offers an immersive reading experience. You can choose from various reading modes that suit your preferences, ensuring your comics look just the way you like them.
-7. **User Management:** Share the joy of comics with friends and family. Komga supports multiple users, each with their access control. You can set age restrictions and apply label restrictions to curate the content available to different users.
-8. **REST API:** For the tech-savvy, Komga boasts a REST API that opens up a world of possibilities. Various community tools and scripts can interact with Komga, enhancing your comics/mangas adventure.
-9. **Downloads and Imports:** Komga makes it easy to download comics for offline enjoyment. You can download individual book files, entire series, or read lists. Plus, if you have content outside your libraries, you can import it directly into your series folder.
-10. **Duplicate Detection:** Komga keeps your library clutter-free by detecting duplicate files and pages. Say goodbye to redundancy.
-11. **ComicRack Compatibility:** If you're transitioning from ComicRack, Komga seamlessly imports cbl read lists, ensuring a smooth shift to your new comics haven.
+1. <mark style="color:orange;">**Library Creation:**</mark> Your journey begins with library creation. You organize your comics and mangas by creating libraries. Each library acts as a container for your beloved series and books.
+2. <mark style="color:purple;">**Series and Books:**</mark> Within each library, you categorize your comics into series and individual books. This hierarchy keeps your collection structured and easy to navigate.
+3. <mark style="color:purple;">**Metadata Management:**</mark> Komga allows you to edit metadata for your series and books. You can add details like titles, authors, covers, and more. Don't worry about manual input; Komga can automatically import embedded metadata to save you time.
+4. <mark style="color:yellow;">**Collections and Read Lists:**</mark> Create collections and read lists to further organize your comics. Collections group series by genre, theme, or any category you desire. Read lists let you curate a sequence of comics for binge-reading.
+5. <mark style="color:yellow;">**Responsive Web UI:**</mark> Access your library through a responsive web UI. It adapts to your device, whether you're using a desktop computer, tablet, or smartphone. No matter where you are, your comics are at your fingertips.
+6. <mark style="color:yellow;">**Web Reader:**</mark> Komga's web reader offers an immersive reading experience. You can choose from various reading modes that suit your preferences, ensuring your comics look just the way you like them.
+7. <mark style="color:purple;">**User Management:**</mark> Share the joy of comics with friends and family. Komga supports multiple users, each with their access control. You can set age restrictions and apply label restrictions to curate the content available to different users.
+8. <mark style="color:red;">**REST API:**</mark> For the tech-savvy, Komga boasts a REST API that opens up a world of possibilities. Various community tools and scripts can interact with Komga, enhancing your comics/mangas adventure.
+9. <mark style="color:purple;">**Downloads and Imports:**</mark> Komga makes it easy to download comics for offline enjoyment. You can download individual book files, entire series, or read lists. Plus, if you have content outside your libraries, you can import it directly into your series folder.
+10. <mark style="color:purple;">**Duplicate Detection:**</mark> Komga keeps your library clutter-free by detecting duplicate files and pages. Say goodbye to redundancy.
+11. <mark style="color:orange;">**ComicRack Compatibility:**</mark> If you're transitioning from ComicRack, Komga seamlessly imports cbl read lists, ensuring a smooth shift to your new comics haven.
 
 With these enchanting mechanisms, Komga transforms your comics and mangas into an organized, accessible, and delightful collection. Dive into the world of comics with Komga and relish the magic of an impeccable reading experience!
 

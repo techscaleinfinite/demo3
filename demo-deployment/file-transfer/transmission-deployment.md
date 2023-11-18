@@ -29,16 +29,16 @@ layout:
 
 <mark style="color:orange;">Tired of wrestling with complicated torrent clients? Meet Transmission, the fast, easy, and free BitTorrent client that simplifies your downloading experience. Here's why Transmission stands out in the crowd:</mark>
 
-**1. Designed for Simplicity**
+<mark style="color:orange;">**1. Designed for Simplicity**</mark>
 
 * Transmission is all about ease of use. It's like your favorite pair of sneakers—comfortable and always ready to go.
 * We've fine-tuned the defaults, so it practically sets itself up. Plus, advanced features like watch directories and bad peer blocklists are just a few clicks away.
 * Ubuntu, a Linux favorite, chose Transmission as its default BitTorrent client precisely because of its gentle learning curve.
 
-**2. Lightweight and Speedy**
+<mark style="color:orange;">**2. Lightweight and Speedy**</mark>
 
 * Transmission is a speed demon with a featherlight touch. It won't hog your memory or resources.
-* Its minimal system footprint makes it perfect for home NAS and media servers, a favorite among tech giants like Western Digital, Zyxel, and Belkin.
+* _Its minimal system footprint makes it perfect for home NAS and media servers, a favorite among tech giants like Western Digital, Zyxel, and Belkin._
 * No matter your hardware, Transmission delivers impressive performance without breaking a sweat.
 
 Say goodbye to torrenting headaches and embrace Transmission's simplicity and speed. It's the BitTorrent client that respects your time and resources, ensuring your downloads are a breeze. Give Transmission a spin and experience torrenting the way it should be—fast, easy, and free.
@@ -50,8 +50,6 @@ Say goodbye to torrenting headaches and embrace Transmission's simplicity and sp
 Simple Installation and Configuration Transmission is intended to make torrenting as simple as possible. It comes with preset settings that just work, so you can get started downloading right away. Do you require additional control? No worries. With a few clicks, you may simply configure sophisticated features such as monitor folders and peer blocklists. Because of its user-friendliness, Ubuntu, a popular Linux distribution, chose Transmission as its default BitTorrent client. It is the client who will not leave you perplexed.
 
 &#x20;Lightweight and quick Performance Transmission is really effective. It will not use your system's memory or resources, allowing your computer to stay responsive. Because of its lightweight form, it is ideal for home NAS (Network Attached Storage) devices and media servers. It's a popular choice among large IT companies such as Western Digital, Zyxel, and Belkin. Transmission guarantees lightning-fast performance regardless of your hardware configuration.
-
-
 
 ### <mark style="color:blue;">Steps And Procedure</mark>
 

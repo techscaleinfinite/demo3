@@ -24,21 +24,21 @@ layout:
 
 <mark style="color:orange;">In a digital landscape teeming with information, what happens when your favorite websites or platforms don't offer an RSS or Atom feed? This is where RSS-Bridge steps in, serving as a digital bridge that seamlessly connects you to the content you crave. Let's explore how RSS-Bridge makes the seemingly impossible possible.</mark>
 
-🌐 **Diverse Bridges for Varied Needs** 🌉 RSS-Bridge boasts an impressive array of bridges, each tailored to different platforms. Whether you're tracking YouTube channels, exploring Twitter hashtags, delving into Telegram groups, or keeping an eye on the latest subreddit posts, RSS-Bridge has you covered. It even allows you to merge multiple feeds into one, creating a personalized information stream.
+<mark style="color:orange;">🌐</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Diverse Bridges for Varied Needs**</mark> 🌉 RSS-Bridge boasts an impressive array of bridges, each tailored to different platforms. Whether you're tracking YouTube channels, exploring Twitter hashtags, delving into Telegram groups, or keeping an eye on the latest subreddit posts, RSS-Bridge has you covered. It even allows you to merge multiple feeds into one, creating a personalized information stream.
 
-🤖 **YouTube Bridge** 🎥 Are you an avid follower of YouTube content creators? RSS-Bridge enables you to generate feeds for YouTube user channels, playlists, or search queries, so you never miss a video.
+<mark style="color:yellow;">🤖</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**YouTube Bridge**</mark> 🎥 Are you an avid follower of YouTube content creators? RSS-Bridge enables you to generate feeds for YouTube user channels, playlists, or search queries, so you never miss a video.
 
-🐦 **Twitter Bridge** 🐤 Stay up-to-date with Twitter trends and updates by generating feeds for keyword or hashtag searches, as well as user timelines. Now, Twitter's dynamic world is at your fingertips.
+🐦 <mark style="color:green;">**Twitter Bridge**</mark> 🐤 Stay up-to-date with Twitter trends and updates by generating feeds for keyword or hashtag searches, as well as user timelines. Now, Twitter's dynamic world is at your fingertips.
 
-📣 **Telegram Bridge** 📲 Join the conversation on Telegram with ease. RSS-Bridge fetches the latest posts from public groups, ensuring you're in the know about the topics that matter most to you.
+<mark style="color:red;">📣</mark> <mark style="color:red;"></mark><mark style="color:red;">**Telegram Bridge**</mark> 📲 Join the conversation on Telegram with ease. RSS-Bridge fetches the latest posts from public groups, ensuring you're in the know about the topics that matter most to you.
 
-🌟 **Reddit Bridge** 🌐 Whether you're a Redditor or a lurker, RSS-Bridge delivers the freshest posts from subreddits or specific users directly to your feed reader.
+<mark style="color:blue;">🌟</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Reddit Bridge**</mark> 🌐 Whether you're a Redditor or a lurker, RSS-Bridge delivers the freshest posts from subreddits or specific users directly to your feed reader.
 
-🔍 **Filter Bridge** 🧹 Refine and customize your existing feeds with the Filter bridge, allowing you to tailor your content to your exact preferences.
+🔍 <mark style="color:red;">**Filter Bridge**</mark> 🧹 Refine and customize your existing feeds with the Filter bridge, allowing you to tailor your content to your exact preferences.
 
-📷 **Twitch Bridge** 📽️ For gaming enthusiasts, RSS-Bridge fetches the latest videos from Twitch channels, so you're always in sync with your favorite streamers.
+📷 <mark style="color:yellow;">**Twitch Bridge**</mark> 📽️ For gaming enthusiasts, RSS-Bridge fetches the latest videos from Twitch channels, so you're always in sync with your favorite streamers.
 
-☠️ **ThePirateBay Bridge** 🏴‍☠️ Ahoy, matey! Keep an eye on the high seas of torrents with ThePirateBay bridge, which returns the newest indexed torrents based on your keywords.
+☠️ <mark style="color:purple;">**ThePirateBay Bridge**</mark> 🏴‍☠️ Ahoy, matey! Keep an eye on the high seas of torrents with ThePirateBay bridge, which returns the newest indexed torrents based on your keywords.
 
 RSS-Bridge is your ticket to a more organized and connected digital experience. It transforms the web's unbridled content into a structured and easily accessible feed, ensuring that you never miss out on the latest updates, trends, or discussions across your favorite platforms. With RSS-Bridge, the content you love is just a bridge away.
 
@@ -48,21 +48,21 @@ RSS-Bridge is your ticket to a more organized and connected digital experience. 
 
 <mark style="color:orange;">RSS-Bridge is designed with user-friendliness in mind. Its configuration is straightforward, making it accessible to both beginners and experienced users. Here's how it operates:</mark>
 
-1. **Choose Your Bridge**: Begin by selecting the bridge that corresponds to your desired content source. Whether it's YouTube, Twitter, Telegram, Reddit, or others, RSS-Bridge has specialized bridges for each platform.
-2. **Configure Bridge Parameters**: Depending on the chosen bridge, you'll provide specific details like the YouTube channel name, Twitter hashtags, or subreddit name. This information helps RSS-Bridge fetch the relevant content.
-3. **Generate Your Feed**: Once configured, RSS-Bridge works its magic and generates an RSS or Atom feed for your selected content. This feed acts as a continuous stream of updates, just like any other standard feed.
-4. **Integration with Feed Reader**: To access the content, you'll need a feed reader. Popular options include Feedly, Inoreader, or even browser-based readers like Mozilla Thunderbird. Simply add the generated feed URL to your chosen reader.
-5. **Stay Updated**: With your feed reader in place, you can now enjoy a continuous flow of updates from your favorite websites and platforms. RSS-Bridge ensures that even sites without native feeds become accessible through your reader.
+1. <mark style="color:yellow;">**Choose Your Bridge**</mark><mark style="color:yellow;">:</mark> Begin by selecting the bridge that corresponds to your desired content source. Whether it's YouTube, Twitter, Telegram, Reddit, or others, RSS-Bridge has specialized bridges for each platform.
+2. <mark style="color:orange;">**Configure Bridge Parameters**</mark><mark style="color:orange;">:</mark> Depending on the chosen bridge, you'll provide specific details like the YouTube channel name, Twitter hashtags, or subreddit name. This information helps RSS-Bridge fetch the relevant content.
+3. <mark style="color:red;">**Generate Your Feed**</mark><mark style="color:red;">:</mark> Once configured, RSS-Bridge works its magic and generates an RSS or Atom feed for your selected content. This feed acts as a continuous stream of updates, just like any other standard feed.
+4. <mark style="color:yellow;">**Integration with Feed Reader**</mark><mark style="color:yellow;">:</mark> To access the content, you'll need a feed reader. Popular options include Feedly, Inoreader, or even browser-based readers like Mozilla Thunderbird. Simply add the generated feed URL to your chosen reader.
+5. <mark style="color:blue;">**Stay Updated**</mark><mark style="color:blue;">:</mark> With your feed reader in place, you can now enjoy a continuous flow of updates from your favorite websites and platforms. RSS-Bridge ensures that even sites without native feeds become accessible through your reader.
 
-🔄 **Automatic Updates** 🔄
+<mark style="color:yellow;">🔄</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Automatic Updates**</mark> 🔄
 
 RSS-Bridge isn't a one-time solution. It regularly checks the source for new content and updates your feed accordingly. This means you won't miss out on any fresh posts, videos, or tweets.
 
-🔒 **Privacy and Control** 🔒
+🔒 <mark style="color:orange;">**Privacy and Control**</mark> 🔒
 
 Your data privacy is paramount. RSS-Bridge doesn't collect or store your personal information. It operates as a bridge between the content source and your feed reader, ensuring your online activity remains private.
 
-🤝 **Sharing Is Caring** 🤝
+<mark style="color:purple;">🤝</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Sharing Is Caring**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">🤝</mark>
 
 RSS-Bridge fosters a sense of community. It allows you to share your configured bridges with others. So, if you've set up a fantastic way to follow your favorite Reddit threads or YouTube channels, you can easily share it with friends and fellow enthusiasts.
 

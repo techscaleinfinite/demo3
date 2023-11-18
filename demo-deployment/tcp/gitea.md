@@ -28,23 +28,23 @@ layout:
 
 When it comes to software development, Gitea steps into the spotlight as your trusty sidekick. This self-hosted platform packs a punch with a range of features that make your coding adventures a breeze:
 
-**1. Git Hosting:**
+<mark style="color:red;">**1. Git Hosting:**</mark>
 
 * Gitea offers a cozy home for your Git repositories. It's like a secure vault where your source code is protected, and your team can collaborate seamlessly.
 
-**2. Code Review:**
+<mark style="color:blue;">**2. Code Review:**</mark>
 
 * Collaboration just got simpler. Gitea has your back with built-in code review tools. Your team can join forces to fine-tune code changes, ensuring top-notch quality and teamwork.
 
-**3. Team Collaboration:**
+<mark style="color:purple;">**3. Team Collaboration:**</mark>
 
 * Think of Gitea as a digital hangout for your development crew. It brings developers under one roof, making communication, knowledge sharing, and project management a walk in the park.
 
-**4. Package Registry:**
+<mark style="color:purple;">**4. Package Registry:**</mark>
 
 * Developers, you're in for a treat! Gitea's package registry lets you neatly organize and manage your software packages. It's like tidying up your digital toolbox, making package distribution a breeze.
 
-**5. CI/CD (Continuous Integration/Continuous Deployment):**
+<mark style="color:orange;">**5. CI/CD (Continuous Integration/Continuous Deployment):**</mark>
 
 * Say goodbye to the hassle of manual code building and testing. Gitea automates the CI/CD process, ensuring your code changes gracefully waltz into the production environment.
 
@@ -60,27 +60,27 @@ In a nutshell, Gitea is the tech wizard you've been waiting for. It's your all-i
 
 * At its core, Gitea is your Git sanctuary. It's where you create and manage Git repositories for your projects, like a secure vault for your code.
 
-**2. Code Review:**
+<mark style="color:red;">**2. Code Review:**</mark>
 
 * Collaboration is a breeze with Gitea. It offers nifty code review tools, including pull requests for proposing code changes. Your team can discuss and fine-tune these changes before they become a part of your project.
 
-**3. Team Collaboration:**
+<mark style="color:purple;">**3. Team Collaboration:**</mark>
 
 * Gitea is the ultimate team player. It fosters collaboration by letting users create organizations, allowing teams to work on projects together. It also offers handy features like issue tracking and wikis.
 
-**4. Package Registry:**
+<mark style="color:green;">**4. Package Registry:**</mark>
 
 * Store and manage your software packages effortlessly with Gitea's package registry. It's like your own digital toolbox, especially handy for projects with complex dependencies.
 
-**5. CI/CD (Continuous Integration/Continuous Deployment):**
+**5. **<mark style="color:blue;">**CI/CD (Continuous Integration/Continuous Deployment):**</mark>
 
 * Gitea takes the grunt work out of software building and deployment. It automates the process, ensuring that your code flows smoothly from development to production.
 
-**6. User-Friendly Web Interface:**
+**6**<mark style="color:orange;">**. User-Friendly Web Interface:**</mark>
 
 * No tech jargon here! Gitea provides a web-based interface that's easy to use. Manage repositories, conduct code reviews, and collaborate with your team using a user-friendly dashboard.
 
-**7. Customization:**
+<mark style="color:green;">**7. Customization:**</mark>
 
 * Make Gitea your own. You can personalize it with themes, branding, and configuration settings to match your unique needs and style.
 
@@ -88,11 +88,11 @@ In a nutshell, Gitea is the tech wizard you've been waiting for. It's your all-i
 
 * Gitea is the fortress for your code. It takes security seriously with features like user authentication, access controls, and encryption to protect your data and ensure secure access.
 
-**9. Open Source:**
+<mark style="color:blue;">**9. Open Source:**</mark>
 
 * The beauty of Gitea is its open-source nature. It's all about community contributions, customization, and transparency. You can enhance its power with plugins and integrations.
 
-**10. Cross-Platform Compatibility:**
+<mark style="color:orange;">**10. Cross-Platform Compatibility:**</mark>
 
 * No matter what tech setup you've got, Gitea plays nice. Its Go-based architecture runs smoothly on various systems, ensuring accessibility across different environments.
 

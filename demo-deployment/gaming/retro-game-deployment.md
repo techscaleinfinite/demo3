@@ -27,55 +27,55 @@ layout:
 
 The self-hosted RetroArch web player is an exciting project that brings retro gaming to the web, offering a nostalgic gaming experience right in your web browser. Let's delve into the details of how this remarkable system works:
 
-**1. Retro Gaming Emulation:** At its core, the self-hosted RetroArch web player is an emulator that replicates the hardware of classic gaming consoles. It supports a wide range of vintage gaming systems, such as NES, SNES, Sega Genesis, and more. This emulation capability allows you to play your favorite retro games directly within your web browser.
+**1. **<mark style="color:yellow;">**Retro Gaming Emulation:**</mark> At its core, the self-hosted RetroArch web player is an emulator that replicates the hardware of classic gaming consoles. It supports a wide range of vintage gaming systems, such as NES, SNES, Sega Genesis, and more. This emulation capability allows you to play your favorite retro games directly within your web browser.
 
-**2. Web-Based Accessibility:** One of the key advantages of this project is its web-based nature. You can access and enjoy retro games without the need for extensive downloads or installations. Simply open your web browser, visit the self-hosted RetroArch web player's interface, and start playing your favorite classics instantly.
+**2. **<mark style="color:orange;">**Web-Based Accessibility:**</mark> One of the key advantages of this project is its web-based nature. You can access and enjoy retro games without the need for extensive downloads or installations. Simply open your web browser, visit the self-hosted RetroArch web player's interface, and start playing your favorite classics instantly.
 
-**3. Self-Hosting:** The term "self-hosted" signifies that you have the freedom to host and run the RetroArch web player on your own server or web hosting environment. This level of control ensures that you can curate your collection of retro games, manage system configurations, and maintain your gaming platform according to your preferences.
+**3. **<mark style="color:orange;">**Self-Hosting:**</mark> The term "self-hosted" signifies that you have the freedom to host and run the RetroArch web player on your own server or web hosting environment. This level of control ensures that you can curate your collection of retro games, manage system configurations, and maintain your gaming platform according to your preferences.
 
-**4. Intuitive User Interface:** The web player typically features an intuitive user interface that resembles the classic gaming console menu systems. Users can navigate through game libraries, select titles, configure controllers, and adjust game settings, just as they would on the original consoles.
+**4. **<mark style="color:orange;">**Intuitive User Interface:**</mark> The web player typically features an intuitive user interface that resembles the classic gaming console menu systems. Users can navigate through game libraries, select titles, configure controllers, and adjust game settings, just as they would on the original consoles.
 
-**5. Emulator Cores:** RetroArch utilizes emulator cores, which are software components that replicate specific gaming systems. Users can choose from a variety of emulator cores to match the console they want to emulate. This flexibility allows for a diverse selection of games from different retro platforms.
+**5. **<mark style="color:red;">**Emulator Cores:**</mark> RetroArch utilizes emulator cores, which are software components that replicate specific gaming systems. Users can choose from a variety of emulator cores to match the console they want to emulate. This flexibility allows for a diverse selection of games from different retro platforms.
 
-**6. Controller Support:** To enhance the nostalgic experience, the RetroArch web player typically supports various input methods, including keyboard controls and gamepad support. You can use USB controllers or configure keyboard keys to emulate the original console's controller layout.
+**6. **<mark style="color:yellow;">**Controller Support:**</mark> To enhance the nostalgic experience, the RetroArch web player typically supports various input methods, including keyboard controls and gamepad support. You can use USB controllers or configure keyboard keys to emulate the original console's controller layout.
 
-**7. Game Library:** Users can build and organize their game libraries within the RetroArch environment. The web player often includes features for categorizing games, adding metadata, and creating custom playlists, making it easy to find and play your favorite classics.
+**7. **<mark style="color:yellow;">**Game Library:**</mark> Users can build and organize their game libraries within the RetroArch environment. The web player often includes features for categorizing games, adding metadata, and creating custom playlists, making it easy to find and play your favorite classics.
 
-**8. Community and Customization:** The self-hosted nature of this project often encourages a vibrant community of retro gaming enthusiasts. You can find support, resources, and even user-created content, such as custom game mods and patches, to enhance your retro gaming experience.
+**8. **<mark style="color:blue;">**Community and Customization:**</mark> The self-hosted nature of this project often encourages a vibrant community of retro gaming enthusiasts. You can find support, resources, and even user-created content, such as custom game mods and patches, to enhance your retro gaming experience.
 
 In summary, the self-hosted RetroArch web player is a nostalgic journey into the world of retro gaming, made accessible through web-based emulation. With support for various classic gaming systems, intuitive interfaces, and the ability to host and customize your gaming platform, it offers a delightful way to relive the magic of vintage video games right from your web browser.
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**1. Emulating Retro Gaming Consoles:**
+<mark style="color:purple;">**1. Emulating Retro Gaming Consoles:**</mark>
 
 * At its core, the self-hosted RetroArch web player is like a virtual time machine for classic gaming. It simulates the hardware of old-school gaming consoles, including iconic systems like the NES, SNES, Sega Genesis, and more.
 
-**2. Web-Based Gaming:**
+<mark style="color:yellow;">**2. Web-Based Gaming:**</mark>
 
 * What makes it exciting is that you can access and play these retro games directly in your web browser. No need for complex downloads or installations; just open your browser, visit the RetroArch web player's website, and you're ready to play.
 
-**3. Hosting Control:**
+<mark style="color:blue;">**3. Hosting Control:**</mark>
 
 * "Self-hosted" means you're in charge. You can run this web player on your own server or web hosting setup. This gives you the power to curate your collection of classic games, tweak system settings, and have full control over your gaming experience.
 
-**4. Easy to Navigate:**
+[<mark style="color:green;">**4. Easy to Navigate:**</mark>](#user-content-fn-1)[^1]
 
 * The web player usually has a user-friendly interface that resembles the menus of old gaming consoles. You can explore your library of games, pick the ones you want to play, set up controllers, and adjust game options, just like you would on the original consoles.
 
-**5. Emulator Magic:**
+<mark style="color:purple;">**5. Emulator Magic:**</mark>
 
 * RetroArch employs something called "emulator cores." These are like digital replicas of classic consoles. You can select the emulator core that matches the gaming system you want to play. This flexibility lets you enjoy a wide variety of games from different retro eras.
 
-**6. Control Your Way:**
+**6**<mark style="color:green;">**. Control Your Way:**</mark>
 
 * To keep the nostalgia alive, the RetroArch web player often supports multiple input methods. You can use your keyboard or connect a gamepad. Whether you prefer USB controllers or setting up keyboard keys to mimic the classic controller layout, it's all about your choice.
 
-**7. Building Your Collection:**
+**7**<mark style="color:orange;">**. Building Your Collection:**</mark>
 
 * You can organize your retro game library within the RetroArch environment. It comes with tools for sorting games, adding descriptions, and creating custom playlists. This makes it a breeze to find and play your cherished classics.
 
-**8. Community and Customization:**
+<mark style="background-color:red;">**8. Community and Customization:**</mark>
 
 * The fact that you can host it yourself fosters a vibrant community of retro gaming enthusiasts. You can tap into this community for support, discover additional content like mods and patches, and even share your own customizations to enhance your retro gaming adventures.
 
@@ -214,3 +214,5 @@ Stay informed and engaged with our project's latest developments and support on 
 Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions, gaming, retro gaming
 
 </details>
+
+[^1]: 

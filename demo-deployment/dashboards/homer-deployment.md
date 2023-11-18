@@ -26,16 +26,16 @@ layout:
 
 ### <mark style="color:blue;">What's is homer?</mark>
 
-Homer is a user-friendly, self-hosted dashboard that simplifies the management of your various services and applications. This web-based dashboard offers quick and convenient access to a wide range of self-hosted tools and services from a single interface. It's designed to streamline your experience in organizing and interacting with your self-hosted applications, enhancing accessibility and productivity.
+_Homer is a user-friendly, self-hosted dashboard that simplifies the management of your various services and applications. This web-based dashboard offers quick and convenient access to a wide range of self-hosted tools and services from a single interface. It's designed to streamline your experience in organizing and interacting with your self-hosted applications, enhancing accessibility and productivity._
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
 Homer simplifies the process of configuring and accessing your self-hosted services through these key steps:
 
-1. **Configuration**: Begin by defining the services you want to include in your Homer dashboard using a YAML configuration file. In this file, you list the names, URLs, and icons associated with each service you wish to access.
-2. **Dashboard Interface**: After setting up your configuration, you can access your Homer dashboard through a web browser. The dashboard offers an organized and user-friendly view of your services, making it straightforward to locate and launch them.
-3. **Service Accessibility**: Each entry on the dashboard typically features an icon, a service name, and a URL link. Clicking on either the icon or the name of a service opens a new tab or window in your browser, taking you directly to the designated URL of that service.
-4. **Customization**: Homer goes the extra mile in terms of customization. You can personalize the appearance of your dashboard by selecting different themes, layouts, and colors that align with your preferences.
+1. _**Configuration**:_ Begin by defining the services you want to include in your Homer dashboard using a YAML configuration file. In this file, you list the names, URLs, and icons associated with each service you wish to access.
+2. <mark style="color:blue;">**Dashboard Interface**</mark><mark style="color:blue;">:</mark> After setting up your configuration, you can access your Homer dashboard through a web browser. The dashboard offers an organized and user-friendly view of your services, making it straightforward to locate and launch them.
+3. <mark style="color:yellow;">**Service Accessibility**</mark>: Each entry on the dashboard typically features an icon, a service name, and a URL link. Clicking on either the icon or the name of a service opens a new tab or window in your browser, taking you directly to the designated URL of that service.
+4. <mark style="color:green;">**Customization**</mark><mark style="color:green;">:</mark> Homer goes the extra mile in terms of customization. You can personalize the appearance of your dashboard by selecting different themes, layouts, and colors that align with your preferences.
 5. **Quick Access**: With Homer, there's no need to remember individual URLs or maintain a complex list of bookmarks for your self-hosted services. The dashboard provides a centralized hub, simplifying access to everything you need.
 
 In essence, Homer transforms the way you interact with your self-hosted applications and services, offering a seamless and efficient solution for managing and accessing them all from a single, user-friendly interface.

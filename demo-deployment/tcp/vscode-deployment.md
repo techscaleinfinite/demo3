@@ -29,27 +29,27 @@ layout:
 
 **Open-Source Goodness:** Visual Studio Code, or simply VS Code, is like a treasure chest for developers. It's open-source, meaning its code is like a good book – open for everyone to read, modify, and add their own chapters. This openness creates a welcoming space for developers to share, learn, and make the editor better for all.
 
-**One for All:** Imagine a tool that works on your computer no matter if it's Windows, macOS, or Linux. VS Code is like that superhero who's there for you on any operating system. It keeps your coding environment consistent and your work hassle-free.
+<mark style="color:blue;">**One for All:**</mark> Imagine a tool that works on your computer no matter if it's Windows, macOS, or Linux. VS Code is like that superhero who's there for you on any operating system. It keeps your coding environment consistent and your work hassle-free.
 
-**Speedster Editor:** Despite being feature-packed, VS Code is like a lightning bolt. It starts up super fast and never keeps you waiting. It's the Flash of code editors, responding to your commands in a flash.
+<mark style="color:purple;">**Speedster Editor:**</mark> Despite being feature-packed, VS Code is like a lightning bolt. It starts up super fast and never keeps you waiting. It's the Flash of code editors, responding to your commands in a flash.
 
-**Language Love:** VS Code is a multilingual poet. It speaks the language of many programming languages. How? Through extensions. These are like language packs that make coding in your favorite language a breeze.
+<mark style="color:green;">**Language Love:**</mark> VS Code is a multilingual poet. It speaks the language of many programming languages. How? Through extensions. These are like language packs that make coding in your favorite language a breeze.
 
-**Extension Wonderland:** Imagine a mall full of shops, but it's the Extensions Marketplace of VS Code. Here, you can shop for extensions to deck out your coding space. Need extra tools for your coding adventures? They've got it all.
+<mark style="color:yellow;">**Extension Wonderland:**</mark> Imagine a mall full of shops, but it's the Extensions Marketplace of VS Code. Here, you can shop for extensions to deck out your coding space. Need extra tools for your coding adventures? They've got it all.
 
-**IDE Powers:** While VS Code calls itself an editor, it's got the skills of a full-blown Integrated Development Environment (IDE). Think of it as a Swiss Army knife for coders, with debugging, Git (a coding superhero's sidekick), a terminal, and more.
+<mark style="color:purple;">**IDE Powers:**</mark> While VS Code calls itself an editor, it's got the skills of a full-blown Integrated Development Environment (IDE). Think of it as a Swiss Army knife for coders, with debugging, Git (a coding superhero's sidekick), a terminal, and more.
 
-**Tailored to You:** VS Code is like a well-fitted suit. You can customize it to match your style, from the look and feel (themes and colors) to how it listens to your commands (keybindings). It's your coding world, so make it feel like home.
+<mark style="color:green;">**Tailored to You:**</mark> VS Code is like a well-fitted suit. You can customize it to match your style, from the look and feel (themes and colors) to how it listens to your commands (keybindings). It's your coding world, so make it feel like home.
 
-**Terminal Teammate:** The integrated terminal is your trusty sidekick. You don't need to jump between windows; it's right there in your editor. Give it commands, and it obeys.
+<mark style="color:yellow;">**Terminal Teammate**</mark>**:** The integrated terminal is your trusty sidekick. You don't need to jump between windows; it's right there in your editor. Give it commands, and it obeys.
 
 **Git Guru:** You've got version control built-in. Managing your code changes, commits, and repositories is a piece of cake. No need to leave your editor – it's got your back.
 
-**Automate Away:** Who likes repetitive tasks? VS Code certainly doesn't. You can automate common jobs with tasks and build configurations, leaving you more time for the fun stuff.
+<mark style="color:orange;">**Automate Away:**</mark> Who likes repetitive tasks? VS Code certainly doesn't. You can automate common jobs with tasks and build configurations, leaving you more time for the fun stuff.
 
-**Live and Collaborative:** It's like a virtual coding party. You and your pals can code together, no matter where you are. It's your digital pair programming paradise.
+<mark style="color:orange;">**Live and Collaborative:**</mark> It's like a virtual coding party. You and your pals can code together, no matter where you are. It's your digital pair programming paradise.
 
-**For Everyone:** VS Code is friendly to everyone, including those with disabilities. It's got features like screen reader support, making it a welcoming space for all developers.
+<mark style="color:orange;">**For Everyone:**</mark> VS Code is friendly to everyone, including those with disabilities. It's got features like screen reader support, making it a welcoming space for all developers.
 
 In short, Visual Studio Code is your trusty coding companion. It's like having a superhero toolkit with you, ready to help you code faster, better, and in your own style. It's not just an editor; it's your coding BFF.
 
@@ -57,31 +57,31 @@ In short, Visual Studio Code is your trusty coding companion. It's like having a
 
 <mark style="color:orange;">**Visual Studio Code (VS Code): Your Coding Partner**</mark>
 
-**Getting Started:** To jump into the coding world with VS Code, you start by downloading and installing it on your computer. Just like you open any other application, launch VS Code, and you're good to go.
+<mark style="color:green;">**Getting Started:**</mark> To jump into the coding world with VS Code, you start by downloading and installing it on your computer. Just like you open any other application, launch VS Code, and you're good to go.
 
-**User-Friendly Interface:** When you open VS Code, you're greeted with a neat and easy-to-understand screen. It's like your coding canvas. Menus, toolbars, and sidebars are your tools to access all the cool features.
+<mark style="color:yellow;">**User-Friendly Interface**</mark>**:** When you open VS Code, you're greeted with a neat and easy-to-understand screen. It's like your coding canvas. Menus, toolbars, and sidebars are your tools to access all the cool features.
 
-**Workspace and Projects:** VS Code is your personal organizer. You can create and manage workspaces and projects. Workspaces are like folders for your code, and projects are specific setups within those folders. This helps you keep things tidy.
+<mark style="color:yellow;">**Workspace and Projects:**</mark> VS Code is your personal organizer. You can create and manage workspaces and projects. Workspaces are like folders for your code, and projects are specific setups within those folders. This helps you keep things tidy.
 
-**File Handling:** You can create, open, and edit files right within VS Code. Whether it's code, configuration stuff, or notes, this editor supports a wide range of file types.
+<mark style="color:blue;">**File Handling:**</mark> You can create, open, and edit files right within VS Code. Whether it's code, configuration stuff, or notes, this editor supports a wide range of file types.
 
-**Extensions Galore:** The star of the show is the extensions. It's like a magical marketplace where you can find superpowers for your editor. Want support for a specific language or framework? There's an extension for that.
+<mark style="color:yellow;">**Extensions Galore:**</mark> The star of the show is the extensions. It's like a magical marketplace where you can find superpowers for your editor. Want support for a specific language or framework? There's an extension for that.
 
-**Slick Code Editing:** Coding is a breeze with VS Code. It's got cool tricks like highlighting your code, folding it neatly, and even guessing what you're about to type. Plus, you can easily hop around your code with features like "Go to Definition."
+<mark style="color:green;">**Slick Code Editing:**</mark> Coding is a breeze with VS Code. It's got cool tricks like highlighting your code, folding it neatly, and even guessing what you're about to type. Plus, you can easily hop around your code with features like "Go to Definition."
 
-**Built-In Terminal:** Imagine having a direct line to your computer's brain. That's what the integrated terminal is. You can run commands and scripts without leaving the editor. Super handy for coding tasks.
+<mark style="color:green;">**Built-In Terminal:**</mark> Imagine having a direct line to your computer's brain. That's what the integrated terminal is. You can run commands and scripts without leaving the editor. Super handy for coding tasks.
 
-**Solving Mysteries (Debugging):** Like a detective, you can investigate code mysteries with VS Code. Set up clues (breakpoints), examine evidence (variables), and step through the story (code) to find and fix issues.
+<mark style="color:orange;">**Solving Mysteries (Debugging):**</mark> Like a detective, you can investigate code mysteries with VS Code. Set up clues (breakpoints), examine evidence (variables), and step through the story (code) to find and fix issues.
 
-**Version Control with Git:** Managing versions of your code is a breeze. Git, a trusty sidekick, is right inside VS Code. Commit changes, see your code's history, and work with Git without switching windows.
+<mark style="color:purple;">**Version Control with Git:**</mark> Managing versions of your code is a breeze. Git, a trusty sidekick, is right inside VS Code. Commit changes, see your code's history, and work with Git without switching windows.
 
-**The Extension Extravaganza:** VS Code throws a massive party with lots of guests. These guests are extensions, and they do all sorts of cool things. Want to talk to cloud services or be more productive? Invite an extension.
+<mark style="color:blue;">**The Extension Extravaganza:**</mark> VS Code throws a massive party with lots of guests. These guests are extensions, and they do all sorts of cool things. Want to talk to cloud services or be more productive? Invite an extension.
 
 **Make It Yours:** VS Code believes in individuality. You can dress it up the way you like with themes, change how it listens to your commands (keybindings), and tweak settings to match your style.
 
-**Coding Together, Miles Apart:** VS Code believes in teamwork. With "Live Share," you and your pals can work on code together, even if you're oceans apart. It's like coding with your buddies in the same room.
+<mark style="color:orange;">**Coding Together, Miles Apart:**</mark> VS Code believes in teamwork. With "Live Share," you and your pals can work on code together, even if you're oceans apart. It's like coding with your buddies in the same room.
 
-**Open for All:** VS Code is an equal opportunity editor. It's accessible to everyone, including folks with disabilities. It offers features like screen reader support and high-contrast themes.
+<mark style="color:yellow;">**Open for All:**</mark> VS Code is an equal opportunity editor. It's accessible to everyone, including folks with disabilities. It offers features like screen reader support and high-contrast themes.
 
 To sum it up, Visual Studio Code is your coding buddy. It's flexible, packed with features, and can speak the language of many coding tasks. It's like the Swiss Army knife of code editors, helping you code better, no matter your age or experience level.
 

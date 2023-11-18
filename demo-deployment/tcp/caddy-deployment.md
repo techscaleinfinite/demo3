@@ -31,11 +31,11 @@ _<mark style="color:orange;">Introducing Caddy, the modern web server that's rew
 
 _A Web Server Reimagined:_ Caddy isn't your run-of-the-mill web server; it's the avant-garde of the web hosting world. It's like the sleek sports car of web servers, designed to break down complexity and hand you simplicity on a silver platter. You won't need a manual to figure this one out.
 
-_User-Friendly Sorcery:_ Configuring and deploying web services can sometimes feel like navigating a labyrinth. But with Caddy, it's like magic. It's as if you're waving a wand, and your web services are up and running. Say goodbye to those confusing configuration files. Caddy offers a user-friendly interface that feels like pure sorcery.
+_<mark style="color:red;">User-Friendly Sorcery:</mark>_ Configuring and deploying web services can sometimes feel like navigating a labyrinth. But with Caddy, it's like magic. It's as if you're waving a wand, and your web services are up and running. Say goodbye to those confusing configuration files. Caddy offers a user-friendly interface that feels like pure sorcery.
 
-_Efficiency Unleashed:_ Caddy doesn't believe in wasting time. It's a well-oiled machine, delivering web content with finesse and speed. When it serves, it does so swiftly and efficiently, ensuring that your website visitors don't have to twiddle their thumbs.
+_<mark style="color:yellow;">Efficiency Unleashed:</mark>_ Caddy doesn't believe in wasting time. It's a well-oiled machine, delivering web content with finesse and speed. When it serves, it does so swiftly and efficiently, ensuring that your website visitors don't have to twiddle their thumbs.
 
-_Guardian of Security:_ While for some, security is just another feature, for Caddy, it's a way of life. It's engineered with layers of protection, ensuring that your web services stay safe and sound. It's like having an impenetrable fortress guarding your website.
+_<mark style="color:purple;">Guardian of Security:</mark>_ While for some, security is just another feature, for Caddy, it's a way of life. It's engineered with layers of protection, ensuring that your web services stay safe and sound. It's like having an impenetrable fortress guarding your website.
 
 _Automation at Your Service:_ Remember those tedious tasks that you'd rather not deal with? Caddy's got your back. It's the ever-reliable assistant that takes care of the nitty-gritty details, leaving you free to focus on the grand performance. It's like having a trusty sidekick in the world of web hosting.
 
@@ -47,21 +47,21 @@ With Caddy, the web server experience is like a finely orchestrated symphony –
 
 Caddy is a web server with a remarkable ensemble of features that make web server management a piece of cake. Let's take a tour of its superpowers:
 
-**1. Configuration Simplified:** Gone are the days of complex, cryptic configurations. Caddy speaks the language of humans. Defining how your web server should behave is a breeze with its Caddyfile. No more need to decode mysterious code.
+<mark style="color:purple;">**1. Configuration Simplified:**</mark> Gone are the days of complex, cryptic configurations. Caddy speaks the language of humans. Defining how your web server should behave is a breeze with its Caddyfile. No more need to decode mysterious code.
 
-**2. HTTPS Made Effortless:** Caddy steals the spotlight with its automatic HTTPS magic. When you set up a domain in the Caddyfile, it effortlessly summons SSL/TLS certificates from Let's Encrypt. Secure connections? Consider it done – no manual certificate wrangling required.
+<mark style="color:green;">**2. HTTPS Made Effortless:**</mark> Caddy steals the spotlight with its automatic HTTPS magic. When you set up a domain in the Caddyfile, it effortlessly summons SSL/TLS certificates from Let's Encrypt. Secure connections? Consider it done – no manual certificate wrangling required.
 
-**3. Master of Reverse Proxy:** Caddy is a pro at being a reverse proxy. It expertly reroutes requests to other services based on domain or path hints. Planning to host multiple services on one server? Caddy's got your back, making sure each request reaches its destination.
+<mark style="color:purple;">**3. Master of Reverse Proxy:**</mark> Caddy is a pro at being a reverse proxy. It expertly reroutes requests to other services based on domain or path hints. Planning to host multiple services on one server? Caddy's got your back, making sure each request reaches its destination.
 
-**4. Load Balancing Virtuoso:** Load balancing is like a walk in the park for Caddy. It gracefully distributes incoming traffic across multiple backend servers, ensuring high availability and turbocharged performance.
+**4**<mark style="color:red;">**. Load Balancing Virtuoso:**</mark> Load balancing is like a walk in the park for Caddy. It gracefully distributes incoming traffic across multiple backend servers, ensuring high availability and turbocharged performance.
 
-**5. Rewrite and Redirect Maven:** Need to tweak URLs or create SEO-friendly redirects? Caddy's your go-to hero. It lets you redefine URLs and perform elegant redirections – a dream come true for SEO pros.
+<mark style="color:red;">**5. Rewrite and Redirect Maven:**</mark> Need to tweak URLs or create SEO-friendly redirects? Caddy's your go-to hero. It lets you redefine URLs and perform elegant redirections – a dream come true for SEO pros.
 
 **6. Speed Demon:** Caddy doesn't believe in slowing down. It's all about speed, using cutting-edge web server technology to handle multiple connections with grace.
 
-**7. Plugins and Middleware Galore:** Caddy's versatility shines through its support for plugins and middleware. Whether it's controlling access, setting up authentication, or implementing advanced logging, Caddy has the tools to boost your web service.
+**7. **<mark style="color:purple;">**Plugins and Middleware Galore**</mark>**:** Caddy's versatility shines through its support for plugins and middleware. Whether it's controlling access, setting up authentication, or implementing advanced logging, Caddy has the tools to boost your web service.
 
-**8. Compression On-the-Fly:** Caddy doesn't just serve content; it optimizes it. It automatically compresses resources like CSS, JavaScript, and HTML on the fly, ensuring your web content arrives in style – fast and efficient.
+<mark style="color:yellow;">**8. Compression On-the-Fly**</mark>**:** Caddy doesn't just serve content; it optimizes it. It automatically compresses resources like CSS, JavaScript, and HTML on the fly, ensuring your web content arrives in style – fast and efficient.
 
 Caddy – where power meets simplicity, and its feature-packed performance takes center stage. Whether you're a tech enthusiast or just someone who wants their website to run smoothly, Caddy makes it happen.
 

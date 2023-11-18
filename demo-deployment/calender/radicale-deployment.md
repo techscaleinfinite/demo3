@@ -27,29 +27,29 @@ layout:
 
 <mark style="color:orange;">**Your Personal Calendar and Contact Butler**</mark>
 
-**The Ultimate Calendar and Contact Sidekick:** Meet Radicale, your trusty companion for calendars, to-do lists, and contacts. It doesn't just manage them; it's a pro at effortlessly organizing and sharing them.
+<mark style="color:orange;">**The Ultimate Calendar and Contact Sidekick:**</mark> Meet Radicale, your trusty companion for calendars, to-do lists, and contacts. It doesn't just manage them; it's a pro at effortlessly organizing and sharing them.
 
-**All-in-One Organizer:** Radicale is your go-to for keeping track of events, tasks, journal entries, and those precious business cards. It's like your personal secretary for both your personal and professional life.
+<mark style="color:yellow;">**All-in-One Organizer:**</mark> Radicale is your go-to for keeping track of events, tasks, journal entries, and those precious business cards. It's like your personal secretary for both your personal and professional life.
 
-**Simplicity Rules:** Setting up Radicale is a walk in the park. No more struggling with complex configurations or never-ending setup steps. Radicale is all about simplicity and efficiency, getting you started in a jiffy.
+<mark style="color:yellow;">**Simplicity Rules:**</mark> Setting up Radicale is a walk in the park. No more struggling with complex configurations or never-ending setup steps. Radicale is all about simplicity and efficiency, getting you started in a jiffy.
 
-**Fort Knox for Your Data:** Security is a top priority, and Radicale takes it seriously. You decide who gets to peek into your calendars and contact lists. Only the authenticated ones get access.
+<mark style="color:blue;">**Fort Knox for Your Data:**</mark> Security is a top priority, and Radicale takes it seriously. You decide who gets to peek into your calendars and contact lists. Only the authenticated ones get access.
 
-**Your Data's Safe Haven:** Radicale follows a straightforward yet robust approach—it neatly stores all your precious data in a folder structure on your file system. No hidden corners or complicated databases, just easy-to-navigate organization.
+<mark style="color:red;">**Your Data's Safe Haven:**</mark> Radicale follows a straightforward yet robust approach—it neatly stores all your precious data in a folder structure on your file system. No hidden corners or complicated databases, just easy-to-navigate organization.
 
 In a nutshell, Radicale is your personal superhero, effortlessly managing calendars, to-do lists, and contacts. It's that dependable friend who ensures you're always on top of your tasks. With Radicale, organizing your life has never been this smooth. Give it a try and savor the simplicity of well-managed living.
 
 ### <mark style="color:blue;">**How It Works:**</mark>
 
-**Simplifying Your Life with Radicale: Your Personal Organizer**
+_**Simplifying Your Life with Radicale: Your Personal Organizer**_
 
 Ever wished for a personal assistant to handle your calendars, to-do lists, and contacts? Well, Radicale is that reliable sidekick—an intelligent, compact server designed to make your life easier. Here's how it works:
 
-**1. A Master of Sharing** Radicale is a jack of all trades, supporting CalDAV, CardDAV, and HTTP. What does that mean for you? It's a versatile tool for sharing calendars and contact lists. Whether it's events, tasks, journal entries, or business cards, Radicale effortlessly keeps your data organized.
+**1. **<mark style="color:purple;">**A Master of Sharing**</mark> Radicale is a jack of all trades, supporting CalDAV, CardDAV, and HTTP. What does that mean for you? It's a versatile tool for sharing calendars and contact lists. Whether it's events, tasks, journal entries, or business cards, Radicale effortlessly keeps your data organized.
 
-**2. Out-of-the-Box Convenience** Say goodbye to the days of struggling with complicated configurations. Radicale is your hassle-free friend from the moment you start using it. It's all about simplicity and efficiency, ensuring your experience is frustration-free.
+**2. **<mark style="color:yellow;">**Out-of-the-Box Convenience**</mark> Say goodbye to the days of struggling with complicated configurations. Radicale is your hassle-free friend from the moment you start using it. It's all about simplicity and efficiency, ensuring your experience is frustration-free.
 
-**3. Your Data, Your Control** Privacy and security are paramount with Radicale. You call the shots when it comes to who gets access, thanks to the power of authentication. And here's the best part—your data is kept neatly in a user-friendly folder structure on your file system. It's like having a personal vault for your digital treasures.
+**3**<mark style="color:blue;">**. Your Data, Your Control**</mark> Privacy and security are paramount with Radicale. You call the shots when it comes to who gets access, thanks to the power of authentication. And here's the best part—your data is kept neatly in a user-friendly folder structure on your file system. It's like having a personal vault for your digital treasures.
 
 In a nutshell, Radicale is the butler for your data, expertly managing your calendars, to-do lists, and contacts. It's your secret to staying organized and in control. With Radicale, managing your data isn't a chore; it's a breeze. Give it a try and experience the simplicity of Radicale for yourself
 

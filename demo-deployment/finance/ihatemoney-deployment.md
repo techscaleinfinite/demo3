@@ -30,25 +30,25 @@ layout:
 
 <mark style="color:orange;">Tired of those endless debates and awkward moments when it's time to split the bills? Enter "I Hate Money," the web application that's here to rescue your friendships and simplify your shared budget management. Let's take a closer look at how this ingenious tool works:</mark>
 
-**1. Seamless Spending Tracking**: Picture this as your virtual ledger. "I Hate Money" keeps a meticulous record of who spent what, when, and for whom. No more digging through crumpled receipts or trying to remember who owes what.
+**1. **<mark style="color:purple;">**Seamless Spending Tracking**</mark><mark style="color:purple;">:</mark> Picture this as your virtual ledger. "I Hate Money" keeps a meticulous record of who spent what, when, and for whom. No more digging through crumpled receipts or trying to remember who owes what.
 
-**2. Who Owes Who**: This is where the magic happens. The app calculates who owes money and to whom. It's like having a personal finance wizard in your pocket, ensuring everyone's on the same financial page.
+<mark style="color:purple;">**2. Who Owes Who**</mark><mark style="color:purple;">:</mark> This is where the magic happens. The app calculates who owes money and to whom. It's like having a personal finance wizard in your pocket, ensuring everyone's on the same financial page.
 
 **3. Effortless Expense Entry**: Adding expenses is a breeze. Enter the details of your spending, assign it to the relevant group members, and voilà! "I Hate Money" does the math for you.
 
-**4. Bill Settlement Made Easy**: When it's time to settle up, the app suggests the most efficient way to even out the balances. No more complicated mental arithmetic or squabbling over who owes what to whom.
+**4. **<mark style="color:yellow;">**Bill Settlement Made Easy**</mark>: When it's time to settle up, the app suggests the most efficient way to even out the balances. No more complicated mental arithmetic or squabbling over who owes what to whom.
 
-**5. Group-Friendly**: Whether it's a shared apartment, a road trip, or a group dinner, "I Hate Money" adapts to your needs. Create groups, add members, and effortlessly manage shared expenses.
+**5**<mark style="color:blue;">**. Group-Friendly**</mark><mark style="color:blue;">:</mark> Whether it's a shared apartment, a road trip, or a group dinner, "I Hate Money" adapts to your needs. Create groups, add members, and effortlessly manage shared expenses.
 
-**6. User-Friendly Interface**: The app's clean and intuitive interface ensures a hassle-free experience. You don't need to be a financial whiz to navigate it.
+**6. U**<mark style="color:yellow;">**ser-Friendly Interface**</mark><mark style="color:yellow;">:</mark> The app's clean and intuitive interface ensures a hassle-free experience. You don't need to be a financial whiz to navigate it.
 
 **7. Real-Time Updates**: Stay up-to-date with real-time balance changes. Instantly know where you stand financially within your group.
 
-**8. Privacy Matters**: Your financial data is safe and sound. "I Hate Money" prioritizes privacy and security, so you can manage your finances with peace of mind.
+**8. **<mark style="color:orange;">**Privacy Matters**</mark><mark style="color:orange;">:</mark> Your financial data is safe and sound. "I Hate Money" prioritizes privacy and security, so you can manage your finances with peace of mind.
 
 **9. Multi-Platform Accessibility**: Access your shared expenses from anywhere, whether it's your laptop, smartphone, or tablet. Managing your finances has never been this convenient.
 
-**10. Never "Hate Money" Again**: With this app by your side, you'll never resent money matters again. It turns what could be a source of tension into a seamless, harmonious experience.
+**10. **<mark style="color:orange;">**Never "Hate Money" Again**</mark><mark style="color:orange;">:</mark> With this app by your side, you'll never resent money matters again. It turns what could be a source of tension into a seamless, harmonious experience.
 
 So, why let financial matters come between you and your friends or cause undue stress? "I Hate Money" is here to make shared budget management a breeze. It's where money meets harmony, where friendships flourish, and where you can finally say goodbye to financial friction.
 
@@ -65,21 +65,21 @@ Give it a try today, and you'll wonder how you ever managed without it. Because 
 
 1\. **Seamless Spending Tracking**: Say goodbye to lost receipts and memory lapses. "I Hate Money" acts as your digital ledger, meticulously recording who spent what, when, and for whom.
 
-2\. **Debt Debunked**: No more head-scratching over who owes what. This clever app calculates the debts and credits within your group, ensuring everyone's financial harmony.
+<mark style="color:yellow;">2.</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Debt Debunked**</mark><mark style="color:yellow;">:</mark> No more head-scratching over who owes what. This clever app calculates the debts and credits within your group, ensuring everyone's financial harmony.
 
-3\. **Effortless Expense Entry**: Adding expenses couldn't be simpler. Input your spending details, assign them to the relevant group members, and watch as "I Hate Money" handles the math.
+3<mark style="color:orange;">.</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Effortless Expense Entry**</mark><mark style="color:orange;">:</mark> Adding expenses couldn't be simpler. Input your spending details, assign them to the relevant group members, and watch as "I Hate Money" handles the math.
 
-4\. **Painless Bill Settlement**: When it's time to square up, the app offers efficient solutions to even out the balances. Forget about complicated calculations and squabbles over IOUs.
+4\. <mark style="color:yellow;">**Painless Bill Settlement**</mark><mark style="color:yellow;">:</mark> When it's time to square up, the app offers efficient solutions to even out the balances. Forget about complicated calculations and squabbles over IOUs.
 
-5\. **Group-Ready**: Whether you're sharing a house, embarking on a road trip, or dining out with friends, "I Hate Money" adapts to your needs. Create groups, invite members, and effortlessly manage shared costs.
+5\. <mark style="color:green;">**Group-Ready**</mark><mark style="color:green;">:</mark> Whether you're sharing a house, embarking on a road trip, or dining out with friends, "I Hate Money" adapts to your needs. Create groups, invite members, and effortlessly manage shared costs.
 
-6\. **User-Friendly Interface**: This isn't rocket science; it's shared budget management made easy. The app's clean, intuitive interface ensures a hassle-free experience.
+6\. <mark style="color:red;">**User-Friendly Interface**</mark>: This isn't rocket science; it's shared budget management made easy. The app's clean, intuitive interface ensures a hassle-free experience.
 
-7\. **Real-Time Updates**: Stay in the financial know with real-time balance updates. You'll always be on top of your financial game within your group.
+7\. <mark style="color:yellow;">**Real-Time Updates**</mark><mark style="color:yellow;">:</mark> Stay in the financial know with real-time balance updates. You'll always be on top of your financial game within your group.
 
 8\. **Privacy First**: Worried about your financial data? "I Hate Money" places a premium on privacy and security, so your financial matters remain confidential.
 
-9\. **Multi-Platform Access**: Access your shared expenses from anywhere, whether you're on your laptop, smartphone, or tablet. Managing finances has never been this convenient.
+9\. <mark style="color:orange;">**Multi-Platform Access**</mark><mark style="color:orange;">:</mark> Access your shared expenses from anywhere, whether you're on your laptop, smartphone, or tablet. Managing finances has never been this convenient.
 
 10\. **Never Resent Money Again**: With "I Hate Money" on your side, you'll never have to resent money-related discussions. It transforms financial friction into a harmonious, worry-free experience.
 
