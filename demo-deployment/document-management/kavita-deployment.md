@@ -104,15 +104,15 @@ If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------ |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                      |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```                       |
 | Here use ( use the path after   " :"  )                                      |
-| <p></p><pre><code>-v /your/manga/directory:/manga \
+|  ```shell -v /your/manga/directory:/manga \
 -v /kavita/data/directory:/kavita/config \
-</code></pre> |
+```  |
 
 `Access`
 

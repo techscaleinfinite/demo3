@@ -160,20 +160,20 @@ If you choose Advanced option:
 
 | ENV VARIABLE                                                                                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p>                                                                                                                                                                   |
+| ```shellGive env variable.``` ```shellEg:key==value```                                                                                                                                                                    |
 | here use:(on  right side you can write anything)                                                                                                                                                                                          |
-| <p></p><pre><code> FLATNOTES_AUTH_TYPE: "password" // dont chnage this
+|  ```shell  FLATNOTES_AUTH_TYPE: "password" // dont chnage this
             FLATNOTES_USERNAME: ${ADMIN_EMAIL}
             FLATNOTES_PASSWORD: ${ADMIN_PASSWORD}
             FLATNOTES_SECRET_KEY: ${ADMIN_PASSWORD}
-</code></pre> |
+```  |
 
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```  |
 | Here use ( use the path after   " :"  )                 |
-| <p></p><pre><code>- "./data:/data"
-</code></pre>                                        |
+|  ```shell - "./data:/data"
+```                                         |
 
 `Access`
 

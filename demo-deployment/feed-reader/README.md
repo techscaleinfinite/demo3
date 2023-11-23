@@ -38,7 +38,7 @@ From catching up on global politics to indulging in your hobbies, news aggregato
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                 |   |   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
-| <p><img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="original"></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/feed-reader/rss-bridge-deployment"><strong>RSS-Bridge</strong></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/feed-reader/rss-bridge-deployment">Bridging the Gap in Feeds</a></p> |   |   |
+| <p><img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="original"></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/feed-reader/rss-bridge-deployment"><strong>RSS-Bridge</strong></a></p> <p><a href="https://docs.scaleinfinite.fr/demo-deployment/feed-reader/rss-bridge-deployment">Bridging the Gap in Feeds</a></p> |   |   |
 
 <details>
 

@@ -88,17 +88,17 @@ If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                                                                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code> </p>                                                                                                                                                                                         |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP</code> </p>                                                                                                                                                                                         |
 | Here use ( use the path after   " :"  )                                                                                                                                                                                                          |
-| <p></p><pre class="language-console"><code class="lang-console">-v /path/on/host/modules:/var/www/html/modules \
+|  ```shell -v /path/on/host/modules:/var/www/html/modules \
 	-v /path/on/host/profiles:/var/www/html/profiles \
 	-v /path/on/host/sites:/var/www/html/sites \
 	-v /path/on/host/themes:/var/www/html/themes \
-</code></pre> |
+```  |
 
 `Access`
 

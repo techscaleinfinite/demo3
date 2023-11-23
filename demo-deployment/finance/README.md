@@ -33,7 +33,7 @@ In the kingdom of finance, where budgets rule and savings are treasures, money m
 
 ### Sub-page Explanation
 
-<table><thead><tr><th width="259"></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (28).png" alt=""> </p><h4><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/ihatemoney-deployment"> ihatemoney</a></h4><p><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/ihatemoney-deployment"><br>"I Hate Money": Where Money Meets Harmony</a></p></td><td><p><img src="../../.gitbook/assets/image (29).png" alt="" data-size="original"></p><p> <strong>O</strong><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/octobot-deployment"><strong>ctobot</strong></a></p><p></p><p><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/octobot-deployment">Crypto Trading Meets Simplicity and Profitability</a></p></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="259"></th><th></th><th></th></tr></thead><tbody><tr><td> <p><img src="../../.gitbook/assets/image (28).png" alt=""> </p><h4><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/ihatemoney-deployment"> ihatemoney</a></h4><p><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/ihatemoney-deployment"><br>"I Hate Money": Where Money Meets Harmony</a></p></td><td><p><img src="../../.gitbook/assets/image (29).png" alt="" data-size="original"></p><p> <strong>O</strong><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/octobot-deployment"><strong>ctobot</strong></a></p> <p><a href="https://docs.scaleinfinite.fr/demo-deployment/finance/octobot-deployment">Crypto Trading Meets Simplicity and Profitability</a></p></td><td></td></tr></tbody></table>
 
 <details>
 

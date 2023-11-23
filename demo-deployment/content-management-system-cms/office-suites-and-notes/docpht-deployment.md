@@ -110,16 +110,16 @@ If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                                                                            |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```                                                                             |
 | Here use ( use the path after   " :"  )                                                                                            |
-| <p></p><pre><code>-v /var/www/app/src/config:/var/www/app/src/config
+|  ```shell -v /var/www/app/src/config:/var/www/app/src/config
 -v /var/www/app/data:/var/www/app/data
 -v /var/www/app/pages:/var/www/app/pages
-</code></pre> |
+```  |
 
 `Access`
 

@@ -41,7 +41,7 @@ So, whether you're running a critical online business or just enjoying some leis
 
 ### Sub-page Explanation:
 
-<table><thead><tr><th width="256.3333333333333"></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><img src="../../.gitbook/assets/image (12) (1).png" alt=""> </p><h4>  <a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/uptime-kuma">Uptime Kuma</a></h4><p></p><p><a href="https://quillbot.com/">🕐 Keeping Time with Uptime Kuma </a></p></td><td><p><img src="../../.gitbook/assets/image (5).png" alt="" data-size="original"></p><p>  <a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/gatus-deployment"><strong>Gatus</strong></a></p><p></p><p>Gatus<a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/gatus-deployment">: Your Health Dashboard Maestro</a></p></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="256.3333333333333"></th><th></th><th></th></tr></thead><tbody><tr><td> <p><img src="../../.gitbook/assets/image (12) (1).png" alt=""> </p><h4>  <a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/uptime-kuma">Uptime Kuma</a></h4> <p><a href="https://quillbot.com/">🕐 Keeping Time with Uptime Kuma </a></p></td><td><p><img src="../../.gitbook/assets/image (5).png" alt="" data-size="original"></p><p>  <a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/gatus-deployment"><strong>Gatus</strong></a></p> <p>Gatus<a href="https://docs.scaleinfinite.fr/demo-deployment/status-uptime-pages/gatus-deployment">: Your Health Dashboard Maestro</a></p></td><td></td></tr></tbody></table>
 
 <details>
 

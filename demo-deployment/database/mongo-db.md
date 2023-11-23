@@ -120,11 +120,11 @@ If you choose Advanced option:
 
 | ENV VARIABLE                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value OR MONGO_INITDB_ROOT_USERNAME=root, MONGO_INITDB_ROOT_PASSWORD=123</code> </p> |
+| ```shellGive env variable.``` ```shellEg:key==value OR MONGO_INITDB_ROOT_USERNAME=root, MONGO_INITDB_ROOT_PASSWORD=123</code> </p> |
 
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```  |
 | Here use ( use the path after   " :"  )                 |
 | /my/own/datadir:/data/db                                                                |
 
