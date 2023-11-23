@@ -23,69 +23,69 @@ layout:
 
 # 🖥 Media Wiki Deployment
 
-### <mark style="color:blue;">What's media wiki?</mark>
+### What's media wiki?
 
 MediaWiki: The Heart of Collaborative Knowledge
 
 Ever wondered how Wikipedia, the treasure trove of online wisdom, works its magic? Enter MediaWiki, the wizard behind the curtain. It's the software that powers Wikipedia and many other collaborative websites. Let's peel back the layers and see what makes it tick:
 
-**1. **<mark style="color:orange;">**Teamwork Made Easy:**</mark>
+**1. ****Teamwork Made Easy:**
 
 * MediaWiki is all about teamwork. It's like having a group of friends working together on a giant puzzle.
 * Anyone can join the party, add their pieces, or rearrange what's already there.
 
-**2. **<mark style="color:orange;">**Time Machine for Pages:**</mark>
+**2. ****Time Machine for Pages:**
 
 * MediaWiki keeps a detailed history of every change made to a page. It's like a time machine for articles.
 * You can travel back in time to see how a page evolved and even hit the "undo" button if something goes wrong.
 
-**3. **<mark style="color:orange;">**Content Playground:**</mark>
+**3. ****Content Playground:**
 
 * Think of MediaWiki as a playground for information. It's not just a jumble of data; everything has its place.
 * Articles are like neatly labeled boxes, and categories are the shelves where these boxes are organized.
 
-**4. **<mark style="color:orange;">**Userland Adventures:**</mark>
+**4. ****Userland Adventures:**
 
 * MediaWiki gives users their own space, like a personal room. You can create your user page, watch pages to see changes, and chat with others.
 * It's like having your own little corner in the vast world of knowledge.
 
-**5. **<mark style="color:orange;">**Markup Magic:**</mark>
+**5. ****Markup Magic:**
 
 * MediaWiki has its own secret language, but it's not like learning a new code. It's more like using simple commands.
 * You can make text bold, create links, add images, and more, just by using these magic words.
 
-**6. **<mark style="color:orange;">**Media Mastery:**</mark>
+**6. ****Media Mastery:**
 
 * It's not just about words. MediaWiki loves pictures, sounds, and videos.
 * You can easily add images, audio, and video to make pages more engaging and informative.
 
 MediaWiki is more than just software; it's the enabler of collaborative knowledge creation. It's like a digital playground where people come together to build, learn, and share. So, the next time you explore Wikipedia, remember the unsung hero behind it all - MediaWiki. 📚🌐✨
 
-### <mark style="color:blue;">**How It Works**</mark>
+### **How It Works**
 
-<mark style="color:orange;">**Content Creation and Editing:**</mark> Think of MediaWiki as your digital canvas where you can unleash your creativity. It allows users, with the right permissions, to write new articles or jazz up existing ones. You don't need to be a coding wizard; a simple markup language helps you with things like making text bold, creating links, and adding pictures.
+**Content Creation and Editing:** Think of MediaWiki as your digital canvas where you can unleash your creativity. It allows users, with the right permissions, to write new articles or jazz up existing ones. You don't need to be a coding wizard; a simple markup language helps you with things like making text bold, creating links, and adding pictures.
 
-<mark style="color:orange;">**Version Control:**</mark> Imagine a super-detailed history book, but instead of ancient wars, it records changes made to articles. MediaWiki keeps track of who did what, when they did it, and what they did. If something goes wrong, you can time-travel back to earlier versions of an article.
+**Version Control:** Imagine a super-detailed history book, but instead of ancient wars, it records changes made to articles. MediaWiki keeps track of who did what, when they did it, and what they did. If something goes wrong, you can time-travel back to earlier versions of an article.
 
-<mark style="color:orange;">**User Contributions:**</mark> MediaWiki is all about community spirit. Registered users can create their own pages, like a mini bio, and talk to others through user talk pages. It's like having a personal space in a busy online town where you can chat with neighbors.
+**User Contributions:** MediaWiki is all about community spirit. Registered users can create their own pages, like a mini bio, and talk to others through user talk pages. It's like having a personal space in a busy online town where you can chat with neighbors.
 
-<mark style="color:orange;">**Categories and Links:**</mark> Think of categories as labels in your super-organized kitchen. They help you sort articles neatly. And links are like magical pathways that connect related articles. This makes it easy to explore and find what you're looking for.
+**Categories and Links:** Think of categories as labels in your super-organized kitchen. They help you sort articles neatly. And links are like magical pathways that connect related articles. This makes it easy to explore and find what you're looking for.
 
-<mark style="color:orange;">**Templates:**</mark> Templates are your trusted building blocks. They're like LEGO pieces you can stick in articles. Templates help with things like creating neat info boxes or citing sources correctly.
+**Templates:** Templates are your trusted building blocks. They're like LEGO pieces you can stick in articles. Templates help with things like creating neat info boxes or citing sources correctly.
 
-<mark style="color:orange;">**Searching:**</mark> MediaWiki has a powerful search engine, like a treasure map. Type in keywords, and it shows you where the treasure (the article you need) is buried. It's a quick way to find what you're looking for.
+**Searching:** MediaWiki has a powerful search engine, like a treasure map. Type in keywords, and it shows you where the treasure (the article you need) is buried. It's a quick way to find what you're looking for.
 
-<mark style="color:orange;">**Media Magic:**</mark> MediaWiki is not just about words; it loves pictures, sounds, and videos. You can easily add and share these media gems to make articles more exciting.
+**Media Magic:** MediaWiki is not just about words; it loves pictures, sounds, and videos. You can easily add and share these media gems to make articles more exciting.
 
-<mark style="color:orange;">**Recent Changes:**</mark> The "Recent Changes" page is like a news feed. It shows you the latest updates across the wiki. It's an excellent way to see what's happening and stay up to date.
+**Recent Changes:** The "Recent Changes" page is like a news feed. It shows you the latest updates across the wiki. It's an excellent way to see what's happening and stay up to date.
 
 MediaWiki is a testament to the power of collaboration and knowledge sharing online. It's your user-friendly tool to create, edit, and share knowledge with the world. It's like a digital playground where everyone's invited to play and learn. 📝🔍🌟
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official mediawiki Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official mediawiki Docker image. Here's a step-by-step guide to get you started:**
 
-    1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">mediawiki</mark> application.
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the mediawiki application.
     2. Click on the "Install" button to initiate the installation process.
     3. Fill in all the required fields with the necessary information.
     4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
@@ -96,27 +96,27 @@ MediaWiki is a testament to the power of collaboration and knowledge sharing onl
 
     By following these straightforward steps, you'll have successfully deployed the  media wiki application and gained access to its features through a seamless and user-friendly process.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [`mediawiki`](https://hub.docker.com/\_/mediawiki)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [`mediawiki`](https://hub.docker.com/\_/mediawiki)👈(click me,for the dockerhub image) |
 
 | Application name                                                                   |
 | ---------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: mediawiki1(you can put any name)</mark> |
+| Eg: mediawiki1(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>80</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
@@ -127,29 +127,29 @@ If you choose Advanced option:
 | WORKING DIR                                                                                       |
 | ------------------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>           |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                           |
+| Here use ( use the path after   " :"  )                           |
 | <p></p><pre class="language-console"><code class="lang-console">/var/www/html/sites
 </code></pre> |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to MEDIAWIKI Deployment**</mark>
+**Step-by-Step Guide to MEDIAWIKI Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`mediawiki`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `mediawiki`
+2. **Application Details****:**
    * Application Name: `mediawiki`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `80`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -161,20 +161,20 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
 
            ```console
            /var/www/html/sites
            ```
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an media wiki instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -192,13 +192,13 @@ By following these steps, you can effortlessly deploy an media wiki instance wit
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About media wiki image we used.**
 

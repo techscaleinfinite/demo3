@@ -23,32 +23,32 @@ layout:
 
 # 💹 ihatemoney Deployment
 
-### <mark style="color:blue;">What's  ihatemoney?</mark>
+### What's  ihatemoney?
 
 \
-<mark style="color:orange;">**"I Hate Money": Where Money Meets Harmony**</mark>
+**"I Hate Money": Where Money Meets Harmony**
 
-<mark style="color:orange;">Tired of those endless debates and awkward moments when it's time to split the bills? Enter "I Hate Money," the web application that's here to rescue your friendships and simplify your shared budget management. Let's take a closer look at how this ingenious tool works:</mark>
+Tired of those endless debates and awkward moments when it's time to split the bills? Enter "I Hate Money," the web application that's here to rescue your friendships and simplify your shared budget management. Let's take a closer look at how this ingenious tool works:
 
-**1. **<mark style="color:purple;">**Seamless Spending Tracking**</mark><mark style="color:purple;">:</mark> Picture this as your virtual ledger. "I Hate Money" keeps a meticulous record of who spent what, when, and for whom. No more digging through crumpled receipts or trying to remember who owes what.
+**1. ****Seamless Spending Tracking**: Picture this as your virtual ledger. "I Hate Money" keeps a meticulous record of who spent what, when, and for whom. No more digging through crumpled receipts or trying to remember who owes what.
 
-<mark style="color:purple;">**2. Who Owes Who**</mark><mark style="color:purple;">:</mark> This is where the magic happens. The app calculates who owes money and to whom. It's like having a personal finance wizard in your pocket, ensuring everyone's on the same financial page.
+**2. Who Owes Who**: This is where the magic happens. The app calculates who owes money and to whom. It's like having a personal finance wizard in your pocket, ensuring everyone's on the same financial page.
 
 **3. Effortless Expense Entry**: Adding expenses is a breeze. Enter the details of your spending, assign it to the relevant group members, and voilà! "I Hate Money" does the math for you.
 
-**4. **<mark style="color:yellow;">**Bill Settlement Made Easy**</mark>: When it's time to settle up, the app suggests the most efficient way to even out the balances. No more complicated mental arithmetic or squabbling over who owes what to whom.
+**4. ****Bill Settlement Made Easy**: When it's time to settle up, the app suggests the most efficient way to even out the balances. No more complicated mental arithmetic or squabbling over who owes what to whom.
 
-**5**<mark style="color:blue;">**. Group-Friendly**</mark><mark style="color:blue;">:</mark> Whether it's a shared apartment, a road trip, or a group dinner, "I Hate Money" adapts to your needs. Create groups, add members, and effortlessly manage shared expenses.
+**5****. Group-Friendly**: Whether it's a shared apartment, a road trip, or a group dinner, "I Hate Money" adapts to your needs. Create groups, add members, and effortlessly manage shared expenses.
 
-**6. U**<mark style="color:yellow;">**ser-Friendly Interface**</mark><mark style="color:yellow;">:</mark> The app's clean and intuitive interface ensures a hassle-free experience. You don't need to be a financial whiz to navigate it.
+**6. U****ser-Friendly Interface**: The app's clean and intuitive interface ensures a hassle-free experience. You don't need to be a financial whiz to navigate it.
 
 **7. Real-Time Updates**: Stay up-to-date with real-time balance changes. Instantly know where you stand financially within your group.
 
-**8. **<mark style="color:orange;">**Privacy Matters**</mark><mark style="color:orange;">:</mark> Your financial data is safe and sound. "I Hate Money" prioritizes privacy and security, so you can manage your finances with peace of mind.
+**8. ****Privacy Matters**: Your financial data is safe and sound. "I Hate Money" prioritizes privacy and security, so you can manage your finances with peace of mind.
 
 **9. Multi-Platform Accessibility**: Access your shared expenses from anywhere, whether it's your laptop, smartphone, or tablet. Managing your finances has never been this convenient.
 
-**10. **<mark style="color:orange;">**Never "Hate Money" Again**</mark><mark style="color:orange;">:</mark> With this app by your side, you'll never resent money matters again. It turns what could be a source of tension into a seamless, harmonious experience.
+**10. ****Never "Hate Money" Again**: With this app by your side, you'll never resent money matters again. It turns what could be a source of tension into a seamless, harmonious experience.
 
 So, why let financial matters come between you and your friends or cause undue stress? "I Hate Money" is here to make shared budget management a breeze. It's where money meets harmony, where friendships flourish, and where you can finally say goodbye to financial friction.
 
@@ -56,30 +56,30 @@ Give it a try today, and you'll wonder how you ever managed without it. Because 
 
 
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
 \
-<mark style="color:orange;">**How "I Hate Money" Works: Where Financial Woes Meet Simplicity**</mark>
+**How "I Hate Money" Works: Where Financial Woes Meet Simplicity**
 
-<mark style="color:orange;">Have you ever wished for a magic wand to make those complicated bill-splitting conversations disappear? "I Hate Money" isn't magic, but it's the next best thing—a web application designed to simplify shared budget management and preserve your friendships. Here's the lowdown on how it works:</mark>
+Have you ever wished for a magic wand to make those complicated bill-splitting conversations disappear? "I Hate Money" isn't magic, but it's the next best thing—a web application designed to simplify shared budget management and preserve your friendships. Here's the lowdown on how it works:
 
 1\. **Seamless Spending Tracking**: Say goodbye to lost receipts and memory lapses. "I Hate Money" acts as your digital ledger, meticulously recording who spent what, when, and for whom.
 
-<mark style="color:yellow;">2.</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Debt Debunked**</mark><mark style="color:yellow;">:</mark> No more head-scratching over who owes what. This clever app calculates the debts and credits within your group, ensuring everyone's financial harmony.
+2. **Debt Debunked**: No more head-scratching over who owes what. This clever app calculates the debts and credits within your group, ensuring everyone's financial harmony.
 
-3<mark style="color:orange;">.</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Effortless Expense Entry**</mark><mark style="color:orange;">:</mark> Adding expenses couldn't be simpler. Input your spending details, assign them to the relevant group members, and watch as "I Hate Money" handles the math.
+3. **Effortless Expense Entry**: Adding expenses couldn't be simpler. Input your spending details, assign them to the relevant group members, and watch as "I Hate Money" handles the math.
 
-4\. <mark style="color:yellow;">**Painless Bill Settlement**</mark><mark style="color:yellow;">:</mark> When it's time to square up, the app offers efficient solutions to even out the balances. Forget about complicated calculations and squabbles over IOUs.
+4\. **Painless Bill Settlement**: When it's time to square up, the app offers efficient solutions to even out the balances. Forget about complicated calculations and squabbles over IOUs.
 
-5\. <mark style="color:green;">**Group-Ready**</mark><mark style="color:green;">:</mark> Whether you're sharing a house, embarking on a road trip, or dining out with friends, "I Hate Money" adapts to your needs. Create groups, invite members, and effortlessly manage shared costs.
+5\. **Group-Ready**: Whether you're sharing a house, embarking on a road trip, or dining out with friends, "I Hate Money" adapts to your needs. Create groups, invite members, and effortlessly manage shared costs.
 
-6\. <mark style="color:red;">**User-Friendly Interface**</mark>: This isn't rocket science; it's shared budget management made easy. The app's clean, intuitive interface ensures a hassle-free experience.
+6\. **User-Friendly Interface**: This isn't rocket science; it's shared budget management made easy. The app's clean, intuitive interface ensures a hassle-free experience.
 
-7\. <mark style="color:yellow;">**Real-Time Updates**</mark><mark style="color:yellow;">:</mark> Stay in the financial know with real-time balance updates. You'll always be on top of your financial game within your group.
+7\. **Real-Time Updates**: Stay in the financial know with real-time balance updates. You'll always be on top of your financial game within your group.
 
 8\. **Privacy First**: Worried about your financial data? "I Hate Money" places a premium on privacy and security, so your financial matters remain confidential.
 
-9\. <mark style="color:orange;">**Multi-Platform Access**</mark><mark style="color:orange;">:</mark> Access your shared expenses from anywhere, whether you're on your laptop, smartphone, or tablet. Managing finances has never been this convenient.
+9\. **Multi-Platform Access**: Access your shared expenses from anywhere, whether you're on your laptop, smartphone, or tablet. Managing finances has never been this convenient.
 
 10\. **Never Resent Money Again**: With "I Hate Money" on your side, you'll never have to resent money-related discussions. It transforms financial friction into a harmonious, worry-free experience.
 
@@ -87,9 +87,9 @@ So why let financial matters stand in the way of your friendships or become a so
 
 Give it a whirl today, and you'll wonder how you ever managed without it. When it comes to shared expense management, "I Hate Money" turns a headache into a cakewalk. Say farewell to financial fuss and hello to financial finesse!
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official i hate moneyDocker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official i hate moneyDocker image. Here's a step-by-step guide to get you started:**
 
     1. Begin by navigating to the "Create Apps" page and use the search bar to find the  [l](https://hub.docker.com/r/linuxserver/dillinger)[ihatemoney/ihatemoney](https://hub.docker.com/r/ihatemoney/ihatemoney/)application.
     2. Click on the "Install" button to initiate the installation process.
@@ -104,27 +104,27 @@ Give it a whirl today, and you'll wonder how you ever managed without it. When i
 
 
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [I Hate Money](https://hub.docker.com/r/ihatemoney/ihatemoney/) [ ](https://hub.docker.com/r/jgraph/drawio)[<mark style="background-color:yellow;">👈(</mark>](https://hub.docker.com/r/linuxserver/firefox)<mark style="background-color:yellow;">click me,for the dockerhub image)</mark> |
+| [I Hate Money](https://hub.docker.com/r/ihatemoney/ihatemoney/) [ ](https://hub.docker.com/r/jgraph/drawio)[👈(](https://hub.docker.com/r/linuxserver/firefox)click me,for the dockerhub image) |
 
 | Application name                                                              |
 | ----------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: money(you can put any name)</mark> |
+| Eg: money(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">8000</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>8000</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
@@ -135,29 +135,29 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| Here use ( use the path after   " :"  )                 |
 | <p></p><pre class="language-yaml"><code class="lang-yaml">/database
 </code></pre>       |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to ihatemooney  Deployment**</mark>
+**Step-by-Step Guide to ihatemooney  Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name: ihatemoney</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: ihatemoney
+2. **Application Details****:**
    * Application Name: `ihatemoney`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `8000`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -169,20 +169,20 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
 
            ```yaml
            /database
            ```
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an I Hate Money  instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -216,11 +216,11 @@ By following these steps, you can effortlessly deploy an I Hate Money  instance 
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** I Hate Money **image we used.**
 

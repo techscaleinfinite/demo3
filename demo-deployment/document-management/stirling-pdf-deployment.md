@@ -22,89 +22,89 @@ layout:
 
 # 🖥 Stirling PDF Deployment
 
-### <mark style="color:blue;">What's is stirling pdf?</mark>
+### What's is stirling pdf?
 
-<mark style="color:orange;">**PDF Magic Unleashed**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">– Imagine having a digital wizard at your disposal. This web-based PDF manipulation tool is like having a spellbook for PDFs. It can split, merge, convert, and even compress PDFs, turning mundane documents into magical creations.</mark>
+**PDF Magic Unleashed** – Imagine having a digital wizard at your disposal. This web-based PDF manipulation tool is like having a spellbook for PDFs. It can split, merge, convert, and even compress PDFs, turning mundane documents into magical creations.
 
-<mark style="color:red;">**Split and Conquer**</mark> – Ever wanted to take just a piece of a lengthy PDF? This tool lets you slice and dice PDFs into multiple files, right at the pages you choose. It's like dissecting a book without the mess.
+**Split and Conquer** – Ever wanted to take just a piece of a lengthy PDF? This tool lets you slice and dice PDFs into multiple files, right at the pages you choose. It's like dissecting a book without the mess.
 
-<mark style="color:red;">**The Merging Spell**</mark> <mark style="color:red;"></mark><mark style="color:red;">–</mark> On the flip side, you can merge multiple PDFs into one seamless masterpiece. It's like combining puzzle pieces to reveal a bigger picture.
+**The Merging Spell** – On the flip side, you can merge multiple PDFs into one seamless masterpiece. It's like combining puzzle pieces to reveal a bigger picture.
 
-<mark style="color:yellow;">**Shape-Shifting PDFs**</mark> – With the power to convert PDFs to and from images, your documents can transform into any format you desire. It's like turning a swan into a frog, and back again (without the kissing part).
+**Shape-Shifting PDFs** – With the power to convert PDFs to and from images, your documents can transform into any format you desire. It's like turning a swan into a frog, and back again (without the kissing part).
 
-<mark style="color:yellow;">**Page Reorder Wizardry**</mark> – Reorganize PDF pages as if you're rearranging furniture in a room. It's as easy as changing your mind about the sofa's position.
+**Page Reorder Wizardry** – Reorganize PDF pages as if you're rearranging furniture in a room. It's as easy as changing your mind about the sofa's position.
 
 **Image Enchantment** – This tool is even working on a feature to add images to PDFs, making your documents visually enchanting. Think of it as sprinkling fairy dust on your reports.
 
-<mark style="color:orange;">**Rotation Charm**</mark> – Sometimes, a PDF needs to look at things from a different angle. You can rotate PDFs in 90-degree increments, so your documents never get a stiff neck.
+**Rotation Charm** – Sometimes, a PDF needs to look at things from a different angle. You can rotate PDFs in 90-degree increments, so your documents never get a stiff neck.
 
-<mark style="color:blue;">**Slimming Elixir**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">–</mark> Need to shed some digital weight? Compress your PDFs to make them more svelte. It's like a digital gym session for your files.
+**Slimming Elixir** – Need to shed some digital weight? Compress your PDFs to make them more svelte. It's like a digital gym session for your files.
 
-<mark style="color:purple;">**The Guardian of Secrets**</mark> – Add and remove passwords, set permissions, and protect your PDFs like a guardian of ancient scrolls.
+**The Guardian of Secrets** – Add and remove passwords, set permissions, and protect your PDFs like a guardian of ancient scrolls.
 
-<mark style="color:purple;">**The Mark of Distinction**</mark> – Add watermarks to your PDFs for that extra touch of professionalism. It's like branding your documents with a seal of approval.
+**The Mark of Distinction** – Add watermarks to your PDFs for that extra touch of professionalism. It's like branding your documents with a seal of approval.
 
-<mark style="color:red;">**Master of Metadata**</mark> – Edit metadata to give your PDFs the right identity. It's like giving your document a digital passport.
+**Master of Metadata** – Edit metadata to give your PDFs the right identity. It's like giving your document a digital passport.
 
-<mark style="color:yellow;">**Dark Mode Sorcery**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">–</mark> Even wizards need some rest. Activate dark mode for a more comfortable experience, like working by candlelight in a digital library.
+**Dark Mode Sorcery** – Even wizards need some rest. Activate dark mode for a more comfortable experience, like working by candlelight in a digital library.
 
 So, what's the secret behind this digital wizardry? It's like having a magical spellbook for PDFs, with the power to split, merge, convert, and even compress them. You can reorder pages, add images, rotate, protect with passwords, and even brand them with watermarks. It's the perfect blend of magic and technology for your documents.
 
-### <mark style="color:blue;">**How It Works**</mark>
+### **How It Works**
 
-<mark style="color:orange;">**Unveiling the PDF Manipulation Wizardry**</mark>
+**Unveiling the PDF Manipulation Wizardry**
 
-<mark style="color:orange;">In a world where documents reign supreme, the PDF manipulation tool emerges as a digital wizard. Picture a versatile Swiss Army knife for your PDF files, ready to perform all sorts of enchanting feats. Now, let's uncover the magic behind it:</mark>
+In a world where documents reign supreme, the PDF manipulation tool emerges as a digital wizard. Picture a versatile Swiss Army knife for your PDF files, ready to perform all sorts of enchanting feats. Now, let's uncover the magic behind it:
 
-<mark style="color:green;">**Splitting Spells**</mark> 🧙‍♂️
+**Splitting Spells** 🧙‍♂️
 
 * You have a lengthy PDF, but you only need a specific section. This tool lets you slice the PDF at your chosen page numbers or extract each page as a separate file. It's like dividing your document into perfectly portioned chapters.
 
-<mark style="color:yellow;">**Merging Mysteries**</mark> 📜
+**Merging Mysteries** 📜
 
 * On the flip side, you can merge multiple PDFs into one harmonious creation. Imagine assembling puzzle pieces to reveal a stunning picture.
 
-<mark style="color:red;">**Converting Conjurations**</mark> 🌟
+**Converting Conjurations** 🌟
 
 * With the power of conversion, this tool can transform your PDFs into images and vice versa. Think of it as turning your document into a digital chameleon.
 
-<mark style="color:purple;">**Reordering Rituals**</mark> 🔄
+**Reordering Rituals** 🔄
 
 * Like a maestro rearranging notes in a symphony, you can reorganize PDF pages effortlessly. It's akin to giving your document a new composition.
 
-<mark style="color:blue;">**Image Incantations**</mark> 🌄
+**Image Incantations** 🌄
 
 * Want to add images to your PDFs? The tool is working on that magic too. Soon, you'll sprinkle visuals into your documents like a digital Picasso.
 
-<mark style="color:yellow;">**Rotation Enchantment**</mark> 🌀
+**Rotation Enchantment** 🌀
 
 * Sometimes, you need to look at things from a different perspective. Rotate PDFs in 90-degree increments, and your documents will never have a stiff posture.
 
-**C**<mark style="color:purple;">**ompression Charms**</mark> 📦
+**C****ompression Charms** 📦
 
 * Need to reduce file sizes? Compress your PDFs, just like vacuum-packing clothes for a trip.
 
-<mark style="color:yellow;">**Password Protection Spells**</mark> 🔐
+**Password Protection Spells** 🔐
 
 * Protect your PDFs with passwords and set access permissions. It's like fortifying your documents with a digital moat.
 
-<mark style="color:purple;">**Watermark Wizardry**</mark> 🌊
+**Watermark Wizardry** 🌊
 
 * Brand your documents with watermarks, leaving an indelible mark of distinction. Think of it as adding a digital signature to your masterpiece.
 
-<mark style="color:green;">**Metadata Magic**</mark> 📄
+**Metadata Magic** 📄
 
 * Edit metadata to give your PDFs the right identity. It's like providing a passport for your document's travels.
 
-<mark style="color:red;">**Dark Mode Sorcery**</mark> 🌒
+**Dark Mode Sorcery** 🌒
 
 * For those late-night digital adventures, activate dark mode. It's akin to dimming the lights in a digital study.
 
 Now you know the secrets behind this PDF manipulation tool. It combines technology and magic to make your PDFs do extraordinary things, from splitting and merging to converting and compressing. It's the digital wizard your documents have been waiting fo
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-&#x20;<mark style="background-color:purple;">**This deployment utilizes the official stirling pdf Docker image. Here's a step-by-step guide to get you started:**</mark>
+&#x20;**This deployment utilizes the official stirling pdf Docker image. Here's a step-by-step guide to get you started:**
 
 1. Begin by navigating to the "Create Apps" page and use the search bar to find the  [frooodle/s-pdf](https://hub.docker.com/r/frooodle/s-pdf)  application.
 2. Click on the "Install" button to initiate the installation process.
@@ -119,27 +119,27 @@ By following these straightforward steps, you'll have successfully deployed the 
 
 
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| S[tirling PDF](https://hub.docker.com/r/frooodle/s-pdf)   <mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| S[tirling PDF](https://hub.docker.com/r/frooodle/s-pdf)   👈(click me,for the dockerhub image) |
 
 | Application name                                                                     |
 | ------------------------------------------------------------------------------------ |
-| <mark style="background-color:yellow;">Eg: stirling pdf(you can put any name)</mark> |
+| Eg: stirling pdf(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">8080</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>8080</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
@@ -150,27 +150,27 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| Here use ( use the path after   " :"  )                 |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to stirling pdf  Deployment**</mark>
+**Step-by-Step Guide to stirling pdf  Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> Stirling PDF
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: Stirling PDF
+2. **Application Details****:**
    * Application Name: Stirling PDF
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `8080`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -182,15 +182,15 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+       * Here use ( use the path after   " :"  )
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an Stirling PDF instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -212,13 +212,13 @@ By following these steps, you can effortlessly deploy an Stirling PDF instance w
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** Stirling PDF  **image we used.**
 

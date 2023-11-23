@@ -23,39 +23,39 @@ layout:
 
 # 🖥 HTTPd Deployment
 
-### <mark style="color:blue;">What's  httpd?</mark>
+### What's  httpd?
 
-<mark style="color:orange;">**The Apache HTTP Server (HTTPD): Empowering the Web**</mark>
+**The Apache HTTP Server (HTTPD): Empowering the Web**
 
-_<mark style="color:orange;">Apache HTTP Server, commonly known as HTTPD, is more than just a web server; it's the cornerstone of web hosting. Let's unravel the essence of this legendary software:</mark>_
+_Apache HTTP Server, commonly known as HTTPD, is more than just a web server; it's the cornerstone of web hosting. Let's unravel the essence of this legendary software:_
 
-1. <mark style="color:yellow;">**Web Serving Excellence:**</mark> At its core, HTTPD excels at serving web content. It seamlessly delivers HTML, images, CSS, JavaScript, and more to users' browsers via HTTP and HTTPS protocols.
+1. **Web Serving Excellence:** At its core, HTTPD excels at serving web content. It seamlessly delivers HTML, images, CSS, JavaScript, and more to users' browsers via HTTP and HTTPS protocols.
 2. **Open Source Prowess:** HTTPD is a proud open-source champion. Its source code is a gift to the world, nurturing a community of developers and fostering innovation.
-3. <mark style="color:green;">**Platform Agnostic:**</mark> HTTPD dances gracefully across diverse platforms. It harmonizes with Unix-based systems like Linux and BSD, as well as Windows, offering versatile web hosting solutions.
-4. <mark style="color:purple;">**Modular Marvel:**</mark> HTTPD's strength lies in its modularity. With a treasure trove of dynamic modules, it adapts to various scenarios effortlessly. Customize and extend its capabilities as per your desires.
-5. <mark style="color:yellow;">**Security Sentry:**</mark> Security is HTTPD's middle name. It comes fortified with access control, authentication, and encryption features, making it the guardian of secure websites. Administrators wield the power to control access meticulously.
-6. <mark style="color:orange;">**Configuration Finesse:**</mark> HTTPD's configuration options are as intricate as a Swiss watch. Tailor it to your specific needs by tweaking settings that govern access, performance, and functionality.
+3. **Platform Agnostic:** HTTPD dances gracefully across diverse platforms. It harmonizes with Unix-based systems like Linux and BSD, as well as Windows, offering versatile web hosting solutions.
+4. **Modular Marvel:** HTTPD's strength lies in its modularity. With a treasure trove of dynamic modules, it adapts to various scenarios effortlessly. Customize and extend its capabilities as per your desires.
+5. **Security Sentry:** Security is HTTPD's middle name. It comes fortified with access control, authentication, and encryption features, making it the guardian of secure websites. Administrators wield the power to control access meticulously.
+6. **Configuration Finesse:** HTTPD's configuration options are as intricate as a Swiss watch. Tailor it to your specific needs by tweaking settings that govern access, performance, and functionality.
 
 _In the ever-evolving landscape of web hosting, Apache HTTP Server stands as a timeless monument, fostering the web's growth securely and efficiently._ 🚀
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
-1.  <mark style="color:orange;">**Client Request Unveiled: The Apache Ballet**</mark>
+1.  **Client Request Unveiled: The Apache Ballet**
 
-    _<mark style="color:orange;">Behold, the enchanting dance of client requests and Apache's graceful response:</mark>_
+    _Behold, the enchanting dance of client requests and Apache's graceful response:_
 
     1. **Client Request Debut:** It all commences with a client - often a web browser - extending an HTTP request towards a web server. This request can be as simple as a URL or rich with parameters and information, akin to casting a spell.
-    2. <mark style="color:purple;">**Server's Attentive Ear:**</mark> The Apache server is a vigilant sentinel, stationed at a specific port <mark style="color:orange;">(usually 80 for HTTP or 443 for HTTPS)</mark>. It stands ready, ears perked, waiting for the faintest whisper of a client connection.
+    2. **Server's Attentive Ear:** The Apache server is a vigilant sentinel, stationed at a specific port (usually 80 for HTTP or 443 for HTTPS). It stands ready, ears perked, waiting for the faintest whisper of a client connection.
     3. **Request Unraveled:** As a request arrives, Apache steps onto the stage, armed with its configuration directives from files like 'httpd.conf' or 'apache2.conf.' These directives hold the script, guiding Apache in its response.
-    4. <mark style="color:orange;">**Modules, the Dancers:**</mark> Apache's secret lies in its modular ensemble. Each request dictates the choreography. If PHP prowess is needed, the 'mod\_php' module takes center stage, elegantly pirouetting to handle PHP scripts.
+    4. **Modules, the Dancers:** Apache's secret lies in its modular ensemble. Each request dictates the choreography. If PHP prowess is needed, the 'mod\_php' module takes center stage, elegantly pirouetting to handle PHP scripts.
 
     _In this intricate ballet, Apache's modular flexibility allows it to waltz through an array of requests, delivering the perfect performance every time_
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official httpd Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official httpd Docker image. Here's a step-by-step guide to get you started:**
 
-    1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">httpd</mark> application.
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the httpd application.
     2. Click on the "Install" button to initiate the installation process.
     3. Fill in all the required fields with the necessary information.
     4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
@@ -66,27 +66,27 @@ _In the ever-evolving landscape of web hosting, Apache HTTP Server stands as a t
 
     By following these straightforward steps, you'll have successfully deployed the Nginx application and gained access to its features through a seamless and user-friendly process.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------- |
-| [`httpd`](https://hub.docker.com/\_/httpd)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [`httpd`](https://hub.docker.com/\_/httpd)👈(click me,for the dockerhub image) |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |
-| <mark style="background-color:yellow;">Eg: httpd1(you can put any name)</mark> |
+| Eg: httpd1(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>80</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
@@ -97,29 +97,29 @@ If you choose Advanced option:
 | WORKING DIR                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                        |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                        |
+| Here use ( use the path after   " :"  )                                        |
 | <p></p><pre class="language-dockerfile"><code class="lang-dockerfile">/usr/local/apache2/htdocs/
 </code></pre> |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to httpd Deployment**</mark>
+**Step-by-Step Guide to httpd Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`httpd`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `httpd`
+2. **Application Details****:**
    * Application Name: `httpd`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `80`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -131,20 +131,20 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
 
            ```dockerfile
            /usr/local/apache2/htdocs/
            ```
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an HTTPD instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -158,13 +158,13 @@ By following these steps, you can effortlessly deploy an HTTPD instance with you
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About httpd image we used.**
 

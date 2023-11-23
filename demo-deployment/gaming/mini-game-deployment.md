@@ -23,7 +23,7 @@ layout:
 
 # Mini game Deployment
 
-### <mark style="color:blue;">What's  mini games?</mark>
+### What's  mini games?
 
 This evolving game is like a playground for learning and experimenting with web technologies while diving into the world of multiplayer, high-speed, mobile gaming. It's an exciting journey to uncover the sweet spots and boundaries of what the web can do in this gaming space.
 
@@ -35,25 +35,25 @@ While this game is still in its early stages, there's a lot of focus on perfecti
 
 You can experience this adventure right now by visiting [https://mini-game.oliverlanz.ch](https://mini-game.oliverlanz.ch/). The real magic happens when you connect multiple devices simultaneously. So grab your friends, your smartphones, tablets, and laptops, and embark on this epic journey together. It's a world where the web transforms into a playground of endless possibilities. Give it a try, and let the gaming begin!
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
 The inner workings of this fascinating game involve a combination of innovative concepts and web technologies. Let's take a closer look at how it all comes together:
 
-<mark style="color:red;">**1. Parallel Universes:**</mark> In this game, the core concept revolves around the existence of parallel universes. Each player inhabits their distinct universe, complete with its set of rules, physics, and interactions. This design allows for a personalized gaming experience within a shared multiplayer environment.
+**1. Parallel Universes:** In this game, the core concept revolves around the existence of parallel universes. Each player inhabits their distinct universe, complete with its set of rules, physics, and interactions. This design allows for a personalized gaming experience within a shared multiplayer environment.
 
-<mark style="color:green;">**2. Interconnected Universes:**</mark> While players have their separate universes, they are all interconnected through mystical portals. These portals act as bridges between the parallel worlds, enabling players to collaborate and work together to achieve common objectives. This connectivity adds a layer of complexity and cooperation to the gameplay.
+**2. Interconnected Universes:** While players have their separate universes, they are all interconnected through mystical portals. These portals act as bridges between the parallel worlds, enabling players to collaborate and work together to achieve common objectives. This connectivity adds a layer of complexity and cooperation to the gameplay.
 
-<mark style="color:purple;">**3. User-Friendly Controls:**</mark> The game has been designed to cater to a wide range of devices. On touch screen devices, players can easily make their characters jump with a simple tap. For those using devices with keyboards, traditional arrow keys provide an alternative means of control. This versatility ensures that players can enjoy the game regardless of their preferred input method.
+**3. User-Friendly Controls:** The game has been designed to cater to a wide range of devices. On touch screen devices, players can easily make their characters jump with a simple tap. For those using devices with keyboards, traditional arrow keys provide an alternative means of control. This versatility ensures that players can enjoy the game regardless of their preferred input method.
 
-<mark style="color:blue;">**4. Current Development Focus:**</mark> While the game is in its early stages of development, specific areas are receiving special attention. The animation system is being refined to provide smooth and visually appealing movements. Input handling mechanisms are being optimized to ensure responsive and intuitive controls. Additionally, the communication between the frontend (the visible part of the game) and the backend (the underlying logic) is being fine-tuned for seamless interaction.
+**4. Current Development Focus:** While the game is in its early stages of development, specific areas are receiving special attention. The animation system is being refined to provide smooth and visually appealing movements. Input handling mechanisms are being optimized to ensure responsive and intuitive controls. Additionally, the communication between the frontend (the visible part of the game) and the backend (the underlying logic) is being fine-tuned for seamless interaction.
 
 **5. Interactive Exploration:** To experience this evolving game, you can visit [https://mini-game.oliverlanz.ch](https://mini-game.oliverlanz.ch/). The real magic happens when you connect multiple devices simultaneously. This interactive aspect allows you and your friends to embark on this journey together, exploring the boundaries of what web technologies can offer in the realm of multiplayer, high-FPS, mobile gaming.
 
 In summary, this game is a captivating experiment that pushes the boundaries of web technologies in the context of multiplayer mobile gaming. It combines the concepts of parallel universes, interconnected gameplay, and versatile controls to create an engaging and evolving gaming experience. So, gather your friends and devices and dive into this unique web-based adventure
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official mini game Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official mini game Docker image. Here's a step-by-step guide to get you started:**
 
     1. Begin by navigating to the "Create Apps" page and use the search bar to find the [olilanz/mini-game](https://hub.docker.com/r/olilanz/mini-game)application.
     2. Click on the "Install" button to initiate the installation process.
@@ -66,27 +66,27 @@ In summary, this game is a captivating experiment that pushes the boundaries of 
 
     By following these straightforward steps, you'll have successfully deployed the minigame application and gained access to its features through a seamless and user-friendly process.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ ](https://hub.docker.com/\_/varnish)[minigame](mini-game-deployment.md)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [ ](https://hub.docker.com/\_/varnish)[minigame](mini-game-deployment.md)👈(click me,for the dockerhub image) |
 
 | Application name                                                             |
 | ---------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: mini(you can put any name)</mark> |
+| Eg: mini(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>80</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
@@ -98,25 +98,25 @@ If you choose Advanced option:
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to MINI GAME Deployment**</mark>
+**Step-by-Step Guide to MINI GAME Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`minigame`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `minigame`
+2. **Application Details****:**
    * Application Name: `MINIGAME`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `80`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -128,14 +128,14 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an minigame instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -149,13 +149,13 @@ By following these steps, you can effortlessly deploy an minigame instance with 
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** minigame **image we used.**
 

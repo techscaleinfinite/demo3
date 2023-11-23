@@ -23,14 +23,14 @@ layout:
 
 # 🖥 Varnish Deplyment
 
-### <mark style="color:blue;">What's  varnish?</mark>
+### What's  varnish?
 
-<mark style="color:orange;">Varnish is an open-source web application accelerator also known as a caching HTTP reverse proxy. It's designed to significantly improve the performance and speed of web servers, particularly for content-heavy dynamic websites. Here's how Varnish works:</mark>
+Varnish is an open-source web application accelerator also known as a caching HTTP reverse proxy. It's designed to significantly improve the performance and speed of web servers, particularly for content-heavy dynamic websites. Here's how Varnish works:
 
 1. **Reverse Proxy:** Varnish sits between the client (typically a web browser) and the web server (like Apache or Nginx) as a reverse proxy. When a client requests a web page, Varnish intercepts that request.
-2. <mark style="color:yellow;">**Caching:**</mark> Varnish caches a copy of the requested web page or resources (like images, CSS, or JavaScript) the first time it's requested. It stores this cached copy in memory.
-3. <mark style="color:orange;">**Subsequent Requests:**</mark> When the same web page or resource is requested again, Varnish serves it directly from its cache in memory. This process significantly reduces the load on the web server and speeds up response times.
-4. <mark style="color:yellow;">**Cache Invalidation:**</mark> Varnish has mechanisms for cache invalidation. If the content on the web server changes (e.g., a new blog post is published), Varnish can be configured to recognize these changes and fetch a fresh copy from the web server.
+2. **Caching:** Varnish caches a copy of the requested web page or resources (like images, CSS, or JavaScript) the first time it's requested. It stores this cached copy in memory.
+3. **Subsequent Requests:** When the same web page or resource is requested again, Varnish serves it directly from its cache in memory. This process significantly reduces the load on the web server and speeds up response times.
+4. **Cache Invalidation:** Varnish has mechanisms for cache invalidation. If the content on the web server changes (e.g., a new blog post is published), Varnish can be configured to recognize these changes and fetch a fresh copy from the web server.
 5. **Load Balancing:** Varnish can also distribute incoming traffic across multiple web servers, which is especially useful for high-traffic websites.
 6. **HTTP Acceleration:** Varnish can optimize and accelerate HTTP requests, including handling compression and HTTP/2.
 
@@ -38,22 +38,22 @@ Varnish is highly customizable and configurable, allowing website administrators
 
 I
 
-### <mark style="color:blue;">**How It Works**</mark>
+### **How It Works**
 
-1. <mark style="color:red;">**Client Requests:**</mark> When a client, such as a web browser, makes a request for a web page or resource (e.g., an image or CSS file), the request is initially sent to Varnish instead of directly to the web server.
-2. <mark style="color:orange;">**Cache Lookup:**</mark> Upon receiving the client's request, Varnish performs a cache lookup. It checks if the requested content is already stored in its cache. If it finds a cached copy that's still valid (not expired), Varnish serves this cached content directly to the client.
-3. <mark style="color:red;">**Cache Miss:**</mark> If Varnish doesn't find the content in its cache or if the cached copy has expired, it forwards the request to the backend web server. The web server then generates the requested content and sends it back to Varnish.
-4. <mark style="color:purple;">**Caching the Response:**</mark> Before sending the response from the web server to the client, Varnish caches a copy of it. This copy is stored in memory, making future requests for the same content faster.
+1. **Client Requests:** When a client, such as a web browser, makes a request for a web page or resource (e.g., an image or CSS file), the request is initially sent to Varnish instead of directly to the web server.
+2. **Cache Lookup:** Upon receiving the client's request, Varnish performs a cache lookup. It checks if the requested content is already stored in its cache. If it finds a cached copy that's still valid (not expired), Varnish serves this cached content directly to the client.
+3. **Cache Miss:** If Varnish doesn't find the content in its cache or if the cached copy has expired, it forwards the request to the backend web server. The web server then generates the requested content and sends it back to Varnish.
+4. **Caching the Response:** Before sending the response from the web server to the client, Varnish caches a copy of it. This copy is stored in memory, making future requests for the same content faster.
 5. **Serving Cached Content:** For subsequent requests for the same content, Varnish serves the cached version directly from memory. This reduces the load on the backend web server and accelerates content delivery to clients.
-6. <mark style="color:yellow;">**Cache Invalidation:**</mark> To ensure that clients receive updated content when it changes on the web server (e.g., when a new blog post is published), Varnish supports cache invalidation mechanisms. When the content is updated, Varnish can be configured to recognize these changes and fetch a fresh copy from the web server.
-7. <mark style="color:purple;">**Load Balancing:**</mark> In addition to caching, Varnish can distribute incoming requests across multiple backend web servers. This load balancing helps ensure high availability and scalability of web services.
+6. **Cache Invalidation:** To ensure that clients receive updated content when it changes on the web server (e.g., when a new blog post is published), Varnish supports cache invalidation mechanisms. When the content is updated, Varnish can be configured to recognize these changes and fetch a fresh copy from the web server.
+7. **Load Balancing:** In addition to caching, Varnish can distribute incoming requests across multiple backend web servers. This load balancing helps ensure high availability and scalability of web services.
 8. **HTTP Acceleration:** Varnish can optimize and accelerate HTTP requests. It can handle tasks like HTTP compression and support for the latest HTTP protocols, such as HTTP/2, to further enhance performance.
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official varnish Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official varnish Docker image. Here's a step-by-step guide to get you started:**
 
-    1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">varnish</mark> application.
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the varnish application.
     2. Click on the "Install" button to initiate the installation process.
     3. Fill in all the required fields with the necessary information.
     4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
@@ -64,27 +64,27 @@ I
 
     By following these straightforward steps, you'll have successfully deployed the varnish application and gained access to its features through a seamless and user-friendly process.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [ varnish](https://hub.docker.com/\_/varnish)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [ varnish](https://hub.docker.com/\_/varnish)👈(click me,for the dockerhub image) |
 
 | Application name                                                                |
 | ------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: varnish(you can put any name)</mark> |
+| Eg: varnish(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>80</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
@@ -95,28 +95,28 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| Here use ( use the path after   " :"  )                 |
 | /etc/varnish/default.vcl:ro                                                             |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to varnish Deployment**</mark>
+**Step-by-Step Guide to varnish Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`jvarnish`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `jvarnish`
+2. **Application Details****:**
    * Application Name: `varnish`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `80`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -128,26 +128,26 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        * /etc/varnish/default.vcl:ro
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an varnish instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About httpd image we used.**
 

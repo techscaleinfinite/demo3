@@ -22,35 +22,35 @@ layout:
 
 # 📜 memo Deployment
 
-### <mark style="color:blue;">What's  memo?</mark>
+### What's  memo?
 
-<mark style="color:orange;">**memos: Your Personal Memo Assistant**</mark>
+**memos: Your Personal Memo Assistant**
 
-<mark style="color:orange;">Are you tired of complex note-taking apps with cluttered interfaces and privacy concerns? Enter</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**memos**</mark><mark style="color:orange;">, a refreshingly simple yet robust memo application that puts your thoughts and ideas at the forefront while prioritizing your data's privacy.</mark>
+Are you tired of complex note-taking apps with cluttered interfaces and privacy concerns? Enter **memos**, a refreshingly simple yet robust memo application that puts your thoughts and ideas at the forefront while prioritizing your data's privacy.
 
 **Key Features at a Glance:**
 
-<mark style="color:green;">**Privacy First:**</mark>
+**Privacy First:**
 
 * With memos, your data is your own. It champions data privacy by storing all your information in a secure SQLite database file, keeping it away from prying eyes.
 
-<mark style="color:purple;">**Plain Text with Markdown:**</mark>
+**Plain Text with Markdown:**
 
 * Your memos are stored as plain text with the added magic of Markdown. This means you can effortlessly format your notes without unnecessary HTML complications.
 
-<mark style="color:purple;">**Lightweight and Powerful:**</mark>
+**Lightweight and Powerful:**
 
 * Under the hood, memos rely on a sleek combination of Go, React.js, and SQLite. This architecture ensures a lightweight package that doesn't compromise on functionality.
 
-<mark style="color:green;">**Customizable:**</mark>
+**Customizable:**
 
 * Make memos truly yours by tailoring it to your preferences. You can customize everything from the server name, icon, description, system style, to execution scripts, and more.
 
-<mark style="color:orange;">**Completely Open Source:**</mark>
+**Completely Open Source:**
 
 * memos embraces the open-source ethos. You can explore its inner workings on GitHub, fostering transparency and community collaboration.
 
-<mark style="color:blue;">**Free Forever:**</mark>
+**Free Forever:**
 
 * Good news for your wallet—memos offers all its features for free, and there's no plan to change that. It's a commitment to keeping your memo-taking experience both valuable and cost-free.
 
@@ -58,42 +58,42 @@ So, whether you're jotting down spur-of-the-moment ideas, organizing your though
 
 
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
-<mark style="color:orange;">**How memos Works: Unveiling the Magic Behind Your Memos**</mark>
+**How memos Works: Unveiling the Magic Behind Your Memos**
 
-<mark style="color:orange;">At first glance, memos may seem like just another note-taking app, but beneath its simple exterior lies a powerhouse of features designed to elevate your memo-keeping experience. Let's peel back the curtain and explore how this ingenious application works:</mark>
+At first glance, memos may seem like just another note-taking app, but beneath its simple exterior lies a powerhouse of features designed to elevate your memo-keeping experience. Let's peel back the curtain and explore how this ingenious application works:
 
-**1. **<mark style="color:purple;">**Privacy First and Foremost:**</mark>
+**1. ****Privacy First and Foremost:**
 
 * memos takes data privacy seriously. Every piece of information you generate while using the app is securely stored within an SQLite database file. This approach ensures your notes are for your eyes only, safeguarding your personal thoughts and ideas.
 
-**2. **<mark style="color:purple;">**Markdown Magic:**</mark>
+**2. ****Markdown Magic:**
 
 * memos embraces the simplicity of plain text but doesn't skimp on style. It utilizes Markdown, a lightweight markup language, to help you format your memos effortlessly. Whether you want to emphasize text, create lists, or add headers, memos has got your back with a plethora of Markdown features.
 
-**3**<mark style="color:purple;">**. Lean yet Robust:**</mark>
+**3****. Lean yet Robust:**
 
 * The technology stack behind memos is a carefully crafted blend of Go, React.js, and SQLite. This choice of architecture strikes the perfect balance between a lightweight application and robust functionality. You get a nimble memo-keeping tool that doesn't compromise on power.
 
-**4. **<mark style="color:purple;">**Tailored to Your Tastes:**</mark>
+**4. ****Tailored to Your Tastes:**
 
 * Make memos uniquely yours by diving into its customization options. You have the freedom to tweak various elements, including the server name, icon, description, system style, execution scripts, and more. Personalize it to align with your preferences and style.
 
-**5. **<mark style="color:purple;">**Open Source Philosophy:**</mark>
+**5. ****Open Source Philosophy:**
 
 * Transparency is key, and memos fully embraces the open-source ethos. The entire codebase is available for exploration on GitHub, allowing tech enthusiasts and developers to delve into the application's inner workings, suggest improvements, and foster a sense of community.
 
-**6. **<mark style="color:purple;">**Forever Free:**</mark>
+**6. ****Forever Free:**
 
 * In a world where software often comes with price tags, memos stands out as a beacon of generosity. It's committed to offering all its features for free, forever. There are no hidden costs or premium tiers. Your memo-taking journey remains valuable without costing you a dime.
 
 With memos, the process is simple: write, customize, and enjoy the peace of mind that your thoughts are private and your memos are as unique as you are. It's the digital memo assistant that simplifies your note-taking journey while respecting your privacy. Get started with memos and experience memo-taking made refreshingly easy! 📝🔒✨\
 
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official memos Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official memos Docker image. Here's a step-by-step guide to get you started:**
 
     1. Begin by navigating to the "Create Apps" page and use the search bar to find the [elestio/memos](https://hub.docker.com/r/elestio/memos) application.
     2. Click on the "Install" button to initiate the installation process.
@@ -106,29 +106,29 @@ With memos, the process is simple: write, customize, and enjoy the peace of mind
 
     By following these straightforward steps, you'll have successfully deployed   memos and gained access to its features through a seamless and user-friendly process.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [memos](https://hub.docker.com/r/elestio/memos) <mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [memos](https://hub.docker.com/r/elestio/memos) 👈(click me,for the dockerhub image) |
 
 | Application name                                                              |
 | ----------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: memos(you can put any name)</mark> |
+| Eg: memos(you can put any name) |
 
 
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td>5230</td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>5230</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
@@ -139,29 +139,29 @@ If you choose Advanced option:
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| Here use ( use the path after   " :"  )                 |
 | <p></p><pre><code>- './memos/:/var/opt/memos'
 </code></pre>                             |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to mems Deployment**</mark>
+**Step-by-Step Guide to mems Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`memos`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `memos`
+2. **Application Details****:**
    * Application Name: memos
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `5230`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -173,20 +173,20 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
 
            ```
            - './memos/:/var/opt/memos'
            ```
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an  memos instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -210,13 +210,13 @@ By following these steps, you can effortlessly deploy an  memos instance with yo
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About memos** **image we used.**
 

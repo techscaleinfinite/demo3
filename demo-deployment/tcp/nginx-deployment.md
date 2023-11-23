@@ -23,31 +23,31 @@ layout:
 
 # 🖥 Nginx deployment
 
-### <mark style="color:blue;">What's is Nginx?</mark>
+### What's is Nginx?
 
-<mark style="color:orange;">Nginx is more than just your run-of-the-mill web server; it's a versatile multitool that enhances your online presence in a multitude of ways</mark>:
+Nginx is more than just your run-of-the-mill web server; it's a versatile multitool that enhances your online presence in a multitude of ways:
 
 Web Server: Nginx serves as a nimble and efficient web server, ensuring that web content is delivered swiftly and effectively to users. It's like the reliable engine powering your website, keeping it up and running smoothly.
 
-<mark style="color:yellow;">Reverse Proxy:</mark> Acting as a diligent guardian, Nginx functions as a reverse proxy, skillfully managing external requests to safeguard your applications. It's akin to a vigilant gatekeeper, allowing only authorized traffic to pass through.
+Reverse Proxy: Acting as a diligent guardian, Nginx functions as a reverse proxy, skillfully managing external requests to safeguard your applications. It's akin to a vigilant gatekeeper, allowing only authorized traffic to pass through.
 
-<mark style="color:blue;">Load Balancer:</mark> Nginx takes on the role of a traffic conductor, expertly distributing incoming requests among multiple servers. This load-balancing act ensures optimal performance and reliability, as if orchestrating a harmonious symphony of server resources.
+Load Balancer: Nginx takes on the role of a traffic conductor, expertly distributing incoming requests among multiple servers. This load-balancing act ensures optimal performance and reliability, as if orchestrating a harmonious symphony of server resources.
 
-<mark style="color:purple;">Mail Proxy:</mark> In the realm of email infrastructure, Nginx shines as a proficient mail proxy, efficiently routing emails to their intended destinations. It's like the postal service's secret weapon, ensuring your emails reach their recipients without a hitch.
+Mail Proxy: In the realm of email infrastructure, Nginx shines as a proficient mail proxy, efficiently routing emails to their intended destinations. It's like the postal service's secret weapon, ensuring your emails reach their recipients without a hitch.
 
-<mark style="color:purple;">HTTP Cache:</mark> Nginx boasts a remarkable capability as an HTTP cache, where it stores and serves frequently accessed resources. This cache acts as a well-organized library, enabling faster delivery of web content by reducing the need to fetch data repeatedly.
+HTTP Cache: Nginx boasts a remarkable capability as an HTTP cache, where it stores and serves frequently accessed resources. This cache acts as a well-organized library, enabling faster delivery of web content by reducing the need to fetch data repeatedly.
 
-### <mark style="color:blue;">**How It Works**</mark>
+### **How It Works**
 
-<mark style="color:orange;">Nginx's event-driven architecture handles multiple connections simultaneously, making it perfect for high-traffic scenarios. It's resource-efficient and enhances application performance, all while being open-source and free.</mark>
+Nginx's event-driven architecture handles multiple connections simultaneously, making it perfect for high-traffic scenarios. It's resource-efficient and enhances application performance, all while being open-source and free.
 
-<mark style="color:orange;">Nginx: Streamline, secure, and supercharge your web operations</mark>
+Nginx: Streamline, secure, and supercharge your web operations
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official Nginx Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official Nginx Docker image. Here's a step-by-step guide to get you started:**
 
-    1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">Nginx</mark> application.
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the Nginx application.
     2. Click on the "Install" button to initiate the installation process.
     3. Fill in all the required fields with the necessary information.
     4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
@@ -58,27 +58,27 @@ Web Server: Nginx serves as a nimble and efficient web server, ensuring that web
 
     By following these straightforward steps, you'll have successfully deployed the Nginx application and gained access to its features through a seamless and user-friendly process.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------- |
-| [`nginx`](https://hub.docker.com/\_/nginx)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [`nginx`](https://hub.docker.com/\_/nginx)👈(click me,for the dockerhub image) |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |
-| <mark style="background-color:yellow;">Eg: Nginx1(you can put any name)</mark> |
+| Eg: Nginx1(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>80</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
@@ -89,30 +89,30 @@ If you choose Advanced option:
 | WORKING DIR                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                                                                                           |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                                                                                           |
+| Here use ( use the path after   " :"  )                                                                                                           |
 | <p></p><pre class="language-console"><code class="lang-console">-v /host/path/nginx.conf:/etc/nginx/nginx.conf:ro
 -v /host/path/nginx.conf:/etc/nginx/nginx.conf:ro
 </code></pre> |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to NGINX Deployment**</mark>
+**Step-by-Step Guide to NGINX Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`nginx`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `nginx`
+2. **Application Details****:**
    * Application Name: `nginx1`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `80`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -124,15 +124,15 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+       * Here use ( use the path after   " :"  )
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an NGINX instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -146,7 +146,7 @@ By following these steps, you can effortlessly deploy an NGINX instance with you
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
@@ -154,7 +154,7 @@ Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About nginx image we used.**
 

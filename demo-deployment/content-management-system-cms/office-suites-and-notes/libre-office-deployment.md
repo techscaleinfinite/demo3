@@ -24,9 +24,9 @@ layout:
 
 # 📜 Libre Office Deployment
 
-### <mark style="color:blue;">What's  libre office?</mark>
+### What's  libre office?
 
-<mark style="color:orange;">LibreOffice is like that versatile Swiss Army knife of office software, but in the digital realm. It's a suite of applications that roll up their sleeves and handle your document, spreadsheet, and presentation needs with finesse, all while keeping your wallet happy because it's open-source and free.</mark>
+LibreOffice is like that versatile Swiss Army knife of office software, but in the digital realm. It's a suite of applications that roll up their sleeves and handle your document, spreadsheet, and presentation needs with finesse, all while keeping your wallet happy because it's open-source and free.
 
 Picture this: You've got a report to write, a spreadsheet to crunch numbers in, and a presentation to woo your audience. Instead of juggling different tools, LibreOffice steps in as your trusty sidekick, offering Writer for your text, Calc for those complex calculations, and Impress to make your ideas pop.
 
@@ -34,24 +34,24 @@ It's not just about practicality; it's about freedom. LibreOffice doesn't tie yo
 
 And here's the fun part: It's a bit like that magical wardrobe from Narnia. You open it up, and suddenly, you're in a world of creativity and productivity, with tools that feel familiar, user-friendly, and ready to help you conquer that next document, spreadsheet, or presentation challenge.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
 Alright, let's dive into the enchanting world of LibreOffice and see how this versatile suite of office applications works its magic.
 
-<mark style="color:orange;">**Imagine you've got a document to create**</mark><mark style="color:orange;">.</mark> You fire up LibreOffice Writer, which is like your trusty word processor. You type away, add some stylish formatting, insert images, and create a masterpiece. Behind the scenes, LibreOffice uses its open-source wizardry to handle the text, layout, and even spell-checking, making your words look as sharp as a well-tailored suit.
+**Imagine you've got a document to create**. You fire up LibreOffice Writer, which is like your trusty word processor. You type away, add some stylish formatting, insert images, and create a masterpiece. Behind the scenes, LibreOffice uses its open-source wizardry to handle the text, layout, and even spell-checking, making your words look as sharp as a well-tailored suit.
 
-<mark style="color:orange;">**Now, let's talk numbers.**</mark> You need to crunch some data for that important project. LibreOffice Calc steps in as your spreadsheet wizard. You enter your numbers, create formulas, and watch it perform mathematical feats. It's like having a mathematical butler who's always on point.
+**Now, let's talk numbers.** You need to crunch some data for that important project. LibreOffice Calc steps in as your spreadsheet wizard. You enter your numbers, create formulas, and watch it perform mathematical feats. It's like having a mathematical butler who's always on point.
 
-<mark style="color:orange;">**But what about that upcoming presentation?**</mark> LibreOffice Impress is your ticket to creating captivating slides. You add text, images, charts, and transitions. When you hit "play," it's showtime! Your audience will be nodding in agreement, and they won't even realize it's your secret weapon.
+**But what about that upcoming presentation?** LibreOffice Impress is your ticket to creating captivating slides. You add text, images, charts, and transitions. When you hit "play," it's showtime! Your audience will be nodding in agreement, and they won't even realize it's your secret weapon.
 
-<mark style="color:orange;">**The beauty of LibreOffice lies in its open-source nature.**</mark> It's not some locked-up, proprietary software; it's a collaborative playground. Developers from around the globe have chipped in to make it user-friendly, flexible, and free. It's a bit like an open book; you can read, write, and share your own stories.
+**The beauty of LibreOffice lies in its open-source nature.** It's not some locked-up, proprietary software; it's a collaborative playground. Developers from around the globe have chipped in to make it user-friendly, flexible, and free. It's a bit like an open book; you can read, write, and share your own stories.
 
 So, in a nutshell, LibreOffice works by giving you the tools you need to create, calculate, and captivate without the hassle of expensive licenses. It's the friendly neighborhood superhero of office software, making your digital tasks a breeze.\
 
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official LIBRE OFFICE Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official LIBRE OFFICE Docker image. Here's a step-by-step guide to get you started:**
 
     1. Begin by navigating to the "Create Apps" page and use the search bar to find the linuxserver/libreoffice application.
     2. Click on the "Install" button to initiate the installation process.
@@ -64,27 +64,27 @@ So, in a nutshell, LibreOffice works by giving you the tools you need to create,
 
     By following these straightforward steps, you'll have successfully deployed  libreoffice application and gained access to its features through a seamless and user-friendly process.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [LIBREOFFICE](https://hub.docker.com/r/linuxserver/libreoffice)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [LIBREOFFICE](https://hub.docker.com/r/linuxserver/libreoffice)👈(click me,for the dockerhub image) |
 
 | Application name                                                                    |
 | ----------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: LIBREOFFICE(you can put any name)</mark> |
+| Eg: LIBREOFFICE(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">3000</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>3000</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
@@ -95,29 +95,29 @@ If you choose Advanced option:
 | WORKING DIR                                                                                         |
 | --------------------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>             |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                             |
+| Here use ( use the path after   " :"  )                             |
 | <p></p><pre class="language-bash"><code class="lang-bash"> -v /path/to/config:/config
 </code></pre> |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to LIBREOFFICE Deployment**</mark>
+**Step-by-Step Guide to LIBREOFFICE Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`libreoffice`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `libreoffice`
+2. **Application Details****:**
    * Application Name: libreoffice
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `3000`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -129,20 +129,20 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
 
            ```bash
             -v /path/to/config:/config
            ```
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an  libreoffice instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -170,13 +170,13 @@ By following these steps, you can effortlessly deploy an  libreoffice instance w
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** libreoffice **image we used.**
 

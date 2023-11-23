@@ -23,22 +23,22 @@ layout:
 
 # 🖥 Introduction
 
-## <mark style="color:orange;">Self-Driving Cloud Applications</mark>
+## Self-Driving Cloud Applications
 
-### <mark style="background-color:green;">Put your applications on autopilot mode in our AI managed environment</mark>
+### Put your applications on autopilot mode in our AI managed environment
 
 **Welcome to ScaleInfinite: Empower Your Applications**
 
-<mark style="background-color:blue;">At ScaleInfinite, we're revolutionizing application hosting, so you can focus on what truly matters - your vision.</mark> Explore how we're shaping the future of deployment:
+At ScaleInfinite, we're revolutionizing application hosting, so you can focus on what truly matters - your vision. Explore how we're shaping the future of deployment:
 
-* _<mark style="color:orange;">**Effortless Hosting**</mark>**:** Simplify application hosting with streamlined infrastructure management, leaving you free from worries about provisioning, maintenance, and scaling._
-* _<mark style="color:orange;">**Instant Access**</mark>**:** Get your applications up and running with just a few clicks, granting rapid accessibility to your hosted content._
-* _<mark style="color:orange;">**Rich Telemetry Insights**</mark>**:** Benefit from detailed telemetry data, including CPU usage, Memory usage, I/O, and Network usage, along with a public IP address._
-* _<mark style="color:orange;">**Tailored Security**</mark>**:** Choose the security level that matches your application needs, offering different layers of protection to ensure your data's safety._
-* _<mark style="color:orange;">**User-Friendly Platform**</mark>**:** Designed for everyone, our platform bridges the gap between technical and non-technical users. Easily deploy and manage applications securely._
-* _<mark style="color:orange;">**Limitless Application Freedom**</mark>**:** Break free from restrictions. Deploy any publicly available application from Docker Hub or sync from your private registry._
-* _<mark style="color:orange;">**Instant Deployment**</mark>**:** Link your Docker Hub account and deploy images in mere seconds, allowing you to save time and focus on innovation._
-* _<mark style="color:orange;">**Insights Dashboard**</mark>**:** Monitor your account and application metrics, including CPU usage, Memory usage, I/O, and Network usage, through the intuitive Dashboard section._
+* _**Effortless Hosting****:** Simplify application hosting with streamlined infrastructure management, leaving you free from worries about provisioning, maintenance, and scaling._
+* _**Instant Access****:** Get your applications up and running with just a few clicks, granting rapid accessibility to your hosted content._
+* _**Rich Telemetry Insights****:** Benefit from detailed telemetry data, including CPU usage, Memory usage, I/O, and Network usage, along with a public IP address._
+* _**Tailored Security****:** Choose the security level that matches your application needs, offering different layers of protection to ensure your data's safety._
+* _**User-Friendly Platform****:** Designed for everyone, our platform bridges the gap between technical and non-technical users. Easily deploy and manage applications securely._
+* _**Limitless Application Freedom****:** Break free from restrictions. Deploy any publicly available application from Docker Hub or sync from your private registry._
+* _**Instant Deployment****:** Link your Docker Hub account and deploy images in mere seconds, allowing you to save time and focus on innovation._
+* _**Insights Dashboard****:** Monitor your account and application metrics, including CPU usage, Memory usage, I/O, and Network usage, through the intuitive Dashboard section._
 
 Join ScaleInfinite and experience hosting like never before. Whether you're a startup, enterprise, or visionary individual, we're here to elevate your applications and empower your journey. Welcome to limitless possibilities.
 
@@ -50,7 +50,7 @@ Join ScaleInfinite and experience hosting like never before. Whether you're a st
 
 {% embed url="https://medium.com/@scaleinfinite" %}
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 

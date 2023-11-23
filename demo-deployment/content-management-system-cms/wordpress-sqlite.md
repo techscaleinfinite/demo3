@@ -19,31 +19,31 @@ layout:
 
 # 🖥 WordPress SQLite
 
-### <mark style="color:blue;">What's WordPress SQLite?</mark>
+### What's WordPress SQLite?
 
 WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS. SQLite is an open-source SQL database system that stores data in a text file on a device. It provides a simple and efficient way to manage and retrieve structured information locally.
 
 **Key Points:**
 
-1. <mark style="color:orange;">**Open-Source SQL**</mark>**:** SQLite is freely accessible, offering SQL database capabilities for local storage.
+1. **Open-Source SQL****:** SQLite is freely accessible, offering SQL database capabilities for local storage.
 2. **Text File Storage:** Data is stored in a single text file, eliminating the need for a separate server.
-3. <mark style="color:orange;">**Lightweight**</mark>**:** SQLite is compact, making it suitable for applications with limited resources.
+3. **Lightweight****:** SQLite is compact, making it suitable for applications with limited resources.
 4. **Embedded Database:** It's integrated within the application, not requiring a separate database server.
-5. <mark style="color:orange;">**Self-Contained**</mark>**:** The entire database is contained within a single file, enhancing portability.
+5. **Self-Contained****:** The entire database is contained within a single file, enhancing portability.
 
-### <mark style="color:blue;">**Working in Brief**</mark>**:**
+### **Working in Brief****:**
 
 1. **Database Creation:** Applications integrate SQLite by creating a database file.
-2. <mark style="color:orange;">**Table Structure**</mark>**:** Define tables with columns to structure the data.
+2. **Table Structure****:** Define tables with columns to structure the data.
 3. **Data Storage:** Insert, update, or delete data within the tables.
-4. <mark style="color:orange;">**SQL Queries**</mark>**:** Utilize SQL queries to retrieve specific information from the database.
+4. **SQL Queries****:** Utilize SQL queries to retrieve specific information from the database.
 5. **Local Retrieval:** Applications access data directly from the local SQLite file.
 
 SQLite offers a convenient solution for applications that require structured data storage without the complexity of a traditional database system. Its lightweight nature and self-contained design make it an ideal choice for various applications.
 
-### <mark style="color:blue;">Steps And Procedure</mark>&#x20;
+### Steps And Procedure&#x20;
 
-&#x20;<mark style="background-color:yellow;">**Docker image of this application consists of following layers :**</mark>
+&#x20;**Docker image of this application consists of following layers :**
 
 ```
 'FROM wordpress:latest' Taking Wordpress as the base image
@@ -52,7 +52,7 @@ Used PHP scripts to 'install' the SQLite plugin and setting up the database so t
 
 ```
 
-#### <mark style="background-color:yellow;">Deploy Wordpress SQLite on Scaleinfinite</mark>
+#### Deploy Wordpress SQLite on Scaleinfinite
 
 * &#x20;Go to create apps page and Search scaleinfinite/wpsqlite on the search bar.
 * &#x20;Click on install button.
@@ -66,27 +66,27 @@ Used PHP scripts to 'install' the SQLite plugin and setting up the database so t
 * Then Login with that detials.
 * Then you will be redirected to the wordpress Admin dashboard.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [`Wpsqlite`](https://hub.docker.com/\_/wordpress)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [`Wpsqlite`](https://hub.docker.com/\_/wordpress)👈(click me,for the dockerhub image) |
 
 | Application name                                                                   |
 | ---------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: wordpress1(you can put any name)</mark> |
+| Eg: wordpress1(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>80</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
@@ -98,25 +98,25 @@ If you choose Advanced option:
 | --------------------------------------------------------------------------------------- |
 | <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to Wordpress SQlite Deployment**</mark>
+**Step-by-Step Guide to Wordpress SQlite Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`wpsqlite`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `wpsqlite`
+2. **Application Details****:**
    * Application Name: `wordpress1`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `80`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -128,15 +128,15 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+       * Here use ( use the path after   " :"  )
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an NGINX instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual SnapShots</mark>
+### Visual SnapShots
 
 
 
@@ -160,7 +160,7 @@ By following these steps, you can effortlessly deploy an NGINX instance with you
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About Wordpress sqlite image we used.**
 

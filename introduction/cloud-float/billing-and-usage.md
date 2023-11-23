@@ -21,11 +21,11 @@ layout:
 
 # 💴 Billing and usage
 
-<mark style="color:orange;">**At Scale Infinite, we believe in making your hosting experience as straightforward as possible.**</mark> That's why we've carefully crafted a range of pricing plans to cater to individuals and teams alike. Whether you're just starting out or you're part of a growing business, we have a plan that's perfect for your needs.
+**At Scale Infinite, we believe in making your hosting experience as straightforward as possible.** That's why we've carefully crafted a range of pricing plans to cater to individuals and teams alike. Whether you're just starting out or you're part of a growing business, we have a plan that's perfect for your needs.
 
 Our pricing is designed to be both flexible and user-friendly, ensuring that you get precisely what you require without any unnecessary complexity. Below, we'll walk you through the different tiers, explaining the features and benefits in plain, easy-to-understand terms. This way, you can make an informed choice that suits your hosting demands and your budget.
 
-So, let's dive into the world of hosting solutions and discover the ideal plan for you. <mark style="color:orange;">We offer you a 14-day FREE trial to get started, risk-free</mark>. It's time to embark on a hosting journey that meets your needs, and it begins right here.
+So, let's dive into the world of hosting solutions and discover the ideal plan for you. We offer you a 14-day FREE trial to get started, risk-free. It's time to embark on a hosting journey that meets your needs, and it begins right here.
 
 |                       | Test   | Standard                                     | Business                |
 | --------------------- | ------ | -------------------------------------------- | ----------------------- |

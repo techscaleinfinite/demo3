@@ -23,23 +23,23 @@ layout:
 
 # 🛳 Managed Kubernetes
 
-_<mark style="color:blue;">**Managed Kubernetes**</mark>**:**_
+_**Managed Kubernetes****:**_
 
 * Third-party providers assume responsibility for successful K8s setup and operation, relieving you of certain or all associated tasks.
-* <mark style="color:purple;">"Managed" can encompass dedicated support, hosting with pre-configured environments, or complete hosting and operation, contingent on the vendor.</mark>
+* "Managed" can encompass dedicated support, hosting with pre-configured environments, or complete hosting and operation, contingent on the vendor.
 
-_<mark style="color:purple;">**Kubernetes' Built-in Features:**</mark>_
+_**Kubernetes' Built-in Features:**_
 
 * Encompasses scalability, detached credential configuration, self-recovery, workload management, batch execution, and progressive application deployment.
-* These <mark style="color:purple;">features</mark> demand substantial manual configuration.
+* These features demand substantial manual configuration.
 
-_<mark style="color:purple;">**Managed Solutions' Power:**</mark>_
+_**Managed Solutions' Power:**_
 
 * These solutions handle configuration or guide decision-making, simplifying the setup process.
-* Once operational, <mark style="color:blue;">they automate routine tasks</mark> like updates, scaling, load-balancing, and monitoring.
+* Once operational, they automate routine tasks like updates, scaling, load-balancing, and monitoring.
 * When coupled with a hosting platform, managed Kubernetes services manage maintenance and configuration of your infrastructure.
 
-Experience <mark style="color:blue;">Kubernetes' potential</mark> with managed solutions, where excellence is curated with simplicity, automation, and attentive care.
+Experience Kubernetes' potential with managed solutions, where excellence is curated with simplicity, automation, and attentive care.
 
 #### Join us
 

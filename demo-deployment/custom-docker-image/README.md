@@ -7,7 +7,7 @@ description: >-
 
 # Custom Docker Image
 
-<mark style="color:blue;">**Custom Docker Images: Tailoring Your Application Environments**</mark>
+**Custom Docker Images: Tailoring Your Application Environments**
 
 **Crafting Custom Docker Images: Unleash Your Creativity**
 
