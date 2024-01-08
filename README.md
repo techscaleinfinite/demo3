@@ -1,45 +1,39 @@
-# 👋 Welcome to A Product
+---
+description: Get Started in a Few Clicks!!
+cover: .gitbook/assets/Screenshot 2023-11-17 191652.png
+coverY: 148.66133333333332
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# 💥 Quick starts
 
-## Overview
+_<mark style="color:orange;">**Creating an account on Scale Infinite is a breeze**</mark>_
 
-Here are a couple of example overviews from products with really great docs:
+{% embed url="https://docs.scaleinfinite.fr/introduction/cloud-float/create-account" %}
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+_<mark style="color:yellow;">**Explore a universe of applications and digital solutions tailored to your needs.**</mark>_
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+{% embed url="https://docs.scaleinfinite.fr/demo-deployment" %}
 
-## Quick links
+_<mark style="color:purple;">**Explore our FAQ section to find solutions, insights, and valuable information on a wide range of topics.**</mark>_
 
-{% content-ref url="introduction/about-scale-infinite.md" %}
-[about-scale-infinite.md](introduction/about-scale-infinite.md)
-{% endcontent-ref %}
+{% embed url="https://docs.scaleinfinite.fr/faq" %}
 
-{% content-ref url="introduction/kubernetes/" %}
-[kubernetes](introduction/kubernetes/)
-{% endcontent-ref %}
+_<mark style="color:green;">**Our Pricing Plans**</mark>_
 
-## Get Started
+{% embed url="https://docs.scaleinfinite.fr/introduction/cloud-float/billing-and-usage" %}
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="dashboard/getting-set-up/" %}
-[getting-set-up](dashboard/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="dashboard/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](dashboard/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="dashboard/getting-set-up/inviting-members.md" %}
-[inviting-members.md](dashboard/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
+window.location.href = "https://techscaleinfinite.github.io/";

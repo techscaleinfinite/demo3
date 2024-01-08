@@ -1,8 +1,25 @@
 ---
 description: 'Introducing Our Pricing Plans: Your Path to Seamless Hosting'
+cover: >-
+  ../../.gitbook/assets/invoice-icon-for-your-website-design-logo-app-ui-free-vector.jpg
+coverY: 163
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Billing and usage
+# 💴 Billing and usage
 
 <mark style="color:orange;">**At Scale Infinite, we believe in making your hosting experience as straightforward as possible.**</mark> That's why we've carefully crafted a range of pricing plans to cater to individuals and teams alike. Whether you're just starting out or you're part of a growing business, we have a plan that's perfect for your needs.
 

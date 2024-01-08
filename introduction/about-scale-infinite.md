@@ -2,13 +2,29 @@
 description: >-
   Easily host containerized applications without infrastructure worries. Scale
   Infinite offers user-friendly deployment with rich telemetry insights.
+cover: ../.gitbook/assets/signup (2).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 💡 About Scale Infinite
+# ☁ About Scale Infinite
 
 ## <mark style="color:blue;">Introduction</mark>
 
-<mark style="color:blue;">**Welcome to Scale Infinite**</mark>, where hosting becomes an art of simplicity and possibilities. Whether you're a pioneering startup, a thriving enterprise, or an ambitious individual, our platform transforms hosting into an extraordinary experience. Your journey to unhindered application growth starts now.
+<mark style="color:blue;">**Welcome to Scale Infinite**</mark>, _where hosting becomes an art of simplicity and possibilities. Whether you're a pioneering startup, a thriving enterprise, or an ambitious individual, our platform transforms hosting into an extraordinary experience. Your journey to unhindered application growth starts now._
 
 * <mark style="color:orange;">**Simplified Hosting**</mark>**:** Scale Infinite takes care of infrastructure provisioning, maintenance, and scaling for your containerized applications.
 * <mark style="color:orange;">**Instant Accessibility**</mark>**:** Easily host and access applications with just a few clicks.
@@ -17,15 +33,15 @@ description: >-
 * <mark style="color:orange;">**User-Centric Design**</mark>**:** The platform suits both technical and non-technical users for secure application deployment.
 * <mark style="color:orange;">**Limitless Choices**</mark>**:** Deploy any public Docker Hub app or sync from your private registry.
 * <mark style="color:orange;">**Instant Deployment**</mark>**:** Link your Docker Hub account and deploy images in seconds.
-* <mark style="color:orange;">**Insights at a Glance**</mark>**:** Monitor CPU, Memory, I/O, and Network usage in the Dashboard section.
+* <mark style="color:orange;">**Insights at a Glance**</mark>**:** _Monitor CPU, Memory, I/O, and Network usage in the Dashboard section._
 
 ### <mark style="color:blue;">Visual Snapshot</mark>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/usages.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-12 145215.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-12 145247.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">Demo for Deploying applications on scale infinite platform</mark>
 
@@ -45,3 +61,11 @@ description: >-
 #### Join us
 
 Stay informed and engaged with our project's latest developments and support on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join us today to connect, collaborate, and keep the momentum going!&#x20;
+
+<details>
+
+<summary>Category</summary>
+
+Kubernetes, cloud computing, DevOps, cloud services, hosting platform, container orchestration, cloud infrastructure, cloud deployment, cloud management, cloud technology, cloud solutions&#x20;
+
+</details>
