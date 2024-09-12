@@ -22,30 +22,30 @@ layout:
 
 # 🖥 Qbittorent Deployment
 
-### <mark style="color:blue;">What's  qbittorent?</mark>
+### What's  qbittorent?
 
-<mark style="color:orange;">qBittorrent is a cross-platform BitTorrent client that is free, open-source, and allows users to download and exchange files over the BitTorrent protocol. It is a free alternative to proprietary torrent clients, with a variety of tools for organising and regulating torrent downloads. Here are some important facts regarding qBittorrent:</mark>
+qBittorrent is a cross-platform BitTorrent client that is free, open-source, and allows users to download and exchange files over the BitTorrent protocol. It is a free alternative to proprietary torrent clients, with a variety of tools for organising and regulating torrent downloads. Here are some important facts regarding qBittorrent:
 
-1. <mark style="color:orange;">**BitTorrent Client**</mark><mark style="color:orange;">:</mark> qBittorrent is designed to handle the downloading and uploading of files through the BitTorrent protocol. This protocol enables peer-to-peer file sharing, where users can exchange parts of a file with each other rather than relying on a single central server.
-2. <mark style="color:orange;">**Cross-Platform**</mark><mark style="color:orange;">:</mark> qBittorrent is available for various operating systems, including Windows, macOS, Linux, and FreeBSD. This makes it accessible to a wide range of users regardless of their preferred platform.
-3. <mark style="color:orange;">**Open Source**</mark>: qBittorrent is open-source software, which means its source code is publicly available and can be reviewed and audited by the community. This transparency helps ensure the security and integrity of the software.
-4. <mark style="color:orange;">**User-Friendly Interface**</mark><mark style="color:orange;">:</mark> The user interface of qBittorrent is designed to be intuitive and user-friendly. It provides easy-to-understand controls for adding, managing, and monitoring torrent downloads.
-5. <mark style="color:orange;">**Search and Discovery**</mark><mark style="color:orange;">:</mark> qBittorrent includes a built-in search function that allows users to search for torrents directly from within the client. This can help users discover new content to download.
+1. **BitTorrent Client**: qBittorrent is designed to handle the downloading and uploading of files through the BitTorrent protocol. This protocol enables peer-to-peer file sharing, where users can exchange parts of a file with each other rather than relying on a single central server.
+2. **Cross-Platform**: qBittorrent is available for various operating systems, including Windows, macOS, Linux, and FreeBSD. This makes it accessible to a wide range of users regardless of their preferred platform.
+3. **Open Source**: qBittorrent is open-source software, which means its source code is publicly available and can be reviewed and audited by the community. This transparency helps ensure the security and integrity of the software.
+4. **User-Friendly Interface**: The user interface of qBittorrent is designed to be intuitive and user-friendly. It provides easy-to-understand controls for adding, managing, and monitoring torrent downloads.
+5. **Search and Discovery**: qBittorrent includes a built-in search function that allows users to search for torrents directly from within the client. This can help users discover new content to download.
 
 
 
-### <mark style="color:blue;">**How It Works**</mark>
+### **How It Works**
 
-1. <mark style="color:orange;">**Torrent File Creation**</mark><mark style="color:orange;">:</mark> To share a file using qBittorrent, a user first creates a "torrent file." This file contains metadata about the file to be shared, such as its name, size, and a list of tracker servers. A tracker server acts as a central hub that keeps track of all the users downloading and uploading a specific torrent.
-2. <mark style="color:orange;">**Downloading a Torrent**</mark><mark style="color:orange;">:</mark> When a user wants to download a file, they obtain the torrent file (usually from a website or another user) and open it in qBittorrent. The torrent client uses the tracker server's information to connect to other users who are sharing the same file.
-3. <mark style="color:orange;">**Peer Discovery**</mark>: qBittorrent connects to multiple peers (other users who are downloading or uploading the same file) and exchanges information about the parts of the file they have. Each peer becomes a source of data for others.
-4. <mark style="color:orange;">**Piece Downloading**</mark><mark style="color:orange;">:</mark> The file is divided into small "pieces," and each peer downloads different pieces from multiple sources simultaneously. This parallel downloading increases the overall download speed and helps distribute the load among peers.
+1. **Torrent File Creation**: To share a file using qBittorrent, a user first creates a "torrent file." This file contains metadata about the file to be shared, such as its name, size, and a list of tracker servers. A tracker server acts as a central hub that keeps track of all the users downloading and uploading a specific torrent.
+2. **Downloading a Torrent**: When a user wants to download a file, they obtain the torrent file (usually from a website or another user) and open it in qBittorrent. The torrent client uses the tracker server's information to connect to other users who are sharing the same file.
+3. **Peer Discovery**: qBittorrent connects to multiple peers (other users who are downloading or uploading the same file) and exchanges information about the parts of the file they have. Each peer becomes a source of data for others.
+4. **Piece Downloading**: The file is divided into small "pieces," and each peer downloads different pieces from multiple sources simultaneously. This parallel downloading increases the overall download speed and helps distribute the load among peers.
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   &#x20;<mark style="background-color:purple;">**This deployment utilizes the official QBittorent Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   &#x20;**This deployment utilizes the official QBittorent Docker image. Here's a step-by-step guide to get you started:**
 
-    1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">linuxserver/qbittorent</mark> application.
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the linuxserver/qbittorent application.
     2. Click on the "Install" button to initiate the installation process.
     3. Fill in all the required fields with the necessary information.
     4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
@@ -56,62 +56,62 @@ layout:
 
     By following these straightforward steps, you'll have successfully deployed the QBittorent application and gained access to its features through a seamless and user-friendly process.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<mark style="color:orange;">qbittorent</mark>](https://hub.docker.com/r/linuxserver/qbittorrent)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [qbittorent](https://hub.docker.com/r/linuxserver/qbittorrent)👈(click me,for the dockerhub image) |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |
-| <mark style="background-color:yellow;">Eg: qbitt1(you can put any name)</mark> |
+| Eg: qbitt1(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">8080</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>8080</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                                                                         |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                                                                         |
-| <p></p><pre class="language-yaml"><code class="lang-yaml"> volumes:
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```                                                                          |
+| Here use ( use the path after   " :"  )                                                                                         |
+|  ```shell  volumes:
       - /path/to/appdata/config:/config
       - /path/to/downloads:/downloads
-</code></pre> |
+```  |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to qbittorrent Deployment**</mark>
+**Step-by-Step Guide to qbittorrent Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name: qbittorent</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: qbittorent
+2. **Application Details****:**
    * Application Name: qbittorent
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `8080`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -123,7 +123,7 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
 
            ```yaml
@@ -131,14 +131,14 @@ If you choose Advanced option:
                  - /path/to/appdata/config:/config
                  - /path/to/downloads:/downloads
            ```
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an qBittorrent instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -152,13 +152,13 @@ By following these steps, you can effortlessly deploy an qBittorrent instance wi
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About qbittorent image we used.**
 

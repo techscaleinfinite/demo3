@@ -23,33 +23,33 @@ layout:
 
 # 📼 Demo Deployment
 
-### <mark style="color:orange;">**A General Introduction**</mark>
+### **A General Introduction**
 
 In the **Demo Deployment** section, we present two distinct deployment options: **HTTP** and **TCP**. These options provide a structured approach to deploying your applications, catering to different needs.
 
-<mark style="color:blue;">**HTTP Deployment:**</mark>
+**HTTP Deployment:**
 
 When you opt for HTTP deployment, you're setting up your application to communicate over the Hypertext Transfer Protocol (HTTP). This protocol is commonly used for web-based communication. Imagine it as a route for your application to interact with web browsers, ensuring seamless communication between your app and users' devices.
 
-<mark style="color:blue;">**TCP Deployment:**</mark>
+**TCP Deployment:**
 
 On the other hand, TCP deployment operates on the Transmission Control Protocol (TCP). This protocol offers a reliable and ordered connection between applications. Think of it as a dedicated channel for your application's data to flow without loss or confusion.
 
-Whether you choose <mark style="color:orange;">HTTP or TCP</mark> deployment, you're tailoring your application's deployment to its specific communication needs. Our platform simplifies this process, ensuring your app is up and running with the right protocol, so you can focus on delivering exceptional experiences to your users
+Whether you choose HTTP or TCP deployment, you're tailoring your application's deployment to its specific communication needs. Our platform simplifies this process, ensuring your app is up and running with the right protocol, so you can focus on delivering exceptional experiences to your users
 
-### <mark style="color:blue;">Sub-page Explanation</mark>:
+### Sub-page Explanation:
 
 **Social Media**
 
-#### <mark style="color:orange;">**A General Introduction**</mark>
+#### **A General Introduction**
 
 Introducing the Ultimate Social Media Web App!
 
 Are you ready to take your social media experience to the next level? We're thrilled to introduce our cutting-edge Social Media Web App—a platform designed to revolutionize the way you connect, share, and engage with the digital world.&#x20;
 
-<mark style="color:blue;">**Content management system (CMS)**</mark>
+**Content management system (CMS)**
 
-#### <mark style="color:orange;">**A General Introduction**</mark>
+#### **A General Introduction**
 
 **Unleash Your Website's Potential with Content Management Systems**
 
@@ -57,9 +57,9 @@ In the ever-evolving digital landscape, having a dynamic and feature-rich websit
 
 
 
-<mark style="color:blue;">**Office Suites And Notes**</mark>
+**Office Suites And Notes**
 
-#### <mark style="color:orange;">**A General Introduction**</mark>
+#### **A General Introduction**
 
 **Unlocking Your Productivity: The Power of Office Suites**
 
@@ -67,29 +67,29 @@ In the realm of digital productivity, an office suite stands as the Swiss Army k
 
 
 
-<mark style="color:blue;">**Media and Entertainment**</mark>
+**Media and Entertainment**
 
 #### **A General Introduction**
 
-<mark style="color:orange;">**Streaming Media: Riding the Digital Waves**</mark>
+**Streaming Media: Riding the Digital Waves**
 
 In the vast ocean of digital content, streaming media stands as the undisputed captain, steering us through a world of entertainment, information, and endless possibilities. Here, we dive into the dynamic realm of streaming media, where the pixels flow like a river and bytes sail like ships.
 
 
 
-<mark style="color:blue;">**Database**</mark>
+**Database**
 
 #### **A General Introduction**
 
-#### <mark style="color:orange;">**Navigating the Data Universe: Web Interfaces for Database Management**</mark>
+#### **Navigating the Data Universe: Web Interfaces for Database Management**
 
 In the vast cosmos of data, web interfaces for database management are your trusty spacecraft, propelling you through the information galaxies with ease and finesse. Picture them as your interstellar GPS, guiding you through the boundless realms of databases.&#x20;
 
 
 
-<mark style="color:blue;">**Finance**</mark>
+**Finance**
 
-#### <mark style="color:orange;">**A General Introduction**</mark>
+#### **A General Introduction**
 
 **Master Your Finances with Money Management and Budgeting Software**
 
@@ -97,9 +97,9 @@ Ah, the world of finance – a realm where numbers dance, dollars dominate, and 
 
 
 
-<mark style="color:orange;">**Gaming**</mark>
+**Gaming**
 
-#### <mark style="color:blue;">**A General Introduction**</mark>
+#### **A General Introduction**
 
 **Multiplayer Game Servers and Browser Games: Where Fun Meets the Digital Realm**
 
@@ -107,7 +107,7 @@ Ah, the world of gaming – a realm where pixels transform into adventures, and 
 
 
 
-<mark style="color:blue;">**Status / Uptime pages**</mark>
+**Status / Uptime pages**
 
 #### **A General Introduction**
 
@@ -117,9 +117,9 @@ Uptime, you ask? It's the lifeline of your tech buddy, that trusty computer or s
 
 
 
-<mark style="color:blue;">**Dashboards**</mark>
+**Dashboards**
 
-#### <mark style="color:blue;">**A General Introduction**</mark>
+#### **A General Introduction**
 
 **Dashboards: Your Gateway to Information and Applications**
 
@@ -127,47 +127,47 @@ In the digital age, where data flows like a river and applications sprawl across
 
 
 
-<mark style="color:blue;">**Calender**</mark>
+**Calender**
 
 #### **A General Introduction**
 
-<mark style="color:orange;">**Calendars: Your Time Management Sidekick**</mark>
+**Calendars: Your Time Management Sidekick**
 
 Ah, the trusty calendar – the Swiss army knife of time management. Whether you're a business professional, a student juggling classes, or just someone trying to remember Grandma's birthday, calendars are the unsung heroes of our daily lives.
 
 
 
-<mark style="color:orange;">**Document Management**</mark>
+**Document Management**
 
-#### <mark style="color:blue;">**A General Introduction**</mark> <mark style="color:blue;">**Document Management Systems (DMS): Where Order Meets Innovation**</mark>
-
-In the age of digital transformation, the mountains of paperwork that once cluttered offices have found a new home – the digital realm. Enter Document Management Systems (DMS), the unsung heroes of modern organization.
-
-
-
-<mark style="color:blue;">**Feed reader**</mark>
-
-#### <mark style="color:orange;">**A General Introduction**</mark> <mark style="color:orange;">**Document Management Systems (DMS): Where Order Meets Innovation**</mark>
+#### **A General Introduction** **Document Management Systems (DMS): Where Order Meets Innovation**
 
 In the age of digital transformation, the mountains of paperwork that once cluttered offices have found a new home – the digital realm. Enter Document Management Systems (DMS), the unsung heroes of modern organization.
 
 
 
-<mark style="color:blue;">**File transfer**</mark>
+**Feed reader**
 
-#### <mark style="color:orange;">**A General Introduction**</mark>
+#### **A General Introduction** **Document Management Systems (DMS): Where Order Meets Innovation**
 
-<mark style="color:orange;">**File Transfer, Sharing, and Sync Software: Bridging the Digital Divide**</mark>
+In the age of digital transformation, the mountains of paperwork that once cluttered offices have found a new home – the digital realm. Enter Document Management Systems (DMS), the unsung heroes of modern organization.
+
+
+
+**File transfer**
+
+#### **A General Introduction**
+
+**File Transfer, Sharing, and Sync Software: Bridging the Digital Divide**
 
 In a world where digital connectivity is paramount, the need to seamlessly move, share, and sync files across devices and platforms has never been greater.
 
 
 
-<mark style="color:blue;">**Feed reader Photo Video**</mark>
+**Feed reader Photo Video**
 
-#### <mark style="color:orange;">**A General Introduction**</mark>
+#### **A General Introduction**
 
-<mark style="color:orange;">**Gallery Software: Where Your Visual Stories Shine Bright**</mark>
+**Gallery Software: Where Your Visual Stories Shine Bright**
 
 In a world dominated by visual storytelling, having a reliable gallery software at your disposal is like owning a treasure chest for your digital memories.
 

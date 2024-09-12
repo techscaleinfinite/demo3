@@ -23,11 +23,11 @@ layout:
 
 # 🖥 Couch Base Deployment
 
-### <mark style="color:blue;">What's couchbase?</mark>
+### What's couchbase?
 
-<mark style="color:orange;">Couchbase: Unrivalled Data Versatility and Productivity</mark>
+Couchbase: Unrivalled Data Versatility and Productivity
 
-<mark style="color:orange;">Couchbase stands out in the dynamic world of modern data management as an award-winning distributed NoSQL cloud database that adds variety, performance, scalability, and excellent value to your varied range of applications. Couchbase has you covered whether you're in the cloud, on mobile, on-premises, navigating a hybrid environment, dealing with dispersed clouds, or operating on the edge. Furthermore, it now includes generative AI coding aid with Capella iQ, guaranteeing developers' productivity soars to new heights.</mark>
+Couchbase stands out in the dynamic world of modern data management as an award-winning distributed NoSQL cloud database that adds variety, performance, scalability, and excellent value to your varied range of applications. Couchbase has you covered whether you're in the cloud, on mobile, on-premises, navigating a hybrid environment, dealing with dispersed clouds, or operating on the edge. Furthermore, it now includes generative AI coding aid with Capella iQ, guaranteeing developers' productivity soars to new heights.
 
 Accept Data Versatility
 
@@ -55,11 +55,11 @@ Versatility is the name of the game with Couchbase. Your data adapts seamlessly 
 
 Welcome to the world of Couchbase, where data versatility, speed, and productivity converge to elevate your data management experience.
 
-### <mark style="color:blue;">**Working in Brief:**</mark>
+### **Working in Brief:**
 
-<mark style="color:orange;">Couchbase: Data Excellence Behind the Scenes</mark>
+Couchbase: Data Excellence Behind the Scenes
 
-<mark style="color:orange;">Have you ever wondered how Couchbase manages to provide unrivalled adaptability, performance, and productivity? Let's go behind the scenes and investigate the inner workings of an excellent database solution</mark>.
+Have you ever wondered how Couchbase manages to provide unrivalled adaptability, performance, and productivity? Let's go behind the scenes and investigate the inner workings of an excellent database solution.
 
 **JSON:** The Versatile Basis Couchbase's success is built on its JSON-based data model. JSON, or JavaScript Object Notation, is a data format that can be read by humans. It offers a structured yet flexible method of representing and storing data. This adaptability enables your data to effortlessly adapt to dynamic operations and changing requirements. Couchbase provides all the features you need to manage key-value pairs, sophisticated queries, full-text search, analytics, or time-series data—all within a single unified architecture.
 
@@ -77,9 +77,9 @@ Welcome to the world of Couchbase, where data versatility, speed, and productivi
 
 In essence, Couchbase combines the adaptability of JSON documents with unrivaled speed and scale, making it a top-tier choice for modern data management. Its memory-first architecture, AI-powered coding assistance, and versatile query capabilities create a dynamic environment where developers can excel. So, when you think of Couchbase, think of a versatile, high-performance, and developer-friendly database solution that's ready to take your applications to the next level.
 
-### <mark style="color:blue;">Steps And Procedure</mark>&#x20;
+### Steps And Procedure&#x20;
 
-<mark style="background-color:purple;">**This deployment utilizes the official couchbase Docker image. Here's a step-by-step guide to get you started:**</mark>
+**This deployment utilizes the official couchbase Docker image. Here's a step-by-step guide to get you started:**
 
 1. Begin by navigating to the "Create Apps" page and use the search bar to find the  couchbase  application.
 2. Click on the "Install" button to initiate the installation process.
@@ -90,59 +90,59 @@ In essence, Couchbase combines the adaptability of JSON documents with unrivaled
 7. Copy the Hostname of the  couchbase    application without the NodePort and paste it into your preferred browser's address bar.
 8. Voilà! You're now able to access the couchbase webpage and explore its content.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [couch base](https://hub.docker.com/\_/couchbase)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [couch base](https://hub.docker.com/\_/couchbase)👈(click me,for the dockerhub image) |
 
 | Application name                                                            |
 | --------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: cou(you can put any name)</mark> |
+| Eg: cou(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td>8091</td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>8091</td></tr><tr><td>Tcp</td><td></td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value OR MONGO_INITDB_ROOT_USERNAME=root, MONGO_INITDB_ROOT_PASSWORD=123</code> </p> |
+| ```shellGive env variable.``` ```shellEg:key==value OR MONGO_INITDB_ROOT_USERNAME=root, MONGO_INITDB_ROOT_PASSWORD=123</code> </p> |
 
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```  |
+| Here use ( use the path after   " :"  )                 |
 | /couchbase                                                                              |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to couch db Deployment**</mark>
+**Step-by-Step Guide to couch db Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`couchbase`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `couchbase`
+2. **Application Details****:**
    * Application Name: couchbase
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `8091`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -154,16 +154,16 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        * /couchbase
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
-By following these steps, you can effortlessly deploy an <mark style="color:orange;">mongodb</mark> instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
+By following these steps, you can effortlessly deploy an mongodb instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -209,7 +209,7 @@ By following these steps, you can effortlessly deploy an <mark style="color:oran
 
 </div>
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About couchbase image we used.**
 

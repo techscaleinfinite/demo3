@@ -23,24 +23,24 @@ layout:
 
 # 📓 Livebook Deployment
 
-### <mark style="color:blue;">What's livebook?</mark>
+### What's livebook?
 
 \
-<mark style="color:orange;">**Livebook: Your Collaborative Code Notebook**</mark>
+**Livebook: Your Collaborative Code Notebook**
 
 In the ever-evolving realm of coding and data exploration, having the right tools can make all the difference. Enter Livebook, a versatile web application designed to be your partner in interactive, collaborative code notebook creation. Let's dive into what makes Livebook your coding confidant:
 
 **1. Interactive Code Notebooks**: Livebook combines the best of both worlds – Markdown support and Code cells that allow you to execute Elixir code when needed. This dynamic duo makes coding and documentation seamlessly intertwined.
 
-<mark style="color:orange;">**2. Mighty Monaco Editor**</mark><mark style="color:orange;">:</mark> Meet Monaco, your trusty code editor within Livebook. It's more than just a text box; it's packed with features like autocompletion, inline documentation, code formatting, and more. It's like having a coding companion that always knows what you need.
+**2. Mighty Monaco Editor**: Meet Monaco, your trusty code editor within Livebook. It's more than just a text box; it's packed with features like autocompletion, inline documentation, code formatting, and more. It's like having a coding companion that always knows what you need.
 
 **3. Visualize with Kino**: Livebook introduces Kino, your gateway to interactive results. Create eye-catching Vega-Lite charts, tables, maps, and beyond. Now, your data can tell its story visually, adding depth to your notebooks.
 
-<mark style="color:orange;">**4. Smart Cells for Efficiency**</mark><mark style="color:orange;">:</mark> Boost your productivity with Smart cells. They tackle high-level tasks, allowing you to interact with databases, plot charts, build maps, and perform other actions directly from Livebook's user-friendly interface.
+**4. Smart Cells for Efficiency**: Boost your productivity with Smart cells. They tackle high-level tasks, allowing you to interact with databases, plot charts, build maps, and perform other actions directly from Livebook's user-friendly interface.
 
 **5. Reproducible and Predictable**: Livebook ensures your code runs like clockwork, maintaining predictability down to package management. Say goodbye to code chaos and hello to a structured, streamlined coding experience.
 
-<mark style="color:orange;">**6. Collaboration at Its Best**</mark><mark style="color:orange;">:</mark> The world of coding is no longer a solo journey. Livebook fosters collaboration effortlessly, enabling multiple users to work on the same notebook simultaneously, minus the fuss of additional setup.
+**6. Collaboration at Its Best**: The world of coding is no longer a solo journey. Livebook fosters collaboration effortlessly, enabling multiple users to work on the same notebook simultaneously, minus the fuss of additional setup.
 
 **7. Decentralized and Open-Source**: Livebook isn't confined by boundaries. It's open-source, ready to run wherever you need it. The "Run in Livebook" badge simplifies importing any Livebook into your personal workspace.
 
@@ -50,23 +50,23 @@ _So, whether you're building the next groundbreaking app or uncovering insights 
 
 
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
-<mark style="color:orange;">**How Livebook Works: Unveiling the Magic**</mark>
+**How Livebook Works: Unveiling the Magic**
 
 Coding and data exploration are about to get a whole lot more exciting with Livebook. This collaborative code notebook brings a touch of magic to your coding journey. Let's uncover the spellbinding workings of Livebook:
 
 📘 **Interactive Code Notebooks**: Picture this – a notebook where you can seamlessly weave your code and explanations. Livebook offers Code cells that allow you to execute Elixir code on the fly, surrounded by the comfort of Markdown support.
 
-✒️ <mark style="color:orange;">**Monaco Editor**</mark><mark style="color:orange;">:</mark> Inside Livebook, you'll find Monaco, your code-editing wizard. It's not just any editor; it's your coding sidekick. With features like autocompletion, inline documentation, and code formatting, Monaco has a solution for every coding whim.
+✒️ **Monaco Editor**: Inside Livebook, you'll find Monaco, your code-editing wizard. It's not just any editor; it's your coding sidekick. With features like autocompletion, inline documentation, and code formatting, Monaco has a solution for every coding whim.
 
 📊 **Visual Magic with Kino**: Livebook introduces Kino, your gateway to visual enchantment. Kino lets you conjure Vega-Lite charts, tables, maps, and more. Your data comes to life with vivid visuals, adding a dash of magic to your notebooks.
 
-<mark style="color:orange;">🔮</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Smart Cells for Efficiency**</mark>: Imagine having cells that can do your bidding! Smart cells in Livebook make complex tasks a breeze. Interact with databases, create charts, map out your data – all without leaving the Livebook interface.
+🔮 **Smart Cells for Efficiency**: Imagine having cells that can do your bidding! Smart cells in Livebook make complex tasks a breeze. Interact with databases, create charts, map out your data – all without leaving the Livebook interface.
 
 🔄 **Reproducibility and Predictability**: Livebook takes the chaos out of coding. It ensures that your code follows a clear, predictable path, from package management to execution. No more surprises, just smooth coding.
 
-<mark style="color:orange;">🤝</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Seamless Collaboration**</mark><mark style="color:orange;">:</mark> In the realm of coding, teamwork reigns supreme. Livebook makes collaboration effortless. Multiple users can work on the same notebook simultaneously, making it a hub of shared ideas and innovation.
+🤝 **Seamless Collaboration**: In the realm of coding, teamwork reigns supreme. Livebook makes collaboration effortless. Multiple users can work on the same notebook simultaneously, making it a hub of shared ideas and innovation.
 
 🌐 **Decentralized and Open**: Livebook breaks free from constraints. It's open-source, ready to be your coding companion wherever you roam. The "Run in Livebook" badge simplifies importing Livebooks into your coding domain.
 
@@ -74,11 +74,11 @@ In the world of coding and data exploration, Livebook is more than just a tool; 
 
 So, whether you're crafting the next big software marvel or unraveling data mysteries, Livebook is your trusty companion. It's not just a code notebook; it's a portal to a world where coding becomes an art form. Dive into the magic of Livebook and let your code take flight!
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official  livebook  Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official  livebook  Docker image. Here's a step-by-step guide to get you started:**
 
-    1. Begin by navigating to the "Create Apps" page and use the search bar to find the  [<mark style="background-color:green;">livebook/livebook</mark>](https://hub.docker.com/r/livebook/livebook) application.
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the  [livebook/livebook](https://hub.docker.com/r/livebook/livebook) application.
     2. Click on the "Install" button to initiate the installation process.
     3. Fill in all the required fields with the necessary information.
     4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
@@ -91,59 +91,59 @@ So, whether you're crafting the next big software marvel or unraveling data myst
 
 
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Livebook](https://hub.docker.com/r/livebook/livebook)   [<mark style="background-color:yellow;">👈(</mark>](https://hub.docker.com/r/linuxserver/firefox)<mark style="background-color:yellow;">click me,for the dockerhub image)</mark> |
+| [Livebook](https://hub.docker.com/r/livebook/livebook)   [👈(](https://hub.docker.com/r/linuxserver/firefox)click me,for the dockerhub image) |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |
-| <mark style="background-color:yellow;">Eg: book33(you can put any name)</mark> |
+| Eg: book33(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">8080</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>8080</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                              |
 | ---------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code> </p> |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                  |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP</code> </p> |
+| Here use ( use the path after   " :"  )                  |
 | -v $(pwd):/data [ghcr.io/livebook-dev/livebook](http://ghcr.io/livebook-dev/livebook)    |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to livebook Deployment**</mark>
+**Step-by-Step Guide to livebook Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name: livebook</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: livebook
+2. **Application Details****:**
    * Application Name: `livebook`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `8080`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -155,16 +155,16 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        * \-v $(pwd):/data [ghcr.io/livebook-dev/livebook](http://ghcr.io/livebook-dev/livebook)
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an Livebook instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -198,11 +198,11 @@ By following these steps, you can effortlessly deploy an Livebook instance with 
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** Livebook **image we used.**
 

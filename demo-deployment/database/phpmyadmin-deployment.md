@@ -22,7 +22,7 @@ layout:
 
 # 🖥 PHPmyADMIN Deployment
 
-### <mark style="color:blue;">What's  php myadmin?</mark>
+### What's  php myadmin?
 
 **phpMyAdmin: Your Database Librarian**
 
@@ -42,9 +42,9 @@ Ever wished for a friendly librarian to help you navigate the complexities of yo
 
 In a nutshell, phpMyAdmin is your trusted companion that makes browsing through your database smooth and accessible, even for those who aren't tech-savvy. It's like having a trained librarian in your digital library, helping you organize and understand the treasures in your database.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
-<mark style="color:orange;">phpMyAdmin works as a web-based interface for managing MySQL and MariaDB databases. Here's a step-by-step overview of how it operates:</mark>
+phpMyAdmin works as a web-based interface for managing MySQL and MariaDB databases. Here's a step-by-step overview of how it operates:
 
 1. **Accessing the Interface**: Users access phpMyAdmin by navigating to its URL through a web browser. The phpMyAdmin interface is hosted on a web server, often the same server where the MySQL or MariaDB database is running.
 2. **Login and Authentication**: Upon reaching the phpMyAdmin login page, users are required to provide valid login credentials, including a username and password. These credentials are checked against the user accounts configured in the MySQL or MariaDB database server.
@@ -54,11 +54,11 @@ In a nutshell, phpMyAdmin is your trusted companion that makes browsing through 
 6. **Data Manipulation**: phpMyAdmin allows users to insert, update, and delete data within database tables. It offers a user-friendly form-based interface for data manipulation.
 7. **SQL Query Execution**: For advanced users, phpMyAdmin provides an SQL query interface. Users can execute custom SQL queries directly against the database. This is useful for complex operations, custom reports, and data retrieval.
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official phpmyadmin Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official phpmyadmin Docker image. Here's a step-by-step guide to get you started:**
 
-    1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">phpmyadmin</mark> application.
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the phpmyadmin application.
     2. Click on the "Install" button to initiate the installation process.
     3. Fill in all the required fields with the necessary information.
     4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
@@ -69,59 +69,59 @@ In a nutshell, phpMyAdmin is your trusted companion that makes browsing through 
 
     By following these straightforward steps, you'll have successfully deployed the phpmyadmin application and gained access to its features through a seamless and user-friendly process.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------- |
-| [`phpmyadmin`](https://hub.docker.com/\_/phpmyadmin)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [`phpmyadmin`](https://hub.docker.com/\_/phpmyadmin)👈(click me,for the dockerhub image) |
 
 | Application name                                                             |
 | ---------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: php1(you can put any name)</mark> |
+| Eg: php1(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>80</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                                 |
 | ------------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>     |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                     |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```      |
+| Here use ( use the path after   " :"  )                     |
 | -v /some/local/directory/config.user.inc.php:/etc/phpmyadmin/config.user.inc.php phpmyadmin |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to phpmyadmin Deployment**</mark>
+**Step-by-Step Guide to phpmyadmin Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`phpmyadmin`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `phpmyadmin`
+2. **Application Details****:**
    * Application Name: `php1`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `80`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -133,16 +133,16 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        * \-v /some/local/directory/config.user.inc.php:/etc/phpmyadmin/config.user.inc.php phpmyadmin
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an phpmyadmin instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -156,13 +156,13 @@ By following these steps, you can effortlessly deploy an phpmyadmin instance wit
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** phpmyadmin **image we used.**
 

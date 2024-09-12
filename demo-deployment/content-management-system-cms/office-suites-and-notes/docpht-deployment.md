@@ -23,53 +23,53 @@ layout:
 
 # 📓 DocPHT Deployment
 
-### <mark style="color:blue;">What's Docpht ?</mark>
+### What's Docpht ?
 
 \
-<mark style="color:orange;">**DocPHT: Where Documentation Meets Simplicity**</mark>
+**DocPHT: Where Documentation Meets Simplicity**
 
 In a world overflowing with complexity, DocPHT emerges as a refreshing breeze of simplicity and efficiency. Here's why it's the tool you won't believe until you try:
 
 **1. Effortless Note-Taking**: DocPHT makes note-taking a breeze. Quickly jot down your thoughts, ideas, and important information. It's your digital notepad, always at your fingertips.
 
-<mark style="color:orange;">**2. User Management**</mark>: DocPHT is not just for solo adventurers; it's for teams too! Seamlessly manage users, making collaboration a breeze. Everyone can contribute to your digital knowledge hub.
+**2. User Management**: DocPHT is not just for solo adventurers; it's for teams too! Seamlessly manage users, making collaboration a breeze. Everyone can contribute to your digital knowledge hub.
 
 **3. Version Control**: The wisdom of the ages is preserved with DocPHT. Save versions of your pages, ensuring you can revisit the past and track the evolution of your content.
 
-<mark style="color:orange;">**4. Backup Mastery**</mark><mark style="color:orange;">:</mark> DocPHT takes data safety seriously. Run and restore backups effortlessly, ensuring your valuable information is protected from the unexpected.
+**4. Backup Mastery**: DocPHT takes data safety seriously. Run and restore backups effortlessly, ensuring your valuable information is protected from the unexpected.
 
 **5. Tailored Interface**: Your workspace, your rules. Customize the interface to match your preferences, creating a productive environment that suits your unique style.
 
-<mark style="color:orange;">**6. Database-Free Brilliance**</mark><mark style="color:orange;">:</mark> DocPHT defies the norm. It achieves maximum portability without relying on a database. Your documentation remains agile and adaptable.
+**6. Database-Free Brilliance**: DocPHT defies the norm. It achieves maximum portability without relying on a database. Your documentation remains agile and adaptable.
 
 So, here's the deal: You won't believe the power of DocPHT until you give it a spin. It's the tool that brings order to chaos, encourages collaboration, and ensures your valuable content is always within reach. Try it, and let DocPHT redefine your documentation experience. Your digital journey is about to get a whole lot simpler and smarter.
 
 
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
 \
-<mark style="color:orange;">**DocPHT: Simplifying Documentation**</mark>
+**DocPHT: Simplifying Documentation**
 
 Ever felt the need for a documentation tool that's as straightforward as it is efficient? Look no further—DocPHT has your back. Here's a closer look at how it all comes together:
 
 **1. Effortless Note-Taking**: DocPHT understands the value of capturing ideas on the fly. It's your digital notebook, always ready to record your thoughts, insights, and crucial information. Think of it as your trusted companion in the world of notes.
 
-<mark style="color:orange;">**2. User Management Made Easy**</mark><mark style="color:orange;">:</mark> Collaboration is the name of the game. DocPHT allows you to effortlessly manage users, transforming solo projects into team endeavors. With everyone on board, you can collectively build a repository of knowledge.
+**2. User Management Made Easy**: Collaboration is the name of the game. DocPHT allows you to effortlessly manage users, transforming solo projects into team endeavors. With everyone on board, you can collectively build a repository of knowledge.
 
 **3. Time Travel with Version Control**: Imagine having the power to travel back in time within your documentation. DocPHT grants you this capability by letting you save versions of your pages. It's like having a history book for your content.
 
-<mark style="color:orange;">**4. Backup Wizardry**</mark><mark style="color:orange;">:</mark> DocPHT takes data security seriously. Backing up your content is a breeze, and should the need arise, you can effortlessly restore it. Your valuable information is shielded from unforeseen events.
+**4. Backup Wizardry**: DocPHT takes data security seriously. Backing up your content is a breeze, and should the need arise, you can effortlessly restore it. Your valuable information is shielded from unforeseen events.
 
 **5. Tailor-Made Interface**: DocPHT understands that customization is key. Personalize the interface to suit your style and preferences. It's all about creating a workspace that feels just right.
 
-<mark style="color:orange;">**6. Database-Free Agility**</mark><mark style="color:orange;">:</mark> In a world dominated by databases, DocPHT breaks free from convention. It achieves maximum portability without relying on a database. Your documentation remains flexible and adaptable.
+**6. Database-Free Agility**: In a world dominated by databases, DocPHT breaks free from convention. It achieves maximum portability without relying on a database. Your documentation remains flexible and adaptable.
 
 So, the bottom line is this: DocPHT simplifies the art of documentation. It's your dependable partner for note-taking, collaboration, version control, and data security. Give it a whirl, and discover how it can revolutionize your documentation experience. With DocPHT, complexity is replaced by clarity, and your digital journey becomes a smooth ride.
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official docpht  Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official docpht  Docker image. Here's a step-by-step guide to get you started:**
 
     1. Begin by navigating to the "Create Apps" page and use the search bar to find the  [l](https://hub.docker.com/r/linuxserver/dillinger)[docpht/docpht](https://hub.docker.com/r/docpht/docpht) application.
     2. Click on the "Install" button to initiate the installation process.
@@ -84,62 +84,62 @@ So, the bottom line is this: DocPHT simplifies the art of documentation. It's yo
 
 
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [DocPHT](https://hub.docker.com/r/docpht/docpht)  [<mark style="background-color:yellow;">👈(</mark>](https://hub.docker.com/r/linuxserver/firefox)<mark style="background-color:yellow;">click me,for the dockerhub image)</mark> |
+| [DocPHT](https://hub.docker.com/r/docpht/docpht)  [👈(](https://hub.docker.com/r/linuxserver/firefox)click me,for the dockerhub image) |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |
-| <mark style="background-color:yellow;">Eg: dioc33(you can put any name)</mark> |
+| Eg: dioc33(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>80</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                                                                            |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                                                                            |
-| <p></p><pre><code>-v /var/www/app/src/config:/var/www/app/src/config
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```                                                                             |
+| Here use ( use the path after   " :"  )                                                                                            |
+|  ```shell -v /var/www/app/src/config:/var/www/app/src/config
 -v /var/www/app/data:/var/www/app/data
 -v /var/www/app/pages:/var/www/app/pages
-</code></pre> |
+```  |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to Docpht  Deployment**</mark>
+**Step-by-Step Guide to Docpht  Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name: docpht</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: docpht
+2. **Application Details****:**
    * Application Name: `docpht`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `80`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -151,7 +151,7 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
 
            ```
@@ -159,14 +159,14 @@ If you choose Advanced option:
            -v /var/www/app/data:/var/www/app/data
            -v /var/www/app/pages:/var/www/app/pages
            ```
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an DocPHT  instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -194,11 +194,11 @@ By following these steps, you can effortlessly deploy an DocPHT  instance with y
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** DocPHT **image we used.**
 

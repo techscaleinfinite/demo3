@@ -1,6 +1,6 @@
 # Simple Static Website
 
-### <mark style="color:purple;">Getting Started</mark>
+### Getting Started
 
 * The code for the application is uploaded on github.
 
@@ -15,7 +15,7 @@
 * You will be redirected to My Apps page, Here you can find all the applications you deployed.
 * Copy the application Hostname without NodePort and search the Url.
 
-### <mark style="color:orange;">Installations</mark>
+### Installations
 
 | Docker Image             |
 | ------------------------ |
@@ -29,11 +29,11 @@
 
 | ENV VARIABLE                                                            | WHITELIST                                       | WORKING DIR                                       |
 | ----------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> | `If you want to white list any ports list here` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
+| ```shellGive env variable.``` ```shellEg:key==value```  | `If you want to white list any ports list here` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
 
 
 
-### <mark style="color:orange;">Visual Snapshots</mark>&#x20;
+### Visual Snapshots&#x20;
 
 <figure><img src="../../.gitbook/assets/my-apps (2).png" alt=""><figcaption></figcaption></figure>
 

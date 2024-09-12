@@ -24,27 +24,27 @@ layout:
 
 # 🖥 Heimdall Deployment
 
-<mark style="color:blue;">**What's is heimdall?**</mark>
+**What's is heimdall?**
 
-<mark style="color:orange;">**Heimdall Dashboard: Where Web Apps Find Harmony**</mark>
+**Heimdall Dashboard: Where Web Apps Find Harmony**
 
 Tired of the never-ending tabs and bookmarks cluttering your digital life? Say hello to Heimdall Application Dashboard, your one-stop solution for taming the chaos and bringing order to your web applications.
 
-**1. **<mark style="color:orange;">**Unified Web App Haven:**</mark> No More Tab Overload: Heimdall Dashboard puts an end to the tab madness. It neatly organizes all your web applications, tools, and services in one place.
+**1. ****Unified Web App Haven:** No More Tab Overload: Heimdall Dashboard puts an end to the tab madness. It neatly organizes all your web applications, tools, and services in one place.
 
-**2. **<mark style="color:yellow;">**Customization Galore:**</mark> Your Dashboard, Your Rules: Heimdall empowers you to personalize your dashboard to your heart's content. Add links to web applications, search engines, or even set it as your browser's start page. It's your digital canvas – paint it the way you want.
+**2. ****Customization Galore:** Your Dashboard, Your Rules: Heimdall empowers you to personalize your dashboard to your heart's content. Add links to web applications, search engines, or even set it as your browser's start page. It's your digital canvas – paint it the way you want.
 
 **3. Visual Pleasure:** More than Just Organization: Heimdall doesn't just tidy up; it's a visual delight. Discover visually appealing apps that make managing your digital world a joyful experience.
 
-**4. **<mark style="color:orange;">**Apps API Magic:**</mark> Your Quick Access Pass: Dive into an array of enhanced apps, foundational apps, and generic items through Heimdall's apps API. It's your express route to swift access for your favorite web applications and services.
+**4. ****Apps API Magic:** Your Quick Access Pass: Dive into an array of enhanced apps, foundational apps, and generic items through Heimdall's apps API. It's your express route to swift access for your favorite web applications and services.
 
-**5. **<mark style="color:green;">**Simplified Streamlining:**</mark> Efficiency at Its Best: Heimdall is your partner in digital efficiency. Spend less time hunting for tools and more time using them. It's your personalized launchpad to the digital world.
+**5. ****Simplified Streamlining:** Efficiency at Its Best: Heimdall is your partner in digital efficiency. Spend less time hunting for tools and more time using them. It's your personalized launchpad to the digital world.
 
-**6. **<mark style="color:orange;">**Beyond Apps Alone**</mark>**:** Freedom to Choose: Heimdall isn't limited to apps. It's your canvas for organizing anything – web apps, resources, or even personal shortcuts. Your preferences set the limits, and they're practically limitless.
+**6. ****Beyond Apps Alone****:** Freedom to Choose: Heimdall isn't limited to apps. It's your canvas for organizing anything – web apps, resources, or even personal shortcuts. Your preferences set the limits, and they're practically limitless.
 
 In a nutshell, Heimdall Application Dashboard is where digital chaos meets order, where scattered web applications find unity, and where customization reigns supreme. With Heimdall, your digital life turns into an elegantly orchestrated symphony, with all your favorite apps and tools harmoniously brought together. Say hello to simplicity, visual delight, and efficiency, and make Heimdall your portal to a more organized and enjoyable online experience
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
 **Navigating the Heimdall Dashboard: A Symphony of Digital Organization**
 
@@ -64,9 +64,9 @@ The Heimdall Application Dashboard takes on the role of a digital conductor, cre
 
 In essence, the Heimdall Application Dashboard takes the chaos of scattered web applications and transforms it into a symphony of organization. It's where customization reigns supreme, your digital life finds unity, and the mundane becomes a visual delight. Embrace simplicity, efficiency, and a touch of elegance with Heimdall, your gateway to a more organized and enjoyable online journey
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-&#x20;<mark style="background-color:purple;">**This deployment utilizes the official Heimdall Docker image. Here's a step-by-step guide to get you started:**</mark>
+&#x20;**This deployment utilizes the official Heimdall Docker image. Here's a step-by-step guide to get you started:**
 
 1. Begin by navigating to the "Create Apps" page and use the search bar to find the l[inuxserver/heimdall](https://hub.docker.com/r/linuxserver/heimdall) application.
 2. Click on the "Install" button to initiate the installation process.
@@ -81,60 +81,60 @@ By following these straightforward steps, you'll have successfully deployed the 
 
 
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [heimdall](https://hub.docker.com/r/linuxserver/heimdall) <mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [heimdall](https://hub.docker.com/r/linuxserver/heimdall) 👈(click me,for the dockerhub image) |
 
 | Application name                                                                 |
 | -------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: heimdall(you can put any name)</mark> |
+| Eg: heimdall(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>80</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                                                |
 | ---------------------------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                    |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                    |
-| <p></p><pre class="language-bash"><code class="lang-bash">-v /path/to/appdata/config:/config
-</code></pre> |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```                     |
+| Here use ( use the path after   " :"  )                                    |
+|  ```shell -v /path/to/appdata/config:/config
+```  |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to heimdall Deployment**</mark>
+**Step-by-Step Guide to heimdall Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name: heimdall</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: heimdall
+2. **Application Details****:**
    * Application Name: heimdall
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `80`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -146,20 +146,20 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
 
            ```bash
            -v /path/to/appdata/config:/config
            ```
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an _Heimdall_ instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -187,13 +187,13 @@ By following these steps, you can effortlessly deploy an _Heimdall_ instance wit
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** _Heimdall_ **image we used.**
 

@@ -1,6 +1,6 @@
 # Simple Website with Node.js
 
-### <mark style="color:orange;">Getting started</mark>&#x20;
+### Getting started&#x20;
 
 A simple single page Node.js application.
 
@@ -17,7 +17,7 @@ A simple single page Node.js application.
 * You will be redirected to My Apps page, Here you can find all the applications you deployed.
 * &#x20;Copy the application Hostname without NodePort and search the Url.
 
-### <mark style="color:blue;">Installation</mark>&#x20;
+### Installation&#x20;
 
 | Docker Image             |
 | ------------------------ |
@@ -31,11 +31,11 @@ A simple single page Node.js application.
 
 | ENV VARIABLE                                                            | WHITELIST                                       | WORKING DIR                                       |
 | ----------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> | `If you want to white list any ports list here` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
+| ```shellGive env variable.``` ```shellEg:key==value```  | `If you want to white list any ports list here` | `WORKDIR for the application. Eg:usr/src/yourAPP` |
 
 
 
-### <mark style="color:blue;">Visual snapshots</mark>
+### Visual snapshots
 
 <figure><img src="../../.gitbook/assets/my-apps (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,7 +51,7 @@ A simple single page Node.js application.
 
 &#x20;The Application is running successfully
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **Can i install my own node.js Application?**
 

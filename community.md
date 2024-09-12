@@ -23,11 +23,11 @@ layout:
 
 # 👫 Community
 
-### <mark style="color:orange;">SLACK</mark>
+### SLACK
 
 <figure><img src=".gitbook/assets/slack-logo-png-1-900x230.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:green;">**Join Our Project Community on Slack!**</mark>
+**Join Our Project Community on Slack!**
 
 Stay connected, collaborate, and get real-time updates about our project on [Slack](https://app.slack.com/client/T04QS32JX6E/C04QKEWE146). Join our vibrant community to:
 
@@ -40,11 +40,11 @@ Join us on Slack and be a part of our thriving project community. Together, we'l
 
 {% embed url="https://app.slack.com/client/T04QS32JX6E/C04QKEWE146" %}
 
-### <mark style="color:orange;">YouTube</mark>
+### YouTube
 
 <figure><img src=".gitbook/assets/youtube-2-logo-png-transparent.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:green;">**Join Us on YouTube!**</mark>
+**Join Us on YouTube!**
 
 🎉 Hey there, fellow enthusiasts of knowledge and entertainment! 🎥
 
@@ -60,13 +60,13 @@ Don't miss out on the fun, the knowledge, and the sheer joy of being a part of o
 
 See you on the channel! 📺👋
 
-### <mark style="color:orange;">Linkedin</mark>
+### Linkedin
 
 
 
 <figure><img src=".gitbook/assets/1656958733linkedin-logo-png.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:green;">**Join Us on LinkedIn!**</mark>
+**Join Us on LinkedIn!**
 
 Are you ready to supercharge your professional network? 🚀
 
@@ -84,13 +84,13 @@ See you on LinkedIn! 👥📈
 
 
 
-### <mark style="color:orange;">GitHub</mark>
+### GitHub
 
 
 
 <figure><img src=".gitbook/assets/download (11).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:green;">**Join Us on GitHub! 🚀**</mark>
+**Join Us on GitHub! 🚀**
 
 Are you ready to embark on a coding adventure like no other? Welcome to our GitHub page, your gateway to a world of innovation, collaboration, and cutting-edge technology.
 

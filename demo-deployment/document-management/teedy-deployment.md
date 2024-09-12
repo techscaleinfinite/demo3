@@ -21,9 +21,9 @@ layout:
 
 # 🖥 Teedy Deployment
 
-### <mark style="color:blue;">What's is teedy?</mark>
+### What's is teedy?
 
-<mark style="color:orange;">In the vast digital landscape, staying organized is no small feat. Enter Teedy, your beacon of light in the world of document management. With a sleek and modern interface, Teedy simplifies your quest for order and clarity in the realm of business operations.</mark>
+In the vast digital landscape, staying organized is no small feat. Enter Teedy, your beacon of light in the world of document management. With a sleek and modern interface, Teedy simplifies your quest for order and clarity in the realm of business operations.
 
 **A Symphony of Order** 📂
 
@@ -39,7 +39,7 @@ layout:
 
 In a world of digital chaos, Teedy is your anchor, your guardian of order. It's where your documents find solace, and your business operations regain their clarity. With Teedy, you're not just managing documents; you're orchestrating a symphony of organization and security.
 
-### <mark style="color:blue;">**How It Works**</mark>
+### **How It Works**
 
 **Unveiling the Inner Workings of Teedy**
 
@@ -59,9 +59,9 @@ Imagine a world where document management is not a hassle but an elegant symphon
 
 In a world brimming with digital clutter, Teedy stands as your beacon of order and simplicity. It's not just about managing documents; it's about crafting an exquisite symphony of organization and security. With Teedy, your documents find a serene sanctuary, and your business operations gain crystal-clear clarity. Welcome to Teedy, where elegance meets efficiency.
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-&#x20;<mark style="background-color:purple;">**This deployment utilizes the official teedy Docker image. Here's a step-by-step guide to get you started:**</mark>
+&#x20;**This deployment utilizes the official teedy Docker image. Here's a step-by-step guide to get you started:**
 
 1. Begin by navigating to the "Create Apps" page and use the search bar to find [jdreinhardt/teedy](https://hub.docker.com/r/jdreinhardt/teedy)  application.
 2. Click on the "Install" button to initiate the installation process.
@@ -76,59 +76,59 @@ By following these straightforward steps, you'll have successfully deployed the 
 
 
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| [teedy](https://hub.docker.com/r/jdreinhardt/teedy)   <mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [teedy](https://hub.docker.com/r/jdreinhardt/teedy)   👈(click me,for the dockerhub image) |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |
-| <mark style="background-color:yellow;">Eg: teedy (you can put any name)</mark> |
+| Eg: teedy (you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">8080</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>8080</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```  |
+| Here use ( use the path after   " :"  )                 |
 | -v /mnt/teedy:/data          jdreinhardt/teedy:latest                                   |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to Teedy  Deployment**</mark>
+**Step-by-Step Guide to Teedy  Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> Teedy
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: Teedy
+2. **Application Details****:**
    * Application Name:  Teedy
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `8080`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -140,15 +140,15 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+       * Here use ( use the path after   " :"  )
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an  Teedy instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -176,13 +176,13 @@ By following these steps, you can effortlessly deploy an  Teedy instance with yo
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** Teedy **image we used.**
 

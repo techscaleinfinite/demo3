@@ -23,39 +23,39 @@ layout:
 
 # 🖥 Radicale Deployment
 
-### <mark style="color:blue;">What's is Radicale?</mark>
+### What's is Radicale?
 
-<mark style="color:orange;">**Your Personal Calendar and Contact Butler**</mark>
+**Your Personal Calendar and Contact Butler**
 
-<mark style="color:orange;">**The Ultimate Calendar and Contact Sidekick:**</mark> Meet Radicale, your trusty companion for calendars, to-do lists, and contacts. It doesn't just manage them; it's a pro at effortlessly organizing and sharing them.
+**The Ultimate Calendar and Contact Sidekick:** Meet Radicale, your trusty companion for calendars, to-do lists, and contacts. It doesn't just manage them; it's a pro at effortlessly organizing and sharing them.
 
-<mark style="color:yellow;">**All-in-One Organizer:**</mark> Radicale is your go-to for keeping track of events, tasks, journal entries, and those precious business cards. It's like your personal secretary for both your personal and professional life.
+**All-in-One Organizer:** Radicale is your go-to for keeping track of events, tasks, journal entries, and those precious business cards. It's like your personal secretary for both your personal and professional life.
 
-<mark style="color:yellow;">**Simplicity Rules:**</mark> Setting up Radicale is a walk in the park. No more struggling with complex configurations or never-ending setup steps. Radicale is all about simplicity and efficiency, getting you started in a jiffy.
+**Simplicity Rules:** Setting up Radicale is a walk in the park. No more struggling with complex configurations or never-ending setup steps. Radicale is all about simplicity and efficiency, getting you started in a jiffy.
 
-<mark style="color:blue;">**Fort Knox for Your Data:**</mark> Security is a top priority, and Radicale takes it seriously. You decide who gets to peek into your calendars and contact lists. Only the authenticated ones get access.
+**Fort Knox for Your Data:** Security is a top priority, and Radicale takes it seriously. You decide who gets to peek into your calendars and contact lists. Only the authenticated ones get access.
 
-<mark style="color:red;">**Your Data's Safe Haven:**</mark> Radicale follows a straightforward yet robust approach—it neatly stores all your precious data in a folder structure on your file system. No hidden corners or complicated databases, just easy-to-navigate organization.
+**Your Data's Safe Haven:** Radicale follows a straightforward yet robust approach—it neatly stores all your precious data in a folder structure on your file system. No hidden corners or complicated databases, just easy-to-navigate organization.
 
 In a nutshell, Radicale is your personal superhero, effortlessly managing calendars, to-do lists, and contacts. It's that dependable friend who ensures you're always on top of your tasks. With Radicale, organizing your life has never been this smooth. Give it a try and savor the simplicity of well-managed living.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
 _**Simplifying Your Life with Radicale: Your Personal Organizer**_
 
 Ever wished for a personal assistant to handle your calendars, to-do lists, and contacts? Well, Radicale is that reliable sidekick—an intelligent, compact server designed to make your life easier. Here's how it works:
 
-**1. **<mark style="color:purple;">**A Master of Sharing**</mark> Radicale is a jack of all trades, supporting CalDAV, CardDAV, and HTTP. What does that mean for you? It's a versatile tool for sharing calendars and contact lists. Whether it's events, tasks, journal entries, or business cards, Radicale effortlessly keeps your data organized.
+**1. ****A Master of Sharing** Radicale is a jack of all trades, supporting CalDAV, CardDAV, and HTTP. What does that mean for you? It's a versatile tool for sharing calendars and contact lists. Whether it's events, tasks, journal entries, or business cards, Radicale effortlessly keeps your data organized.
 
-**2. **<mark style="color:yellow;">**Out-of-the-Box Convenience**</mark> Say goodbye to the days of struggling with complicated configurations. Radicale is your hassle-free friend from the moment you start using it. It's all about simplicity and efficiency, ensuring your experience is frustration-free.
+**2. ****Out-of-the-Box Convenience** Say goodbye to the days of struggling with complicated configurations. Radicale is your hassle-free friend from the moment you start using it. It's all about simplicity and efficiency, ensuring your experience is frustration-free.
 
-**3**<mark style="color:blue;">**. Your Data, Your Control**</mark> Privacy and security are paramount with Radicale. You call the shots when it comes to who gets access, thanks to the power of authentication. And here's the best part—your data is kept neatly in a user-friendly folder structure on your file system. It's like having a personal vault for your digital treasures.
+**3****. Your Data, Your Control** Privacy and security are paramount with Radicale. You call the shots when it comes to who gets access, thanks to the power of authentication. And here's the best part—your data is kept neatly in a user-friendly folder structure on your file system. It's like having a personal vault for your digital treasures.
 
 In a nutshell, Radicale is the butler for your data, expertly managing your calendars, to-do lists, and contacts. It's your secret to staying organized and in control. With Radicale, managing your data isn't a chore; it's a breeze. Give it a try and experience the simplicity of Radicale for yourself
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-&#x20;<mark style="background-color:purple;">**This deployment utilizes the official radicale Docker image. Here's a step-by-step guide to get you started:**</mark>
+&#x20;**This deployment utilizes the official radicale Docker image. Here's a step-by-step guide to get you started:**
 
 1. Begin by navigating to the "Create Apps" page and use the search bar to find the  [tomsquest/docker-radicale](https://hub.docker.com/r/tomsquest/docker-radicale/) application.
 2. Click on the "Install" button to initiate the installation process.
@@ -70,58 +70,58 @@ By following these straightforward steps, you'll have successfully deployed the 
 
 
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| r[adicale ](https://hub.docker.com/r/tomsquest/docker-radicale/)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| r[adicale ](https://hub.docker.com/r/tomsquest/docker-radicale/)👈(click me,for the dockerhub image) |
 
 | Application name                                                            |
 | --------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: rad(you can put any name)</mark> |
+| Eg: rad(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td>5232</td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>5232</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```  |
+| Here use ( use the path after   " :"  )                 |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to radicale Deployment**</mark>
+**Step-by-Step Guide to radicale Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name: radicale</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: radicale
+2. **Application Details****:**
    * Application Name: radicale
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `5232`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -133,16 +133,16 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an radical instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -170,13 +170,13 @@ By following these steps, you can effortlessly deploy an radical instance with y
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** radical **image we used.**
 

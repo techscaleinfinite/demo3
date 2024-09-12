@@ -23,9 +23,9 @@ layout:
 
 # 🖥 Mysql deployment
 
-### <mark style="color:blue;">**What's MySQL?**</mark>
+### **What's MySQL?**
 
-<mark style="color:orange;">MySQL is like a trusted librarian for your data, helping you organize, store, and retrieve structured information with ease. Here are the key points that make MySQL stand out:</mark>
+MySQL is like a trusted librarian for your data, helping you organize, store, and retrieve structured information with ease. Here are the key points that make MySQL stand out:
 
 **Open-Source RDBMS:** MySQL is a generous soul—it's open-source and free to use. You get a robust and reliable Relational Database Management System (RDBMS) without breaking the bank.
 
@@ -39,9 +39,9 @@ layout:
 
 In a world where data is king, MySQL reigns supreme as the go-to solution for managing structured data. It's like having a trusty librarian who not only knows where every book is but also ensures they're all in perfect order. So, whether you're building a simple app or a complex system, MySQL is your steadfast partner in data management
 
-### <mark style="color:blue;">**Working in Brief:**</mark>
+### **Working in Brief:**
 
-<mark style="color:orange;">**Database Creation:**</mark> MySQL makes setting up your data playground a breeze. You can create databases to neatly organize related data tables. It's like building different rooms in your data house, each with its own purpose.
+**Database Creation:** MySQL makes setting up your data playground a breeze. You can create databases to neatly organize related data tables. It's like building different rooms in your data house, each with its own purpose.
 
 **Table Definition:** Inside these databases, MySQL lets you define tables with specific column names and data types. Think of it as designing the blueprint for your data structure—a place for each piece of information.
 
@@ -49,79 +49,79 @@ In a world where data is king, MySQL reigns supreme as the go-to solution for ma
 
 **Data Retrieval:** Need to find something specific? MySQL's got you covered with SQL SELECT queries. It's like having a skilled detective that can find that one clue you need in a sea of information.
 
-<mark style="color:orange;">**Data Manipulation:**</mark> And when things change or need a tweak, MySQL is your tool of choice. You can use SQL UPDATE and DELETE statements to modify, update, or remove data. It's like having a data workshop where you can craft and refine your information.
+**Data Manipulation:** And when things change or need a tweak, MySQL is your tool of choice. You can use SQL UPDATE and DELETE statements to modify, update, or remove data. It's like having a data workshop where you can craft and refine your information.
 
 MySQL's approach to data management is all about precision and reliability. It's like having a master craftsman overseeing your data, making sure it's accurate, accessible, and ready to power your data-driven applications. Its open-source nature, rock-solid reliability, and the support of a vast community make it a top pick for a wide range of web and software projects.
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
 *
 
-    <mark style="background-color:purple;">**This deployment utilizes the official MySql  image. Here's a step-by-step guide to get you started:**</mark>
+    **This deployment utilizes the official MySql  image. Here's a step-by-step guide to get you started:**
 
-    1. Begin by navigating to the "Create Apps" page and use the search bar to find the <mark style="color:orange;">mysql</mark> application.
+    1. Begin by navigating to the "Create Apps" page and use the search bar to find the mysql application.
     2. Click on the "Install" button to initiate the installation process.
     3. Fill in all the required fields with the necessary information.
     4. If you prefer, you can click on the "Advanced" option to access additional settings (this step is optional).
     5. After making your selections, press the "Install" button to proceed.
     6. Once the installation is complete, you'll be directed to the "My Apps" page, where you'll find a list of all the applications you've deployed.
-    7. Copy the Hostname of the <mark style="color:orange;">mysql</mark>  application without the NodePort and paste it into your preferred browser's address bar.
-    8. Voilà! You're now able to access the  <mark style="color:orange;">mysql</mark> webpage and explore its content.
+    7. Copy the Hostname of the mysql  application without the NodePort and paste it into your preferred browser's address bar.
+    8. Voilà! You're now able to access the  mysql webpage and explore its content.
 
-### <mark style="color:blue;">Installation</mark>&#x20;
+### Installation&#x20;
 
 | Docker Image                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------- |
-| [`mysql`](https://hub.docker.com/\_/mysql)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [`mysql`](https://hub.docker.com/\_/mysql)👈(click me,for the dockerhub image) |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |
-| <mark style="background-color:yellow;">Eg: mysql1(you can put any name)</mark> |
+| Eg: mysql1(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">-</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td><mark style="color:orange;">3306</mark></td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>-</td></tr><tr><td>Tcp</td><td>3306</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                       |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                       |
-| <p></p><pre class="language-console"><code class="lang-console">-v /my/custom:/etc/mysql/conf.d
-</code></pre> |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```                        |
+| Here use ( use the path after   " :"  )                                       |
+|  ```shell -v /my/custom:/etc/mysql/conf.d
+```  |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to Mysql Deployment**</mark>
+**Step-by-Step Guide to Mysql Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`mysql`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `mysql`
+2. **Application Details****:**
    * Application Name: `mysql1`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `TCP`
    * Port: `3306`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -133,22 +133,22 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
 
            ```console
            -v /my/custom:/etc/mysql/conf.d
            ```
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 
 
 By following these steps, you can effortlessly deploy an MYSQL instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-<mark style="color:orange;">**Connecting to MySQL Database via MySQL Client**</mark>
+**Connecting to MySQL Database via MySQL Client**
 
 When deploying a MySQL application, you can't directly connect to it via a web browser as you would with HTTP applications. Instead, you need to use a MySQL client to establish a connection using the application's IP address, username, and password. Here's how to do it:
 
@@ -163,7 +163,7 @@ When deploying a MySQL application, you can't directly connect to it via a web b
 6. **Connect:** Once you've entered the details, click on the "Connect" or "Log In" button to establish a connection.
 7. **Execute Queries:** After successfully connecting, you'll be able to execute SQL queries, manage databases, and perform various database-related operations using the MySQL client interface.
 
-### <mark style="color:blue;">Visual Snapshot</mark>
+### Visual Snapshot
 
 
 
@@ -205,7 +205,7 @@ When deploying a MySQL application, you can't directly connect to it via a web b
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
@@ -213,7 +213,7 @@ Check out our youtube video for more clarification.
 
 {% embed url="https://youtu.be/dr-P1VnJo-Q" %}
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About mysql image we used.**
 

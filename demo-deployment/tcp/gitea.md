@@ -22,35 +22,35 @@ layout:
 
 # ☕ Gitea
 
-### <mark style="color:blue;">What's  Gitea?</mark>
+### What's  Gitea?
 
 **Gitea: Your All-in-One Software Development Buddy**
 
 When it comes to software development, Gitea steps into the spotlight as your trusty sidekick. This self-hosted platform packs a punch with a range of features that make your coding adventures a breeze:
 
-<mark style="color:red;">**1. Git Hosting:**</mark>
+**1. Git Hosting:**
 
 * Gitea offers a cozy home for your Git repositories. It's like a secure vault where your source code is protected, and your team can collaborate seamlessly.
 
-<mark style="color:blue;">**2. Code Review:**</mark>
+**2. Code Review:**
 
 * Collaboration just got simpler. Gitea has your back with built-in code review tools. Your team can join forces to fine-tune code changes, ensuring top-notch quality and teamwork.
 
-<mark style="color:purple;">**3. Team Collaboration:**</mark>
+**3. Team Collaboration:**
 
 * Think of Gitea as a digital hangout for your development crew. It brings developers under one roof, making communication, knowledge sharing, and project management a walk in the park.
 
-<mark style="color:purple;">**4. Package Registry:**</mark>
+**4. Package Registry:**
 
 * Developers, you're in for a treat! Gitea's package registry lets you neatly organize and manage your software packages. It's like tidying up your digital toolbox, making package distribution a breeze.
 
-<mark style="color:orange;">**5. CI/CD (Continuous Integration/Continuous Deployment):**</mark>
+**5. CI/CD (Continuous Integration/Continuous Deployment):**
 
 * Say goodbye to the hassle of manual code building and testing. Gitea automates the CI/CD process, ensuring your code changes gracefully waltz into the production environment.
 
 Gitea has come a long way from its ancestor, Gogs, with significant upgrades. It's the answer to your self-hosted dreams, offering control, collaboration, and code excellence. It's like your very own backstage pass to software development, where you call the shots. Say hello to your new coding companion!
 
-### <mark style="color:blue;">**How It Works**</mark>
+### **How It Works**
 
 **Gitea Unveiled: Your Ultimate Software Sidekick**
 
@@ -60,27 +60,27 @@ In a nutshell, Gitea is the tech wizard you've been waiting for. It's your all-i
 
 * At its core, Gitea is your Git sanctuary. It's where you create and manage Git repositories for your projects, like a secure vault for your code.
 
-<mark style="color:red;">**2. Code Review:**</mark>
+**2. Code Review:**
 
 * Collaboration is a breeze with Gitea. It offers nifty code review tools, including pull requests for proposing code changes. Your team can discuss and fine-tune these changes before they become a part of your project.
 
-<mark style="color:purple;">**3. Team Collaboration:**</mark>
+**3. Team Collaboration:**
 
 * Gitea is the ultimate team player. It fosters collaboration by letting users create organizations, allowing teams to work on projects together. It also offers handy features like issue tracking and wikis.
 
-<mark style="color:green;">**4. Package Registry:**</mark>
+**4. Package Registry:**
 
 * Store and manage your software packages effortlessly with Gitea's package registry. It's like your own digital toolbox, especially handy for projects with complex dependencies.
 
-**5. **<mark style="color:blue;">**CI/CD (Continuous Integration/Continuous Deployment):**</mark>
+**5. ****CI/CD (Continuous Integration/Continuous Deployment):**
 
 * Gitea takes the grunt work out of software building and deployment. It automates the process, ensuring that your code flows smoothly from development to production.
 
-**6**<mark style="color:orange;">**. User-Friendly Web Interface:**</mark>
+**6****. User-Friendly Web Interface:**
 
 * No tech jargon here! Gitea provides a web-based interface that's easy to use. Manage repositories, conduct code reviews, and collaborate with your team using a user-friendly dashboard.
 
-<mark style="color:green;">**7. Customization:**</mark>
+**7. Customization:**
 
 * Make Gitea your own. You can personalize it with themes, branding, and configuration settings to match your unique needs and style.
 
@@ -88,20 +88,20 @@ In a nutshell, Gitea is the tech wizard you've been waiting for. It's your all-i
 
 * Gitea is the fortress for your code. It takes security seriously with features like user authentication, access controls, and encryption to protect your data and ensure secure access.
 
-<mark style="color:blue;">**9. Open Source:**</mark>
+**9. Open Source:**
 
 * The beauty of Gitea is its open-source nature. It's all about community contributions, customization, and transparency. You can enhance its power with plugins and integrations.
 
-<mark style="color:orange;">**10. Cross-Platform Compatibility:**</mark>
+**10. Cross-Platform Compatibility:**
 
 * No matter what tech setup you've got, Gitea plays nice. Its Go-based architecture runs smoothly on various systems, ensuring accessibility across different environments.
 
 With Gitea by your side, you're ready to conquer the world of software development. It's your trusty companion for coding adventures, offering a suite of tools that streamline the process and enhance collaboration. Say hello to your new coding buddy!\
 
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official gitea Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official gitea Docker image. Here's a step-by-step guide to get you started:**
 
     1. Begin by navigating to the "Create Apps" page and use the search bar to find the [gitea/gitea](https://hub.docker.com/r/gitea/gitea) application.
     2. Click on the "Install" button to initiate the installation process.
@@ -114,58 +114,58 @@ With Gitea by your side, you're ready to conquer the world of software developme
 
     By following these straightforward steps, you'll have successfully deployed  GITEA application and gained access to its features through a seamless and user-friendly process.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [Gitea](https://hub.docker.com/r/gitea/gitea)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [Gitea](https://hub.docker.com/r/gitea/gitea)👈(click me,for the dockerhub image) |
 
 | Application name                                                              |
 | ----------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: gitea(you can put any name)</mark> |
+| Eg: gitea(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">3000</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>3000</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```  |
+| Here use ( use the path after   " :"  )                 |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to gitea Deployment**</mark>
+**Step-by-Step Guide to gitea Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`Gitea`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `Gitea`
+2. **Application Details****:**
    * Application Name: Gitea
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `3000`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -177,15 +177,15 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+       * Here use ( use the path after   " :"  )
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an  GITEA instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -217,13 +217,13 @@ By following these steps, you can effortlessly deploy an  GITEA instance with yo
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** GITEA **image we used.**
 

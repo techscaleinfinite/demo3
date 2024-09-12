@@ -22,69 +22,69 @@ layout:
 
 # 📺 Mtream Deployment
 
-### <mark style="color:blue;">What's Mstream?</mark>
+### What's Mstream?
 
-<mark style="color:orange;">**mStream: Your Personal Symphony**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">🎶</mark>
+**mStream: Your Personal Symphony** 🎶
 
-<mark style="color:orange;">Have you ever dreamed of having your very own music streaming server, where your cherished tunes are just a click away, no matter where you are? Well, enter mStream, the maestro of personal music streaming.</mark>
+Have you ever dreamed of having your very own music streaming server, where your cherished tunes are just a click away, no matter where you are? Well, enter mStream, the maestro of personal music streaming.
 
-🏡 <mark style="color:orange;">**Home is Where the Music Is**</mark> 🏡
+🏡 **Home is Where the Music Is** 🏡
 
 With mStream, your home computer becomes the star of the show. It transforms your humble abode into a music hub, ready to serenade you with melodies from your own collection.
 
-📱 <mark style="color:orange;">**Music on the Move**</mark> 📱
+📱 **Music on the Move** 📱
 
 But here's the kicker – mStream doesn't like to stay home all the time. It's a globetrotter, with mobile apps for both Android and iPhone. So, whether you're lounging on the couch or exploring far-off lands, your music library is right there in your pocket.
 
-🌟 <mark style="color:orange;">**Your Personal DJ**</mark> 🌟
+🌟 **Your Personal DJ** 🌟
 
 Think of mStream as your personal DJ, spinning your favorite tracks with finesse. Its interface is as smooth as a dance floor, making navigation and playlists a breeze.
 
-📡 <mark style="color:orange;">**Anywhere, Anytime**</mark> 📡
+📡 **Anywhere, Anytime** 📡
 
 With mStream, you're not confined to a single room or device. It breaks free from the shackles of location, bringing your music to any device with an internet connection. From your cozy den to a beachfront paradise, your playlist is your oyster.
 
-🚀 <mark style="color:orange;">**Stream with Confidence**</mark> 🚀
+🚀 **Stream with Confidence** 🚀
 
 Security is key. mStream ensures that your music stays yours, protected behind digital fortifications. It's your vault, and only you hold the key.
 
 So, if you're ready to turn your home into a music haven and your phone into a jukebox on-the-go, mStream is your backstage pass to an encore-worthy music streaming experience.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
-🎵 <mark style="color:orange;">**Unveiling the Harmony: How mStream Works**</mark> 🎵
+🎵 **Unveiling the Harmony: How mStream Works** 🎵
 
 At the heart of mStream lies the magic of personal music streaming. Here's your backstage pass to the symphony:
 
-🏡 <mark style="color:yellow;">**Home is Where the Soundwaves Begin**</mark> 🏡
+🏡 **Home is Where the Soundwaves Begin** 🏡
 
 mStream kicks off its performance right at home, on your trusty computer. It's here that your cherished music collection takes center stage.
 
-📡 <mark style="color:orange;">**The Connection That Knows No Bounds**</mark> 📡
+📡 **The Connection That Knows No Bounds** 📡
 
 But mStream isn't content with just staying indoors. It yearns to explore the world, and it does so through your mobile companions. There are apps, both for Android and iPhone, making sure your music is your travel companion.
 
-🎶 <mark style="color:yellow;">**The Maestro Takes the Stage**</mark> 🎶
+🎶 **The Maestro Takes the Stage** 🎶
 
 Picture mStream as your personal music maestro. It orchestrates your tunes effortlessly, curating playlists and making sure your music experience is pitch-perfect.
 
-🌍 <mark style="color:orange;">**Your Music, Your World**</mark> 🌍
+🌍 **Your Music, Your World** 🌍
 
 The beauty of mStream? It's not tethered to one place. With an internet connection, it liberates your melodies, playing them on any device, wherever you roam.
 
-🔒 <mark style="color:orange;">**Security is Its Encore**</mark> 🔒
+🔒 **Security is Its Encore** 🔒
 
 Safety is a top note for mStream. It ensures that your music fortress remains impenetrable, letting only you and your trusted audience listen in.
 
-💫 <mark style="color:purple;">**The Final Encore**</mark> 💫
+💫 **The Final Encore** 💫
 
 So there you have it – mStream's secret sauce. It turns your home into a music sanctuary and your mobile into a pocket-sized concert hall. With mStream, music is more than sound; it's an experience.
 
 Now, go on, let the music play, the world awaits your symphony
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-<mark style="background-color:green;">**This deployment utilizes the official mstream Docker image. Here's a step-by-step guide to get you started:**</mark>
+**This deployment utilizes the official mstream Docker image. Here's a step-by-step guide to get you started:**
 
 1. Begin by navigating to the "Create Apps" page and use the search bar to find the [linuxserver/mstream](https://hub.docker.com/r/linuxserver/mstream) application.
 2. Click on the "Install" button to initiate the installation process.
@@ -97,62 +97,62 @@ Now, go on, let the music play, the world awaits your symphony
 
 By following these straightforward steps, you'll have successfully deployed the  mstream application and gained access to its features through a seamless and user-friendly process.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`mstream`](https://hub.docker.com/r/linuxserver/mstream)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [`mstream`](https://hub.docker.com/r/linuxserver/mstream)👈(click me,for the dockerhub image) |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |
-| <mark style="background-color:yellow;">Eg: mstram(you can put any name)</mark> |
+| Eg: mstram(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td>3000</td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>3000</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>                                                      |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                                                                      |
-| <p></p><pre class="language-yaml"><code class="lang-yaml">volumes:
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```                                                       |
+| Here use ( use the path after   " :"  )                                                                      |
+|  ```shell volumes:
       - /path/to/data:/config
       - /path/to/music:/music
-</code></pre> |
+```  |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to mstream Deployment**</mark>
+**Step-by-Step Guide to mstream Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`mstream`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `mstream`
+2. **Application Details****:**
    * Application Name: `mstream`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `3000`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -164,7 +164,7 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
 
            ```yaml
@@ -172,14 +172,14 @@ If you choose Advanced option:
                  - /path/to/data:/config
                  - /path/to/music:/music
            ```
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an mstream instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -193,13 +193,13 @@ By following these steps, you can effortlessly deploy an mstream instance with y
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** mstream **image we used.**
 

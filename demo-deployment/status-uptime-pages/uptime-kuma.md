@@ -23,58 +23,58 @@ layout:
 
 # 📊 uptime kuma
 
-### <mark style="color:blue;">What's  Uptime Kuma?</mark>
+### What's  Uptime Kuma?
 
-<mark style="color:orange;">🕐</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Keeping Time with Uptime Kuma**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">🕐</mark>
+🕐 **Keeping Time with Uptime Kuma** 🕐
 
-<mark style="color:orange;">Imagine having a trusty companion, always on the lookout, tirelessly monitoring your websites, APIs, and services. Well, that's precisely what</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Uptime Kuma**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">does, but with a little extra charm.</mark>
+Imagine having a trusty companion, always on the lookout, tirelessly monitoring your websites, APIs, and services. Well, that's precisely what **Uptime Kuma** does, but with a little extra charm.
 
-<mark style="color:green;">**Your Digital Sentry**</mark>&#x20;
+**Your Digital Sentry**&#x20;
 
 Think of Uptime Kuma as your digital sentry, standing guard over your online empire. It's on a mission to make sure your websites, APIs, and services are always on their best behavior. Whenever they decide to take a coffee break (a.k.a. downtime), Uptime Kuma is there to give them a friendly nudge.
 
-<mark style="color:yellow;">**Swift Response Times**</mark>&#x20;
+**Swift Response Times**&#x20;
 
 Not only does Uptime Kuma keep an eagle eye on the availability of your digital assets, but it also tracks how fast they respond to requests. It's like having a stopwatch in the digital Olympics, ensuring that your services are always in tip-top shape.
 
-<mark style="color:purple;">📈</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Data Whisperer**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">📈</mark>
+📈 **Data Whisperer** 📈
 
 Uptime Kuma is more than just a digital watchdog; it's also a data whisperer. It collects precious information about your applications' uptime and downtime, and it presents it to you in beautiful, informative graphs. It's like turning raw data into a symphony of insights.
 
-<mark style="color:green;">**User-Friendly and Open-Source**</mark>&#x20;
+**User-Friendly and Open-Source**&#x20;
 
 And here's the kicker: Uptime Kuma is not only incredibly useful but also user-friendly. You don't need to be a tech genius to make sense of it. Plus, it's open-source, which means it's a labor of love from a community of tech enthusiasts.
 
 So, with Uptime Kuma in your corner, your digital realm can be as reliable as Big Ben and as speedy as Usain Bolt. It's your trusty sidekick in the ever-watchful world of online monitoring!
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
-<mark style="color:orange;">🛠️</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**The Magic Behind Uptime Kuma**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">🛠️</mark>
+🛠️ **The Magic Behind Uptime Kuma** 🛠️
 
-<mark style="color:orange;">Have you ever wondered what makes</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Uptime Kuma**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">tick? How does it do its thing without breaking a digital sweat? Well, let's pull back the curtain and see the gears turning in this digital symphony.</mark>
+Have you ever wondered what makes **Uptime Kuma** tick? How does it do its thing without breaking a digital sweat? Well, let's pull back the curtain and see the gears turning in this digital symphony.
 
-🕵️‍♂️ <mark style="color:blue;">**The Digital Detective**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">🕵️‍♂️</mark>
+🕵️‍♂️ **The Digital Detective** 🕵️‍♂️
 
 At its core, Uptime Kuma is your very own digital detective, investigating the online world on your behalf. It's programmed to be inquisitive, scanning websites, APIs, and services to ensure they're all playing nice. When something seems amiss, Uptime Kuma's alarm bells start ringing.
 
-<mark style="color:yellow;">🏁</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**The Stopwatch Master**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">🏁</mark>
+🏁 **The Stopwatch Master** 🏁
 
 Response times are Uptime Kuma's playground. It's like a stopwatch master, keeping tabs on how quickly your applications respond to requests. The faster, the better! It's a bit like watching a race, but with data packets sprinting to the finish line.
 
-📊 <mark style="color:yellow;">**The Data Whisperer's Tale**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">📊</mark>
+📊 **The Data Whisperer's Tale** 📊
 
 Now, here's where the magic happens. Uptime Kuma collects data like a seasoned explorer, venturing through the vast wilderness of the internet. But instead of a compass, it uses graphs and charts to map its discoveries. These visualizations are your window into the uptime and downtime of your digital assets.
 
-👩‍💻 <mark style="color:red;">**User-Friendly and Open to All**</mark> <mark style="color:red;"></mark><mark style="color:red;">👨‍💻</mark>
+👩‍💻 **User-Friendly and Open to All** 👨‍💻
 
 Uptime Kuma is built with simplicity in mind. You don't need a Ph.D. in tech jargon to understand it. It's designed to be as approachable as your favorite smartphone app. And being open-source, it's a product of passion and collaboration from tech enthusiasts worldwide.
 
 So, there you have it – Uptime Kuma demystified! It's not just a tool; it's your digital guardian, your timekeeper, and your data whisperer, all rolled into one. With Uptime Kuma, your online empire stays strong and responsive, just as it should. 🌐🔍📈\
 
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official UPTIMEKUMA Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official UPTIMEKUMA Docker image. Here's a step-by-step guide to get you started:**
 
     1. Begin by navigating to the "Create Apps" page and use the search bar to find the [louislam/uptime-kuma](https://hub.docker.com/r/louislam/uptime-kuma) application.
     2. Click on the "Install" button to initiate the installation process.
@@ -87,60 +87,60 @@ So, there you have it – Uptime Kuma demystified! It's not just a tool; it's yo
 
     By following these straightforward steps, you'll have successfully deployed   Uptime Kuma application and gained access to its features through a seamless and user-friendly process.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [uptime kuma](https://hub.docker.com/r/louislam/uptime-kuma)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [uptime kuma](https://hub.docker.com/r/louislam/uptime-kuma)👈(click me,for the dockerhub image) |
 
 | Application name                                                              |
 | ----------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: KUMA1(you can put any name)</mark> |
+| Eg: KUMA1(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">3001</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>3001</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                                      |
 | ------------------------------------------------------------------------------------------------ |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>          |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                          |
-| <p></p><pre class="language-bash"><code class="lang-bash">-v uptime-kuma:/app/data
-</code></pre> |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```           |
+| Here use ( use the path after   " :"  )                          |
+|  ```shell -v uptime-kuma:/app/data
+```  |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to UPTIME KUMA Deployment**</mark>
+**Step-by-Step Guide to UPTIME KUMA Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark><mark style="color:orange;">`UPTIME KUMA`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name:`UPTIME KUMA`
+2. **Application Details****:**
    * Application Name: uptime kuma
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `3001`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -152,20 +152,20 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
 
            ```bash
            -v uptime-kuma:/app/data
            ```
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an  Uptime Kuma instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -197,13 +197,13 @@ By following these steps, you can effortlessly deploy an  Uptime Kuma instance w
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About**  uptime kuma **image we used.**
 

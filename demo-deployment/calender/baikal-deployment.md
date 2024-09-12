@@ -23,41 +23,41 @@ layout:
 
 # 🖥 Baikal Deployment
 
-### <mark style="color:blue;">What's is baikal?</mark>
+### What's is baikal?
 
-<mark style="color:orange;">**1. Web Interface Mastery –**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Imagine a web interface that's not just user-friendly but genuinely intuitive. Baïkal offers exactly that. Managing users, address books, and calendars becomes a breeze. It's like having a personal assistant that understands your every command.</mark>
+**1. Web Interface Mastery –** Imagine a web interface that's not just user-friendly but genuinely intuitive. Baïkal offers exactly that. Managing users, address books, and calendars becomes a breeze. It's like having a personal assistant that understands your every command.
 
-**2. **<mark style="color:yellow;">**Universal Access**</mark>** –** Baïkal doesn't believe in boundaries. It's your bridge to a synchronized digital life. Access your contacts and calendars from every device you own. No more hassles with compatibility issues – it's all about harmonious connectivity.
+**2. ****Universal Access**** –** Baïkal doesn't believe in boundaries. It's your bridge to a synchronized digital life. Access your contacts and calendars from every device you own. No more hassles with compatibility issues – it's all about harmonious connectivity.
 
-**3. **<mark style="color:blue;">**The Symphony of Integration**</mark>** –** Think of Baïkal as the conductor of your digital orchestra. It seamlessly orchestrates your contacts and calendars, allowing you to be in perfect sync. It's like having your own digital maestro for a harmonious digital life.
+**3. ****The Symphony of Integration**** –** Think of Baïkal as the conductor of your digital orchestra. It seamlessly orchestrates your contacts and calendars, allowing you to be in perfect sync. It's like having your own digital maestro for a harmonious digital life.
 
-**4. **<mark style="color:blue;">**Digital Harmony**</mark>** –** Baïkal doesn't just bring order to your digital world; it transforms it into a harmonious melody. Your contacts and calendars are no longer scattered – they're in perfect alignment, like musical notes on a score.
+**4. ****Digital Harmony**** –** Baïkal doesn't just bring order to your digital world; it transforms it into a harmonious melody. Your contacts and calendars are no longer scattered – they're in perfect alignment, like musical notes on a score.
 
-**5. **<mark style="color:yellow;">**Device Agnostic**</mark>** –** Whether you're a fan of the latest gadgets or cherish vintage tech, Baïkal doesn't discriminate. It ensures that your contacts and calendars are at your fingertips, regardless of the device you choose to use.
+**5. ****Device Agnostic**** –** Whether you're a fan of the latest gadgets or cherish vintage tech, Baïkal doesn't discriminate. It ensures that your contacts and calendars are at your fingertips, regardless of the device you choose to use.
 
-**6. **<mark style="color:red;">**A Symphony of Productivity**</mark>** –** Baïkal isn't just a tool; it's your productivity partner. It simplifies, streamlines, and harmonizes your digital life. It's the note that brings together the entire symphony of your connected existence.
+**6. ****A Symphony of Productivity**** –** Baïkal isn't just a tool; it's your productivity partner. It simplifies, streamlines, and harmonizes your digital life. It's the note that brings together the entire symphony of your connected existence.
 
 In the grand performance of digital life, Baïkal plays a pivotal role. It's your conductor, your assistant, and your guardian of seamless connectivity. With Baïkal, your contacts and calendars become a harmonious symphony, ready to be played on any device you choose. Welcome to the world of effortless digital harmony with Baïkal.
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
-<mark style="color:orange;">**The Baïkal Ballet –**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Ever watched a ballet performance? Imagine Baïkal as the choreographer, orchestrating the beautiful dance of your digital contacts and calendars. It elegantly brings them together in a seamless web interface.</mark>
+**The Baïkal Ballet –** Ever watched a ballet performance? Imagine Baïkal as the choreographer, orchestrating the beautiful dance of your digital contacts and calendars. It elegantly brings them together in a seamless web interface.
 
-<mark style="color:red;">**Sync Across Universes**</mark>** –** Baïkal isn't just a contact manager; it's a cosmic connector. It lets you access your precious contacts and calendars from any corner of the digital universe. It's like having a universal remote for your digital life.
+**Sync Across Universes**** –** Baïkal isn't just a contact manager; it's a cosmic connector. It lets you access your precious contacts and calendars from any corner of the digital universe. It's like having a universal remote for your digital life.
 
-<mark style="color:orange;">**Intuitive Maestro**</mark>** –** Baïkal's web interface is more intuitive than your grandma's chicken soup recipe. It's so easy to manage users, address books, and calendars that you'd think it reads your mind.
+**Intuitive Maestro**** –** Baïkal's web interface is more intuitive than your grandma's chicken soup recipe. It's so easy to manage users, address books, and calendars that you'd think it reads your mind.
 
-<mark style="color:yellow;">**Digital Symphony**</mark>** –** Baïkal is all about harmonizing your digital world. It takes your scattered notes and chaotic schedules and turns them into a symphony of organized bliss. It's like tidying up a room filled with chaos, but in the digital realm.
+**Digital Symphony**** –** Baïkal is all about harmonizing your digital world. It takes your scattered notes and chaotic schedules and turns them into a symphony of organized bliss. It's like tidying up a room filled with chaos, but in the digital realm.
 
-<mark style="color:red;">**Cross-Device Serenade**</mark>** –** Baïkal serenades you across all your devices. It doesn't care if you're a tech enthusiast or a collector of antique gadgets. Your contacts and calendars will be at your beck and call, no matter which device you choose.
+**Cross-Device Serenade**** –** Baïkal serenades you across all your devices. It doesn't care if you're a tech enthusiast or a collector of antique gadgets. Your contacts and calendars will be at your beck and call, no matter which device you choose.
 
-<mark style="color:red;">**The Productivity Crescendo**</mark>** –** Baïkal is not just a tool; it's your digital maestro. It conducts your digital orchestra, creating a symphony of productivity. It's the secret sauce to your efficient digital life.
+**The Productivity Crescendo**** –** Baïkal is not just a tool; it's your digital maestro. It conducts your digital orchestra, creating a symphony of productivity. It's the secret sauce to your efficient digital life.
 
 So, how does Baïkal work its magic? Picture it as a digital ballet choreographer, a universal connector, and an intuitive maestro all rolled into one. It takes your digital chaos, orchestrates it into a harmonious symphony, and delivers it seamlessly to any device. That's Baïkal – where technology meets elegance.
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-&#x20;<mark style="background-color:purple;">**This deployment utilizes the official baikal Docker image. Here's a step-by-step guide to get you started:**</mark>
+&#x20;**This deployment utilizes the official baikal Docker image. Here's a step-by-step guide to get you started:**
 
 1. Begin by navigating to the "Create Apps" page and use the search bar to find the  [ckulka/baikal](https://hub.docker.com/r/ckulka/baikal) application.
 2. Click on the "Install" button to initiate the installation process.
@@ -72,58 +72,58 @@ By following these straightforward steps, you'll have successfully deployed the 
 
 
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [baikal](https://hub.docker.com/r/ckulka/baikal) <mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [baikal](https://hub.docker.com/r/ckulka/baikal) 👈(click me,for the dockerhub image) |
 
 | Application name                                                               |
 | ------------------------------------------------------------------------------ |
-| <mark style="background-color:yellow;">Eg: baikal(you can put any name)</mark> |
+| Eg: baikal(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">80</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>80</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                 |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```  |
+| Here use ( use the path after   " :"  )                 |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to baikal Deployment**</mark>
+**Step-by-Step Guide to baikal Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name: baikal</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: baikal
+2. **Application Details****:**
    * Application Name: baikal
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `80`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -135,15 +135,15 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+       * Here use ( use the path after   " :"  )
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an Baïkal instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -171,13 +171,13 @@ By following these steps, you can effortlessly deploy an Baïkal instance with y
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
 
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** Baïkal **image we used.**
 

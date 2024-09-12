@@ -19,41 +19,41 @@ layout:
 
 # 📓 mininote deployment
 
-### <mark style="color:blue;">What's mininote?</mark>
+### What's mininote?
 
-<mark style="color:orange;">**MiniNote: Your Secret Sanctuary for Markdown Memoirs**</mark>
+**MiniNote: Your Secret Sanctuary for Markdown Memoirs**
 
 Introducing _MiniNote_, the unassuming yet brilliant self-hosted gem designed for your confidential Markdown note-taking needs. Here's a sneak peek into the world of MiniNote, where simplicity meets security:
 
-<mark style="color:orange;">📝</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Simplicity in Complexity:**</mark>
+📝 **Simplicity in Complexity:**
 
 * MiniNote is a testament to the beauty of simplicity. Behind its uncluttered interface lies a robust tool for crafting and storing Markdown-based notes.
 
-<mark style="color:orange;">🔒</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Fortress of Encryption:**</mark>
+🔒 **Fortress of Encryption:**
 
 * Your thoughts deserve the utmost security. MiniNote takes your privacy seriously by encrypting your notes, ensuring they remain exclusively yours.
 
-<mark style="color:orange;">📚</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Markdown Magic:**</mark>
+📚 **Markdown Magic:**
 
 * Markdown aficionados rejoice! MiniNote understands your language. Craft beautifully formatted notes with ease, harnessing the power of Markdown syntax.
 
-🏡 <mark style="color:orange;">**Self-Hosted Sanctuary:**</mark>
+🏡 **Self-Hosted Sanctuary:**
 
 * MiniNote doesn't believe in third-party custody. It's your data, and you control it. Hosting it yourself adds an extra layer of ownership and security.
 
-🌟 <mark style="color:orange;">**No-Frills, All Thrills:**</mark>
+🌟 **No-Frills, All Thrills:**
 
 * MiniNote isn't about flashy features. It's about getting down to business—taking notes with minimal distractions and maximal productivity.
 
-🔐 <mark style="color:orange;">**Data's Best Friend:**</mark>
+🔐 **Data's Best Friend:**
 
 * Your data is precious, and MiniNote treats it as such. With encryption and self-hosting, your notes are in the safest of hands—yours.
 
-<mark style="color:orange;">🌐</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Web-Based Wonder:**</mark>
+🌐 **Web-Based Wonder:**
 
 * Access MiniNote from anywhere, anytime. Its web-based nature ensures you're never far from your thoughts.
 
-<mark style="color:orange;">🚀</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Effortless Efficiency:**</mark>
+🚀 **Effortless Efficiency:**
 
 * MiniNote streamlines your note-taking process. Write, edit, and access your notes seamlessly, without the fuss.
 
@@ -61,33 +61,33 @@ In a world filled with overcomplicated note-taking apps, MiniNote stands as a be
 
 
 
-### <mark style="color:blue;">**How It Works:**</mark>
+### **How It Works:**
 
-<mark style="color:orange;">**MiniNote: Where Security Meets Simplicity**</mark>
+**MiniNote: Where Security Meets Simplicity**
 
 In the realm of digital sanctuaries, _MiniNote_ stands as a fortress of security with a dash of simplicity. Here's the lowdown on MiniNote's security features:
 
-🔒 <mark style="color:orange;">**Bulletproof Encryption:**</mark>
+🔒 **Bulletproof Encryption:**
 
 * MiniNote wraps your notes in a cloak of encryption, ensuring that both titles and content remain as secret as the recipe for grandma's cookies. It uses AES-GCM, a formidable encryption method, courtesy of the Web Crypto API.
 
-🔐 <mark style="color:orange;">**Password Power:**</mark>
+🔐 **Password Power:**
 
 * Remember, encryption is only as strong as your password. MiniNote lets you wield this power by using your notebook's password to derive the encryption key. Choose wisely, and your notes will be as secure as Fort Knox.
 
-🌐 <mark style="color:orange;">**End-to-End-ish:**</mark>
+🌐 **End-to-End-ish:**
 
 * While MiniNote takes encryption seriously, it's honest about its limitations. It encrypts your notes before they travel to the server, but it's not quite "NSA-proof." The server might catch a glimpse of your password when creating a new notebook. Think of it as locking your diary with a sturdy padlock, but the locksmith knows the design.
 
-⚔️ <mark style="color:orange;">**Decent Security:**</mark>
+⚔️ **Decent Security:**
 
 * MiniNote doesn't make grandiose claims, but it does aim for a decent level of security. It's your digital safe haven, not a spy movie prop.
 
 In the world of note-taking apps, MiniNote strikes a balance between robust security and user-friendly simplicity. Your notes are encrypted, your thoughts are guarded, and your Markdown memoirs are in safe hands. Welcome to MiniNote, where security meets simplicity with a touch of wit.
 
-### <mark style="color:blue;">Steps And Procedure</mark>
+### Steps And Procedure
 
-*   <mark style="background-color:purple;">**This deployment utilizes the official mininote Docker image. Here's a step-by-step guide to get you started:**</mark>
+*   **This deployment utilizes the official mininote Docker image. Here's a step-by-step guide to get you started:**
 
     1. Begin by navigating to the "Create Apps" page and use the search bar to find the [n1try/mininote](https://hub.docker.com/r/n1try/mininote) application.
     2. Click on the "Install" button to initiate the installation process.
@@ -102,60 +102,60 @@ In the world of note-taking apps, MiniNote strikes a balance between robust secu
 
 
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | Docker Image                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [mini n](https://hub.docker.com/r/n1try/mininote)ote  [<mark style="background-color:yellow;">👈(</mark>](https://hub.docker.com/r/linuxserver/firefox)<mark style="background-color:yellow;">click me,for the dockerhub image)</mark> |
+| [mini n](https://hub.docker.com/r/n1try/mininote)ote  [👈(](https://hub.docker.com/r/linuxserver/firefox)click me,for the dockerhub image) |
 
 | Application name                                                                  |
 | --------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: mini note(you can put any name)</mark> |
+| Eg: mini note(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td><mark style="color:orange;">3000</mark></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td>3000</td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                                        |
 | -------------------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p>            |
-| <mark style="color:red;">Here use ( use the path after   " :"  )</mark>                            |
-| <p></p><pre class="language-bash"><code class="lang-bash">-v mininote-data:/app/data
-</code></pre> |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```             |
+| Here use ( use the path after   " :"  )                            |
+|  ```shell -v mininote-data:/app/data
+```  |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to mininote Deployment**</mark>
+**Step-by-Step Guide to mininote Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`mininote`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `mininote`
+2. **Application Details****:**
    * Application Name: `mininote`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `HTTP`
    * Port: `3000`
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -167,20 +167,20 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-       * <mark style="color:red;">Here use ( use the path after   " :"  )</mark>
+       * Here use ( use the path after   " :"  )
        *
 
            ```bash
            -v mininote-data:/app/data
            ```
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an  MiniNote instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">Visual Snapshots</mark>
+### Visual Snapshots
 
 
 
@@ -198,11 +198,11 @@ By following these steps, you can effortlessly deploy an  MiniNote instance with
 
 </div>
 
-### <mark style="color:orange;">Youtube Tutorial</mark>&#x20;
+### Youtube Tutorial&#x20;
 
 Check out our youtube video for more clarification.
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About** MiniNote **image we used.**
 

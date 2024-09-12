@@ -23,29 +23,29 @@ layout:
 
 # Minecraft Server
 
-### <mark style="color:blue;">Whats Minecraft Server?</mark>
+### Whats Minecraft Server?
 
 ScaleInfinite offers a personalized Minecraft server, exclusively for you and your friends, ensuring an uninterrupted and immersive gaming experience.
 
 **Key Points:**
 
-1. <mark style="color:orange;">**Dedicated Gaming Space**</mark>**:** Enjoy a dedicated server environment exclusively for Minecraft.
+1. **Dedicated Gaming Space****:** Enjoy a dedicated server environment exclusively for Minecraft.
 2. **Friends Inclusion:** Invite friends to join and play together on your private server.
-3. <mark style="color:orange;">**24/7 Availability**</mark>**:** The server is accessible anytime, allowing gaming day and night.
+3. **24/7 Availability****:** The server is accessible anytime, allowing gaming day and night.
 4. **Custom Rules:** Set your own rules, mods, and gameplay options for a unique experience.
-5. <mark style="color:orange;">**Data Security**</mark>**:** Your gaming progress and interactions remain secure within your private server.
+5. **Data Security****:** Your gaming progress and interactions remain secure within your private server.
 
-### <mark style="color:blue;">**Working in Brief:**</mark>
+### **Working in Brief:**
 
-1. <mark style="color:orange;">**Deployment:**</mark> Deploy your personalized Minecraft server on ScaleInfinite.
+1. **Deployment:** Deploy your personalized Minecraft server on ScaleInfinite.
 2. **Access Control:** Invite friends by sharing server IP and port information.
-3. <mark style="color:orange;">**Gameplay**</mark>**:** Players connect to the server using the provided details.
+3. **Gameplay****:** Players connect to the server using the provided details.
 4. **Shared Adventure:** Collaborate with friends, explore, build, and engage in Minecraft activities.
-5. <mark style="color:orange;">**Admin Control**</mark>**:** As the server owner, you manage settings, mods, and player access.
+5. **Admin Control****:** As the server owner, you manage settings, mods, and player access.
 
 ScaleInfinite's personal Minecraft server provides an ideal platform for seamless and exclusive gaming sessions with friends. It fosters creativity, collaboration, and hours of enjoyment in a safe and controlled environment.
 
-### &#x20;<mark style="color:blue;">Steps And Procedure</mark>&#x20;
+### &#x20;Steps And Procedure&#x20;
 
 * &#x20;**This deployment uses the official Minecraft Docker image.**
 * &#x20;Go to create apps page and Search on the search bar.
@@ -56,57 +56,57 @@ ScaleInfinite's personal Minecraft server provides an ideal platform for seamles
 * &#x20;You will be redirected to My Apps page, Here you can find all the applications you deployed.
 * &#x20;Copy the minecraft application Hostname without NodePort and search the Url.
 
-### <mark style="color:blue;">Installation</mark>
+### Installation
 
 | PRODUCT NAME                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`minecraft`](https://hub.docker.com/r/itzg/minecraft-server)<mark style="background-color:yellow;">👈(click me,for the dockerhub image)</mark> |
+| [`minecraft`](https://hub.docker.com/r/itzg/minecraft-server)👈(click me,for the dockerhub image) |
 
 | Application name                                                                   |
 | ---------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">Eg: micecraft1(you can put any name)</mark> |
+| Eg: micecraft1(you can put any name) |
 
 | Resource Allocation                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">0-100%(</mark><mark style="color:orange;">10 % of your allocated resources (CPU, RAM) will be used for this application.)</mark> |
+| 0-100%(10 % of your allocated resources (CPU, RAM) will be used for this application.) |
 
-<mark style="background-color:yellow;">`PROTOCOL`</mark>
+`PROTOCOL`
 
-<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td><mark style="background-color:yellow;">Http</mark></td><td></td></tr><tr><td><mark style="background-color:yellow;">Tcp</mark></td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="417">Protocol</th><th>Protocol Value</th></tr></thead><tbody><tr><td>Http</td><td></td></tr><tr><td>Tcp</td><td>-</td></tr></tbody></table>
 
 | Install with Default                                                                                                                                        | Advanced                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="background-color:yellow;">(select this if you want install with default settings if don't have environment value and working directory)</mark> | <mark style="background-color:yellow;">(select this if you want to go with advanced settings, where you select you own environment value and working directory)</mark> |
+| (select this if you want install with default settings if don't have environment value and working directory) | (select this if you want to go with advanced settings, where you select you own environment value and working directory) |
 
 If you choose Advanced option:
 
 | ENV VARIABLE                                                            |
 | ----------------------------------------------------------------------- |
-| <p><code>Give env variable.</code></p><p><code>Eg:key==value</code></p> |
+| ```shellGive env variable.``` ```shellEg:key==value```  |
 
 | WORKING DIR                                                                             |
 | --------------------------------------------------------------------------------------- |
-| <p><code>WORKDIR for the application.</code></p><p> <code>Eg:usr/src/yourAPP</code></p> |
+| ```shellWORKDIR for the application.``` ```shellEg:usr/src/yourAPP```  |
 
-<mark style="background-color:yellow;">`Access`</mark>
+`Access`
 
 | Public                                      | Private                                      |
 | ------------------------------------------- | -------------------------------------------- |
 | (select this if you want to make it public) | (select this if you want to make it private) |
 
-<mark style="color:purple;">**Step-by-Step Guide to Minecraft Deployment**</mark>
+**Step-by-Step Guide to Minecraft Deployment**
 
-1. <mark style="color:blue;">**Docker Image Selection**</mark>**:**
-   * <mark style="color:orange;">Docker Image Name:</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`minecraft`</mark>
-2. <mark style="color:orange;">**Application Details**</mark>**:**
+1. **Docker Image Selection****:**
+   * Docker Image Name: `minecraft`
+2. **Application Details****:**
    * Application Name: `minecaft1`
    * Resource Allocation: Set the desired resource allocation from 0-100%.
-3. <mark style="color:orange;">**Protocol Configuration**</mark>**:**
+3. **Protocol Configuration****:**
    * Protocol: `TCP`
    * Port:&#x20;
-4. <mark style="color:orange;">**Installation Options**</mark>**:**
+4. **Installation Options****:**
    * Choose between "Default" or "Advanced" installation.
-5. <mark style="color:orange;">**Advanced Installation (Optional**</mark>**):**
+5. **Advanced Installation (Optional****):**
    * If selecting "Advanced," you can customize the environment variables and working directory:
    *   **Environment Variables:**
 
@@ -118,14 +118,14 @@ If you choose Advanced option:
        The working directory is the starting point inside a container where an app's files are located. It affects relative file paths and operations. For example, if set to `/usr/src/yourAPP`, an app will reference files from there, like `/usr/src/yourAPP/data.txt`.
 
        * Working Directory: Set the working directory for the application (e.g., `usr/src/yourAPP`).
-6. <mark style="color:orange;">**Access Configuration**</mark>**:**
+6. **Access Configuration****:**
    * Choose between "Public" or "Private" access to the deployed application.
-7. <mark style="color:orange;">**Installation**</mark>**:**
+7. **Installation****:**
    * Click the "Install" button to initiate the deployment process.
 
 By following these steps, you can effortlessly deploy an Minecraft instance with your chosen configurations. This enables you to tailor the environment to match your application's requirements and specifications. Whether opting for the default installation or delving into advanced settings, our platform ensures a seamless deployment experience while providing you the flexibility to customize according to your needs.
 
-### <mark style="color:blue;">FAQ</mark>
+### FAQ
 
 **About minecraft image we used.**
 
